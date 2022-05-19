@@ -15,7 +15,7 @@ f_title: Realtor Associate
 slug: erica-capistran
 f_headshot:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e655f2f2970ed3e68cff_6077c6902cf4c13a96ea8949_optimized_289e1f6e2f287a7efd8b63a3aab3f8ac.jpeg
+    /assets/external/6081e655f2f2970ed3e68cff_6077c6902cf4c13a96ea8949_optimized_289e1f6e2f287a7efd8b63a3aab3f8ac.jpeg
   alt: null
 updated-on: '2021-04-22T21:10:46.101Z'
 created-on: '2021-04-22T21:10:46.101Z'

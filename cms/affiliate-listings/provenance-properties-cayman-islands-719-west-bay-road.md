@@ -18,7 +18,7 @@ f_description: >-
   warmth, defining beachfront elegance.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4d4d837e1c988afff2a_6077da5feb33aa862d2c7fef_603311e266b36Watercolors-903-Balcony.jpeg
+    /assets/external/6081e4d4d837e1c988afff2a_6077da5feb33aa862d2c7fef_603311e266b36watercolors-903-balcony.jpeg
   alt: null
 slug: provenance-properties-cayman-islands-719-west-bay-road
 f_affiliate: cms/affiliates/provenance-properties-cayman-islands.md

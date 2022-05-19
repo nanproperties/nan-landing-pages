@@ -19,7 +19,7 @@ f_description: >-
   with pool table and large flatscreen TV.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4c8c79b9559bcf7c59f_6077da62163ba85c2289d85b_6033150f1b43cArena-8-835x540.jpeg
+    /assets/external/6081e4c8c79b9559bcf7c59f_6077da62163ba85c2289d85b_6033150f1b43carena-8-835x540.jpeg
   alt: null
 slug: 2seas-los-cabos-caleta-loma
 f_affiliate: cms/affiliates/2seas-los-cabos.md

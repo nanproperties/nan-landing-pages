@@ -22,8 +22,7 @@ f_description: >-
   expansive family room, sports court and private guest suite await your guests.
 slug: ivester-jackson-distinctive-properties-21123-torrence-chapel-road
 f_featured-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/608b11af61cfc755992ddc77_marrakech1920r-p-1080.jpeg
+  url: /assets/external/608b11af61cfc755992ddc77_marrakech1920r-p-1080.jpeg
   alt: null
 f_affiliate: cms/affiliates/ivester-jackson-distinctive-properties.md
 updated-on: '2021-04-29T20:07:15.138Z'

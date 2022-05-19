@@ -19,7 +19,7 @@ f_description: >-
   vacant lot providing over 500 feet of river frontage.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4d807a62df5955d83d5_60786379d7eb28547fac85b2_Screen_Shot_2020-12-22_at_8.57.04_AM.png
+    /assets/external/6081e4d807a62df5955d83d5_60786379d7eb28547fac85b2_screen_shot_2020-12-22_at_8.57.04_AM.png
   alt: null
 slug: purewest-360-rainbow-ranch-rd
 f_affiliate: cms/affiliates/purewest.md

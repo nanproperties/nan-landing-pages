@@ -22,7 +22,7 @@ f_description: >-
 slug: american-caribbean-81486-overseas-highway
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4cc27cdec642e106226_6077da5735f7f1a51c9fe6d7_602e946b43b7f20201106184220214711000000-o-1.jpeg
+    /assets/external/6081e4cc27cdec642e106226_6077da5735f7f1a51c9fe6d7_602e946b43b7f20201106184220214711000000-o-1.jpeg
   alt: null
 f_affiliate: cms/affiliates/american-caribbean.md
 updated-on: '2021-04-22T21:04:12.255Z'

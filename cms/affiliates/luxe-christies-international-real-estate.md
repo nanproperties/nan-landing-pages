@@ -26,20 +26,18 @@ f_things-to-do-3-description: >-
 title: 'Luxe Christie''s International Real Estate '
 f_things-to-do-2-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/612d0cabc87e464f20c390b3_Screen%20Shot%202021-08-30%20at%2011.51.51%20AM.png
+    /assets/external/612d0cabc87e464f20c390b3_screen20shot202021-08-3020at2011.51.51%20AM.png
   alt: null
 slug: luxe-christies-international-real-estate
 f_things-to-do-1-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/612d0c99981510617701519f_Screen%20Shot%202021-08-30%20at%2011.51.34%20AM.png
+    /assets/external/612d0c99981510617701519f_screen20shot202021-08-3020at2011.51.34%20AM.png
   alt: null
 f_things-to-do-3-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/612d0ea0c742dc623cb5bc92_Beluschi_northeast1%20(1).jpeg
+  url: /assets/external/612d0ea0c742dc623cb5bc92_beluschi_northeast1201.jpeg
   alt: null
 f_header-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/612d0b04ce7194c47106553c_Untitled%20design%20(14).png
+  url: /assets/external/612d0b04ce7194c47106553c_untitled20design2014.png
   alt: null
 f_affiliate-name: cms/all-affiliates/luxe-christies-international-real-estate.md
 f_region-2: cms/affiliate-regions/north-central-america.md

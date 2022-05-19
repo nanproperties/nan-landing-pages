@@ -26,7 +26,7 @@ f_description: >-
 slug: provenance-properties-cayman-islands-the-peninsula-estate
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4d657f94b0490fc6855_6077da5e325eb9101b679f6f_60331183ef5bcScreen_Shot_2020-06-29_at_3.24.21_PM.jpeg
+    /assets/external/6081e4d657f94b0490fc6855_6077da5e325eb9101b679f6f_60331183ef5bcscreen_shot_2020-06-29_at_3.24.21_PM.jpeg
   alt: null
 f_affiliate: cms/affiliates/provenance-properties-cayman-islands.md
 updated-on: '2021-04-22T21:04:23.050Z'

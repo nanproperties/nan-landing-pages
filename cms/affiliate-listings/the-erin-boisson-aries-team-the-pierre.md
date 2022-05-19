@@ -22,7 +22,7 @@ f_description: >-
   interior.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4e210d6a18a28620eb0_6077da6e5d8b8871e4722c29_60331fd0b006dScreen-Shot-2021-02-21-at-7.05.51-PM.jpeg
+    /assets/external/6081e4e210d6a18a28620eb0_6077da6e5d8b8871e4722c29_60331fd0b006dscreen-shot-2021-02-21-at-7.05.51-PM.jpeg
   alt: null
 slug: the-erin-boisson-aries-team-the-pierre
 f_affiliate: cms/affiliates/the-erin-boisson-aries-team.md

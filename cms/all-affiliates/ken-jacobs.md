@@ -10,7 +10,7 @@ f_country-2: Australia
 f_zip-code-2: '2028'
 f_affiliate-logo-2:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b81772375a3a57ff61767c_6081e57508d9dbc17e908876_60785a301250098f9d90e48b_content_New_stacked_logo_Ken_Jacobs_Christies_Logo.png
+    /assets/external/60b81772375a3a57ff61767c_6081e57508d9dbc17e908876_60785a301250098f9d90e48b_content_new_stacked_logo_ken_jacobs_christies_logo.png
   alt: null
 slug: ken-jacobs
 f_region-2: cms/affiliate-regions/australia.md

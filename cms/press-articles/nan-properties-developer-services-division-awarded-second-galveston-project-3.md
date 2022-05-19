@@ -11,7 +11,7 @@ title: Nan Properties Developer Services Division Awarded Second Galveston Proje
 slug: nan-properties-developer-services-division-awarded-second-galveston-project-3
 f_image-or-screenshot-of-article:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61f4a36a8f9fb0dba4de8404_Screen%20Shot%202022-01-21%20at%2010.19.34%20AM.png
+    /assets/external/61f4a36a8f9fb0dba4de8404_screen20shot202022-01-2120at2010.19.34%20AM.png
   alt: null
 updated-on: '2022-01-29T02:17:17.532Z'
 created-on: '2022-01-29T02:16:14.336Z'

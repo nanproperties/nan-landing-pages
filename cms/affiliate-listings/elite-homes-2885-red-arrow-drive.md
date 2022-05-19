@@ -23,7 +23,7 @@ f_description: >-
 slug: elite-homes-2885-red-arrow-drive
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4cf8bc556a8ed541adf_6077da665e0f21063b7fa193_60331a77a1044Screen-Shot-2021-02-21-at-6.43.40-PM.jpeg
+    /assets/external/6081e4cf8bc556a8ed541adf_6077da665e0f21063b7fa193_60331a77a1044screen-shot-2021-02-21-at-6.43.40-PM.jpeg
   alt: null
 f_affiliate: cms/affiliates/elite-homes.md
 updated-on: '2021-04-22T21:04:15.182Z'

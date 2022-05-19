@@ -10,7 +10,7 @@ f_country-2: France
 f_zip-code-2: '20000'
 f_affiliate-logo-2:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b817964afa702c154dbd2f_6081e56507a62d86cb5d8543_60785a4367b96287ff923313_Logo_Corse_Prestige_Immobilier-_Horizontal_fomat.png
+    /assets/external/60b817964afa702c154dbd2f_6081e56507a62d86cb5d8543_60785a4367b96287ff923313_logo_corse_prestige_immobilier-_horizontal_fomat.png
   alt: null
 slug: corse-prestige-immobilier
 f_region-2: cms/affiliate-regions/europe.md

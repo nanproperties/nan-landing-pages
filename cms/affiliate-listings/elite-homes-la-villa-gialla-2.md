@@ -34,7 +34,7 @@ f_description: >-
   aged-stone fireplace as the bedroom's centerpiece.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077da6557ddc44613db2377_603319ad33fd0Screen-Shot-2021-02-21-at-6.39.56-PM.jpeg
+    /assets/external/6077da6557ddc44613db2377_603319ad33fd0screen-shot-2021-02-21-at-6.39.56-PM.jpeg
   alt: null
 slug: elite-homes-la-villa-gialla-2
 f_affiliate: cms/affiliates/elite-homes.md

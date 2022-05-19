@@ -29,19 +29,19 @@ f_things-to-do-3-description: >
 title: William Means Real Estate
 f_things-to-do-2-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61044a8fca15821a0789eda1_Screen%20Shot%202021-07-30%20at%201.53.01%20PM.png
+    /assets/external/61044a8fca15821a0789eda1_screen20shot202021-07-3020at201.53.01%20PM.png
   alt: null
 f_things-to-do-3-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61044ab9a65a9f7549decb21_Screen%20Shot%202021-07-30%20at%201.53.42%20PM.png
+    /assets/external/61044ab9a65a9f7549decb21_screen20shot202021-07-3020at201.53.42%20PM.png
   alt: null
 f_header-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61044a53938236a9b7f217f0_Screen%20Shot%202021-07-30%20at%201.51.59%20PM.png
+    /assets/external/61044a53938236a9b7f217f0_screen20shot202021-07-3020at201.51.59%20PM.png
   alt: null
 f_things-to-do-1-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61044a76e3ff6e3243eb57b1_Screen%20Shot%202021-07-30%20at%201.52.36%20PM.png
+    /assets/external/61044a76e3ff6e3243eb57b1_screen20shot202021-07-3020at201.52.36%20PM.png
   alt: null
 slug: william-means-real-estate
 f_affiliate-name: cms/all-affiliates/william-means-real-estate.md

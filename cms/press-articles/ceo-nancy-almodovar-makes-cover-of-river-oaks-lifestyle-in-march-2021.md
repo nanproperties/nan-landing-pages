@@ -8,7 +8,7 @@ f_media-outlet-excerpt: >-
 title: CEO Nancy Almodovar Makes Cover of River Oaks Lifestyle in March 2021
 f_image-or-screenshot-of-article:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60808561cee010268a28025e_Screen_Shot_2021-04-21_at_8.46.15_AM.png
+    /assets/external/60808561cee010268a28025e_screen_shot_2021-04-21_at_8.46.15_AM.png
   alt: null
 slug: ceo-nancy-almodovar-makes-cover-of-river-oaks-lifestyle-in-march-2021
 updated-on: '2021-04-21T20:04:50.060Z'

@@ -23,7 +23,7 @@ f_description: >-
 slug: the-erin-boisson-aries-team-551-west-21st-street-9b
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4e05452d5e6027addc2_6077da6d249474a1cf1a712f_60331fd2a5b89Screen-Shot-2021-02-21-at-7.05.43-PM.jpeg
+    /assets/external/6081e4e05452d5e6027addc2_6077da6d249474a1cf1a712f_60331fd2a5b89screen-shot-2021-02-21-at-7.05.43-PM.jpeg
   alt: null
 f_affiliate: cms/affiliates/the-erin-boisson-aries-team.md
 updated-on: '2021-04-22T21:04:33.074Z'

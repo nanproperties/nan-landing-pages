@@ -29,7 +29,7 @@ f_description: >-
   and treats.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077da6735f7f107679fe6f5_60331cc81cd8cScreen-Shot-2021-02-21-at-6.53.31-PM.jpeg
+    /assets/external/6077da6735f7f107679fe6f5_60331cc81cd8cscreen-shot-2021-02-21-at-6.53.31-PM.jpeg
   alt: null
 slug: go-to-the-beach-325-walton-rose-ln-2
 f_affiliate: cms/affiliates/go-to-the-beach.md

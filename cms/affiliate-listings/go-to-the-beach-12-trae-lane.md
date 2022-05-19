@@ -23,7 +23,7 @@ f_description: >-
 slug: go-to-the-beach-12-trae-lane
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4d010d6a174de620e6e_6077da68f6d39ba8e1bbbf02_60331d6a9cca5Screen-Shot-2021-02-21-at-6.55.27-PM.jpeg
+    /assets/external/6081e4d010d6a174de620e6e_6077da68f6d39ba8e1bbbf02_60331d6a9cca5screen-shot-2021-02-21-at-6.55.27-PM.jpeg
   alt: null
 f_affiliate: cms/affiliates/go-to-the-beach.md
 updated-on: '2021-04-22T21:04:16.708Z'

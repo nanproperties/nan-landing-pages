@@ -9,7 +9,7 @@ f_continent-description: >-
 title: Australia
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077cec802c7ef0ecdfe86af_602f64f101cbbcontent_global-properties-australia.jpeg
+    /assets/external/6077cec802c7ef0ecdfe86af_602f64f101cbbcontent_global-properties-australia.jpeg
   alt: null
 slug: australia
 updated-on: '2021-06-03T01:55:05.547Z'

@@ -8,7 +8,7 @@ f_media-outlet-excerpt: >-
 title: Charming Heights Home Crafted for Art Lovers Hits Market at $829,000
 f_image-or-screenshot-of-article:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6080856a7b4b8c7f053ba6e7_Screen_Shot_2021-04-21_at_10.56.00_AM.png
+    /assets/external/6080856a7b4b8c7f053ba6e7_screen_shot_2021-04-21_at_10.56.00_AM.png
   alt: null
 slug: charming-heights-home-crafted-for-art-lovers-hits-market-at-829-000
 updated-on: '2021-04-21T20:04:59.005Z'

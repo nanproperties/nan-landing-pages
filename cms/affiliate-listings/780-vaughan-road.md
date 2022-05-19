@@ -22,8 +22,7 @@ f_description: >-
   basement, whole house generator and much more!
 slug: 780-vaughan-road
 f_featured-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/615da8629cbfea95fb728ed7_mls-2210077546-1.jpeg
+  url: /assets/external/615da8629cbfea95fb728ed7_mls-2210077546-1.jpeg
   alt: null
 f_affiliate: cms/affiliates/hall-hunter-realtors.md
 updated-on: '2021-10-06T13:48:28.738Z'

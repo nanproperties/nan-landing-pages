@@ -8,7 +8,7 @@ f_media-outlet-excerpt: >-
 title: Luxury Ranch Getaway Just 90 Minutes From Houston Hits Market at $7.5 Million
 f_image-or-screenshot-of-article:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60808569b0f5b326385374d0_Screen_Shot_2021-04-21_at_9.12.38_AM.png
+    /assets/external/60808569b0f5b326385374d0_screen_shot_2021-04-21_at_9.12.38_AM.png
   alt: null
 slug: luxury-ranch-getaway-just-90-minutes-from-houston-hits-market-at-7-5-million
 updated-on: '2021-04-21T20:04:57.352Z'

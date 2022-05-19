@@ -17,7 +17,7 @@ f_description: >-
   Austin. This amazing property is currently on the market for $19,500,000.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4d29f656f3315e621da_6077da5502c7ef7060feaee6_602377f5c0afcIMG5.jpeg
+    /assets/external/6081e4d29f656f3315e621da_6077da5502c7ef7060feaee6_602377f5c0afcimg5.jpeg
   alt: null
 slug: moreland-properties-3708-meadowbank-drive
 f_affiliate: cms/affiliates/moreland-properties.md

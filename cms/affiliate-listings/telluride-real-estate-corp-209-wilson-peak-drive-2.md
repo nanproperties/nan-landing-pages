@@ -19,7 +19,7 @@ f_description: >-
   fine finishes utilized throughout. Located with end of the road privacy.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077da62d41ef91639eec6b2_603316c65551120181001163816085416000000-o.jpeg
+    /assets/external/6077da62d41ef91639eec6b2_603316c65551120181001163816085416000000-o.jpeg
   alt: null
 slug: telluride-real-estate-corp-209-wilson-peak-drive-2
 f_affiliate: cms/affiliates/telluride-real-estate-corp.md

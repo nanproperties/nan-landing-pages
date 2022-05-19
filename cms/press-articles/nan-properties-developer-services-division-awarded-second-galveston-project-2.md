@@ -8,7 +8,7 @@ f_media-outlet-excerpt: ' Nan and Company Properties Christie''s International R
 title: Nan Properties Developer Services Division Awarded Second Galveston Project
 f_image-or-screenshot-of-article:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61f4a3478184261a174a0b47_Screen%20Shot%202022-01-21%20at%2010.18.48%20AM.png
+    /assets/external/61f4a3478184261a174a0b47_screen20shot202022-01-2120at2010.18.48%20AM.png
   alt: null
 slug: nan-properties-developer-services-division-awarded-second-galveston-project-2
 updated-on: '2022-01-29T02:15:37.969Z'

@@ -19,7 +19,7 @@ f_description: >-
   Horses are allowed. Additional 20 acres available.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4d707a62d740b5d83d1_607863787de0dc435540eb10_Screen_Shot_2020-12-22_at_8.55.47_AM.png
+    /assets/external/6081e4d707a62d740b5d83d1_607863787de0dc435540eb10_screen_shot_2020-12-22_at_8.55.47_AM.png
   alt: null
 slug: purewest-112-cobble-creek-road
 f_affiliate: cms/affiliates/purewest.md

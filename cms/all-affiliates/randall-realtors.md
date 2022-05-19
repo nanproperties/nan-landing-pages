@@ -11,7 +11,7 @@ f_zip-code-2: '6355'
 slug: randall-realtors
 f_affiliate-logo-2:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b8179761d6ccaa50d4a036_6081e582e668006fa2c4a14f_60785a59403c7049a1e486b1_Randall_Realtors_Christies_logo_gold_K__2_.png
+    /assets/external/60b8179761d6ccaa50d4a036_6081e582e668006fa2c4a14f_60785a59403c7049a1e486b1_randall_realtors_christies_logo_gold_k__2_.png
   alt: null
 f_region-2: cms/affiliate-regions/north-central-america.md
 updated-on: '2021-06-02T23:43:19.721Z'

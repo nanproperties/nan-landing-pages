@@ -22,7 +22,7 @@ f_description: >-
 slug: go-to-the-beach-8638-e-co-hwy-30a
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4d17418b3a886d6acde_6077da6aed3553b688e9d5d9_60331d6c85e0aScreen-Shot-2021-02-21-at-6.55.48-PM.jpeg
+    /assets/external/6081e4d17418b3a886d6acde_6077da6aed3553b688e9d5d9_60331d6c85e0ascreen-shot-2021-02-21-at-6.55.48-PM.jpeg
   alt: null
 f_affiliate: cms/affiliates/go-to-the-beach.md
 updated-on: '2021-04-22T21:04:17.980Z'

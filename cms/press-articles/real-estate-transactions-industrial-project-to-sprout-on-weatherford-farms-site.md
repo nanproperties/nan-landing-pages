@@ -13,7 +13,7 @@ slug: >-
   real-estate-transactions-industrial-project-to-sprout-on-weatherford-farms-site
 f_image-or-screenshot-of-article:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/608085696036e84a45a81b10_Screen_Shot_2021-04-21_at_10.50.21_AM.png
+    /assets/external/608085696036e84a45a81b10_screen_shot_2021-04-21_at_10.50.21_AM.png
   alt: null
 updated-on: '2021-04-21T20:04:57.970Z'
 created-on: '2021-04-21T20:04:57.970Z'

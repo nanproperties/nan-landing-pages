@@ -25,7 +25,7 @@ f_description: >-
 slug: 19-prescient-street-william-means
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61044bb963fed664b10125fc_Screen%20Shot%202021-07-30%20at%201.57.56%20PM.png
+    /assets/external/61044bb963fed664b10125fc_screen20shot202021-07-3020at201.57.56%20PM.png
   alt: null
 f_affiliate: cms/affiliates/william-means-real-estate.md
 updated-on: '2021-07-30T18:58:17.781Z'

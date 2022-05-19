@@ -29,12 +29,12 @@ f_things-to-do-3-description: >-
 title: American Caribbean
 f_things-to-do-2-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d854a5cf01826dacde5d_602e93b41c7b6AdobeStock_231767368.jpeg
+    /assets/external/6077d854a5cf01826dacde5d_602e93b41c7b6adobestock_231767368.jpeg
   alt: null
 slug: american-caribbean
 f_things-to-do-1-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d854a5cf01cdffacde5f_602e9383c1a8cAdobeStock_322365901.jpeg
+    /assets/external/6077d854a5cf01cdffacde5f_602e9383c1a8cadobestock_322365901.jpeg
   alt: null
 updated-on: '2021-06-02T23:45:26.577Z'
 created-on: '2021-04-15T06:08:20.400Z'

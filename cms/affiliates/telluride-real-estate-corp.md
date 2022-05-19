@@ -27,21 +27,19 @@ f_things-to-do-3-description: >-
   Softballs/bats, Tennis racquets and balls, Volleyballs.
 title: Telluride Real Estate Corp
 f_things-to-do-3-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d858c3e246ef4e5f7f85_60331856b5af9Document.jpeg
+  url: /assets/external/6077d858c3e246ef4e5f7f85_60331856b5af9document.jpeg
   alt: null
 slug: telluride-real-estate-corp
 f_header-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d858c3e2463eaf5f7f86_603316512ba96phpJenbWQ.jpeg
+  url: /assets/external/6077d858c3e2463eaf5f7f86_603316512ba96phpjenbwq.jpeg
   alt: null
 f_things-to-do-2-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d858c3e2461b1d5f7f84_60331844d9679pricing-products-summer.jpeg
+    /assets/external/6077d858c3e2461b1d5f7f84_60331844d9679pricing-products-summer.jpeg
   alt: null
 f_things-to-do-1-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d859c3e246b3a45f7f8b_603317fe9e6a814527900275d6b618001.720x360.jpeg
+    /assets/external/6077d859c3e246b3a45f7f8b_603317fe9e6a814527900275d6b618001.720x360.jpeg
   alt: null
 updated-on: '2021-06-02T23:46:13.650Z'
 created-on: '2021-04-15T06:08:25.279Z'

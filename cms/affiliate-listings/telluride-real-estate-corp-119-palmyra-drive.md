@@ -21,7 +21,7 @@ f_description: >-
 slug: telluride-real-estate-corp-119-palmyra-drive
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4dfb32296b018002ad7_6077da636931611de91af322_6033171aaaca320200127223333494343000000-o.jpeg
+    /assets/external/6081e4dfb32296b018002ad7_6077da636931611de91af322_6033171aaaca320200127223333494343000000-o.jpeg
   alt: null
 f_affiliate: cms/affiliates/telluride-real-estate-corp.md
 updated-on: '2021-04-22T21:04:31.572Z'

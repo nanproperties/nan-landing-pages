@@ -27,7 +27,7 @@ created-on: '2021-04-29T20:00:12.549Z'
 published-on: '2021-04-29T20:07:43.898Z'
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/608b116c1214fd5c087e3329_screen_shot_2021-04-27_at_2.04.50_pm.jpg
+    /assets/external/608b116c1214fd5c087e3329_screen_shot_2021-04-27_at_2.04.50_pm.jpg
   alt: null
 layout: '[affiliate-listings].html'
 tags: affiliate-listings

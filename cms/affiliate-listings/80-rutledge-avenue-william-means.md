@@ -30,7 +30,7 @@ f_description: >
 slug: 80-rutledge-avenue-william-means
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61044b6e615b9806ab3cef2e_Screen%20Shot%202021-07-30%20at%201.56.43%20PM.png
+    /assets/external/61044b6e615b9806ab3cef2e_screen20shot202021-07-3020at201.56.43%20PM.png
   alt: null
 f_affiliate: cms/affiliates/william-means-real-estate.md
 updated-on: '2021-07-30T18:56:53.870Z'

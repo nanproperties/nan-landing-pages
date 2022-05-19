@@ -19,7 +19,7 @@ f_description: >-
   outdoor living spaces. A perfect mix of art and architecture.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4de7857bb35f28c63ee_6077da64b58072155626dd16_6033176d20e1a20191022212309002251000000-o.jpeg
+    /assets/external/6081e4de7857bb35f28c63ee_6077da64b58072155626dd16_6033176d20e1a20191022212309002251000000-o.jpeg
   alt: null
 slug: telluride-real-estate-corp-113-joaquin-road
 f_affiliate: cms/affiliates/telluride-real-estate-corp.md

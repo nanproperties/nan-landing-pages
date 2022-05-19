@@ -2,8 +2,7 @@
 f_destination-url: https://www.nanproperties.com//featured-lease-buildings/the-travis
 title: The Travis
 f_background-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61d8dfdfc4c8f11a7bb7fc63_TheTravis0483.jpeg
+  url: /assets/external/61d8dfdfc4c8f11a7bb7fc63_thetravis0483.jpeg
   alt: null
 slug: the-travis
 f_area: cms/leasing-areas/mid-town-montrose.md
@@ -12,14 +11,11 @@ created-on: '2022-01-08T00:50:39.272Z'
 published-on: '2022-03-28T17:37:31.387Z'
 f_city: Houston
 f_gallery-images:
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241efd6fa5c641d1891ef51_TheTravis0430.jpeg
+  - url: /assets/external/6241efd6fa5c641d1891ef51_thetravis0430.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241efd689d64133b072f48b_TheTravis0355.jpeg
+  - url: /assets/external/6241efd689d64133b072f48b_thetravis0355.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241efd6eb26666a2c400477_Travis-Pool-900x600-1.jpeg
+  - url: /assets/external/6241efd6eb26666a2c400477_travis-pool-900x600-1.jpeg
     alt: null
 f_street-address: 3300 Main St
 f_zip-code: '77002'

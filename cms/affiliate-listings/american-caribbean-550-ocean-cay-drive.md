@@ -30,7 +30,7 @@ f_description: >-
   Key Largo, the first of the Keys closest to the mainland.\n
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4cb408db19e6f603ed1_6077da5e5d8b887e65722bc5_602e94d40c52a20210106160605071829000000-o.jpeg
+    /assets/external/6081e4cb408db19e6f603ed1_6077da5e5d8b887e65722bc5_602e94d40c52a20210106160605071829000000-o.jpeg
   alt: null
 slug: american-caribbean-550-ocean-cay-drive
 f_affiliate: cms/affiliates/american-caribbean.md

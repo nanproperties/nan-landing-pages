@@ -17,7 +17,7 @@ f_description: >-
   outstanding.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4dd4a52ae4947ea8aab_6077da70eb33aa12a42c8009_60332338e1c0aScreen-Shot-2021-02-21-at-7.16.25-PM.jpeg
+    /assets/external/6081e4dd4a52ae4947ea8aab_6077da70eb33aa12a42c8009_60332338e1c0ascreen-shot-2021-02-21-at-7.16.25-PM.jpeg
   alt: null
 slug: smiths-gore-bvi-real-estate-st-bernards-hill-house
 f_affiliate: cms/affiliates/smiths-gore-bvi-real-estate.md

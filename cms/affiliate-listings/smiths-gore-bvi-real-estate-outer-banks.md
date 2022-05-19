@@ -17,7 +17,7 @@ f_description: >-
   three-car garage.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4dc74d37b45fffedf06_6077da719d13c2249825aba7_6033233b01cb1Screen-Shot-2021-02-21-at-7.17.10-PM.jpeg
+    /assets/external/6081e4dc74d37b45fffedf06_6077da719d13c2249825aba7_6033233b01cb1screen-shot-2021-02-21-at-7.17.10-PM.jpeg
   alt: null
 slug: smiths-gore-bvi-real-estate-outer-banks
 f_affiliate: cms/affiliates/smiths-gore-bvi-real-estate.md
