@@ -19,12 +19,15 @@ f_description: >-
   you just minutes away from some of the best shopping, dining and entertainment
   in the city. 
 f_featured-image:
-  url: /assets/external/61266d38c7e46de97d404170_aerial203201.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61266d38c7e46de97d404170_AERIAL%203%20(1).jpg
   alt: null
 f_image-gallery:
-  - url: /assets/external/61266e313de637b99f1939af_house20b2201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61266e313de637b99f1939af_HOUSE%20B2%20(1).jpg
     alt: null
-  - url: /assets/external/61266e4dbc063b2892add9c5_house20a2201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61266e4dbc063b2892add9c5_HOUSE%20A2%20(1).jpg
     alt: null
 slug: caterina-court
 f_agent-2: cms/agents/lisa-peltier.md

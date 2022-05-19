@@ -10,7 +10,7 @@ f_country-2: Argentina
 f_zip-code-2: '1007'
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b817920549a9517f7397c8_6081e58477bb7546b3d40d2a_60785a2cec3e79f63796c5a6_content_logo_remind_01__002_.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b817920549a9517f7397c8_6081e58477bb7546b3d40d2a_60785a2cec3e79f63796c5a6_content_logo_REMIND_01__002_.jpeg
   alt: null
 slug: remind-group-sa
 f_region-2: cms/affiliate-regions/south-america.md

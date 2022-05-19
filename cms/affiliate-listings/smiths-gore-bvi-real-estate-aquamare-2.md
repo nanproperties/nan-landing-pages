@@ -29,7 +29,7 @@ f_description: >-
   outdoor shower.
 f_featured-image:
   url: >-
-    /assets/external/6077da6fb0d29a2333aac4ea_60332336e249ascreen-shot-2021-02-21-at-7.16.02-PM.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077da6fb0d29a2333aac4ea_60332336e249aScreen-Shot-2021-02-21-at-7.16.02-PM.jpeg
   alt: null
 slug: smiths-gore-bvi-real-estate-aquamare-2
 f_affiliate: cms/affiliates/smiths-gore-bvi-real-estate.md

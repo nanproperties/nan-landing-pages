@@ -16,7 +16,7 @@ f_description: >-
   community-oriented lifestyle that is perflect for couples and families alike.
 f_featured-image:
   url: >-
-    /assets/external/6081e4c97418b3490fd6acd7_6077da605d8b8824d0722bca_603314ae0681dplaya-en-baja-835x540.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4c97418b3490fd6acd7_6077da605d8b8824d0722bca_603314ae0681dPlaya-en-baja-835x540.jpeg
   alt: null
 slug: 2seas-los-cabos-punta-ballena-g-2603
 f_affiliate: cms/affiliates/2seas-los-cabos.md

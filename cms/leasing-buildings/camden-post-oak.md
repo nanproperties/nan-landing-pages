@@ -3,7 +3,8 @@ f_destination-url: https://www.nanproperties.com//featured-lease-buildings/camde
 title: Camden Post Oak
 slug: camden-post-oak
 f_background-image:
-  url: /assets/external/61d8dfd68685b788280b0455_ak3_5935-hdr.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61d8dfd68685b788280b0455_AK3_5935-HDR.jpeg
   alt: null
 f_area: cms/leasing-areas/galleria-river-oaks.md
 updated-on: '2022-03-28T17:33:55.592Z'
@@ -11,9 +12,11 @@ created-on: '2022-01-08T00:50:30.531Z'
 published-on: '2022-03-28T17:37:31.387Z'
 f_city: Houston
 f_gallery-images:
-  - url: /assets/external/6241f15ee2e397136bee5935_content_ak3_5980-hdr.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241f15ee2e397136bee5935_content_AK3_5980-HDR.jpeg
     alt: null
-  - url: /assets/external/6241f15ffa5c64550991ff91_ak3_6010-hdr.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241f15ffa5c64550991ff91_AK3_6010-HDR.jpeg
     alt: null
 f_street-address: ' 1200 Post Oak Blvd'
 f_video-tour:

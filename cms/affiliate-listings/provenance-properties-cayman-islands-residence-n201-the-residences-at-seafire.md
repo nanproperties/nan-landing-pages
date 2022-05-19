@@ -20,7 +20,7 @@ f_description: >-
   with custom cabinets, marble counters and backsplash.
 f_featured-image:
   url: >-
-    /assets/external/6081e4d59f656f39c9e621fd_6077da6002c7efb753feaefa_6033121527f3fdart_grd_cymn_nest_wide_v1a-7a5bb1ce.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4d59f656f39c9e621fd_6077da6002c7efb753feaefa_6033121527f3fdart_grd_cymn_nest_wide_v1a-7a5bb1ce.jpeg
   alt: null
 slug: provenance-properties-cayman-islands-residence-n201-the-residences-at-seafire
 f_affiliate: cms/affiliates/provenance-properties-cayman-islands.md

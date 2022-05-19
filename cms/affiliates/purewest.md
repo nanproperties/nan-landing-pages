@@ -2,7 +2,7 @@
 title: PureWest
 f_header-image:
   url: >-
-    /assets/external/6077d851942365566c1fdad0_602379ed87470adobestock_117401213-1.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d851942365566c1fdad0_602379ed87470AdobeStock_117401213-1.jpeg
   alt: null
 slug: purewest
 updated-on: '2021-06-02T23:46:02.845Z'
@@ -17,7 +17,7 @@ f_things-to-do-1-description: >-
 f_things-to-do-1-headline: Visit Herron Park
 f_things-to-do-1-image:
   url: >-
-    /assets/external/6078676d11ba4f13b56cd693_cd69d00a-7c53-480a-a018-55aaa4e5d26d-cot48c2cc156fb3900db.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6078676d11ba4f13b56cd693_cd69d00a-7c53-480a-a018-55aaa4e5d26d-cot48c2cc156fb3900db.jpeg
   alt: null
 f_things-to-do-2-description: >-
   Located just 25 miles away from Kalispell is the world-famous ski resort,
@@ -29,7 +29,8 @@ f_things-to-do-2-description: >-
   This place provides year round fun for the whole family. 
 f_things-to-do-2-headline: Ski at Whitefish Mountain Resort
 f_things-to-do-2-image:
-  url: /assets/external/607867eac99a1a49c26f6647_untitled_design__4_.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/607867eac99a1a49c26f6647_Untitled_design__4_.jpeg
   alt: null
 f_things-to-do-3-description: >-
   This is the perfect event for all history lovers. In 1892, Charles Conrad
@@ -41,7 +42,7 @@ f_things-to-do-3-description: >-
 f_things-to-do-3-headline: The Conrad Mansion Museum
 f_things-to-do-3-image:
   url: >-
-    /assets/external/607868218895895767fa3843_1004_loc_dil_conrad_mansion_exterior_13_ydyli86_r1200x630.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/607868218895895767fa3843_1004_LOC_DIL_Conrad_Mansion_exterior_13_yDyLi86_r1200x630.jpeg
   alt: null
 f_affiliate-name: cms/all-affiliates/purewest-real-estate-whitefish-2.md
 f_region-2: cms/affiliate-regions/north-central-america.md

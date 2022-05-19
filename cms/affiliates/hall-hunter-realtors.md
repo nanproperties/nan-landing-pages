@@ -27,18 +27,20 @@ f_things-to-do-3-description: >-
 title: Hall & Hunter Realtors
 f_header-image:
   url: >-
-    /assets/external/615da8a59cbfeaa3ee72ecf0_optimized_9cd79e0a07c1c9a03f489f269d9175b6.png
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/615da8a59cbfeaa3ee72ecf0_optimized_9cd79e0a07c1c9a03f489f269d9175b6.png
   alt: null
 slug: hall-hunter-realtors
 f_things-to-do-2-image:
   url: >-
-    /assets/external/615da8c095fec29cc2acbc4a_u-m-to-unveil-new-home-for-museum-of-natural-history-april-14-img_4492.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/615da8c095fec29cc2acbc4a_u-m-to-unveil-new-home-for-museum-of-natural-history-april-14-IMG_4492.jpeg
   alt: null
 f_things-to-do-3-image:
-  url: /assets/external/615da8d666346602821dbb39_untitled_design__25_.png
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/615da8d666346602821dbb39_Untitled_design__25_.png
   alt: null
 f_things-to-do-1-image:
-  url: /assets/external/615da8b5fabe05dadd338439_untitled_design__24_.png
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/615da8b5fabe05dadd338439_Untitled_design__24_.png
   alt: null
 f_affiliate-name: cms/all-affiliates/hall-hunter-realtors.md
 f_region-2: cms/affiliate-regions/north-central-america.md

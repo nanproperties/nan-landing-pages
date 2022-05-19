@@ -5,7 +5,8 @@ f_types: Getaway
 title: 51 Green Hills Drive
 slug: 51-green-hills-drive
 f_image:
-  url: /assets/external/60b57b24a8d960777e9e3bad_cropped5.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b57b24a8d960777e9e3bad_cropped5.jpeg
   alt: null
 updated-on: '2021-06-01T00:47:21.009Z'
 created-on: '2021-06-01T00:11:16.240Z'

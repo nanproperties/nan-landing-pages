@@ -31,7 +31,8 @@ f_linkedin-handle: https://www.linkedin.com/in/caseyinhouston
 f_title: Realtor Associate
 slug: casey-babin
 f_headshot:
-  url: /assets/external/60fadf304d12cdb8b186d0cf_dsc_7012-1a20-20casey20babin.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60fadf304d12cdb8b186d0cf_DSC_7012-1a%20-%20Casey%20Babin.jpg
   alt: null
 updated-on: '2021-07-23T15:26:34.907Z'
 created-on: '2021-07-23T15:26:34.907Z'

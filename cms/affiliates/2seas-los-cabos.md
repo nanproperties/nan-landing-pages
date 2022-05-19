@@ -30,17 +30,19 @@ f_things-to-do-3-description: >-
 title: 2Seas Los Cabos
 f_things-to-do-1-image:
   url: >-
-    /assets/external/6077d856cd0f7af7e438e517_6033153789bf9chileno_bay_golf_2.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d856cd0f7af7e438e517_6033153789bf9Chileno_Bay_Golf_2.jpeg
   alt: null
 f_things-to-do-3-image:
   url: >-
-    /assets/external/6077d857cd0f7a0df238e51a_6033159a30534istock-859153316-1.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d857cd0f7a0df238e51a_6033159a30534iStock-859153316-1.jpeg
   alt: null
 f_header-image:
-  url: /assets/external/6077d856cd0f7aa2f838e518_6033140ee1112cabo.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d856cd0f7aa2f838e518_6033140ee1112cabo.jpeg
   alt: null
 f_things-to-do-2-image:
-  url: /assets/external/6077d857cd0f7a352a38e51b_6033157fb9352istock-627455488.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d857cd0f7a352a38e51b_6033157fb9352iStock-627455488.jpeg
   alt: null
 slug: 2seas-los-cabos
 updated-on: '2021-06-02T23:45:18.710Z'

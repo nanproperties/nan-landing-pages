@@ -22,7 +22,7 @@ f_description: >-
 slug: 1226-northshore-rd
 f_featured-image:
   url: >-
-    /assets/external/612d0f5ebb4d18714377b6c7_screen20shot202021-08-3020at2010.35.56%20AM.png
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/612d0f5ebb4d18714377b6c7_Screen%20Shot%202021-08-30%20at%2010.35.56%20AM.png
   alt: null
 f_affiliate: cms/affiliates/luxe-christies-international-real-estate.md
 updated-on: '2021-08-30T17:03:31.946Z'

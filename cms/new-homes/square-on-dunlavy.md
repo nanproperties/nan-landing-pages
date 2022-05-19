@@ -21,7 +21,8 @@ updated-on: '2021-07-12T16:20:31.480Z'
 created-on: '2021-07-12T15:51:14.458Z'
 published-on: '2021-07-12T20:51:42.204Z'
 f_featured-image:
-  url: /assets/external/60ec6bb332f1c4c0dcca9042_final20rendering20_20041024_1.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60ec6bb332f1c4c0dcca9042_Final%20Rendering%20_%20041024_1.jpg
   alt: null
 f_zip-code: 77006
 f_coming-soon: false

@@ -11,7 +11,7 @@ f_zip-code-2: H3Z 2A7
 slug: profusion-realty-inc
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b81790198e40dc90c6f43d_6081e57f63e240cd60c1efc7_60785a3b6b225e13a3cf72d5_content_logo_profusion2018chr_vert_noir.png
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b81790198e40dc90c6f43d_6081e57f63e240cd60c1efc7_60785a3b6b225e13a3cf72d5_content_logo_PROFUSION2018CHR_VERT_NOIR.png
   alt: null
 f_region-2: cms/affiliate-regions/north-central-america.md
 updated-on: '2021-06-02T23:43:12.749Z'

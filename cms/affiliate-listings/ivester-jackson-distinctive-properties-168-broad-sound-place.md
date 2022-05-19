@@ -24,7 +24,7 @@ f_description: >-
   International Real Estate Signature Program property.
 f_featured-image:
   url: >-
-    /assets/external/608b11ea70dde0c3720a6264_content_screen_shot_2021-04-27_at_11.22.46_am-1-.jpg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/608b11ea70dde0c3720a6264_content_screen_shot_2021-04-27_at_11.22.46_am-1-.jpg
   alt: null
 slug: ivester-jackson-distinctive-properties-168-broad-sound-place
 f_affiliate: cms/affiliates/ivester-jackson-distinctive-properties.md

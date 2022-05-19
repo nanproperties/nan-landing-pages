@@ -21,27 +21,27 @@ f_description: >-
   one of the kind. Don't miss out and schedule your private showing today.
 f_featured-image:
   url: >-
-    /assets/external/6081e695265b0927fb86727d_6077c896a5cf012f02ac82e4_60347f958b67dimg-3-1.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e695265b0927fb86727d_6077c896a5cf012f02ac82e4_60347f958b67dimg-3-1.jpeg
   alt: null
 slug: golden-forest
 f_image-gallery:
   - url: >-
-      /assets/external/6081e695265b0983f086727c_6077c896a5cf010023ac82e2_6034806bad2c9img-5-2.jpeg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e695265b0983f086727c_6077c896a5cf010023ac82e2_6034806bad2c9img-5-2.jpeg
     alt: null
   - url: >-
-      /assets/external/6081e695265b09e24286727e_6077c896a5cf017f58ac82e3_6034806d20d17img-6-4.jpeg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e695265b09e24286727e_6077c896a5cf017f58ac82e3_6034806d20d17img-6-4.jpeg
     alt: null
   - url: >-
-      /assets/external/6081e695265b09dec2867280_6077c896a5cf014978ac82e8_6034806e8423bimg-8-1.jpeg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e695265b09dec2867280_6077c896a5cf014978ac82e8_6034806e8423bimg-8-1.jpeg
     alt: null
   - url: >-
-      /assets/external/6081e695265b0905ae86727f_6077c896a5cf016fb7ac82e5_6034807006937img-13-2.jpeg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e695265b0905ae86727f_6077c896a5cf016fb7ac82e5_6034807006937img-13-2.jpeg
     alt: null
   - url: >-
-      /assets/external/6081e695265b0926a4867281_6077c896a5cf01d40bac82e6_60348071625cdimg-19.jpeg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e695265b0926a4867281_6077c896a5cf01d40bac82e6_60348071625cdimg-19.jpeg
     alt: null
   - url: >-
-      /assets/external/6081e695265b09d7ca867282_6077c896a5cf01f802ac82e7_60348072c43b2img-21.jpeg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e695265b09d7ca867282_6077c896a5cf01f802ac82e7_60348072c43b2img-21.jpeg
     alt: null
 f_agent-2: cms/agents/jason-nguyen.md
 updated-on: '2021-07-08T14:41:09.326Z'

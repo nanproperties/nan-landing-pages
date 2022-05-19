@@ -7,7 +7,8 @@ f_highlights-about-this-listing-max-200-characters: >-
   Sold at record-breaking price per sq. ft. for the area. Beautifully designed
   custom home from renowned designer Mary Ross
 f_featured-image:
-  url: /assets/external/6077ca959423655d321fa6c3_601d03e4b8c1614_thistlewood_2.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077ca959423655d321fa6c3_601d03e4b8c1614_thistlewood_2.jpeg
   alt: null
 slug: 14-thistlewood
 f_agent: cms/agents/nikki-hohman.md

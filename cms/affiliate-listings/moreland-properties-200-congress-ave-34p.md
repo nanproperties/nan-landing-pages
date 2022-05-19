@@ -16,7 +16,7 @@ f_description: >-
   a lifestyle unmatched in downtown Austin.
 f_featured-image:
   url: >-
-    /assets/external/6081e4d27418b301d4d6ace2_6077da56ec571b3d3b5e9777_6023788612987001.1.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4d27418b301d4d6ace2_6077da56ec571b3d3b5e9777_6023788612987001.1.jpeg
   alt: null
 slug: moreland-properties-200-congress-ave-34p
 f_affiliate: cms/affiliates/moreland-properties.md

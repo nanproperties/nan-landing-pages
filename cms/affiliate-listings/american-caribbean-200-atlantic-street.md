@@ -28,7 +28,7 @@ f_description: >-
   currently priced at $7,900,000. \n
 f_featured-image:
   url: >-
-    /assets/external/6081e4cab83a91ce1d794f93_6077da5d6e3ae96cf80e9ce9_602e949c97f1f20200108193753429466000000-o.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4cab83a91ce1d794f93_6077da5d6e3ae96cf80e9ce9_602e949c97f1f20200108193753429466000000-o.jpeg
   alt: null
 slug: american-caribbean-200-atlantic-street
 f_affiliate: cms/affiliates/american-caribbean.md

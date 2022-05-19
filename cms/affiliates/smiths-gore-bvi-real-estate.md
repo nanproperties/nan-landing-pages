@@ -43,20 +43,20 @@ f_things-to-do-3-description: >-
 title: Smiths Gore BVI-Real Estate
 f_things-to-do-1-image:
   url: >-
-    /assets/external/6077d85da5cf01702eacde75_603322db56fbaadobestock_162016870.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85da5cf01702eacde75_603322db56fbaAdobeStock_162016870.jpeg
   alt: null
 f_things-to-do-2-image:
   url: >-
-    /assets/external/6077d85da5cf01962bacde74_603322d935380content_canva_-_yachts_moored_in_port_of_coastal_town.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85da5cf01962bacde74_603322d935380content_Canva_-_Yachts_moored_in_port_of_coastal_town.jpeg
   alt: null
 f_header-image:
   url: >-
-    /assets/external/6077d85da5cf015439acde73_603321b04a9b6adobestock_235731222.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85da5cf015439acde73_603321b04a9b6AdobeStock_235731222.jpeg
   alt: null
 slug: smiths-gore-bvi-real-estate
 f_things-to-do-3-image:
   url: >-
-    /assets/external/6077d85da5cf01998dacde76_603322d6eee72content_canva_-_photo_of_marine_life.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85da5cf01998dacde76_603322d6eee72content_Canva_-_Photo_Of_Marine_Life.jpeg
   alt: null
 updated-on: '2021-06-02T23:46:08.447Z'
 created-on: '2021-04-15T06:08:30.375Z'

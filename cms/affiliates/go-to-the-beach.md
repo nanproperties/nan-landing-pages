@@ -28,19 +28,20 @@ f_things-to-do-3-description: >-
   to the artwork.
 title: Go To The Beach
 f_things-to-do-3-image:
-  url: /assets/external/6077d85b66bedc419fa51b88_60331db039b5aaspiration.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85b66bedc419fa51b88_60331db039b5aAspiration.jpeg
   alt: null
 f_things-to-do-1-image:
   url: >-
-    /assets/external/6077d85b66bedc701fa51b89_60331e00e783cscreen-shot-2021-02-21-at-6.58.39-PM.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85b66bedc701fa51b89_60331e00e783cScreen-Shot-2021-02-21-at-6.58.39-PM.jpeg
   alt: null
 f_header-image:
   url: >-
-    /assets/external/6077d85b66bedcc103a51b8a_60331c6763a1fadobestock_163415681.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85b66bedcc103a51b8a_60331c6763a1fAdobeStock_163415681.jpeg
   alt: null
 f_things-to-do-2-image:
   url: >-
-    /assets/external/6077d85b66bedc823aa51b8b_60331dcb1c0d1p1ceu34faa2thtmi1q7c1lar91d4.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85b66bedc823aa51b8b_60331dcb1c0d1p1ceu34faa2thtmi1q7c1lar91d4.jpeg
   alt: null
 slug: go-to-the-beach
 updated-on: '2021-06-02T23:45:41.460Z'

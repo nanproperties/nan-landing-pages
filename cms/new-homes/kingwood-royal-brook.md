@@ -24,27 +24,36 @@ f_description: >-
   package included with white glove service after closing for orientation of
   devices.
 f_featured-image:
-  url: /assets/external/60e5f4948a3ea25f494ae6ac_dsc03004a201.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60e5f4948a3ea25f494ae6ac_DSC03004a%20(1).jpg
   alt: null
 slug: kingwood-royal-brook
 f_agent-2: cms/agents/natalie-garza.md
 f_builder: cms/builders/j-patrick.md
 f_image-gallery:
-  - url: /assets/external/60e5f6078a3ea2e7f74c519b_dsc03016201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60e5f6078a3ea2e7f74c519b_DSC03016%20(1).jpg
     alt: null
-  - url: /assets/external/60e5f7022639df83c391c674_dsc03051201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60e5f7022639df83c391c674_DSC03051%20(1).jpg
     alt: null
-  - url: /assets/external/60e5f77e9df4a22700210b3d_dsc03041202.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60e5f77e9df4a22700210b3d_DSC03041%20(2).jpg
     alt: null
-  - url: /assets/external/60e5f6cf9becb4ff7519f658_dsc03067201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60e5f6cf9becb4ff7519f658_DSC03067%20(1).jpg
     alt: null
-  - url: /assets/external/60e5f693b5a64f207ea8f3fa_dsc03082201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60e5f693b5a64f207ea8f3fa_DSC03082%20(1).jpg
     alt: null
-  - url: /assets/external/60e5f64e605b84b297481292_dsc03142201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60e5f64e605b84b297481292_DSC03142%20(1).jpg
     alt: null
-  - url: /assets/external/60e5f7f0853df8a97f234dc7_dsc03147201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60e5f7f0853df8a97f234dc7_DSC03147%20(1).jpg
     alt: null
-  - url: /assets/external/60e5f5aa5e043b41dc347150_dsc03195a201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60e5f5aa5e043b41dc347150_DSC03195a%20(1).jpg
     alt: null
 updated-on: '2021-07-07T19:46:27.905Z'
 created-on: '2021-07-07T18:52:59.372Z'

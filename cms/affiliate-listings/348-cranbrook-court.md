@@ -20,7 +20,8 @@ f_description: >-
   two full baths and has been completely renovated. 
 slug: 348-cranbrook-court
 f_featured-image:
-  url: /assets/external/615da9c8e095682f3ae41f94_mls-2210057437-1.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/615da9c8e095682f3ae41f94_mls-2210057437-1.jpeg
   alt: null
 f_affiliate: cms/affiliates/hall-hunter-realtors.md
 updated-on: '2021-10-06T13:51:11.704Z'

@@ -13,28 +13,28 @@ f_bedrooms: '3'
 slug: urban-space
 f_image-gallery:
   - url: >-
-      /assets/external/6230ac9885778405fa2f8056_conjunto20paul20quinn204201201.jpg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6230ac9885778405fa2f8056_CONJUNTO%20PAUL%20QUINN%204%20(1)%20(1).jpg
     alt: null
   - url: >-
-      /assets/external/6230acce074fdde6a2f43d56_110620j20paul20quinn20st204201201201202.jpg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6230acce074fdde6a2f43d56_1106%20J%20PAUL%20QUINN%20ST%204%20(1)%20(1)%20(1)%20(2).jpg
     alt: null
   - url: >-
-      /assets/external/6230ad2b1ba0583c096754fc_110620h20paul20quinn20st204201201201202.jpg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6230ad2b1ba0583c096754fc_1106%20H%20PAUL%20QUINN%20ST%204%20(1)%20(1)%20(1)%20(2).jpg
     alt: null
   - url: >-
-      /assets/external/6230ad7a059c24821b2ce2ab_110620g20paul20quinn20st204201202.jpg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6230ad7a059c24821b2ce2ab_1106%20G%20PAUL%20QUINN%20ST%204%20(1)%20(2).jpg
     alt: null
   - url: >-
-      /assets/external/6230addd4e5584493eb9c9d2_110620f20paul20quinn20st204201201201201.jpg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6230addd4e5584493eb9c9d2_1106%20F%20PAUL%20QUINN%20ST%204%20(1)%20(1)%20(1)%20(1).jpg
     alt: null
   - url: >-
-      /assets/external/6230ae1b1ba05812dc67c42e_110220i2020paul20quinn20st204201201201202.jpg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6230ae1b1ba05812dc67c42e_1102%20I%20%20PAUL%20QUINN%20ST%204%20(1)%20(1)%20(1)%20(2).jpg
     alt: null
   - url: >-
-      /assets/external/6230ae430113033f6ceb5dc0_110220h20paul20quinn20st204201201201201.jpg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6230ae430113033f6ceb5dc0_1102%20H%20PAUL%20QUINN%20ST%204%20(1)%20(1)%20(1)%20(1).jpg
     alt: null
   - url: >-
-      /assets/external/6230ae664e55842a82ba364f_110220g20paul20quinn20st204201201201201.jpg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6230ae664e55842a82ba364f_1102%20G%20PAUL%20QUINN%20ST%204%20(1)%20(1)%20(1)%20(1).jpg
     alt: null
 f_agent-2: cms/agents/nancy-ramos.md
 f_builder: cms/builders/new-era-living.md
@@ -51,7 +51,7 @@ f_description: >-
   more!
 f_featured-image:
   url: >-
-    /assets/external/6230ac7cbd3580c6e28c058a_conjunto20paul20quinn20st20view202202201.jpg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6230ac7cbd3580c6e28c058a_CONJUNTO%20PAUL%20QUINN%20ST%20VIEW%202%20(2)%20(1).jpg
   alt: null
 f_price-range: $319,900-364,900
 layout: '[new-homes].html'

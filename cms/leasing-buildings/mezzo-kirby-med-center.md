@@ -3,7 +3,8 @@ f_destination-url: https://www.nanproperties.com//featured-lease-buildings/mezzo
 title: Mezzo Kirby Med Center
 slug: mezzo-kirby-med-center
 f_background-image:
-  url: /assets/external/61d8dfd8d4110683277edac7_68746202.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61d8dfd8d4110683277edac7_68746202.jpeg
   alt: null
 f_area: cms/leasing-areas/medical-center.md
 updated-on: '2022-03-28T17:32:35.564Z'
@@ -11,11 +12,14 @@ created-on: '2022-01-08T00:50:32.613Z'
 published-on: '2022-03-28T17:37:31.387Z'
 f_city: Houston
 f_gallery-images:
-  - url: /assets/external/6241f113151cce7c042064b2_68746243.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241f113151cce7c042064b2_68746243.jpeg
     alt: null
-  - url: /assets/external/6241f1124c97bc888a3751d0_68746204.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241f1124c97bc888a3751d0_68746204.jpeg
     alt: null
-  - url: /assets/external/6241f11289bc616cc8a8fed9_68746202.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241f11289bc616cc8a8fed9_68746202.jpeg
     alt: null
 f_street-address: 7600 Kirby Dr
 f_zip-code: '77030'

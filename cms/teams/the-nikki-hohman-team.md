@@ -7,7 +7,8 @@ created-on: '2022-05-12T18:07:08.002Z'
 published-on: '2022-05-12T22:16:11.592Z'
 f_instagram-link: https://www.instagram.com/soldbynikkih/
 f_secondary-team-image:
-  url: /assets/external/627d846ee80186a62c2f86ac___9129202.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/627d846ee80186a62c2f86ac___9129%20(2).jpeg
   alt: null
 f_featured-video-youtube-id: 6CX3VYRSnyk
 layout: '[teams].html'

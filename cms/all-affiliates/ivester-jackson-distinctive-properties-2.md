@@ -9,7 +9,8 @@ f_state-addbreviated-2: NC­
 f_country-2: United States
 f_zip-code-2: '28037'
 f_affiliate-logo-2:
-  url: /assets/external/60b8178428bb7414f7798db8_608b0fcd5f36fd7cfef45eb2_logo.png
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b8178428bb7414f7798db8_608b0fcd5f36fd7cfef45eb2_logo.png
   alt: null
 slug: ivester-jackson-distinctive-properties-2
 f_region-2: cms/affiliate-regions/north-central-america.md

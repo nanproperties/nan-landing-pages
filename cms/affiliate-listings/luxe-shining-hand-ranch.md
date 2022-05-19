@@ -25,7 +25,7 @@ f_description: >-
 slug: luxe-shining-hand-ranch
 f_featured-image:
   url: >-
-    /assets/external/612d0f9970be0d2b76eb5c5c_screen20shot202021-08-3020at2010.37.00%20AM.png
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/612d0f9970be0d2b76eb5c5c_Screen%20Shot%202021-08-30%20at%2010.37.00%20AM.png
   alt: null
 f_affiliate: cms/affiliates/luxe-christies-international-real-estate.md
 updated-on: '2021-08-30T17:04:29.939Z'

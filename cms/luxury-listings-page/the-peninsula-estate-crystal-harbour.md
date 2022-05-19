@@ -4,7 +4,8 @@ f_category: International
 title: the peninsula estate crystal harbour
 slug: the-peninsula-estate-crystal-harbour
 f_image:
-  url: /assets/external/60a5849890dcf1eedc4738ee_02.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60a5849890dcf1eedc4738ee_02.jpeg
   alt: null
 updated-on: '2021-05-19T21:35:20.730Z'
 created-on: '2021-05-19T21:35:20.730Z'

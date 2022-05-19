@@ -10,7 +10,7 @@ f_country-2: Mexico
 f_zip-code-2: '37700'
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b817755284b730f36e33e2_6081e560dc7aca87b3a4a117_60785a4c067b794ebc34f2af_content_vertical-stack.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b817755284b730f36e33e2_6081e560dc7aca87b3a4a117_60785a4c067b794ebc34f2af_content_vertical-stack.jpeg
   alt: null
 slug: cdr-san-miguel
 f_region-2: cms/affiliate-regions/north-central-america.md

@@ -19,7 +19,7 @@ f_description: >-
 slug: moreland-properties-200-las-lomas-drive
 f_featured-image:
   url: >-
-    /assets/external/6081e4d29f656f3315e621da_6077da5502c7ef7060feaee6_602377f5c0afcimg5.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4d29f656f3315e621da_6077da5502c7ef7060feaee6_602377f5c0afcIMG5.jpeg
   alt: null
 f_affiliate: cms/affiliates/moreland-properties.md
 updated-on: '2021-04-22T21:04:19.212Z'

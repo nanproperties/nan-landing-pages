@@ -10,7 +10,7 @@ f_country-2: United States
 f_zip-code-2: '92618'
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b817819309a154eaf045a4_6081e56a4a52ae7c37ea8f77_60785a537de0dc2e4b409b58_content_ft-cire_clr.png
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b817819309a154eaf045a4_6081e56a4a52ae7c37ea8f77_60785a537de0dc2e4b409b58_content_FT-CIRE_CLR.png
   alt: null
 slug: first-team-real-estate
 f_region-2: cms/affiliate-regions/north-central-america.md

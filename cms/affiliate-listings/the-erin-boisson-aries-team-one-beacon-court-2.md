@@ -24,7 +24,7 @@ f_description: >-
   market for $34,000,000, this high-rise is unlike anything else on the market.
 f_featured-image:
   url: >-
-    /assets/external/6077da6cacb31109d621dc0c_60331fced9d0ascreen_shot_2020-10-31_at_12.27.02_PM.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077da6cacb31109d621dc0c_60331fced9d0aScreen_Shot_2020-10-31_at_12.27.02_PM.jpeg
   alt: null
 slug: the-erin-boisson-aries-team-one-beacon-court-2
 f_affiliate: cms/affiliates/the-erin-boisson-aries-team.md

@@ -26,16 +26,19 @@ title: Ivester Jackson Distinctive Properties
 slug: ivester-jackson-distinctive-properties
 f_things-to-do-1-image:
   url: >-
-    /assets/external/608b112f3a9122ab91c68ca6_adobestock_298857019_editorial_use_only.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/608b112f3a9122ab91c68ca6_adobestock_298857019_editorial_use_only.jpeg
   alt: null
 f_things-to-do-3-image:
-  url: /assets/external/608b1133b7fa0d99bb8542ea_adobestock_107108695.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/608b1133b7fa0d99bb8542ea_adobestock_107108695.jpeg
   alt: null
 f_header-image:
-  url: /assets/external/608b112d9671ab926df3afe7_adobestock_169057553.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/608b112d9671ab926df3afe7_adobestock_169057553.jpeg
   alt: null
 f_things-to-do-2-image:
-  url: /assets/external/608b1135bf902f703ae42975_ma_laborday-1168.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/608b1135bf902f703ae42975_ma_laborday-1168.jpeg
   alt: null
 f_affiliate-name: cms/all-affiliates/ivester-jackson-distinctive-properties-2.md
 f_region-2: cms/affiliate-regions/north-central-america.md

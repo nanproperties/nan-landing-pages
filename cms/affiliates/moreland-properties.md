@@ -24,19 +24,19 @@ f_things-to-do-3-description: >-
 title: Moreland Properties
 f_things-to-do-2-image:
   url: >-
-    /assets/external/6077d8506e3ae9b65d0e99d1_6023753ce41d7untitled_design__19_.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d8506e3ae9b65d0e99d1_6023753ce41d7Untitled_design__19_.jpeg
   alt: null
 f_things-to-do-1-image:
   url: >-
-    /assets/external/6077d8506e3ae9a3c20e99cf_602373dfa1da7untitled_design__20_.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d8506e3ae9a3c20e99cf_602373dfa1da7Untitled_design__20_.jpeg
   alt: null
 f_header-image:
   url: >-
-    /assets/external/6077d8506e3ae96b9d0e99ce_6023736908dd0extra_large_a0525ee22b6d4f092cbb963660e9b22b.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d8506e3ae96b9d0e99ce_6023736908dd0extra_large_a0525ee22b6d4f092cbb963660e9b22b.jpeg
   alt: null
 f_things-to-do-3-image:
   url: >-
-    /assets/external/6077d8506e3ae96f1b0e99d0_6023752881cb7untitled_design__21_.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d8506e3ae96f1b0e99d0_6023752881cb7Untitled_design__21_.jpeg
   alt: null
 slug: moreland-properties
 updated-on: '2021-06-02T23:45:48.293Z'

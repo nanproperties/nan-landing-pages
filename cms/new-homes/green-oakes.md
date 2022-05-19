@@ -9,7 +9,8 @@ f_city: Houston
 title: Green Oakes
 f_bedrooms: 3-4
 f_featured-image:
-  url: /assets/external/60f6d55b2373bc8cda9bf964_communitydesign-1.png
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60f6d55b2373bc8cda9bf964_CommunityDesign-1.png
   alt: null
 slug: green-oakes
 f_agent-2: cms/agents/natalie-garza.md

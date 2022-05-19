@@ -12,7 +12,7 @@ f_if-team-is-this-person-the-team-s-lead: false
 f_team: cms/teams/the-nikki-hohman-team.md
 f_headshot:
   url: >-
-    /assets/external/627d83297ba012cc65c818f6_ebf4467f566c45c1535f203c615ba445.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/627d83297ba012cc65c818f6_ebf4467f566c45c1535f203c615ba445.jpeg
   alt: null
 f_website: https://www.nanproperties.com/agents/97720-alana-adams
 layout: '[agents].html'

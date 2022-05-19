@@ -29,19 +29,19 @@ f_things-to-do-3-description: >-
 title: The Erin Boisson Aries Team
 f_things-to-do-2-image:
   url: >-
-    /assets/external/6077d85c7c02f42ba4201bd0_6033207254e7buntitled_design__15_.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85c7c02f42ba4201bd0_6033207254e7bUntitled_design__15_.jpeg
   alt: null
 f_things-to-do-3-image:
   url: >-
-    /assets/external/6077d85c7c02f42e04201bcd_603320743d992adobestock_212050796.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85c7c02f42e04201bcd_603320743d992AdobeStock_212050796.jpeg
   alt: null
 f_header-image:
   url: >-
-    /assets/external/6077d85c7c02f4f33f201bce_60331f02280aeoptimized_452d5a3ddc338ca307f6049748a33fca.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85c7c02f4f33f201bce_60331f02280aeoptimized_452d5a3ddc338ca307f6049748a33fca.jpeg
   alt: null
 f_things-to-do-1-image:
   url: >-
-    /assets/external/6077d85c7c02f4b0af201bcf_6033207072adauntitled_design__14_.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d85c7c02f4b0af201bcf_6033207072adaUntitled_design__14_.jpeg
   alt: null
 slug: the-erin-boisson-aries-team
 updated-on: '2021-06-02T23:46:20.425Z'

@@ -29,19 +29,19 @@ f_things-to-do-3-description: >-
 title: Provenance Properties Cayman Islands
 f_things-to-do-2-image:
   url: >-
-    /assets/external/6077d8547a4adf85bb5f6c2d_6033125fa8c37ksf_ave_bar-be12830f.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d8547a4adf85bb5f6c2d_6033125fa8c37ksf_ave_bar-be12830f.jpeg
   alt: null
 f_things-to-do-3-image:
   url: >-
-    /assets/external/6077d8557a4adfa1e45f6c30_603312a76867bscreen_shot_2020-06-29_at_3.57.42_PM-1.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d8557a4adfa1e45f6c30_603312a76867bScreen_Shot_2020-06-29_at_3.57.42_PM-1.jpeg
   alt: null
 f_header-image:
   url: >-
-    /assets/external/6077d8557a4adf18c05f6c2f_603311206738badobestock_181955127.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d8557a4adf18c05f6c2f_603311206738bAdobeStock_181955127.jpeg
   alt: null
 f_things-to-do-1-image:
   url: >-
-    /assets/external/6077d8547a4adf2bb35f6c2e_6033123ecc868camana_bay_-_town_centre_-_the_crescent_fountain_4-523f9e6a.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077d8547a4adf2bb35f6c2e_6033123ecc868Camana_Bay_-_Town_Centre_-_The_Crescent_Fountain_4-523f9e6a.jpeg
   alt: null
 slug: provenance-properties-cayman-islands
 updated-on: '2021-06-02T23:45:55.689Z'

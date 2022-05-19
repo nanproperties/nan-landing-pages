@@ -11,10 +11,11 @@ created-on: '2022-01-29T01:30:05.352Z'
 published-on: '2022-01-29T03:24:32.516Z'
 f_development-image:
   url: >-
-    /assets/external/61f49a705cd71c0ffe01dfd6_2101920tiara20-203d20views2002.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61f49a705cd71c0ffe01dfd6_21019%20TIARA%20-%203D%20VIEWS%2002.jpeg
   alt: null
 f_development-logo:
-  url: /assets/external/61f49a557f6caaddff81d878_tiara_logo201.png
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61f49a557f6caaddff81d878_Tiara_logo%20(1).png
   alt: null
 f_nan-url-link-slug: >-
   https://www.nanproperties.com/developer-services/our-properties/tiara-on-the-beach

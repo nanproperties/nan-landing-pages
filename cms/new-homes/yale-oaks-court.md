@@ -17,10 +17,12 @@ f_description: >-
   throughout. The homes feature plentiful green space and gorgeous modern
   architecture. Contact us today to schedule a tour!
 f_image-gallery:
-  - url: /assets/external/60e4aa923c9f6317530e697c_4310-view-2-4-.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60e4aa923c9f6317530e697c_4310-view-2-4-.jpeg
     alt: null
 f_featured-image:
-  url: /assets/external/60e4aaa4d3b5afaa8c1c408d_1yaleoakscourt201.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60e4aaa4d3b5afaa8c1c408d_1yaleoakscourt%20(1).jpeg
   alt: null
 slug: yale-oaks-court
 f_builder: cms/builders/vida-group.md

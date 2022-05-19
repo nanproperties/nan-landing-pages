@@ -10,7 +10,7 @@ f_country-2: United States
 f_zip-code-2: '20151'
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b817899309a191cbf045b0_6081e5781c9d3b63817fa2e8_60785a755dcdb36f5e93c434_content_1_lf_re_cire_box_rev_blue.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b817899309a191cbf045b0_6081e5781c9d3b63817fa2e8_60785a755dcdb36f5e93c434_content_1_LF_RE_CIRE_Box_Rev_BLUE.jpeg
   alt: null
 slug: long-foster-real-estate-inc
 f_region-2: cms/affiliate-regions/north-central-america.md

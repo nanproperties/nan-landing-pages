@@ -19,7 +19,7 @@ f_description: >-
 slug: purewest-786-limestone
 f_featured-image:
   url: >-
-    /assets/external/6081e4d9c79b955c8df7c5af_60786437bf99bf2fb571020a_screen_shot_2020-12-22_at_8.02.46_AM.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e4d9c79b955c8df7c5af_60786437bf99bf2fb571020a_Screen_Shot_2020-12-22_at_8.02.46_AM.jpeg
   alt: null
 f_affiliate: cms/affiliates/purewest.md
 updated-on: '2021-04-22T21:04:26.692Z'

@@ -21,7 +21,8 @@ f_description: >-
   Award in 2017. 
 slug: 1016-lake-park-drive
 f_featured-image:
-  url: /assets/external/615da9860d257d67ffa74ce1_mls-2210079590-1.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/615da9860d257d67ffa74ce1_mls-2210079590-1.jpeg
   alt: null
 f_affiliate: cms/affiliates/hall-hunter-realtors.md
 updated-on: '2021-10-06T13:50:03.356Z'

@@ -16,7 +16,7 @@ f_description: >-
 slug: luxe-listing-1-32088-sw-peach-cove-rd
 f_featured-image:
   url: >-
-    /assets/external/612d0f1606af2924d0026611_screen20shot202021-08-3020at2010.34.19%20AM.png
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/612d0f1606af2924d0026611_Screen%20Shot%202021-08-30%20at%2010.34.19%20AM.png
   alt: null
 f_affiliate: cms/affiliates/luxe-christies-international-real-estate.md
 updated-on: '2021-08-30T17:02:25.420Z'

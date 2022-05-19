@@ -15,7 +15,8 @@ f_builder-description: >-
 title: Highgate Ventures
 slug: highgate-ventures
 f_builder-logo:
-  url: /assets/external/6113e8baa1a68fc1cef4abec_highgate-ventures-logo-final.png
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6113e8baa1a68fc1cef4abec_highgate-ventures-logo-final.png
   alt: null
 updated-on: '2021-08-11T15:11:58.761Z'
 created-on: '2021-08-11T15:11:58.761Z'

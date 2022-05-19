@@ -19,7 +19,7 @@ f_description: >-
   sitting on the market at $5,750,000.
 f_featured-image:
   url: >-
-    /assets/external/61044b279fef7190b95e3a98_screen20shot202021-07-3020at201.55.32%20PM.png
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61044b279fef7190b95e3a98_Screen%20Shot%202021-07-30%20at%201.55.32%20PM.png
   alt: null
 slug: 106-murray-boulevardn-william-means
 f_affiliate: cms/affiliates/william-means-real-estate.md

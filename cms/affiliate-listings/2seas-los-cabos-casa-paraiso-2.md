@@ -20,7 +20,7 @@ f_description: >-
   Sub-zero appliances, outdoor barbeque area, palapa and a fire pit.
 f_featured-image:
   url: >-
-    /assets/external/6077da61eb33aa374d2c7ff5_603314e06ea54paraiso-10-835x540.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077da61eb33aa374d2c7ff5_603314e06ea54Paraiso-10-835x540.jpeg
   alt: null
 slug: 2seas-los-cabos-casa-paraiso-2
 f_affiliate: cms/affiliates/2seas-los-cabos.md

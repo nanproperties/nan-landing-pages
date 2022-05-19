@@ -34,7 +34,7 @@ published-on: '2022-05-13T23:31:22.106Z'
 f_if-team-is-this-person-the-team-s-lead: false
 f_headshot:
   url: >-
-    /assets/external/627ee9011115e6e34034abfe_optimized_663d59c5c95b9064e84d75c7e9820e89.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/627ee9011115e6e34034abfe_optimized_663d59c5c95b9064e84d75c7e9820e89.jpeg
   alt: null
 layout: '[agents].html'
 tags: agents
