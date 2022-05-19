@@ -1,0 +1,15 @@
+<svg width="432" height="432" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#f16624" fill="none" d="M9 7H2V22H9V7Z"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#f16624" fill="none" d="M22 2H9V22H22V2Z"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#f16624" d="M14 6H12V7H14V6Z"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#f16624" d="M19 6H17V7H19V6Z"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#f16624" d="M14 14H12V15H14V14Z"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#f16624" d="M19 14H17V15H19V14Z"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#f16624" d="M14 10H12V11H14V10Z"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#f16624" d="M19 10H17V11H19V10Z"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#f16624" d="M14 18H12V19H14V18Z"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#f16624" d="M19 18H17V19H19V18Z"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#f16624" d="M6 14H5V15H6V14Z"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#f16624" d="M6 10H5V11H6V10Z"></path>
+<path stroke-linecap="round" stroke-width="1" stroke="#f16624" d="M6 18H5V19H6V18Z"></path>
+</svg>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html data-wf-page="6081e4971f9db931327f63b9" data-wf-site="60768515da5167820baefabe"><head><link rel="preconnect" crossorigin="true" href="https://assets.website-files.com">{%- seo seo -%}
+  <meta charset="utf-8">
+  
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  
+  <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css">
+  <script src="https://use.typekit.net/qys7muq.js" type="text/javascript"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="{{ settings.site.favicon | default: "/assets/images/favicon.png" }}" rel="shortcut icon" type="image/x-icon">
+  <link href="{{ settings.site.apple_touch_icon | default: "/assets/images/webclip.png" }}" rel="apple-touch-icon">
+{{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<style>.w-video.w-embed {
+            aspect-ratio: 16 / 9;
+        }</style></head>
+<body>
+  <div class="page-wrapper">
+    <div class="custom-page">
+      {%- include "partials/custom-css" -%}
+      <div class="section development-content-section wf-section">
+        <aside id="w-node-c4348008-d97f-5a0a-0a57-cabeac9dd231-327f63b9" class="aside development-aside">
+          <div class="aside-headshot-wrapper">{%- assign agentsOfNew-homes = f_agent-2 | resolveReference -%}<img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;24vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" loading="lazy" src="{{ agentsOfNew-homes.data.f_headshot.url }}" alt="{{ agentsOfNew-homes.data.f_headshot.alt }}" class="image-3"></div>
+          <div class="aside-name-wrapper">
+            {%- assign agentsOfNew-homes = f_agent-2 | resolveReference -%}<div class="aside-agent-name">{{ agentsOfNew-homes.data.title }}</div>
+            <div class="aside-agent-title">{{ agentsOfNew-homes.data.f_title }}</div>
+            <a href="{{ "tel:" | append: agentsOfNew-homes.data.f_cell-phone }}" class="aside-agent-phone">{{ agentsOfNew-homes.data.f_cell-phone }}</a>
+            <a href="{{ "mailto:" | append: agentsOfNew-homes.data.f_email }}" class="aside-agent-email">{{ agentsOfNew-homes.data.f_email }}</a>
+            <a href="{{ links.-41a1c015 }}" class="primary-button w-button">{{ texts.-67d71d58 }}</a>
+          </div>
+        </aside>
+        <section class="content-wrapper development-content-wrapper">
+          <div class="development-images-wrapper">
+            <div class="development-details-info-title-wrapper mobile">
+              <div class="development-details-welcome">{{ texts.-706a8fc7 }}</div>
+              <div class="development-details-welcome">{{ title }}</div>
+            </div>
+            {%- if f_development-youtube-video-id -%}<div class="development-featured-video-embed w-embed w-iframe"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/{{ f_development-youtube-video-id }}" frameborder="0" allowfullscreen=""></iframe></div></div>{%- endif -%}
+            {%- unless f_development-youtube-video-id -%}<div id="w-node-_5e8153d8-26e9-4761-2c04-9f321073058c-327f63b9" class="development-featured-image-wrapper">
+              {%- if f_coming-soon == true -%}<div class="development-page-coming-soon-block">
+                <div class="development-page-coming-soon-text">{{ texts.32939fba }}</div>
+              </div>{%- endif -%}{%- unless f_development-video-url -%}<img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;70vw&quot;}]" loading="lazy" src="{{ f_featured-image.url }}" id="development-featured-image" alt="{{ f_featured-image.alt }}" class="development-featured-image">{%- endunless -%}
+            </div>{%- endunless -%}
+            {%- assign setItems = f_image-gallery -%}<div id="development-images-row" class="development-images-row-wrapper w-dyn-list">
+              {%- unless setItems.length == 0 -%}<div role="list" class="development-images-row-list w-dyn-items">
+                {%- for setItem in setItems -%}<div role="listitem" class="development-images-row-item w-dyn-item"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;44vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;10vw&quot;}]" loading="lazy" src="{{ setItem.url }}" alt="{{ setItem.alt }}" class="development-images-row-item-image"></div>{%- endfor -%}
+              </div>{%- endunless -%}
+              {%- if setItems.length == 0 -%}<div class="empty-state w-dyn-empty">
+                <div>{{ texts.3d503d2b }}</div>
+              </div>{%- endif -%}
+            <template><div id="development-images-row" class="development-images-row-wrapper w-dyn-list">
+              <div role="list" class="development-images-row-list w-dyn-items">
+                <div role="listitem" class="development-images-row-item w-dyn-item"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;44vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;10vw&quot;}]" loading="lazy" src="{# setItem.url #}" alt="{# setItem.alt #}" class="development-images-row-item-image"></div>
+              </div>
+              <div class="empty-state w-dyn-empty">
+                <div>{# texts.3d503d2b #}</div>
+              </div>
+            </div></template></div>
+          </div>
+          <div class="development-details-wrapper">
+            <div class="development-details-info-wrapper">
+              <div id="w-node-_384824ad-e405-a1e6-b88e-497a7be7fca0-327f63b9" class="development-details-info-title-wrapper desktop">
+                <div class="development-details-welcome desktop">{{ texts.-706a8fc7 }}</div>
+                <div class="development-details-welcome">{{ title }}</div>
+              </div>
+              <div class="development-details-info-specs-wrapper">
+                <div id="w-node-_08919e79-afd1-47a3-02fb-fefbe193d3d0-327f63b9" class="development-details-info-spec">
+                  <div class="info-spec-number">{{ f_bedrooms }}</div>
+                  <div class="info-spec-text">{{ texts.58022b37 }}</div>
+                </div>
+                <div id="w-node-_8d9c8522-5f0d-3772-46b8-7ab2c5e16a8a-327f63b9" class="development-details-info-spec">
+                  <div class="info-spec-number">{{ f_bathrooms }}</div>
+                  <div class="info-spec-text">{{ texts.463c13c5 }}</div>
+                </div>
+                <div id="w-node-_4bbe9c56-f0c8-af0f-de5b-b1335d06972f-327f63b9" class="development-details-info-spec">
+                  <div class="info-spec-number">{{ f_square-footage }}</div>
+                  <div class="info-spec-text">{{ texts.-15ef51b0 }}</div>
+                </div>
+              </div>
+              <div class="development-details-info-locations-wrapper">
+                <div id="w-node-c293aa2b-59ab-52af-a21c-780a820e214a-327f63b9" class="development-details-info-location-icon-wrapper">
+                  <div class="w-embed"><img src="{{ images.355215c.url }}" loading="lazy" sizes="50px" alt="{{ images.355215c.alt | trim | escape }}" class="image-4"></div>
+                </div>
+                <div id="w-node-_2395cdc5-9507-dce7-7d51-c504613bf263-327f63b9" class="development-details-info-location-city-wrapper">
+                  <div class="text-block-7">{{ f_city }}</div>
+                </div>
+              </div>
+            </div>
+            <div id="w-node-f8500d87-b18a-de10-7eb7-9f698edfcf48-327f63b9" class="development-details-map-wrapper">
+              <div class="w-embed w-iframe"><iframe allowfullscreen="" frameborder="0" height="300" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBqJ_tTRZkle-Wnn9N7I7ahuz9DhLfeZag&amp;q={{ item.data['street-address'] }},+{{ item.data['city'] }}" style="border:0" width="100%"></iframe></div>
+            </div>
+          </div>
+          <div class="development-descripton-wrapper">
+            {%- if f_development-headline -%}<h2 class="h4 development-description-title">{{ f_development-headline }}</h2>{%- endif -%}
+            <p class="paragraph-1">{{ f_description }}</p>
+          </div>
+        </section>
+      </div>
+      {%- unless f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info == true -%}{%- unless f_look-book-q2-please-enter-pardot-form-url -%}<div>
+        {%- include "partials/cms-form" -%}
+      </div>{%- endunless -%}{%- endunless -%}
+      {%- if f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info == true -%}{%- if f_look-book-q2-please-enter-pardot-form-url -%}<div id="cms-form" class="section cms-form wf-section">
+        <h2 class="h3 contact-us-title">{{ texts.4bce573e }}</h2>
+        <div class="w-embed w-iframe"><iframe allowtransparency="true" frameborder="0" height="700" src="{{ f_look-book-q2-please-enter-pardot-form-url }}" style="border: 0" type="text/html" width="100%"></iframe></div>
+      </div>{%- endif -%}{%- endif -%}
+    </div>
+  </div>
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js" type="text/javascript" crossorigin="anonymous"></script>
+  <script src="/assets/js/webflow.js" type="text/javascript"></script>
+  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
+
+<script src="/assets/js/udesly-11ty.min.js" async="" defer=""></script>{{ settings.site.footer_additional_content }}</body></html>

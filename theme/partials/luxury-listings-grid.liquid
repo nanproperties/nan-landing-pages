@@ -1,0 +1,15 @@
+<div class="luxury-listings-grid-wrapper w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="luxury-listings-grid w-dyn-items">
+            {%- for item in collection -%}<div role="listitem" class="luxury-listings-item-wrapper w-dyn-item">
+              <a href="{{ item.data.f_url }}" class="luxury-listings-item-wrapper-anchor w-inline-block"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_image.url }}" alt="{{ item.data.title }}" class="luxury-listings-image">
+                <div class="luxury-listings-descript">
+                  <div class="luxury-listing-item-title">{{ item.data.title }}</div>
+                  <div class="luxury-listing-item-title">{{ texts.2192 }}</div>
+                </div>
+              </a>
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+            <div>{{ texts.3d503d2b }}</div>
+          </div>{%- endif -%}
+        </div>
