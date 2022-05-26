@@ -3,27 +3,25 @@ f_destination-url: https://www.nanproperties.com//featured-lease-buildings/stell
 title: Stella at Riverstone
 slug: stella-at-riverstone
 f_background-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61d8dfe703979d3de0858a5f_Stella-at-Riverstone_035_v1-1030x585.jpeg
-  alt: null
+    url: >-
+        https://development.nanproperties.com/assets/external/61d8dfe703979d3de0858a5f_stella-at-riverstone_035_v1-1030x585.jpeg
+    alt: null
 f_area: cms/leasing-areas/outer-city-communities.md
-updated-on: '2022-03-28T17:25:40.327Z'
-created-on: '2022-01-08T00:50:47.257Z'
-published-on: '2022-03-28T17:37:31.387Z'
+updated-on: "2022-03-28T17:25:40.327Z"
+created-on: "2022-01-08T00:50:47.257Z"
+published-on: "2022-03-28T17:37:31.387Z"
 f_city: Sugar Land
 f_gallery-images:
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241ef822e888e802b2692c8_Stella-at-Riverstone-3.jpeg
-    alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241ef82ad1a5bba780147ca_Stella-at-Riverstone-2.jpeg
-    alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241ef82ddcb26ac1de3576c_Stella-at-Riverstone_035_v1-1030x585.jpeg
-    alt: null
+    - url: https://development.nanproperties.com/assets/external/6241ef822e888e802b2692c8_stella-at-riverstone-3.jpeg
+      alt: null
+    - url: https://development.nanproperties.com/assets/external/6241ef82ad1a5bba780147ca_stella-at-riverstone-2.jpeg
+      alt: null
+    - url: >-
+          https://development.nanproperties.com/assets/external/6241ef82ddcb26ac1de3576c_stella-at-riverstone_035_v1-1030x585.jpeg
+      alt: null
 f_street-address: 4711 LJ Pky
-f_zip-code: '77479'
-layout: '[leasing-buildings].html'
+f_zip-code: "77479"
+layout: "[leasing-buildings].html"
 tags: leasing-buildings
 ---
 
