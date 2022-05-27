@@ -79,106 +79,6 @@ collections:
             name: additional_tags
             widget: text
             required: false
-  - name: affiliate_listings
-    label: Affiliate Listings
-    folder: cms/affiliate-listings
-    create: true
-    identifier_field: name
-    extension: md
-    slug: '{{slug}}'
-    fields:
-      - hint: ''
-        name: title
-        label: Name
-        widget: string
-        required: true
-      - hint: ''
-        name: created-on
-        label: Created On
-        widget: datetime
-        required: false
-      - hint: ''
-        name: updated-on
-        label: Updated On
-        widget: datetime
-        required: false
-      - hint: ''
-        name: published-on
-        label: Published On
-        widget: datetime
-        required: false
-      - hint: ''
-        name: f_street-address
-        label: Street Address
-        widget: string
-        required: false
-      - hint: ''
-        name: f_city
-        label: City
-        widget: string
-        required: false
-      - hint: Abbreviated.
-        name: f_state
-        label: State
-        widget: string
-        required: false
-      - hint: ''
-        name: f_description
-        label: Description
-        widget: text
-        required: false
-      - hint: ''
-        name: f_list-price
-        label: List Price
-        widget: string
-        required: false
-      - hint: ''
-        name: f_listing-url
-        label: Listing URL
-        widget: string
-        required: false
-      - hint: ''
-        name: f_featured-image
-        label: Featured Image
-        widget: object
-        required: false
-        fields:
-          - hint: ''
-            name: url
-            label: Image
-            widget: image
-            required: false
-            allow_multiple: false
-          - hint: Image Alt
-            name: alt
-            label: alt
-            widget: string
-            required: false
-      - hint: ''
-        name: f_affiliate
-        label: Affiliate
-        widget: relation
-        required: true
-        collection: affiliates
-        value_field: cms/affiliates/{{slug}}.md
-        search_fields:
-          - slug
-          - name
-        display_fields:
-          - title
-        multiple: false
-      - label: Tags
-        widget: hidden
-        name: tags
-        default: affiliate-listings
-      - label: Layout
-        widget: hidden
-        name: layout
-        default: '[affiliate-listings].html'
-      - label: Publish Date
-        name: date
-        widget: datetime
-      - *ref_0
   - name: affiliate_regions
     label: Affiliate Regions
     folder: cms/affiliate-regions
@@ -1133,174 +1033,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-  - name: affiliates
-    label: Featured Affiliates
-    folder: cms/affiliates
-    create: true
-    identifier_field: name
-    extension: md
-    slug: '{{slug}}'
-    fields:
-      - hint: ''
-        name: title
-        label: Affiliate Name
-        widget: string
-        required: true
-      - hint: ''
-        name: created-on
-        label: Created On
-        widget: datetime
-        required: false
-      - hint: ''
-        name: updated-on
-        label: Updated On
-        widget: datetime
-        required: false
-      - hint: ''
-        name: published-on
-        label: Published On
-        widget: datetime
-        required: false
-      - label: Affiliate Description
-        name: body
-        widget: markdown
-        required: false
-      - hint: ''
-        name: f_affiliate-name
-        label: Affiliate Name
-        widget: relation
-        required: false
-        collection: all_affiliates
-        value_field: cms/all-affiliates/{{slug}}.md
-        search_fields:
-          - slug
-          - name
-        display_fields:
-          - title
-        multiple: false
-      - hint: ''
-        name: f_region-2
-        label: Region
-        widget: relation
-        required: false
-        collection: affiliate_regions
-        value_field: cms/affiliate-regions/{{slug}}.md
-        search_fields:
-          - slug
-          - name
-        display_fields:
-          - title
-        multiple: false
-      - hint: ''
-        name: f_header-image
-        label: Header Image
-        widget: object
-        required: false
-        fields:
-          - hint: ''
-            name: url
-            label: Image
-            widget: image
-            required: false
-            allow_multiple: false
-          - hint: Image Alt
-            name: alt
-            label: alt
-            widget: string
-            required: false
-      - hint: ''
-        name: f_things-to-do-1-headline
-        label: "Things To Do 1 –\_Headline"
-        widget: string
-        required: false
-      - hint: ''
-        name: f_things-to-do-1-description
-        label: "Things To Do 1 –\_Description"
-        widget: text
-        required: false
-      - hint: ''
-        name: f_things-to-do-1-image
-        label: "Things To Do 1 –\_Image"
-        widget: object
-        required: false
-        fields:
-          - hint: ''
-            name: url
-            label: Image
-            widget: image
-            required: false
-            allow_multiple: false
-          - hint: Image Alt
-            name: alt
-            label: alt
-            widget: string
-            required: false
-      - hint: ''
-        name: f_things-to-do-2-headline
-        label: "Things To Do 2 –\_Headline"
-        widget: string
-        required: false
-      - hint: ''
-        name: f_things-to-do-2-description
-        label: "Things To Do 2 –\_Description"
-        widget: text
-        required: false
-      - hint: ''
-        name: f_things-to-do-2-image
-        label: "Things To Do 2 –\_Image"
-        widget: object
-        required: false
-        fields:
-          - hint: ''
-            name: url
-            label: Image
-            widget: image
-            required: false
-            allow_multiple: false
-          - hint: Image Alt
-            name: alt
-            label: alt
-            widget: string
-            required: false
-      - hint: ''
-        name: f_things-to-do-3-headline
-        label: "Things To Do 3 –\_Headline"
-        widget: string
-        required: false
-      - hint: ''
-        name: f_things-to-do-3-description
-        label: "Things To Do 3 –\_Description"
-        widget: text
-        required: false
-      - hint: ''
-        name: f_things-to-do-3-image
-        label: "Things To Do 3 –\_Image"
-        widget: object
-        required: false
-        fields:
-          - hint: ''
-            name: url
-            label: Image
-            widget: image
-            required: false
-            allow_multiple: false
-          - hint: Image Alt
-            name: alt
-            label: alt
-            widget: string
-            required: false
-      - label: Tags
-        widget: hidden
-        name: tags
-        default: affiliates
-      - label: Layout
-        widget: hidden
-        name: layout
-        default: '[affiliates].html'
-      - label: Publish Date
-        name: date
-        widget: datetime
-      - *ref_0
   - name: leasing_areas
     label: Leasing Areas
     folder: cms/leasing-areas
@@ -1618,6 +1350,66 @@ collections:
         widget: hidden
         name: layout
         default: '[market-areas].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: nan_cares_item
+    label: Nan Cares Items
+    folder: cms/nan-cares-item
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Title
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_description
+        label: Description
+        widget: text
+        required: false
+      - hint: ''
+        name: f_date
+        label: Date
+        widget: datetime
+        required: true
+      - hint: ''
+        name: f_year
+        label: Year
+        widget: number
+        required: true
+      - hint: Just the video ID - NOT the full url.
+        name: f_youtube-video-id
+        label: YouTube Video ID
+        widget: string
+        required: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: nan-cares-item
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[nan-cares-item].html'
       - label: Publish Date
         name: date
         widget: datetime
@@ -2038,6 +1830,11 @@ collections:
         label: Featured Video YouTube ID
         widget: string
         required: false
+      - hint: This will replace the image next to the paragraph
+        name: f_mini-feature-video-youtube-id
+        label: Mini Feature Video YouTube ID
+        widget: string
+        required: false
       - label: Tags
         widget: hidden
         name: tags
@@ -2205,174 +2002,15 @@ collections:
             name: title
             widget: hidden
             default: Texts
-          - hint: 'Original text: Admin Page, key: -63b2a700'
-            label: Text
-            name: '-63b2a700'
-            widget: string
-          - hint: 'Original text: Top-Level Pages, key: -6cb828b0'
-            label: Text
-            name: '-6cb828b0'
-            widget: string
-          - hint: 'Original text: Nan New Homes (aka Developments), key: 54e5a51'
-            label: Text
-            name: 54e5a51
-            widget: string
-          - hint: 'Original text: Global Properties, key: 707d69d0'
-            label: Text
-            name: 707d69d0
-            widget: string
-          - hint: 'Original text: Developer Services, key: -11c8b3cc'
-            label: Text
-            name: '-11c8b3cc'
-            widget: string
-          - hint: 'Original text: Team, key: 27b67d'
-            label: Text
-            name: 27b67d
-            widget: string
-          - hint: 'Original text: Press, key: 49cb423'
-            label: Text
-            name: 49cb423
-            widget: string
-          - hint: 'Original text: Luxury, key: -77a6a0d3'
-            label: Text
-            name: '-77a6a0d3'
-            widget: string
-          - hint: 'Original text: Selling, key: -26dcb8d0'
-            label: Text
-            name: '-26dcb8d0'
-            widget: string
-          - hint: 'Original text: About, key: 3c2336d'
-            label: Text
-            name: 3c2336d
-            widget: string
-          - hint: 'Original text: About Christie''s, key: -5f4b23c8'
-            label: Text
-            name: '-5f4b23c8'
-            widget: string
-          - hint: 'Original text: Leasing, key: 663fd477'
-            label: Text
-            name: 663fd477
-            widget: string
-          - hint: 'Original text: Directory, key: 3e123e4d'
-            label: Text
-            name: 3e123e4d
-            widget: string
-          - hint: 'Original text: Builders List, key: 5dfe2386'
-            label: Text
-            name: 5dfe2386
-            widget: string
-          - hint: 'Original text: Full Developments List, key: -76faaa0b'
-            label: Text
-            name: '-76faaa0b'
-            widget: string
-          - hint: "Original text: Featured Affiliates\_List, key: 7eb11c66"
-            label: Text
-            name: 7eb11c66
-            widget: string
-          - hint: 'Original text: All Affiliates By Region, key: 6a1a6562'
-            label: Text
-            name: 6a1a6562
-            widget: string
-          - hint: 'Original text: Africa, key: 74bdc69a'
-            label: Text
-            name: 74bdc69a
-            widget: string
-          - hint: 'Original text: Asia, key: 1f48ea'
-            label: Text
-            name: 1f48ea
-            widget: string
-          - hint: 'Original text: Australia, key: -50e356a0'
-            label: Text
-            name: '-50e356a0'
-            widget: string
-          - hint: 'Original text: Europe, key: 7c64a1c2'
-            label: Text
-            name: 7c64a1c2
-            widget: string
-          - hint: "Original text: North &\_Central America, key: -3cfc60d2"
-            label: Text
-            name: '-3cfc60d2'
-            widget: string
-          - hint: 'Original text: South America, key: -31849185'
-            label: Text
-            name: '-31849185'
-            widget: string
-          - hint: 'Original text: Builders, key: -516b97a8'
-            label: Text
-            name: '-516b97a8'
-            widget: string
-          - hint: 'Original text: No items found., key: 3d503d2b'
-            label: Text
-            name: 3d503d2b
-            widget: string
-          - hint: 'Original text: Developments, key: 6a655eb8'
-            label: Text
-            name: 6a655eb8
-            widget: string
           - hint: >-
-              Original text: Featured Affiliates (Affiliates of the Month), key:
-              -7a565d79
+              Original text: If you are an admin, click here to login., key:
+              -6c687c2e
             label: Text
-            name: '-7a565d79'
+            name: '-6c687c2e'
             widget: string
-          - hint: 'Original text: All Affiliates, key: -3d8ff31b'
+          - hint: 'Original text: LOGIN, key: 453f749'
             label: Text
-            name: '-3d8ff31b'
-            widget: string
-          - hint: "Original text: North\_&\_Central America, key: bf4aeae"
-            label: Text
-            name: bf4aeae
-            widget: string
-          - hint: 'Original text: Explore Properties In, key: -2b0acbbb'
-            label: Text
-            name: '-2b0acbbb'
-            widget: string
-          - hint: 'Original text: Featured Locations, key: 1f0059ec'
-            label: Text
-            name: 1f0059ec
-            widget: string
-          - hint: 'Original text: About Christie''s Int''l Real Estate, key: 263edd3a'
-            label: Text
-            name: 263edd3a
-            widget: string
-          - hint: >-
-              Original text: Christie's International Real Estate has
-              successfully marketed high-value real estate around the world for
-              more than 30 years. Through its New York City brokerage and
-              invitation-only Affiliate network spanning 48 countries,
-              Christie's International Real Estate offers incomparable services
-              to a global clientele at the luxury end of the residential
-              property market. The company has luxury real estate offices in
-              London, New York City, Hong Kong, Moscow, Los Angeles, Chicago,
-              and Palm Beach, and its affiliated brokerages have recorded
-              approximately US$500 billion of real estate transactions over the
-              last five years., key: -68de67ce
-            label: Text
-            name: '-68de67ce'
-            widget: text
-          - hint: "Original text: VISIT\_WEBSITE, key: 47b97206"
-            label: Text
-            name: 47b97206
-            widget: string
-          - hint: 'Original text: Welcome To, key: -706a8fc7'
-            label: Text
-            name: '-706a8fc7'
-            widget: string
-          - hint: 'Original text: ,, key: 2c'
-            label: Text
-            name: 2c
-            widget: string
-          - hint: 'Original text: Featured Listings In, key: 62ca37a4'
-            label: Text
-            name: 62ca37a4
-            widget: string
-          - hint: "Original text: LEARN\_MORE ››, key: 7dab0d6f"
-            label: Text
-            name: 7dab0d6f
-            widget: string
-          - hint: 'Original text: Things To Do In, key: -32023090'
-            label: Text
-            name: '-32023090'
+            name: 453f749
             widget: string
           - hint: 'Original text: CONTACT US ››, key: -41ce341e'
             label: Text
@@ -2386,9 +2024,17 @@ collections:
             label: Text
             name: 56a75639
             widget: string
+          - hint: 'Original text: No items found., key: 3d503d2b'
+            label: Text
+            name: 3d503d2b
+            widget: string
           - hint: "Original text: CONTACT\_ME\_››, key: -67d71d58"
             label: Text
             name: '-67d71d58'
+            widget: string
+          - hint: 'Original text: Welcome To, key: -706a8fc7'
+            label: Text
+            name: '-706a8fc7'
             widget: string
           - hint: "Original text: COMING\_SOON, key: 32939fba"
             label: Text
@@ -2440,6 +2086,10 @@ collections:
             label: Text
             name: 26ecd4
             widget: string
+          - hint: 'Original text: ,, key: 2c'
+            label: Text
+            name: 2c
+            widget: string
           - hint: "Original text: VIEW\_DETAILS, key: -45adb8d9"
             label: Text
             name: '-45adb8d9'
@@ -2456,26 +2106,6 @@ collections:
             label: Text
             name: 3cfe7c0
             widget: string
-          - hint: >-
-              Original text: Find Stunning Properties Around The Globe., key:
-              -7731017f
-            label: Text
-            name: '-7731017f'
-            widget: string
-          - hint: >-
-              Original text: Christie's International Real Estate connects
-              buyers and sellers of the world's most important properties. Our
-              real estate company is driven by the global span and expertise of
-              our Affiliate network, which extends to more than 138 affiliates
-              across 940 offices in 48 countries and a combined annual sales
-              volume of approximately $115 billion in 2016. Our unique
-              international perspective on the worlds of art and luxury,
-              together with our unparalleled service, has made Christie's
-              International Real Estate the global authority in the marketing of
-              distinctive properties., key: 90d89df
-            label: Text
-            name: 90d89df
-            widget: text
           - hint: "Original text: Press &\_Media, key: -835d433"
             label: Text
             name: '-835d433'
@@ -3248,6 +2878,20 @@ collections:
             name: 48a6545
             widget: string
           - hint: >-
+              Original text: Christie's International Real Estate connects
+              buyers and sellers of the world's most important properties. Our
+              real estate company is driven by the global span and expertise of
+              our Affiliate network, which extends to more than 138 affiliates
+              across 940 offices in 48 countries and a combined annual sales
+              volume of approximately $115 billion in 2016. Our unique
+              international perspective on the worlds of art and luxury,
+              together with our unparalleled service, has made Christie's
+              International Real Estate the global authority in the marketing of
+              distinctive properties., key: 90d89df
+            label: Text
+            name: 90d89df
+            widget: text
+          - hint: >-
               Original text: Christie's International Global Network, key:
               -57b094c2
             label: Text
@@ -3825,6 +3469,10 @@ collections:
             label: Text
             name: '-2fc280ef'
             widget: string
+          - hint: 'Original text: About, key: 3c2336d'
+            label: Text
+            name: 3c2336d
+            widget: string
           - hint: 'Original text: Contact, key: -64104400'
             label: Text
             name: '-64104400'
@@ -3946,6 +3594,30 @@ collections:
           - hint: 'Original text: Select a Region, key: 400dba37'
             label: Text
             name: 400dba37
+            widget: string
+          - hint: 'Original text: Africa, key: 74bdc69a'
+            label: Text
+            name: 74bdc69a
+            widget: string
+          - hint: 'Original text: Asia, key: 1f48ea'
+            label: Text
+            name: 1f48ea
+            widget: string
+          - hint: 'Original text: Australia, key: -50e356a0'
+            label: Text
+            name: '-50e356a0'
+            widget: string
+          - hint: 'Original text: Europe, key: 7c64a1c2'
+            label: Text
+            name: 7c64a1c2
+            widget: string
+          - hint: "Original text: North &\_Central America, key: -3cfc60d2"
+            label: Text
+            name: '-3cfc60d2'
+            widget: string
+          - hint: 'Original text: South America, key: -31849185'
+            label: Text
+            name: '-31849185'
             widget: string
           - hint: 'Original text: WEBSITE, key: 73c56c7b'
             label: Text
@@ -4178,6 +3850,10 @@ collections:
             label: Text
             name: 78c03151
             widget: text
+          - hint: 'Original text: Leasing, key: 663fd477'
+            label: Text
+            name: 663fd477
+            widget: string
           - hint: >-
               Original text: Upscale Living In Every Corner Of Houston., key:
               e17bcd8
@@ -4217,6 +3893,10 @@ collections:
           - hint: 'Original text: Browse Our Website, key: -60410ef'
             label: Text
             name: '-60410ef'
+            widget: string
+          - hint: 'Original text: About Christie''s, key: -5f4b23c8'
+            label: Text
+            name: '-5f4b23c8'
             widget: string
           - hint: 'Original text: Meet Our Agents, key: -2ff59505'
             label: Text
@@ -4410,6 +4090,29 @@ collections:
             label: Text
             name: '-7d9e9949'
             widget: text
+          - hint: 'Original text: About Christie''s Int''l Real Estate, key: 263edd3a'
+            label: Text
+            name: 263edd3a
+            widget: string
+          - hint: >-
+              Original text: Christie's International Real Estate has
+              successfully marketed high-value real estate around the world for
+              more than 30 years. Through its New York City brokerage and
+              invitation-only Affiliate network spanning 48 countries,
+              Christie's International Real Estate offers incomparable services
+              to a global clientele at the luxury end of the residential
+              property market. The company has luxury real estate offices in
+              London, New York City, Hong Kong, Moscow, Los Angeles, Chicago,
+              and Palm Beach, and its affiliated brokerages have recorded
+              approximately US$500 billion of real estate transactions over the
+              last five years., key: -68de67ce
+            label: Text
+            name: '-68de67ce'
+            widget: text
+          - hint: "Original text: VISIT\_WEBSITE, key: 47b97206"
+            label: Text
+            name: 47b97206
+            widget: string
           - hint: >-
               Original text: Nan Properties Developer Services provides
               developers a comprehensive and a strategic approach to program
@@ -5237,6 +4940,16 @@ collections:
             label: Text
             name: 7a5442e1
             widget: string
+          - hint: "Original text: JUMP\_TO\_A\_YEAR:, key: -799c9af5"
+            label: Text
+            name: '-799c9af5'
+            widget: string
+          - hint: >-
+              Original text: Find Stunning Properties Around The Globe., key:
+              -7731017f
+            label: Text
+            name: '-7731017f'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -5245,95 +4958,9 @@ collections:
             name: title
             widget: hidden
             default: Links
-          - hint: 'Original link: #, key: 23'
+          - hint: 'Original link: /assets/null/edit1., key: -6f0e2aee'
             label: Link
-            name: '23'
-            widget: string
-          - hint: >-
-              Original link: https://www.nanlandingpages.com/admin, key:
-              -37bfa8b
-            label: Link
-            name: '-37bfa8b'
-            widget: string
-          - hint: 'Original link: /new-homes, key: 747771b8'
-            label: Link
-            name: 747771b8
-            widget: string
-          - hint: 'Original link: /global-properties, key: -4ab31ab2'
-            label: Link
-            name: '-4ab31ab2'
-            widget: string
-          - hint: 'Original link: /developer-services/team, key: 3b21379c'
-            label: Link
-            name: 3b21379c
-            widget: string
-          - hint: 'Original link: /press, key: 56936974'
-            label: Link
-            name: '56936974'
-            widget: string
-          - hint: 'Original link: /luxury, key: 753953fc'
-            label: Link
-            name: 753953fc
-            widget: string
-          - hint: 'Original link: /selling, key: -77be13bf'
-            label: Link
-            name: '-77be13bf'
-            widget: string
-          - hint: 'Original link: /about, key: 55b8e8be'
-            label: Link
-            name: 55b8e8be
-            widget: string
-          - hint: 'Original link: /about-christies, key: 168bbaab'
-            label: Link
-            name: 168bbaab
-            widget: string
-          - hint: 'Original link: /leasing, key: 155e7988'
-            label: Link
-            name: '155e7988'
-            widget: string
-          - hint: 'Original link: #Builders, key: -c106a85'
-            label: Link
-            name: '-c106a85'
-            widget: string
-          - hint: 'Original link: #Developments, key: 64f425b'
-            label: Link
-            name: 64f425b
-            widget: string
-          - hint: 'Original link: #Featured-Affiliates, key: 1760d6c2'
-            label: Link
-            name: 1760d6c2
-            widget: string
-          - hint: 'Original link: #All-Affiliates, key: -64f3586b'
-            label: Link
-            name: '-64f3586b'
-            widget: string
-          - hint: 'Original link: #Africa, key: -4fc81f83'
-            label: Link
-            name: '-4fc81f83'
-            widget: string
-          - hint: 'Original link: #Asia, key: 20c7f8d'
-            label: Link
-            name: 20c7f8d
-            widget: string
-          - hint: 'Original link: #Australia, key: 1527209d'
-            label: Link
-            name: 1527209d
-            widget: string
-          - hint: 'Original link: #Europe, key: -4821445b'
-            label: Link
-            name: '-4821445b'
-            widget: string
-          - hint: 'Original link: #North-Central-America, key: 32c1ac4b'
-            label: Link
-            name: 32c1ac4b
-            widget: string
-          - hint: 'Original link: #South-America, key: -9c2b975'
-            label: Link
-            name: '-9c2b975'
-            widget: string
-          - hint: 'Original link: https://www.christiesrealestate.com, key: -2d417c0f'
-            label: Link
-            name: '-2d417c0f'
+            name: '-6f0e2aee'
             widget: string
           - hint: 'Original link: #cms-form, key: -41a1c015'
             label: Link
@@ -5358,13 +4985,6 @@ collections:
           - hint: 'Original link: #Spring-Branch, key: 580a421f'
             label: Link
             name: 580a421f
-            widget: string
-          - hint: >-
-              Original link:
-              https://www.nanproperties.com/global-properties/africa, key:
-              -2086f160
-            label: Link
-            name: '-2086f160'
             widget: string
           - hint: >-
               Original link:
@@ -5405,6 +5025,10 @@ collections:
               2f004efe
             label: Link
             name: 2f004efe
+            widget: string
+          - hint: 'Original link: #, key: 23'
+            label: Link
+            name: '23'
             widget: string
           - hint: >-
               Original link: https://www.nanproperties.com/christies, key:
@@ -5676,6 +5300,10 @@ collections:
             label: Link
             name: 13858cdc
             widget: string
+          - hint: 'Original link: /about, key: 55b8e8be'
+            label: Link
+            name: 55b8e8be
+            widget: string
           - hint: 'Original link: /assets/null/christies., key: -56d297a1'
             label: Link
             name: '-56d297a1'
@@ -5683,6 +5311,10 @@ collections:
           - hint: 'Original link: /assets/null/agents., key: -416baa2b'
             label: Link
             name: '-416baa2b'
+            widget: string
+          - hint: 'Original link: https://www.christiesrealestate.com, key: -2d417c0f'
+            label: Link
+            name: '-2d417c0f'
             widget: string
           - hint: 'Original link: #hero, key: 21e069d'
             label: Link
@@ -5718,6 +5350,37 @@ collections:
           - hint: 'Original link: #our-team, key: 426f9161'
             label: Link
             name: 426f9161
+            widget: string
+          - hint: 'Original link: #year-2022, key: 469023cb'
+            label: Link
+            name: 469023cb
+            widget: string
+          - hint: 'Original link: #year-2021, key: 469023ca'
+            label: Link
+            name: 469023ca
+            widget: string
+          - hint: 'Original link: #year-2019, key: 469023b3'
+            label: Link
+            name: 469023b3
+            widget: string
+          - hint: 'Original link: #year-2018, key: 469023b2'
+            label: Link
+            name: 469023b2
+            widget: string
+          - hint: 'Original link: #year-2017, key: 469023b1'
+            label: Link
+            name: 469023b1
+            widget: string
+          - hint: 'Original link: #year-2016, key: 469023b0'
+            label: Link
+            name: 469023b0
+            widget: string
+          - hint: >-
+              Original link:
+              https://www.nanproperties.com/global-properties/africa, key:
+              -2086f160
+            label: Link
+            name: '-2086f160'
             widget: string
       - label: Images
         name: images
@@ -5859,19 +5522,6 @@ collections:
                 required: false
           - label: Image
             name: 5a37530d
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3601644'
             widget: object
             fields:
               - name: url
@@ -6418,6 +6068,19 @@ collections:
                 required: false
           - label: Image
             name: '-3cbca8bd'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3601644'
             widget: object
             fields:
               - name: url

@@ -101,11 +101,40 @@
 							class="content-row-column full-width teams-column"
 						>
 							<div class="content-row-image-wrapper teams-column">
-								<img
+								{%- if f_mini-feature-video-youtube-id -%}
+								<div class="w-embed w-iframe">
+									<style>
+										.embed-container {
+											position: relative;
+											padding-bottom: 56.25%;
+											height: 0;
+											overflow: hidden;
+											max-width: 100%;
+										}
+										.embed-container iframe,
+										.embed-container object,
+										.embed-container embed {
+											position: absolute;
+											top: 0;
+											left: 0;
+											width: 100%;
+											height: 100%;
+										}
+									</style>
+									<div class="embed-container">
+										<iframe
+											src="https://www.youtube.com/embed/{{ f_mini-feature-video-youtube-id }}"
+											frameborder="0"
+											allowfullscreen=""
+										></iframe>
+									</div>
+								</div>
+								{%- endif -%}{%- unless
+								f_mini-feature-video-youtube-id -%}<img
 									src="{{ f_secondary-team-image.url }}"
 									loading="lazy"
 									alt="{{ f_secondary-team-image.alt }}"
-								/>
+								/>{%- endunless -%}
 							</div>
 						</div>
 					</div>
