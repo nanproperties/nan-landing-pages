@@ -3,23 +3,27 @@ f_destination-url: https://www.nanproperties.com//featured-lease-buildings/alta-
 title: Alta Med Main
 slug: alta-med-main
 f_background-image:
-    url: https://development.nanproperties.com/assets/external/61d8dfd593c297847f5343c7_x1600.jpeg
-    alt: null
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61d8dfd593c297847f5343c7_x1600.jpeg
+  alt: null
 f_area: cms/leasing-areas/downtown.md
-updated-on: "2022-03-28T17:35:47.223Z"
-created-on: "2022-01-08T00:50:29.613Z"
-published-on: "2022-03-28T17:37:31.387Z"
+updated-on: '2022-03-28T17:35:47.223Z'
+created-on: '2022-01-08T00:50:29.613Z'
+published-on: '2022-03-28T17:37:31.387Z'
 f_city: Houston
 f_gallery-images:
-    - url: https://development.nanproperties.com/assets/external/6241f1e5be5990c1e5455193_download201.jpg
-      alt: null
-    - url: https://development.nanproperties.com/assets/external/6241f1e6ff1a22135d6bef43_download202.jpg
-      alt: null
-    - url: https://development.nanproperties.com/assets/external/6241f1e69f2488e3d367a330_download.jpg
-      alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241f1e5be5990c1e5455193_download%20(1).jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241f1e6ff1a22135d6bef43_download%20(2).jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6241f1e69f2488e3d367a330_download.jpg
+    alt: null
 f_street-address: 9330 Main St
-f_zip-code: "77025"
-layout: "[leasing-buildings].html"
+f_zip-code: '77025'
+layout: '[leasing-buildings].html'
 tags: leasing-buildings
 ---
 
