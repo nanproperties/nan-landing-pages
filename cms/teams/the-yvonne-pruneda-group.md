@@ -2,13 +2,13 @@
 f_instagram-link: https://instagram.com/yvonnepruneda
 title: The Yvonne Pruneda Group
 f_team-slogan: We Sell Houston.
-f_featured-video-youtube-id: ' '
+f_featured-video-youtube-id: pXJO0bz6ikQ
 f_secondary-team-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/628edefa69f4f564b6836fdc_Yvonne%20Pruneda%20-%20Top%20Producer-2.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62969cddf2da1a63af974532_Yvonne%20%26%20Michael.jpeg
   alt: null
 slug: the-yvonne-pruneda-group
-updated-on: '2022-05-26T02:06:50.500Z'
+updated-on: '2022-05-31T22:56:20.184Z'
 created-on: '2022-05-26T01:59:25.778Z'
 published-on: '2022-05-26T02:06:58.855Z'
 layout: '[teams].html'

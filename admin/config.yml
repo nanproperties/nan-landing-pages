@@ -3247,6 +3247,12 @@ collections:
             label: Text
             name: '1774e3'
             widget: string
+          - hint: >-
+              Original text: Nan Celebrates End of Year Party at MAD Houston,
+              key: -1234ed27
+            label: Text
+            name: '-1234ed27'
+            widget: string
           - hint: "Original text: Our COO\_Provides an Update on Our Newest Office In The Heights Part 2, key: 4713a105"
             label: Text
             name: 4713a105
@@ -4010,6 +4016,88 @@ collections:
             name: 2c9fce8
             widget: text
           - hint: >-
+              Original text: How You Can Find Your Next Home While Streamlining
+              Your Life, key: -20f5ed1c
+            label: Text
+            name: '-20f5ed1c'
+            widget: string
+          - hint: >-
+              Original text: If your family is grown and you still live in the
+              house your children grew up in, you’ve probably given some thought
+              to downsizing. There are many benefits when it comes to downsizing
+              that makes moving into a 55+ or retirement community ideal., key:
+              e44936d
+            label: Text
+            name: e44936d
+            widget: text
+          - hint: 'Original text: 1. , key: bda3'
+            label: Text
+            name: bda3
+            widget: string
+          - hint: 'Original text: Less Maintenance, key: 72e98f0c'
+            label: Text
+            name: 72e98f0c
+            widget: string
+          - hint: >-
+              Original text: As you get older, your household responsibilities
+              can get in the way of your bigger goals, like long-term travel or
+              spontaneous road trips. Less maintenance is a huge draw when it
+              comes to moving into a smaller space. With a smaller home,
+              especially if it’s a new construction home, your routine
+              maintenance will not only be less frequent, but also significantly
+              cheaper. You can spend more time doing things you love with the
+              people you love and less time worrying about your next home
+              repair., key: 63e08ad9
+            label: Text
+            name: 63e08ad9
+            widget: text
+          - hint: 'Original text: 2. , key: c164'
+            label: Text
+            name: c164
+            widget: string
+          - hint: 'Original text: Expand Your Social Circle, key: -713e104'
+            label: Text
+            name: '-713e104'
+            widget: string
+          - hint: >-
+              Original text: Making new friends is always tricky, especially as
+              you get older. Living at a master planned community ensures that
+              you’re surrounded by people that are in the same stage of life as
+              you. This means no noisy or disruptive neighbors and it allows you
+              to build a community of friends that live right down the road.,
+              key: -35337e1e
+            label: Text
+            name: '-35337e1e'
+            widget: text
+          - hint: 'Original text: 3. , key: c525'
+            label: Text
+            name: c525
+            widget: string
+          - hint: 'Original text: Stay In Shape, key: -2f992d53'
+            label: Text
+            name: '-2f992d53'
+            widget: string
+          - hint: "Original text: Staying active as you age can help you maintain independence and decrease your likelihood of sustaining a serious injury if you fall or get hurt. At most communities, \_you have full access to a state of the art fitness center, dog park, or game room that will keep you staying active and in shape., key: -32a6563a"
+            label: Text
+            name: '-32a6563a'
+            widget: text
+          - hint: >-
+              Original text: These reasons and more are why 55+ and retirement
+              communities are the ideal place to live if you want to live in a
+              community that helps your health, finances and social life
+              flourish., key: 62ba7ce9
+            label: Text
+            name: 62ba7ce9
+            widget: text
+          - hint: "Original text: 55+\_Points of Interest, key: 76c4990b"
+            label: Text
+            name: 76c4990b
+            widget: string
+          - hint: 'Original text: Available Communities, key: -d250cd0'
+            label: Text
+            name: '-d250cd0'
+            widget: string
+          - hint: >-
               Original text: In March of 2019, Christie's International Real
               Estate held their Annual Global Conference in Pal Beach, Florida.
               This brought together over 138 affiliates from 940 countries.,
@@ -4339,52 +4427,18 @@ collections:
             label: Text
             name: '-3394e162'
             widget: string
-          - hint: >-
-              Original text: People Vs. Computers: What Does This Mean For The
-              Real Estate Industry?, key: -203f1dd9
+          - hint: 'Original text: Condominiums, key: -40f81ce9'
             label: Text
-            name: '-203f1dd9'
+            name: '-40f81ce9'
             widget: string
-          - hint: >-
-              Original text: In 2019, Zillow launched a new program called
-              Zillow Offers. This program was created to buy homes as-is
-              directly from sellers, usually above asking price. The high offer
-              combined with the fact that no repairs were required made these
-              deals irrefusable for many sellers. Zillow would then flip the
-              home and sell it for profit. The company purchased over 3,800
-              homes through the program in the second quarter of this year.,
-              key: 1b28946c
+          - hint: 'Original text: Estimated Sellout:, key: 4f0c14a2'
             label: Text
-            name: 1b28946c
-            widget: text
-          - hint: >-
-              Original text: The act of big institutions, such as Zillow, mass
-              purchasing homes well above asking price and pushing out potential
-              traditional buyers is often referred to as “iBuying”. iBuying
-              greatly impacts the area in which homes are being bought by
-              driving up prices of the surrounding community. , key: -3dc84a92
-            label: Text
-            name: '-3dc84a92'
-            widget: text
-          - hint: >-
-              Original text: In October 2021, Zillow announced that they are
-              going to stop purchasing and renovating homes through the end of
-              the year as they work through their current backlog of properties.
-              The stoppage comes amidst a nationwide worker and supply shortage
-              that is affecting companies all over the U.S. , key: -29a65f8c
-            label: Text
-            name: '-29a65f8c'
-            widget: text
-          - hint: >-
-              Original text: So What Does This Mean For The Real Estate
-              Industry?, key: -3f0a109f
-            label: Text
-            name: '-3f0a109f'
+            name: 4f0c14a2
             widget: string
-          - hint: "Original text: Many real estate professionals take this as evidence that iBuying is simply a fad that is not meant to withstand the ups and downs of the real estate industry. The value that a traditional real estate agent has is something that cannot be replicated or replaced by an institutional home buyer/flipper. Agents who have experience in the industry, understand the market and the community know so much more about your local real estate market than any big corporation ever will. \_, key: -52309de6"
+          - hint: "Original text: Developer\_– , key: 69ff1b23"
             label: Text
-            name: '-52309de6'
-            widget: text
+            name: 69ff1b23
+            widget: string
           - hint: 'Original text: Astros Signed Jersey Giveaway!, key: 7345d4a'
             label: Text
             name: 7345d4a
@@ -4469,10 +4523,52 @@ collections:
             label: Text
             name: 1835498c
             widget: string
-          - hint: 'Original text: Sign In Below, key: 79084859'
+          - hint: >-
+              Original text: People Vs. Computers: What Does This Mean For The
+              Real Estate Industry?, key: -203f1dd9
             label: Text
-            name: '79084859'
+            name: '-203f1dd9'
             widget: string
+          - hint: >-
+              Original text: In 2019, Zillow launched a new program called
+              Zillow Offers. This program was created to buy homes as-is
+              directly from sellers, usually above asking price. The high offer
+              combined with the fact that no repairs were required made these
+              deals irrefusable for many sellers. Zillow would then flip the
+              home and sell it for profit. The company purchased over 3,800
+              homes through the program in the second quarter of this year.,
+              key: 1b28946c
+            label: Text
+            name: 1b28946c
+            widget: text
+          - hint: >-
+              Original text: The act of big institutions, such as Zillow, mass
+              purchasing homes well above asking price and pushing out potential
+              traditional buyers is often referred to as “iBuying”. iBuying
+              greatly impacts the area in which homes are being bought by
+              driving up prices of the surrounding community. , key: -3dc84a92
+            label: Text
+            name: '-3dc84a92'
+            widget: text
+          - hint: >-
+              Original text: In October 2021, Zillow announced that they are
+              going to stop purchasing and renovating homes through the end of
+              the year as they work through their current backlog of properties.
+              The stoppage comes amidst a nationwide worker and supply shortage
+              that is affecting companies all over the U.S. , key: -29a65f8c
+            label: Text
+            name: '-29a65f8c'
+            widget: text
+          - hint: >-
+              Original text: So What Does This Mean For The Real Estate
+              Industry?, key: -3f0a109f
+            label: Text
+            name: '-3f0a109f'
+            widget: string
+          - hint: "Original text: Many real estate professionals take this as evidence that iBuying is simply a fad that is not meant to withstand the ups and downs of the real estate industry. The value that a traditional real estate agent has is something that cannot be replicated or replaced by an institutional home buyer/flipper. Agents who have experience in the industry, understand the market and the community know so much more about your local real estate market than any big corporation ever will. \_, key: -52309de6"
+            label: Text
+            name: '-52309de6'
+            widget: text
           - hint: 'Original text: We are giving away a , key: -3637a283'
             label: Text
             name: '-3637a283'
@@ -4487,6 +4583,10 @@ collections:
             label: Text
             name: '-43e943e2'
             widget: text
+          - hint: 'Original text: Sign In Below, key: 79084859'
+            label: Text
+            name: '79084859'
+            widget: string
           - hint: "Original text: Enter below for your chance to win a big screen TV\_worth 500!, key: 6bf2e203"
             label: Text
             name: 6bf2e203
@@ -4494,100 +4594,6 @@ collections:
           - hint: 'Original text: Join The Committee!, key: 47873129'
             label: Text
             name: '47873129'
-            widget: string
-          - hint: >-
-              Original text: How You Can Find Your Next Home While Streamlining
-              Your Life, key: -20f5ed1c
-            label: Text
-            name: '-20f5ed1c'
-            widget: string
-          - hint: >-
-              Original text: If your family is grown and you still live in the
-              house your children grew up in, you’ve probably given some thought
-              to downsizing. There are many benefits when it comes to downsizing
-              that makes moving into a 55+ or retirement community ideal., key:
-              e44936d
-            label: Text
-            name: e44936d
-            widget: text
-          - hint: 'Original text: 1. , key: bda3'
-            label: Text
-            name: bda3
-            widget: string
-          - hint: 'Original text: Less Maintenance, key: 72e98f0c'
-            label: Text
-            name: 72e98f0c
-            widget: string
-          - hint: >-
-              Original text: As you get older, your household responsibilities
-              can get in the way of your bigger goals, like long-term travel or
-              spontaneous road trips. Less maintenance is a huge draw when it
-              comes to moving into a smaller space. With a smaller home,
-              especially if it’s a new construction home, your routine
-              maintenance will not only be less frequent, but also significantly
-              cheaper. You can spend more time doing things you love with the
-              people you love and less time worrying about your next home
-              repair., key: 63e08ad9
-            label: Text
-            name: 63e08ad9
-            widget: text
-          - hint: 'Original text: 2. , key: c164'
-            label: Text
-            name: c164
-            widget: string
-          - hint: 'Original text: Expand Your Social Circle, key: -713e104'
-            label: Text
-            name: '-713e104'
-            widget: string
-          - hint: >-
-              Original text: Making new friends is always tricky, especially as
-              you get older. Living at a master planned community ensures that
-              you’re surrounded by people that are in the same stage of life as
-              you. This means no noisy or disruptive neighbors and it allows you
-              to build a community of friends that live right down the road.,
-              key: -35337e1e
-            label: Text
-            name: '-35337e1e'
-            widget: text
-          - hint: 'Original text: 3. , key: c525'
-            label: Text
-            name: c525
-            widget: string
-          - hint: 'Original text: Stay In Shape, key: -2f992d53'
-            label: Text
-            name: '-2f992d53'
-            widget: string
-          - hint: "Original text: Staying active as you age can help you maintain independence and decrease your likelihood of sustaining a serious injury if you fall or get hurt. At most communities, \_you have full access to a state of the art fitness center, dog park, or game room that will keep you staying active and in shape., key: -32a6563a"
-            label: Text
-            name: '-32a6563a'
-            widget: text
-          - hint: >-
-              Original text: These reasons and more are why 55+ and retirement
-              communities are the ideal place to live if you want to live in a
-              community that helps your health, finances and social life
-              flourish., key: 62ba7ce9
-            label: Text
-            name: 62ba7ce9
-            widget: text
-          - hint: "Original text: 55+\_Points of Interest, key: 76c4990b"
-            label: Text
-            name: 76c4990b
-            widget: string
-          - hint: 'Original text: Available Communities, key: -d250cd0'
-            label: Text
-            name: '-d250cd0'
-            widget: string
-          - hint: 'Original text: Condominiums, key: -40f81ce9'
-            label: Text
-            name: '-40f81ce9'
-            widget: string
-          - hint: 'Original text: Estimated Sellout:, key: 4f0c14a2'
-            label: Text
-            name: 4f0c14a2
-            widget: string
-          - hint: "Original text: Developer\_– , key: 69ff1b23"
-            label: Text
-            name: 69ff1b23
             widget: string
           - hint: 'Original text: Contact Our Leasing Team, key: 632b291a'
             label: Text
@@ -6496,6 +6502,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 98b79b5
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: 6a3e302b
             widget: object
             fields:
@@ -6510,19 +6529,6 @@ collections:
                 required: false
           - label: Image
             name: '-31832a31'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 98b79b5
             widget: object
             fields:
               - name: url
