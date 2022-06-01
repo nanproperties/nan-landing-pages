@@ -10,7 +10,7 @@ f_secondary-team-image:
 slug: the-yvonne-pruneda-group
 updated-on: '2022-05-31T22:56:20.184Z'
 created-on: '2022-05-26T01:59:25.778Z'
-published-on: '2022-05-26T02:06:58.855Z'
+published-on: '2022-06-01T03:59:42.943Z'
 layout: '[teams].html'
 tags: teams
 ---
