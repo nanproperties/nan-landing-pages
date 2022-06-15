@@ -25,7 +25,7 @@
         <div class="content-row">
           <div class="content-row-column full-width">
             <div class="content-row-column-text-wrapper">
-              <div class="nan-leasing-intro-block"><img src="{{ images.-1382db5a.url }}" loading="lazy" id="w-node-_15859a3b-67f6-bc78-96e9-3ff7e7534ad1-61aada03" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;50vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="(max-width: 767px) 50vw, 100vw" alt="{{ images.-1382db5a.alt | trim | escape }}" class="image-11">
+              <div class="nan-leasing-intro-block"><img src="{{ images.-1382db5a.url }}" loading="lazy" id="w-node-_15859a3b-67f6-bc78-96e9-3ff7e7534ad1-61aada03" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;50vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="(max-width: 767px) 50vw, 23vw" alt="{{ images.-1382db5a.alt | trim | escape }}" class="image-11">
                 <p id="w-node-c4321216-5b34-cc43-08fa-b5dcd2db480e-61aada03" class="nan-leasing-intro-paragraph">{{ texts.6850e7b4 }}<br></p>
               </div>
             </div>
@@ -43,10 +43,10 @@
         <h2>{{ texts.58f8d254 }}</h2>
         <div class="nan-leasing-title-description">{{ texts.-49ce2236 }}</div>
         <div class="orange-divider"></div>
-        {%- assign collection = collections.leasing-buildings | filter: "f_area,eq,cms/leasing-areas/downtown.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
+        {%- assign collection = collections.featured-lease-buildings | filter: "f_area,eq,cms/leasing-areas/downtown.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="collection-list-3 w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="nan-leasing-item w-dyn-item">
-              <a href="{{ item.data.f_destination-url }}" class="nan-leasing-item-link-block w-inline-block"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">
+              <a href="{{ item.url }}" class="nan-leasing-item-link-block w-inline-block"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">
                 <div class="nan-leasing-background-box"></div>
                 <div class="nan-leasing-item-title">{{ item.data.title }}</div>
               </a>
@@ -61,10 +61,10 @@
         <h2>{{ texts.67c2831e }}</h2>
         <div class="nan-leasing-title-description">{{ texts.9cd36c8 }}</div>
         <div class="orange-divider"></div>
-        {%- assign collection = collections.leasing-buildings | filter: "f_area,eq,cms/leasing-areas/galleria-river-oaks.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
+        {%- assign collection = collections.featured-lease-buildings | filter: "f_area,eq,cms/leasing-areas/galleria-river-oaks.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="collection-list-3 w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="nan-leasing-item w-dyn-item">
-              <a href="{{ item.data.f_destination-url }}" class="nan-leasing-item-link-block w-inline-block">{%- if item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">{%- endif -%}{%- unless item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ images.-2cfcc58.url }}" sizes="100vw" alt="{{ images.-2cfcc58.alt | trim | escape }}" class="nan-leasing-background-image-image">{%- endunless -%}
+              <a href="{{ item.url }}" class="nan-leasing-item-link-block w-inline-block">{%- if item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">{%- endif -%}{%- unless item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ images.-2cfcc58.url }}" sizes="100vw" alt="{{ images.-2cfcc58.alt | trim | escape }}" class="nan-leasing-background-image-image">{%- endunless -%}
                 <div class="nan-leasing-background-box"></div>
                 <div class="nan-leasing-item-title">{{ item.data.title }}</div>
               </a>
@@ -79,10 +79,10 @@
         <h2>{{ texts.-553402fc }}</h2>
         <div class="nan-leasing-title-description">{{ texts.38671e6d }}</div>
         <div class="orange-divider"></div>
-        {%- assign collection = collections.leasing-buildings | filter: "f_area,eq,cms/leasing-areas/medical-center.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
+        {%- assign collection = collections.featured-lease-buildings | filter: "f_area,eq,cms/leasing-areas/medical-center.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="collection-list-3 w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="nan-leasing-item w-dyn-item">
-              <a href="{{ item.data.f_destination-url }}" class="nan-leasing-item-link-block w-inline-block">{%- if item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">{%- endif -%}{%- unless item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ images.-2cfcc58.url }}" sizes="100vw" alt="{{ images.-2cfcc58.alt | trim | escape }}" class="nan-leasing-background-image-image">{%- endunless -%}
+              <a href="{{ item.url }}" class="nan-leasing-item-link-block w-inline-block">{%- if item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">{%- endif -%}{%- unless item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ images.-2cfcc58.url }}" sizes="100vw" alt="{{ images.-2cfcc58.alt | trim | escape }}" class="nan-leasing-background-image-image">{%- endunless -%}
                 <div class="nan-leasing-background-box"></div>
                 <div class="nan-leasing-item-title">{{ item.data.title }}</div>
               </a>
@@ -97,10 +97,10 @@
         <h2>{{ texts.15d6cc4e }}</h2>
         <div class="nan-leasing-title-description">{{ texts.62b8155b }}</div>
         <div class="orange-divider"></div>
-        {%- assign collection = collections.leasing-buildings | filter: "f_area,eq,cms/leasing-areas/mid-town-montrose.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
+        {%- assign collection = collections.featured-lease-buildings | filter: "f_area,eq,cms/leasing-areas/mid-town-montrose.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="collection-list-3 w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="nan-leasing-item w-dyn-item">
-              <a href="{{ item.data.f_destination-url }}" class="nan-leasing-item-link-block w-inline-block">{%- if item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">{%- endif -%}{%- unless item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ images.-2cfcc58.url }}" sizes="100vw" alt="{{ images.-2cfcc58.alt | trim | escape }}" class="nan-leasing-background-image-image">{%- endunless -%}
+              <a href="{{ item.url }}" class="nan-leasing-item-link-block w-inline-block">{%- if item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">{%- endif -%}{%- unless item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ images.-2cfcc58.url }}" sizes="100vw" alt="{{ images.-2cfcc58.alt | trim | escape }}" class="nan-leasing-background-image-image">{%- endunless -%}
                 <div class="nan-leasing-background-box"></div>
                 <div class="nan-leasing-item-title">{{ item.data.title }}</div>
               </a>
@@ -115,10 +115,10 @@
         <h2>{{ texts.661da19f }}</h2>
         <div class="nan-leasing-title-description">{{ texts.-77432dec }}</div>
         <div class="orange-divider"></div>
-        {%- assign collection = collections.leasing-buildings | filter: "f_area,eq,cms/leasing-areas/west-university.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
+        {%- assign collection = collections.featured-lease-buildings | filter: "f_area,eq,cms/leasing-areas/west-university.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="collection-list-3 w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="nan-leasing-item w-dyn-item">
-              <a href="{{ item.data.f_destination-url }}" class="nan-leasing-item-link-block w-inline-block">{%- if item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">{%- endif -%}{%- unless item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ images.-2cfcc58.url }}" sizes="100vw" alt="{{ images.-2cfcc58.alt | trim | escape }}" class="nan-leasing-background-image-image">{%- endunless -%}
+              <a href="{{ item.url }}" class="nan-leasing-item-link-block w-inline-block">{%- if item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">{%- endif -%}{%- unless item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ images.-2cfcc58.url }}" sizes="100vw" alt="{{ images.-2cfcc58.alt | trim | escape }}" class="nan-leasing-background-image-image">{%- endunless -%}
                 <div class="nan-leasing-background-box"></div>
                 <div class="nan-leasing-item-title">{{ item.data.title }}</div>
               </a>
@@ -133,10 +133,10 @@
         <h2>{{ texts.1a5d0437 }}</h2>
         <div class="nan-leasing-title-description">{{ texts.895ee54 }}</div>
         <div class="orange-divider"></div>
-        {%- assign collection = collections.leasing-buildings | filter: "f_area,eq,cms/leasing-areas/outer-city-communities.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
+        {%- assign collection = collections.featured-lease-buildings | filter: "f_area,eq,cms/leasing-areas/outer-city-communities.md", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="collection-list-3 w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="nan-leasing-item w-dyn-item">
-              <a href="{{ item.data.f_destination-url }}" class="nan-leasing-item-link-block w-inline-block">{%- if item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">{%- endif -%}{%- unless item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ images.-2cfcc58.url }}" sizes="100vw" alt="{{ images.-2cfcc58.alt | trim | escape }}" class="nan-leasing-background-image-image">{%- endunless -%}
+              <a href="{{ item.url }}" class="nan-leasing-item-link-block w-inline-block">{%- if item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ item.data.f_background-image.url }}" alt="{{ item.data.f_background-image.alt }}" class="nan-leasing-background-image-image">{%- endif -%}{%- unless item.data.f_background-image -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ images.-2cfcc58.url }}" sizes="100vw" alt="{{ images.-2cfcc58.alt | trim | escape }}" class="nan-leasing-background-image-image">{%- endunless -%}
                 <div class="nan-leasing-background-box"></div>
                 <div class="nan-leasing-item-title">{{ item.data.title }}</div>
               </a>

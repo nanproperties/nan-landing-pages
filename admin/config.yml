@@ -1071,8 +1071,8 @@ collections:
         label: Buildings In Area
         widget: relation
         required: false
-        collection: leasing_buildings
-        value_field: cms/leasing-buildings/{{slug}}.md
+        collection: featured_lease_buildings
+        value_field: cms/featured-lease-buildings/{{slug}}.md
         search_fields:
           - slug
           - name
@@ -1091,9 +1091,9 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-  - name: leasing_buildings
+  - name: featured_lease_buildings
     label: Leasing Buildings
-    folder: cms/leasing-buildings
+    folder: cms/featured-lease-buildings
     create: true
     identifier_field: name
     extension: md
@@ -1206,11 +1206,11 @@ collections:
       - label: Tags
         widget: hidden
         name: tags
-        default: leasing-buildings
+        default: featured-lease-buildings
       - label: Layout
         widget: hidden
         name: layout
-        default: '[leasing-buildings].html'
+        default: '[featured-lease-buildings].html'
       - label: Publish Date
         name: date
         widget: datetime
