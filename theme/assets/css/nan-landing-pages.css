@@ -872,6 +872,7 @@ a {
   background-color: #f16624;
   -webkit-transition: all 200ms cubic-bezier(.165, .84, .44, 1);
   transition: all 200ms cubic-bezier(.165, .84, .44, 1);
+  color: #fff;
   font-size: 14px;
   line-height: 1.3em;
   font-weight: 700;

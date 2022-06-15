@@ -4015,6 +4015,152 @@ collections:
             label: Text
             name: 2c9fce8
             widget: text
+          - hint: >-
+              Original text: How You Can Find Your Next Home While Streamlining
+              Your Life, key: -20f5ed1c
+            label: Text
+            name: '-20f5ed1c'
+            widget: string
+          - hint: >-
+              Original text: If your family is grown and you still live in the
+              house your children grew up in, you’ve probably given some thought
+              to downsizing. There are many benefits when it comes to downsizing
+              that makes moving into a 55+ or retirement community ideal., key:
+              e44936d
+            label: Text
+            name: e44936d
+            widget: text
+          - hint: 'Original text: 1. , key: bda3'
+            label: Text
+            name: bda3
+            widget: string
+          - hint: 'Original text: Less Maintenance, key: 72e98f0c'
+            label: Text
+            name: 72e98f0c
+            widget: string
+          - hint: >-
+              Original text: As you get older, your household responsibilities
+              can get in the way of your bigger goals, like long-term travel or
+              spontaneous road trips. Less maintenance is a huge draw when it
+              comes to moving into a smaller space. With a smaller home,
+              especially if it’s a new construction home, your routine
+              maintenance will not only be less frequent, but also significantly
+              cheaper. You can spend more time doing things you love with the
+              people you love and less time worrying about your next home
+              repair., key: 63e08ad9
+            label: Text
+            name: 63e08ad9
+            widget: text
+          - hint: 'Original text: 2. , key: c164'
+            label: Text
+            name: c164
+            widget: string
+          - hint: 'Original text: Expand Your Social Circle, key: -713e104'
+            label: Text
+            name: '-713e104'
+            widget: string
+          - hint: >-
+              Original text: Making new friends is always tricky, especially as
+              you get older. Living at a master planned community ensures that
+              you’re surrounded by people that are in the same stage of life as
+              you. This means no noisy or disruptive neighbors and it allows you
+              to build a community of friends that live right down the road.,
+              key: -35337e1e
+            label: Text
+            name: '-35337e1e'
+            widget: text
+          - hint: 'Original text: 3. , key: c525'
+            label: Text
+            name: c525
+            widget: string
+          - hint: 'Original text: Stay In Shape, key: -2f992d53'
+            label: Text
+            name: '-2f992d53'
+            widget: string
+          - hint: "Original text: Staying active as you age can help you maintain independence and decrease your likelihood of sustaining a serious injury if you fall or get hurt. At most communities, \_you have full access to a state of the art fitness center, dog park, or game room that will keep you staying active and in shape., key: -32a6563a"
+            label: Text
+            name: '-32a6563a'
+            widget: text
+          - hint: >-
+              Original text: These reasons and more are why 55+ and retirement
+              communities are the ideal place to live if you want to live in a
+              community that helps your health, finances and social life
+              flourish., key: 62ba7ce9
+            label: Text
+            name: 62ba7ce9
+            widget: text
+          - hint: "Original text: 55+\_Points of Interest, key: 76c4990b"
+            label: Text
+            name: 76c4990b
+            widget: string
+          - hint: 'Original text: Available Communities, key: -d250cd0'
+            label: Text
+            name: '-d250cd0'
+            widget: string
+          - hint: >-
+              Original text: In March of 2019, Christie's International Real
+              Estate held their Annual Global Conference in Pal Beach, Florida.
+              This brought together over 138 affiliates from 940 countries.,
+              key: -34b1d757
+            label: Text
+            name: '-34b1d757'
+            widget: text
+          - hint: >-
+              Original text: Nan and Company Properties was recognized for their
+              continual growth and contribution to the Christie's International
+              Real Estate network and was awarded the highly prestigious
+              "Affiliate of The Year" award. , key: -23d2dbb1
+            label: Text
+            name: '-23d2dbb1'
+            widget: text
+          - hint: >-
+              Original text: CEO and COO Nancy and Jose Almodovar were there to
+              accept the award and stated, “Our Nan Family is incredibly
+              thankful for this award and it is an honor to be recognized for
+              our hard work and dedication to selling luxury real estate.” The
+              company closed with over $250,000.000 in 2019 and has not slowed
+              down since. Closing each month better than the year prior, Nan and
+              Company Properties is truly an industry leader in the Houston real
+              estate market., key: -7d9e9949
+            label: Text
+            name: '-7d9e9949'
+            widget: text
+          - hint: >-
+              Original text: Nan Properties Developer Services provides
+              developers a comprehensive and a strategic approach to program
+              development, launch, and to sustaining sales for a project. We
+              position each development directly to the consumer as an
+              independent brand and its product offering is leveraged by Nan
+              Properties and our Christies International Real Estate
+              affiliation. Ultimately, we maximize our expertise and platforms
+              within the company to drive as many qualified buyers, both locally
+              and internationally, directly to the project., key: -2253de7a
+            label: Text
+            name: '-2253de7a'
+            widget: text
+          - hint: >-
+              Original text: We pride ourselves on being strategic partners,
+              working closely as a team from conception to completion. We
+              provide developers with highly effective services, including
+              concept development, building design, programming, and sales and
+              marketing. Our in-depth market research allows us to deliver
+              programs that entice the target buyer to act., key: 9d033f
+            label: Text
+            name: 9d033f
+            widget: text
+          - hint: >-
+              Original text: With a dedicated core team of experts, we fully
+              support the project brand, the developer and their goals. Our team
+              is comprised of highly experienced real estate professionals who
+              are highly trained on the fundamentals of branding. They have a
+              close pulse on the industry and the competition. The team
+              collaborates with the architects to ensure the product offering
+              matches that of the designated target market and oversees and
+              orchestrates the marketing programs and operational needs of the
+              project., key: 16e6eb1a
+            label: Text
+            name: 16e6eb1a
+            widget: text
           - hint: "Original text: SCOPE\_OF\_SERVICES, key: -7d1a9365"
             label: Text
             name: '-7d1a9365'
@@ -4179,6 +4325,32 @@ collections:
             label: Text
             name: '-58010b4b'
             widget: text
+          - hint: "Original text: Get\_Hot Homes List NOW\_››, key: -49175edd"
+            label: Text
+            name: '-49175edd'
+            widget: string
+          - hint: 'Original text: See Galveston''s Hottest Homes!, key: d69338e'
+            label: Text
+            name: d69338e
+            widget: string
+          - hint: "Original text: If you've considered buying or investing in Galveston, these properties are worth viewing –\_and are selling fast in today's market., key: -4cabee53"
+            label: Text
+            name: '-4cabee53'
+            widget: text
+          - hint: >-
+              Original text: Get Access To Our Hand-Picked List of
+              Galveston-Area Homes Now!, key: -62fc7c92
+            label: Text
+            name: '-62fc7c92'
+            widget: string
+          - hint: "Original text: AS\_SEEN\_IN:, key: 170958be"
+            label: Text
+            name: 170958be
+            widget: string
+          - hint: 'Original text: Get Access To This List!, key: 33726f4'
+            label: Text
+            name: 33726f4
+            widget: string
           - hint: 'Original text: Name, key: 24eeab'
             label: Text
             name: 24eeab
@@ -4247,42 +4419,6 @@ collections:
             label: Text
             name: 6d7d58c1
             widget: string
-          - hint: >-
-              Original text: Nan Properties Developer Services provides
-              developers a comprehensive and a strategic approach to program
-              development, launch, and to sustaining sales for a project. We
-              position each development directly to the consumer as an
-              independent brand and its product offering is leveraged by Nan
-              Properties and our Christies International Real Estate
-              affiliation. Ultimately, we maximize our expertise and platforms
-              within the company to drive as many qualified buyers, both locally
-              and internationally, directly to the project., key: -2253de7a
-            label: Text
-            name: '-2253de7a'
-            widget: text
-          - hint: >-
-              Original text: We pride ourselves on being strategic partners,
-              working closely as a team from conception to completion. We
-              provide developers with highly effective services, including
-              concept development, building design, programming, and sales and
-              marketing. Our in-depth market research allows us to deliver
-              programs that entice the target buyer to act., key: 9d033f
-            label: Text
-            name: 9d033f
-            widget: text
-          - hint: >-
-              Original text: With a dedicated core team of experts, we fully
-              support the project brand, the developer and their goals. Our team
-              is comprised of highly experienced real estate professionals who
-              are highly trained on the fundamentals of branding. They have a
-              close pulse on the industry and the competition. The team
-              collaborates with the architects to ensure the product offering
-              matches that of the designated target market and oversees and
-              orchestrates the marketing programs and operational needs of the
-              project., key: 16e6eb1a
-            label: Text
-            name: 16e6eb1a
-            widget: text
           - hint: "Original text: Click DOWNLOAD\_NOW\_to view this Look Book now!, key: -4f4ba6dd"
             label: Text
             name: '-4f4ba6dd'
@@ -4290,6 +4426,18 @@ collections:
           - hint: "Original text: DOWNLOAD\_NOW, key: -3394e162"
             label: Text
             name: '-3394e162'
+            widget: string
+          - hint: 'Original text: Condominiums, key: -40f81ce9'
+            label: Text
+            name: '-40f81ce9'
+            widget: string
+          - hint: 'Original text: Estimated Sellout:, key: 4f0c14a2'
+            label: Text
+            name: 4f0c14a2
+            widget: string
+          - hint: "Original text: Developer\_– , key: 69ff1b23"
+            label: Text
+            name: 69ff1b23
             widget: string
           - hint: 'Original text: Astros Signed Jersey Giveaway!, key: 7345d4a'
             label: Text
@@ -4355,154 +4503,6 @@ collections:
               donation now!🙏🏻, key: -7b90f5a
             label: Text
             name: '-7b90f5a'
-            widget: string
-          - hint: >-
-              Original text: In March of 2019, Christie's International Real
-              Estate held their Annual Global Conference in Pal Beach, Florida.
-              This brought together over 138 affiliates from 940 countries.,
-              key: -34b1d757
-            label: Text
-            name: '-34b1d757'
-            widget: text
-          - hint: >-
-              Original text: Nan and Company Properties was recognized for their
-              continual growth and contribution to the Christie's International
-              Real Estate network and was awarded the highly prestigious
-              "Affiliate of The Year" award. , key: -23d2dbb1
-            label: Text
-            name: '-23d2dbb1'
-            widget: text
-          - hint: >-
-              Original text: CEO and COO Nancy and Jose Almodovar were there to
-              accept the award and stated, “Our Nan Family is incredibly
-              thankful for this award and it is an honor to be recognized for
-              our hard work and dedication to selling luxury real estate.” The
-              company closed with over $250,000.000 in 2019 and has not slowed
-              down since. Closing each month better than the year prior, Nan and
-              Company Properties is truly an industry leader in the Houston real
-              estate market., key: -7d9e9949
-            label: Text
-            name: '-7d9e9949'
-            widget: text
-          - hint: >-
-              Original text: How You Can Find Your Next Home While Streamlining
-              Your Life, key: -20f5ed1c
-            label: Text
-            name: '-20f5ed1c'
-            widget: string
-          - hint: >-
-              Original text: If your family is grown and you still live in the
-              house your children grew up in, you’ve probably given some thought
-              to downsizing. There are many benefits when it comes to downsizing
-              that makes moving into a 55+ or retirement community ideal., key:
-              e44936d
-            label: Text
-            name: e44936d
-            widget: text
-          - hint: 'Original text: 1. , key: bda3'
-            label: Text
-            name: bda3
-            widget: string
-          - hint: 'Original text: Less Maintenance, key: 72e98f0c'
-            label: Text
-            name: 72e98f0c
-            widget: string
-          - hint: >-
-              Original text: As you get older, your household responsibilities
-              can get in the way of your bigger goals, like long-term travel or
-              spontaneous road trips. Less maintenance is a huge draw when it
-              comes to moving into a smaller space. With a smaller home,
-              especially if it’s a new construction home, your routine
-              maintenance will not only be less frequent, but also significantly
-              cheaper. You can spend more time doing things you love with the
-              people you love and less time worrying about your next home
-              repair., key: 63e08ad9
-            label: Text
-            name: 63e08ad9
-            widget: text
-          - hint: 'Original text: 2. , key: c164'
-            label: Text
-            name: c164
-            widget: string
-          - hint: 'Original text: Expand Your Social Circle, key: -713e104'
-            label: Text
-            name: '-713e104'
-            widget: string
-          - hint: >-
-              Original text: Making new friends is always tricky, especially as
-              you get older. Living at a master planned community ensures that
-              you’re surrounded by people that are in the same stage of life as
-              you. This means no noisy or disruptive neighbors and it allows you
-              to build a community of friends that live right down the road.,
-              key: -35337e1e
-            label: Text
-            name: '-35337e1e'
-            widget: text
-          - hint: 'Original text: 3. , key: c525'
-            label: Text
-            name: c525
-            widget: string
-          - hint: 'Original text: Stay In Shape, key: -2f992d53'
-            label: Text
-            name: '-2f992d53'
-            widget: string
-          - hint: "Original text: Staying active as you age can help you maintain independence and decrease your likelihood of sustaining a serious injury if you fall or get hurt. At most communities, \_you have full access to a state of the art fitness center, dog park, or game room that will keep you staying active and in shape., key: -32a6563a"
-            label: Text
-            name: '-32a6563a'
-            widget: text
-          - hint: >-
-              Original text: These reasons and more are why 55+ and retirement
-              communities are the ideal place to live if you want to live in a
-              community that helps your health, finances and social life
-              flourish., key: 62ba7ce9
-            label: Text
-            name: 62ba7ce9
-            widget: text
-          - hint: "Original text: 55+\_Points of Interest, key: 76c4990b"
-            label: Text
-            name: 76c4990b
-            widget: string
-          - hint: 'Original text: Available Communities, key: -d250cd0'
-            label: Text
-            name: '-d250cd0'
-            widget: string
-          - hint: "Original text: Get\_Hot Homes List NOW\_››, key: -49175edd"
-            label: Text
-            name: '-49175edd'
-            widget: string
-          - hint: 'Original text: See Galveston''s Hottest Homes!, key: d69338e'
-            label: Text
-            name: d69338e
-            widget: string
-          - hint: "Original text: If you've considered buying or investing in Galveston, these properties are worth viewing –\_and are selling fast in today's market., key: -4cabee53"
-            label: Text
-            name: '-4cabee53'
-            widget: text
-          - hint: >-
-              Original text: Get Access To Our Hand-Picked List of
-              Galveston-Area Homes Now!, key: -62fc7c92
-            label: Text
-            name: '-62fc7c92'
-            widget: string
-          - hint: "Original text: AS\_SEEN\_IN:, key: 170958be"
-            label: Text
-            name: 170958be
-            widget: string
-          - hint: 'Original text: Get Access To This List!, key: 33726f4'
-            label: Text
-            name: 33726f4
-            widget: string
-          - hint: 'Original text: Condominiums, key: -40f81ce9'
-            label: Text
-            name: '-40f81ce9'
-            widget: string
-          - hint: 'Original text: Estimated Sellout:, key: 4f0c14a2'
-            label: Text
-            name: 4f0c14a2
-            widget: string
-          - hint: "Original text: Developer\_– , key: 69ff1b23"
-            label: Text
-            name: 69ff1b23
             widget: string
           - hint: 'Original text: We are giving away 3 , key: -3637a815'
             label: Text
@@ -6543,6 +6543,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 10939fef
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '-19085adb'
             widget: object
             fields:
@@ -6557,32 +6570,6 @@ collections:
                 required: false
           - label: Image
             name: '-4314e610'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 10939fef
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-441ddf3d'
             widget: object
             fields:
               - name: url
@@ -6622,6 +6609,19 @@ collections:
                 required: false
           - label: Image
             name: 2b2b7576
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-441ddf3d'
             widget: object
             fields:
               - name: url
