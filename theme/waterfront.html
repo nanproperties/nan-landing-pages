@@ -35,7 +35,7 @@
         {%- assign collection = collections.luxury-listings-page | filter: "f_category,ne,International; f_types,eq,Waterfront", "ALL", page.inputPath | sort: "created-on" -%}<div class="luxury-listings-grid-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="luxury-listings-grid w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="luxury-listings-item-wrapper w-dyn-item">
-              <a href="{{ item.data.f_url }}" class="luxury-listings-item-wrapper-anchor w-inline-block"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_image.url }}" alt="{{ item.data.title }}" class="luxury-listings-image">
+              <a href="{{ item.data.f_url }}" class="luxury-listings-item-wrapper-anchor w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.title }}" class="luxury-listings-image">
                 <div class="luxury-listings-descript">
                   <div class="luxury-listing-item-title">{{ item.data.title }}</div>
                   <div class="luxury-listing-item-title">{{ texts.2192 }}</div>
@@ -56,7 +56,7 @@
         {%- assign collection = collections.luxury-listings-page | filter: "f_category,eq,International", "ALL", page.inputPath | sort: "created-on" -%}<div class="luxury-listings-grid-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="luxury-listings-grid w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="luxury-listings-item-wrapper w-dyn-item">
-              <a href="{{ item.data.f_url }}" class="luxury-listings-item-wrapper-anchor w-inline-block"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" loading="lazy" src="{{ item.data.f_image.url }}" alt="{{ item.data.title }}" class="luxury-listings-image">
+              <a href="{{ item.data.f_url }}" class="luxury-listings-item-wrapper-anchor w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.title }}" class="luxury-listings-image">
                 <div class="luxury-listings-descript">
                   <div class="luxury-listing-item-title">{{ item.data.title }}</div>
                   <div class="luxury-listing-item-title">{{ texts.2192 }}</div>
@@ -71,7 +71,7 @@
       </div>
       <header class="section luxury-header-section wf-section">
         <div class="luxury-intro-row">
-          <div class="luxury-intro-row-column-1"><img src="{{ images.787dd6b.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;83vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;43vw&quot;}]" sizes="(max-width: 479px) 83vw, (max-width: 767px) 42vw, 43vw" alt="{{ images.787dd6b.alt | trim | escape }}" class="luxury-intro-image"></div>
+          <div class="luxury-intro-row-column-1"><img class="luxury-intro-image" src="{{ images.787dd6b.url }}" alt="{{ images.787dd6b.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;83vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;43vw&quot;}]" sizes="(max-width: 479px) 83vw, (max-width: 767px) 42vw, 43vw" loading="lazy"></div>
           <div class="luxury-intro-row-column-s">
             <h2 class="h3 luxury-intro-title">{{ texts.645efc51 }}</h2>
             <p class="paragraph-2 luxury-intro-paragraph">{{ texts.26fe49c7 }}<a href="{{ links.288a7c06 }}">{{ texts.-6aea5d5f }}</a>{{ texts.-49ea9c71 }}<br></p>
@@ -84,7 +84,7 @@
             <p class="paragraph-2 luxury-intro-paragraph">{{ texts.2f01e616 }}<br></p>
             <a href="{{ links.-40d3dd7e }}" class="primary-button luxury-intro-button w-button">{{ texts.5c37c451 }}</a>
           </div>
-          <div id="w-node-e101f465-18cf-5e14-fb39-a324c081e1bb-8d9e3dae" class="luxury-intro-row-column-1"><img src="{{ images.-4e9d9613.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;83vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;43vw&quot;}]" sizes="(max-width: 479px) 83vw, (max-width: 767px) 42vw, 43vw" alt="{{ images.-4e9d9613.alt | trim | escape }}" class="luxury-intro-image"></div>
+          <div id="w-node-e101f465-18cf-5e14-fb39-a324c081e1bb-8d9e3dae" class="luxury-intro-row-column-1"><img class="luxury-intro-image" src="{{ images.-4e9d9613.url }}" alt="{{ images.-4e9d9613.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;83vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;43vw&quot;}]" sizes="(max-width: 479px) 83vw, (max-width: 767px) 42vw, 43vw" loading="lazy"></div>
         </div>
         <div class="luxury-intro-row">
           <div class="luxury-intro-row-column-1"><img src="{{ images.-457c4c7e.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;83vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;43vw&quot;}]" alt="{{ images.-457c4c7e.alt | trim | escape }}" class="luxury-intro-image"></div>

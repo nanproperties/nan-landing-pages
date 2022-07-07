@@ -33,7 +33,7 @@ max-height:100% !important;
 }
 </style>
         </div>
-        <div fs-3dglobe-element="container" fs-3dglobe-img="https://uploads-ssl.webflow.com/60768515da5167820baefabe/60b810b7c3f2198956678818_1fs-globe-image-7.jpg" class="fs-3dglobe-container"></div>
+        <div fs-3dglobe-img="https://uploads-ssl.webflow.com/60768515da5167820baefabe/60b810b7c3f2198956678818_1fs-globe-image-7.jpg" fs-3dglobe-element="container" class="fs-3dglobe-container"></div>
         {%- assign collection = collections.all-affiliates | sort: "-created-on" -%}<div class="hidden w-dyn-list">
           {%- unless collection.length == 0 -%}<div fs-3dglobe-element="list" role="list" class="w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
@@ -41,7 +41,7 @@ max-height:100% !important;
               <div fs-3dglobe-element="tooltip" class="fs-globe-tooltip">
                 <a href="{{ item.data.f_affiliate-url-2 }}" class="w-inline-block">
                   <div class="tooltip-title">{{ item.data.title }}</div>
-                  <div class="tooltip-description">{{ item.data.f_city-2 }}</div><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="profile-image">
+                  <div class="tooltip-description">{{ item.data.f_city-2 }}</div><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="profile-image">
                 </a>
               </div>
               <div fs-3dglobe-element="lat" class="lat">{{ item.data.f_latitude }}</div>
@@ -97,7 +97,7 @@ max-height:100% !important;
                         <div>{{ item.data.f_state-addbreviated-2 }}</div>
                         {%- if item.data.f_affiliate-url-2 -%}<a href="{{ item.data.f_affiliate-url-2 }}" class="primary-button affiliates-page-office-button w-button">{{ texts.73c56c7b }}</a>{%- endif -%}
                       </div>
-                      {%- if item.data.f_affiliate-logo-2 -%}<div class="affiliates-page-office-logo"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>{%- endif -%}
+                      {%- if item.data.f_affiliate-logo-2 -%}<div class="affiliates-page-office-logo"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>{%- endif -%}
                     </div>
                   </div>
                 </div>{%- endfor -%}
@@ -121,7 +121,7 @@ max-height:100% !important;
                         <div>{{ item.data.f_state-addbreviated-2 }}</div>
                         {%- if item.data.f_affiliate-url-2 -%}<a href="{{ item.data.f_affiliate-url-2 }}" class="primary-button affiliates-page-office-button w-button">{{ texts.73c56c7b }}</a>{%- endif -%}
                       </div>
-                      {%- if item.data.f_affiliate-logo-2 -%}<div class="affiliates-page-office-logo"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>{%- endif -%}
+                      {%- if item.data.f_affiliate-logo-2 -%}<div class="affiliates-page-office-logo"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>{%- endif -%}
                     </div>
                   </div>
                 </div>{%- endfor -%}
@@ -145,7 +145,7 @@ max-height:100% !important;
                         <div>{{ item.data.f_state-addbreviated-2 }}</div>
                         {%- if item.data.f_affiliate-url-2 -%}<a href="{{ item.data.f_affiliate-url-2 }}" class="primary-button affiliates-page-office-button w-button">{{ texts.73c56c7b }}</a>{%- endif -%}
                       </div>
-                      <div class="affiliates-page-office-logo"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>
+                      <div class="affiliates-page-office-logo"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>
                     </div>
                   </div>
                 </div>{%- endfor -%}
@@ -169,7 +169,7 @@ max-height:100% !important;
                         <div>{{ item.data.f_state-addbreviated-2 }}</div>
                         {%- if item.data.f_affiliate-url-2 -%}<a href="{{ item.data.f_affiliate-url-2 }}" class="primary-button affiliates-page-office-button w-button">{{ texts.73c56c7b }}</a>{%- endif -%}
                       </div>
-                      {%- if item.data.f_affiliate-logo-2 -%}<div class="affiliates-page-office-logo"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>{%- endif -%}
+                      {%- if item.data.f_affiliate-logo-2 -%}<div class="affiliates-page-office-logo"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>{%- endif -%}
                     </div>
                   </div>
                 </div>{%- endfor -%}
@@ -193,7 +193,7 @@ max-height:100% !important;
                         <div>{{ item.data.f_state-addbreviated-2 }}</div>
                         {%- if item.data.f_affiliate-url-2 -%}<a href="{{ item.data.f_affiliate-url-2 }}" class="primary-button affiliates-page-office-button w-button">{{ texts.73c56c7b }}</a>{%- endif -%}
                       </div>
-                      {%- if item.data.f_affiliate-logo-2 -%}<div class="affiliates-page-office-logo"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>{%- endif -%}
+                      {%- if item.data.f_affiliate-logo-2 -%}<div class="affiliates-page-office-logo"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>{%- endif -%}
                     </div>
                   </div>
                 </div>{%- endfor -%}
@@ -217,7 +217,7 @@ max-height:100% !important;
                         <div>{{ item.data.f_state-addbreviated-2 }}</div>
                         {%- if item.data.f_affiliate-url-2 -%}<a href="{{ item.data.f_affiliate-url-2 }}" class="primary-button affiliates-page-office-button w-button">{{ texts.73c56c7b }}</a>{%- endif -%}
                       </div>
-                      {%- if item.data.f_affiliate-logo-2 -%}<div class="affiliates-page-office-logo"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>{%- endif -%}
+                      {%- if item.data.f_affiliate-logo-2 -%}<div class="affiliates-page-office-logo"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_affiliate-logo-2.url }}" alt="{{ item.data.f_affiliate-logo-2.alt }}" class="image-6"></div>{%- endif -%}
                     </div>
                   </div>
                 </div>{%- endfor -%}

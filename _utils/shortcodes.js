@@ -67,8 +67,12 @@ module.exports = function (eleventyConfig) {
             alt = ""
         }
 
-              
-        dataSizes = JSON.parse(dataSizes);
+        try {
+            dataSizes = JSON.parse(dataSizes);
+        } catch(e) {
+            dataSizes = [];
+        }
+        
 
         const sizes = dataSizes.length ? dataSizes.map( next => {
             if (next.max !== 10000) {
