@@ -5711,6 +5711,10 @@ a {
   padding: 20px;
 }
 
+.luxury-listings-video-embed {
+  margin-bottom: 20px;
+}
+
 @media screen and (max-width: 991px) {
   .h2.mx-page-h2 {
     text-align: center;

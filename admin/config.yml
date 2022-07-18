@@ -3937,6 +3937,84 @@ collections:
             label: Text
             name: '-2ff59505'
             widget: string
+          - hint: "Original text: DOWNLOAD\_NOW\_››, key: 65a65482"
+            label: Text
+            name: 65a65482
+            widget: string
+          - hint: >-
+              Original text: Live in the Heart of Houston at Gatherings!, key:
+              -158725ad
+            label: Text
+            name: '-158725ad'
+            widget: string
+          - hint: >-
+              Original text: Download Our Gatherings Look Book Now For All The
+              Details On This Community!, key: 38d39c4
+            label: Text
+            name: 38d39c4
+            widget: string
+          - hint: "Original text: Starting in the $433ks \_• \_55+\_Community \_• \_\"Lock and Leave\"\_Convenience \_• \_Inner City Living at I-10\_&\_610, key: 676c60e9"
+            label: Text
+            name: 676c60e9
+            widget: text
+          - hint: "Original text: DOWNLOAD LOOKBOOK\_NOW\_››, key: -ce9c896"
+            label: Text
+            name: '-ce9c896'
+            widget: string
+          - hint: 'Original text: Preview Life at Gatherings with , key: -4fd380d9'
+            label: Text
+            name: '-4fd380d9'
+            widget: string
+          - hint: 'Original text: Our Informative Look Book, key: -279c7b6e'
+            label: Text
+            name: '-279c7b6e'
+            widget: string
+          - hint: >-
+              Original text: Download The 2021 Gatherings Lookbook Below That
+              Includes:, key: 2a9be585
+            label: Text
+            name: 2a9be585
+            widget: string
+          - hint: 'Original text: 3D & aerial virtual tours, key: 3dda35'
+            label: Text
+            name: 3dda35
+            widget: string
+          - hint: 'Original text: High-Definition floor plans, key: 55fac694'
+            label: Text
+            name: 55fac694
+            widget: string
+          - hint: 'Original text: Local points of interest, key: 52569e8b'
+            label: Text
+            name: 52569e8b
+            widget: string
+          - hint: 'Original text: All available high-end finishes, key: -63cf8345'
+            label: Text
+            name: '-63cf8345'
+            widget: string
+          - hint: 'Original text: Community info, key: -d0b855b'
+            label: Text
+            name: '-d0b855b'
+            widget: string
+          - hint: 'Original text: Stunning images of available units, key: -1f430f5b'
+            label: Text
+            name: '-1f430f5b'
+            widget: string
+          - hint: 'Original text: ... and more!, key: 3f2ae4b1'
+            label: Text
+            name: 3f2ae4b1
+            widget: string
+          - hint: "Original text: DOWNLOAD NOW\_››, key: -d774bfe"
+            label: Text
+            name: '-d774bfe'
+            widget: string
+          - hint: "Original text: Download The\_Gatherings Look Book, key: 735a6f7d"
+            label: Text
+            name: 735a6f7d
+            widget: string
+          - hint: "Original text: Get the Gatherings Look Book for 3D &\_aerial tours of the community, available finishes, floor plans, and more!, key: 2c9fce8"
+            label: Text
+            name: 2c9fce8
+            widget: text
           - hint: >-
               Original text: How You Can Find Your Next Home While Streamlining
               Your Life, key: -20f5ed1c
@@ -4019,84 +4097,6 @@ collections:
             label: Text
             name: '-d250cd0'
             widget: string
-          - hint: "Original text: DOWNLOAD\_NOW\_››, key: 65a65482"
-            label: Text
-            name: 65a65482
-            widget: string
-          - hint: >-
-              Original text: Live in the Heart of Houston at Gatherings!, key:
-              -158725ad
-            label: Text
-            name: '-158725ad'
-            widget: string
-          - hint: >-
-              Original text: Download Our Gatherings Look Book Now For All The
-              Details On This Community!, key: 38d39c4
-            label: Text
-            name: 38d39c4
-            widget: string
-          - hint: "Original text: Starting in the $433ks \_• \_55+\_Community \_• \_\"Lock and Leave\"\_Convenience \_• \_Inner City Living at I-10\_&\_610, key: 676c60e9"
-            label: Text
-            name: 676c60e9
-            widget: text
-          - hint: "Original text: DOWNLOAD LOOKBOOK\_NOW\_››, key: -ce9c896"
-            label: Text
-            name: '-ce9c896'
-            widget: string
-          - hint: 'Original text: Preview Life at Gatherings with , key: -4fd380d9'
-            label: Text
-            name: '-4fd380d9'
-            widget: string
-          - hint: 'Original text: Our Informative Look Book, key: -279c7b6e'
-            label: Text
-            name: '-279c7b6e'
-            widget: string
-          - hint: >-
-              Original text: Download The 2021 Gatherings Lookbook Below That
-              Includes:, key: 2a9be585
-            label: Text
-            name: 2a9be585
-            widget: string
-          - hint: 'Original text: 3D & aerial virtual tours, key: 3dda35'
-            label: Text
-            name: 3dda35
-            widget: string
-          - hint: 'Original text: High-Definition floor plans, key: 55fac694'
-            label: Text
-            name: 55fac694
-            widget: string
-          - hint: 'Original text: Local points of interest, key: 52569e8b'
-            label: Text
-            name: 52569e8b
-            widget: string
-          - hint: 'Original text: All available high-end finishes, key: -63cf8345'
-            label: Text
-            name: '-63cf8345'
-            widget: string
-          - hint: 'Original text: Community info, key: -d0b855b'
-            label: Text
-            name: '-d0b855b'
-            widget: string
-          - hint: 'Original text: Stunning images of available units, key: -1f430f5b'
-            label: Text
-            name: '-1f430f5b'
-            widget: string
-          - hint: 'Original text: ... and more!, key: 3f2ae4b1'
-            label: Text
-            name: 3f2ae4b1
-            widget: string
-          - hint: "Original text: DOWNLOAD NOW\_››, key: -d774bfe"
-            label: Text
-            name: '-d774bfe'
-            widget: string
-          - hint: "Original text: Download The\_Gatherings Look Book, key: 735a6f7d"
-            label: Text
-            name: 735a6f7d
-            widget: string
-          - hint: "Original text: Get the Gatherings Look Book for 3D &\_aerial tours of the community, available finishes, floor plans, and more!, key: 2c9fce8"
-            label: Text
-            name: 2c9fce8
-            widget: text
           - hint: >-
               Original text: In March of 2019, Christie's International Real
               Estate held their Annual Global Conference in Pal Beach, Florida.
@@ -4125,100 +4125,6 @@ collections:
             label: Text
             name: '-7d9e9949'
             widget: text
-          - hint: 'Original text: Name, key: 24eeab'
-            label: Text
-            name: 24eeab
-            widget: string
-          - hint: 'Original text: Email Address, key: -2b7010d0'
-            label: Text
-            name: '-2b7010d0'
-            widget: string
-          - hint: 'Original text: Select one..., key: 57f3b1cc'
-            label: Text
-            name: 57f3b1cc
-            widget: string
-          - hint: 'Original text: First Choice, key: -491b32af'
-            label: Text
-            name: '-491b32af'
-            widget: string
-          - hint: 'Original text: Second Choice, key: 3c4172cd'
-            label: Text
-            name: 3c4172cd
-            widget: string
-          - hint: 'Original text: Third Choice, key: -1b351146'
-            label: Text
-            name: '-1b351146'
-            widget: string
-          - hint: >-
-              Original text: Thank you! Your submission has been received!, key:
-              5a0ea5a1
-            label: Text
-            name: 5a0ea5a1
-            widget: string
-          - hint: >-
-              Original text: Oops! Something went wrong while submitting the
-              form., key: -7c112e99
-            label: Text
-            name: '-7c112e99'
-            widget: string
-          - hint: "Original text: Get\_Hot Homes List NOW\_››, key: -49175edd"
-            label: Text
-            name: '-49175edd'
-            widget: string
-          - hint: 'Original text: See Galveston''s Hottest Homes!, key: d69338e'
-            label: Text
-            name: d69338e
-            widget: string
-          - hint: "Original text: If you've considered buying or investing in Galveston, these properties are worth viewing –\_and are selling fast in today's market., key: -4cabee53"
-            label: Text
-            name: '-4cabee53'
-            widget: text
-          - hint: >-
-              Original text: Get Access To Our Hand-Picked List of
-              Galveston-Area Homes Now!, key: -62fc7c92
-            label: Text
-            name: '-62fc7c92'
-            widget: string
-          - hint: "Original text: AS\_SEEN\_IN:, key: 170958be"
-            label: Text
-            name: 170958be
-            widget: string
-          - hint: 'Original text: Get Access To This List!, key: 33726f4'
-            label: Text
-            name: 33726f4
-            widget: string
-          - hint: 'Original text: Discover Why , key: -5371acd1'
-            label: Text
-            name: '-5371acd1'
-            widget: string
-          - hint: 'Original text: Gatherings at Westview , key: 53947033'
-            label: Text
-            name: '53947033'
-            widget: string
-          - hint: 'Original text: Is The Talk of The Town!, key: 2b035a86'
-            label: Text
-            name: 2b035a86
-            widget: string
-          - hint: "Original text: Learn more about this exciting new community coming to Houston for residents 55+. Our Look Book guides you through every detail –\_amenities, neighborhood guide, finishes, virtual tours, pricing, and more!, key: 2c3376c2"
-            label: Text
-            name: 2c3376c2
-            widget: text
-          - hint: >-
-              Original text: This information is only available in our in-depth
-              Gatherings Look Book., key: -4e6d13e9
-            label: Text
-            name: '-4e6d13e9'
-            widget: string
-          - hint: >-
-              Original text: Fill out the contact form to get a copy of this
-              Look Book now!, key: 2e413b15
-            label: Text
-            name: 2e413b15
-            widget: string
-          - hint: 'Original text: Download Your Copy Now!, key: 6d7d58c1'
-            label: Text
-            name: 6d7d58c1
-            widget: string
           - hint: >-
               Original text: Nan Properties Developer Services provides
               developers a comprehensive and a strategic approach to program
@@ -4255,98 +4161,6 @@ collections:
             label: Text
             name: 16e6eb1a
             widget: text
-          - hint: 'Original text: We are giving away 3 , key: -3637a815'
-            label: Text
-            name: '-3637a815'
-            widget: string
-          - hint: 'Original text: Gaido''s Pecan Pies, key: -2b3db1da'
-            label: Text
-            name: '-2b3db1da'
-            widget: string
-          - hint: >-
-              Original text:  just in time for the holidays! Enter below for
-              your chance to win! Winner will be announced on Friday, October
-              29th., key: 4931ada5
-            label: Text
-            name: 4931ada5
-            widget: text
-          - hint: 'Original text: Enter For Your Chance To Win!, key: 1835498c'
-            label: Text
-            name: 1835498c
-            widget: string
-          - hint: "Original text: Click DOWNLOAD\_NOW\_to view this Look Book now!, key: -4f4ba6dd"
-            label: Text
-            name: '-4f4ba6dd'
-            widget: string
-          - hint: "Original text: DOWNLOAD\_NOW, key: -3394e162"
-            label: Text
-            name: '-3394e162'
-            widget: string
-          - hint: 'Original text: Astros Signed Jersey Giveaway!, key: 7345d4a'
-            label: Text
-            name: 7345d4a
-            widget: string
-          - hint: >-
-              Original text: In honor of Domestic Violence Awareness Month, our
-              CEO, Nancy Almodovar is partnering with Janelise Maldonado, Lianet
-              Gurriel & Monica Álvarez to raise funds for the Houston Area
-              Women's Center.💜🧡, key: 651fd9e3
-            label: Text
-            name: 651fd9e3
-            widget: text
-          - hint: >-
-              Original text: Our Houston Astros have been on FIRE!🔥, key:
-              -56f578c
-            label: Text
-            name: '-56f578c'
-            widget: string
-          - hint: >-
-              Original text: We will be giving away an Astros jersey signed by
-              Yuli Gurriel, Yordan Álvarez and Martín Maldonado!⚾️🤘🏼, key:
-              -371dc785
-            label: Text
-            name: '-371dc785'
-            widget: text
-          - hint: >-
-              Original text: To enter, you must click the link in , key:
-              4383592b
-            label: Text
-            name: 4383592b
-            widget: string
-          - hint: 'Original text: @nancy_almodovar, key: 5d354ba1'
-            label: Text
-            name: 5d354ba1
-            widget: string
-          - hint: >-
-              Original text:  bio and donate to the Houston area Women's Center.
-              Each $10 donation will count as one entry to the giveaway. For
-              example, if you donate $30, you will be entered into the giveaway
-              3 times!👏🏼, key: -4b275378
-            label: Text
-            name: '-4b275378'
-            widget: text
-          - hint: >-
-              Original text: 100% of the proceeds collected will be donated to
-              the Houston Area Women's Center.🙌🏼, key: -3daebf9b
-            label: Text
-            name: '-3daebf9b'
-            widget: string
-          - hint: >-
-              Original text: The Houston Area Women's Center provides support
-              and advocacy for survivors of domestic and sexual violence. They
-              offer a safe place for women and children to stay. They also offer
-              counseling services for survivors for free. The Houston Area
-              Women's Center is committed to being a safe place for all women,
-              and their work in Houston is so important.✨, key: 314a23f2
-            label: Text
-            name: 314a23f2
-            widget: text
-          - hint: >-
-              Original text: The giveaway will end on November 5, so make your
-              donation now!🙏🏻, key: -7b90f5a
-            label: Text
-            name: '-7b90f5a'
-            widget: string
           - hint: "Original text: SCOPE\_OF\_SERVICES, key: -7d1a9365"
             label: Text
             name: '-7d1a9365'
@@ -4511,6 +4325,108 @@ collections:
             label: Text
             name: '-58010b4b'
             widget: text
+          - hint: "Original text: Get\_Hot Homes List NOW\_››, key: -49175edd"
+            label: Text
+            name: '-49175edd'
+            widget: string
+          - hint: 'Original text: See Galveston''s Hottest Homes!, key: d69338e'
+            label: Text
+            name: d69338e
+            widget: string
+          - hint: "Original text: If you've considered buying or investing in Galveston, these properties are worth viewing –\_and are selling fast in today's market., key: -4cabee53"
+            label: Text
+            name: '-4cabee53'
+            widget: text
+          - hint: >-
+              Original text: Get Access To Our Hand-Picked List of
+              Galveston-Area Homes Now!, key: -62fc7c92
+            label: Text
+            name: '-62fc7c92'
+            widget: string
+          - hint: "Original text: AS\_SEEN\_IN:, key: 170958be"
+            label: Text
+            name: 170958be
+            widget: string
+          - hint: 'Original text: Get Access To This List!, key: 33726f4'
+            label: Text
+            name: 33726f4
+            widget: string
+          - hint: 'Original text: Name, key: 24eeab'
+            label: Text
+            name: 24eeab
+            widget: string
+          - hint: 'Original text: Email Address, key: -2b7010d0'
+            label: Text
+            name: '-2b7010d0'
+            widget: string
+          - hint: 'Original text: Select one..., key: 57f3b1cc'
+            label: Text
+            name: 57f3b1cc
+            widget: string
+          - hint: 'Original text: First Choice, key: -491b32af'
+            label: Text
+            name: '-491b32af'
+            widget: string
+          - hint: 'Original text: Second Choice, key: 3c4172cd'
+            label: Text
+            name: 3c4172cd
+            widget: string
+          - hint: 'Original text: Third Choice, key: -1b351146'
+            label: Text
+            name: '-1b351146'
+            widget: string
+          - hint: >-
+              Original text: Thank you! Your submission has been received!, key:
+              5a0ea5a1
+            label: Text
+            name: 5a0ea5a1
+            widget: string
+          - hint: >-
+              Original text: Oops! Something went wrong while submitting the
+              form., key: -7c112e99
+            label: Text
+            name: '-7c112e99'
+            widget: string
+          - hint: 'Original text: Discover Why , key: -5371acd1'
+            label: Text
+            name: '-5371acd1'
+            widget: string
+          - hint: 'Original text: Gatherings at Westview , key: 53947033'
+            label: Text
+            name: '53947033'
+            widget: string
+          - hint: 'Original text: Is The Talk of The Town!, key: 2b035a86'
+            label: Text
+            name: 2b035a86
+            widget: string
+          - hint: "Original text: Learn more about this exciting new community coming to Houston for residents 55+. Our Look Book guides you through every detail –\_amenities, neighborhood guide, finishes, virtual tours, pricing, and more!, key: 2c3376c2"
+            label: Text
+            name: 2c3376c2
+            widget: text
+          - hint: >-
+              Original text: This information is only available in our in-depth
+              Gatherings Look Book., key: -4e6d13e9
+            label: Text
+            name: '-4e6d13e9'
+            widget: string
+          - hint: >-
+              Original text: Fill out the contact form to get a copy of this
+              Look Book now!, key: 2e413b15
+            label: Text
+            name: 2e413b15
+            widget: string
+          - hint: 'Original text: Download Your Copy Now!, key: 6d7d58c1'
+            label: Text
+            name: 6d7d58c1
+            widget: string
+          - hint: "Original text: Click DOWNLOAD\_NOW\_to view this Look Book now!, key: -4f4ba6dd"
+            label: Text
+            name: '-4f4ba6dd'
+            widget: string
+          - hint: "Original text: DOWNLOAD\_NOW, key: -3394e162"
+            label: Text
+            name: '-3394e162'
+            widget: string
           - hint: 'Original text: Condominiums, key: -40f81ce9'
             label: Text
             name: '-40f81ce9'
@@ -4522,6 +4438,90 @@ collections:
           - hint: "Original text: Developer\_– , key: 69ff1b23"
             label: Text
             name: 69ff1b23
+            widget: string
+          - hint: 'Original text: Astros Signed Jersey Giveaway!, key: 7345d4a'
+            label: Text
+            name: 7345d4a
+            widget: string
+          - hint: >-
+              Original text: In honor of Domestic Violence Awareness Month, our
+              CEO, Nancy Almodovar is partnering with Janelise Maldonado, Lianet
+              Gurriel & Monica Álvarez to raise funds for the Houston Area
+              Women's Center.💜🧡, key: 651fd9e3
+            label: Text
+            name: 651fd9e3
+            widget: text
+          - hint: >-
+              Original text: Our Houston Astros have been on FIRE!🔥, key:
+              -56f578c
+            label: Text
+            name: '-56f578c'
+            widget: string
+          - hint: >-
+              Original text: We will be giving away an Astros jersey signed by
+              Yuli Gurriel, Yordan Álvarez and Martín Maldonado!⚾️🤘🏼, key:
+              -371dc785
+            label: Text
+            name: '-371dc785'
+            widget: text
+          - hint: >-
+              Original text: To enter, you must click the link in , key:
+              4383592b
+            label: Text
+            name: 4383592b
+            widget: string
+          - hint: 'Original text: @nancy_almodovar, key: 5d354ba1'
+            label: Text
+            name: 5d354ba1
+            widget: string
+          - hint: >-
+              Original text:  bio and donate to the Houston area Women's Center.
+              Each $10 donation will count as one entry to the giveaway. For
+              example, if you donate $30, you will be entered into the giveaway
+              3 times!👏🏼, key: -4b275378
+            label: Text
+            name: '-4b275378'
+            widget: text
+          - hint: >-
+              Original text: 100% of the proceeds collected will be donated to
+              the Houston Area Women's Center.🙌🏼, key: -3daebf9b
+            label: Text
+            name: '-3daebf9b'
+            widget: string
+          - hint: >-
+              Original text: The Houston Area Women's Center provides support
+              and advocacy for survivors of domestic and sexual violence. They
+              offer a safe place for women and children to stay. They also offer
+              counseling services for survivors for free. The Houston Area
+              Women's Center is committed to being a safe place for all women,
+              and their work in Houston is so important.✨, key: 314a23f2
+            label: Text
+            name: 314a23f2
+            widget: text
+          - hint: >-
+              Original text: The giveaway will end on November 5, so make your
+              donation now!🙏🏻, key: -7b90f5a
+            label: Text
+            name: '-7b90f5a'
+            widget: string
+          - hint: 'Original text: We are giving away 3 , key: -3637a815'
+            label: Text
+            name: '-3637a815'
+            widget: string
+          - hint: 'Original text: Gaido''s Pecan Pies, key: -2b3db1da'
+            label: Text
+            name: '-2b3db1da'
+            widget: string
+          - hint: >-
+              Original text:  just in time for the holidays! Enter below for
+              your chance to win! Winner will be announced on Friday, October
+              29th., key: 4931ada5
+            label: Text
+            name: 4931ada5
+            widget: text
+          - hint: 'Original text: Enter For Your Chance To Win!, key: 1835498c'
+            label: Text
+            name: 1835498c
             widget: string
           - hint: >-
               Original text: People Vs. Computers: What Does This Mean For The
@@ -5483,12 +5483,6 @@ collections:
             widget: string
           - hint: >-
               Original link:
-              https://store.gaidos.com/gaidos-pecan-crunch-round/, key: 5101c882
-            label: Link
-            name: 5101c882
-            widget: string
-          - hint: >-
-              Original link:
               https://nan-pdf.s3.us-east-2.amazonaws.com/Gatherings+Look+Book.pdf,
               key: -3ae88795
             label: Link
@@ -5499,6 +5493,12 @@ collections:
               -2c4159c2
             label: Link
             name: '-2c4159c2'
+            widget: string
+          - hint: >-
+              Original link:
+              https://store.gaidos.com/gaidos-pecan-crunch-round/, key: 5101c882
+            label: Link
+            name: 5101c882
             widget: string
           - hint: 'Original link: tel:+17139869917, key: -7fd63917'
             label: Link
@@ -6567,6 +6567,45 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 10939fef
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-19085adb'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-4314e610'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '-107a1963'
             widget: object
             fields:
@@ -6606,32 +6645,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 10939fef
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 98b79b5
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: '-441ddf3d'
             widget: object
             fields:
@@ -6645,20 +6658,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-19085adb'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-4314e610'
+            name: 98b79b5
             widget: object
             fields:
               - name: url

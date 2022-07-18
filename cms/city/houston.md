@@ -8,7 +8,6 @@ f_developments:
   - cms/new-homes/7twenty-berry.md
   - cms/new-homes/creekmont-drive.md
   - cms/new-homes/golden-forest.md
-  - cms/new-homes/yale-oaks-court.md
 f_featured: true
 layout: '[city].html'
 tags: city
