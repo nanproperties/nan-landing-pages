@@ -18,7 +18,7 @@
 <body>
   <div class="page-wrapper">
     <div class="custom-page">
-      {%- include "partials/custom-css" -%}
+      {%- include "partials/custom-css-2022" -%}
       <section class="section section-hero wf-section">
         <div class="content-row">
           <div class="content-row-column full-width">
@@ -49,13 +49,17 @@
       {%- if f_custom-block-1 -%}{%- if f_custom-block-2 -%}<div class="section wf-section">
         <div class="w-embed">
           <style>
+.landing-page-2-col-grid ol {
+    padding-left: 20px;
+}
 .landing-page-2-col-grid li {
     margin-bottom: 10px;
+    padding-left: 10px;
 }
 .landing-page-2-col-grid li::marker {
     color: #f16624;
     font-weight: 700;
-    content: "✔︎ ";
+    content: "\2713";
     font-size: 1.25em;
 }
 </style>
