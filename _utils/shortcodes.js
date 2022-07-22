@@ -98,7 +98,7 @@ module.exports = function (eleventyConfig) {
             let metadata = await Image(src, {
                 widths: config.dimensions,
                 formats: [...config.formats.sort(), null],
-                urlPath: "/assets/images/",
+                urlPath: "https://development.nanproperties.com/assets/images/",
                 outputDir: "./public/assets/images/"
             });
             const formats = Object.keys(metadata);
