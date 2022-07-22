@@ -7,7 +7,6 @@ published-on: '2021-07-06T20:39:06.173Z'
 f_developments:
   - cms/new-homes/7twenty-berry.md
   - cms/new-homes/creekmont-drive.md
-  - cms/new-homes/golden-forest.md
 f_featured: true
 layout: '[city].html'
 tags: city

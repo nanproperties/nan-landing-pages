@@ -5686,6 +5686,13 @@ a {
 }
 
 .landing-page-2-col-grid {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 40px;
+  grid-row-gap: 40px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
 }
@@ -5713,6 +5720,21 @@ a {
 
 .luxury-listings-video-embed {
   margin-bottom: 20px;
+}
+
+.rich-text-block {
+  overflow: visible;
+}
+
+.landing-page-custom-block-2 {
+  overflow: visible;
+  color: #7c7d7d;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.landing-page-custom-block-1 {
+  overflow: visible;
 }
 
 @media screen and (max-width: 991px) {

@@ -1835,6 +1835,16 @@ collections:
         label: Mini Feature Video YouTube ID
         widget: string
         required: false
+      - hint: ''
+        name: f_custom-block-1
+        label: Custom Block 1
+        widget: markdown
+        required: false
+      - hint: ''
+        name: f_custom-block-2
+        label: Custom Block 2
+        widget: markdown
+        required: false
       - label: Tags
         widget: hidden
         name: tags

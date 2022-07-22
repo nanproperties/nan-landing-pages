@@ -47,6 +47,47 @@
         </div>
       </div>
       <div class="section wf-section">
+        <div class="w-embed">
+          <style>
+.landing-page-2-col-grid li {
+    margin-bottom: 10px;
+}
+.landing-page-2-col-grid li::marker {
+    color: #f16624;
+    font-weight: 700;
+    content: "✔︎ ";
+    font-size: 1.25em;
+}
+</style>
+        </div>
+        <div class="landing-page-2-col-grid">
+          <div>
+            <div class="w-dyn-list">
+              <div role="list" class="w-dyn-items">
+                <div role="listitem" class="w-dyn-item">
+                  <div id="custom-block-1-text" class="landing-page-custom-block-1 w-richtext"></div>
+                </div>
+              </div>
+              <div class="w-dyn-empty">
+                <div>{{ texts.3d503d2b }}</div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="w-dyn-list">
+              <div role="list" class="w-dyn-items">
+                <div role="listitem" class="w-dyn-item">
+                  <div class="landing-page-custom-block-2 w-richtext"></div>
+                </div>
+              </div>
+              <div class="w-dyn-empty">
+                <div>{{ texts.3d503d2b }}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="section wf-section">
         {%- if f_featured-video-youtube-id -%}<div class="teams-video-embed w-embed w-iframe"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/{{ f_featured-video-youtube-id }}" frameborder="0" allowfullscreen=""></iframe></div></div>{%- endif -%}
         {%- assign collection = collections.agents | filter: "f_team,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "-f_if-team-is-this-person-the-team-s-lead, title" -%}<div class="teams-grid-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="teams-grid-list w-dyn-items">
