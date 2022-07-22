@@ -19,10 +19,12 @@ f_description: >-
   private garages. Each home boasts three bedrooms and three baths. Rest easy
   knowing your community is full gated with controlled access.
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/62a75bdde888d983be188264_aerial202201.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62a75bdde888d983be188264_AERIAL%202%20(1).jpg
   alt: null
 f_image-gallery:
-  - url: https://development.nanproperties.com/assets/external/62a75d88823d089895cff91c_front202202.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62a75d88823d089895cff91c_FRONT%202%20(2).jpg
     alt: null
 f_street-address: '1210 W 19th '
 f_zip-code: 77008

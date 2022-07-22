@@ -24,11 +24,11 @@ f_description: >-
   roadways such as Highway 59, I-69 and 59 Connector.
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets/external/628cec8b4d2535e58da1dafd_nichols20corner20front20view204201.jpg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/628cec8b4d2535e58da1dafd_NICHOLS%20CORNER%20FRONT%20VIEW%20(4)%20(1).jpg
   alt: null
 f_image-gallery:
   - url: >-
-      https://development.nanproperties.com/assets/external/628cecf407d1062f3768b7d0_nichols20corner20living20view203201.jpg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/628cecf407d1062f3768b7d0_NICHOLS%20CORNER%20LIVING%20VIEW%20(3)%20(1).jpg
     alt: null
 f_square-footage: 1,767
 f_street-address: 4902 Nichols St

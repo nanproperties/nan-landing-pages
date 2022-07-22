@@ -5706,7 +5706,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 49d35fc5
+            name: 355215c
             widget: object
             fields:
               - name: url
@@ -5836,7 +5836,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: df01cf0
+            name: '-1407bd52'
             widget: object
             fields:
               - name: url
@@ -6187,7 +6187,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-5de73457'
+            name: 6d34f1ee
             widget: object
             fields:
               - name: url
@@ -6252,7 +6252,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-3cbca8bd'
+            name: 317f733b
             widget: object
             fields:
               - name: url

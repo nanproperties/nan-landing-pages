@@ -8,7 +8,7 @@ f_title: Realtor Associate
 slug: karina-florez
 f_headshot:
   url: >-
-    https://development.nanproperties.com/assets/external/627d838c670af56a925c638f_optimized_7f659869d77faed70a7b80c902e929ab.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/627d838c670af56a925c638f_optimized_7f659869d77faed70a7b80c902e929ab.jpeg
   alt: null
 f_team: cms/teams/the-nikki-hohman-team.md
 updated-on: '2022-05-12T22:00:50.618Z'

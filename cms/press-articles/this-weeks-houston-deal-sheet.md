@@ -11,7 +11,7 @@ title: This Week's Houston Deal Sheet
 slug: this-weeks-houston-deal-sheet
 f_image-or-screenshot-of-article:
   url: >-
-    https://development.nanproperties.com/assets/external/60db9097bc29d8263cca2492_content_screen_shot_2020-11-12_at_12.29.03_AM.png
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60db9097bc29d8263cca2492_content_Screen_Shot_2020-11-12_at_12.29.03_AM.png
   alt: null
 updated-on: '2021-06-29T21:29:27.299Z'
 created-on: '2021-06-29T21:28:56.300Z'

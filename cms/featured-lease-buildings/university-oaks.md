@@ -7,20 +7,20 @@ f_zip-code: '77021'
 slug: university-oaks
 f_background-image:
   url: >-
-    https://development.nanproperties.com/assets/external/62aa10c9d708d28691fb8f07_view_driveway_2-1080x1080-040720-opt.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62aa10c9d708d28691fb8f07_view_driveway_2-1080x1080-040720-opt.jpeg
   alt: null
 f_gallery-images:
   - url: >-
-      https://development.nanproperties.com/assets/external/62aa11397147dcbff50d8aa2_living_kitchen_view_001_26.11.2020-1-1080x1080-opt.jpg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62aa11397147dcbff50d8aa2_Living_Kitchen_View_001_26.11.2020-1-1080x1080-opt.jpg
     alt: null
   - url: >-
-      https://development.nanproperties.com/assets/external/62aa113ce097bb91fee3c593_dog_park_view-1080x1080-040720-opt.jpeg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62aa113ce097bb91fee3c593_Dog_Park_View-1080x1080-040720-opt.jpeg
     alt: null
   - url: >-
-      https://development.nanproperties.com/assets/external/62aa116303c8d7c42cd9bbae_view3_grill-area-1080x1080-040720-opt.jpeg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62aa116303c8d7c42cd9bbae_view3_grill-area-1080x1080-040720-opt.jpeg
     alt: null
   - url: >-
-      https://development.nanproperties.com/assets/external/62aa11b595756006b9a5b47c_uo-living_kitchen_view_02_26.11.2020-700x400-opt.jpg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62aa11b595756006b9a5b47c_UO-Living_Kitchen_View_02_26.11.2020-700x400-opt.jpg
     alt: null
 f_area: cms/leasing-areas/medical-center.md
 updated-on: '2022-06-15T17:35:48.027Z'

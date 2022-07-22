@@ -5,7 +5,8 @@ f_city: Manvel
 title: 3614 Castle Falls Drive
 f_highlights-about-this-listing-max-200-characters: Sold in 7 Days in Nov 2020
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/6077ca99ac4c25168e28b09b_60218424daebfimg-1-2.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077ca99ac4c25168e28b09b_60218424daebfimg-1-2.jpeg
   alt: null
 slug: 3614-castle-falls-drive
 f_agent: cms/agents/laura-bonck.md

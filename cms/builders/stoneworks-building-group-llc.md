@@ -24,12 +24,12 @@ title: Stoneworks Building Group, LLC
 f_builder-slogan: Houston's Premier Builder
 f_builder-featured-image:
   url: >-
-    https://development.nanproperties.com/assets/external/6077bf485e0f21e2537f2239_605d413d314688ecb805b-0267-4bb0-a246-9bb095b59482-1.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077bf485e0f21e2537f2239_605d413d314688ecb805b-0267-4bb0-a246-9bb095b59482-1.jpeg
   alt: null
 slug: stoneworks-building-group-llc
 f_builder-logo:
   url: >-
-    https://development.nanproperties.com/assets/external/6077bf485e0f212ed57f2238_292c3175-4571-4390-a9d4-4a97998d4d66.png
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077bf485e0f212ed57f2238_292c3175-4571-4390-a9d4-4a97998d4d66.png
   alt: null
 updated-on: '2021-04-15T04:23:52.574Z'
 created-on: '2021-04-15T04:21:28.973Z'

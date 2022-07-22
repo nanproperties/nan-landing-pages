@@ -10,7 +10,7 @@ f_country-2: Chile
 slug: borquez-asociados-limitada
 f_affiliate-logo-2:
   url: >-
-    https://development.nanproperties.com/assets/external/60b817a9a31e1166b494baea_6081e55f0d0491449f2b7fb8_60785a3d9498d2669cf14ee2_logo_byas2525252bchristies-vertical.jpeg
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b817a9a31e1166b494baea_6081e55f0d0491449f2b7fb8_60785a3d9498d2669cf14ee2_Logo_Byas%2525252BChristies-vertical.jpeg
   alt: null
 f_region-2: cms/affiliate-regions/south-america.md
 updated-on: '2021-06-02T23:43:37.881Z'
