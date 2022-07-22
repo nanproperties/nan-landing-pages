@@ -10,7 +10,7 @@ f_secondary-team-image:
   url: https://development.nanproperties.com/assets/external/627d846ee80186a62c2f86ac___9129202.jpeg
   alt: null
 f_mini-feature-video-youtube-id: 6CX3VYRSnyk
-f_custom-block-1: '![](/assets/external/62db12d18757e877e3f7c0c1_nikki-hohman-team-3201.jpeg)'
+f_custom-block-1: '![](https://development.nanproperties.com/assets/external/62db12d18757e877e3f7c0c1_nikki-hohman-team-3201.jpeg)'
 f_custom-block-2: >-
   ### _Top 5 Things Houston Homeowners Want_
 
