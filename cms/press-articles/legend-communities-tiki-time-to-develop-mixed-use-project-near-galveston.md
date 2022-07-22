@@ -11,7 +11,7 @@ f_media-outlet-excerpt: >-
 title: Legend Communities, Tiki Time to Develop Mixed-Use Project Near Galveston
 f_image-or-screenshot-of-article:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61f4a1977f6caa15b18204bf_Screen%20Shot%202022-01-21%20at%2010.01.43%20AM.png
+    https://development.nanproperties.com/assets/external/61f4a1977f6caa15b18204bf_screen20shot202022-01-2120at2010.01.43%20AM.png
   alt: null
 slug: legend-communities-tiki-time-to-develop-mixed-use-project-near-galveston
 updated-on: '2022-01-29T02:08:27.536Z'

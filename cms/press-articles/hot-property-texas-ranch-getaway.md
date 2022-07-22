@@ -8,7 +8,7 @@ title: 'Hot Property: Texas Ranch Getaway'
 slug: hot-property-texas-ranch-getaway
 f_image-or-screenshot-of-article:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60808565c2eb9eb57c6a9dfa_Screen_Shot_2021-04-21_at_8.58.47_AM.png
+    https://development.nanproperties.com/assets/external/60808565c2eb9eb57c6a9dfa_screen_shot_2021-04-21_at_8.58.47_AM.png
   alt: null
 updated-on: '2021-04-21T20:04:53.864Z'
 created-on: '2021-04-21T20:04:53.864Z'

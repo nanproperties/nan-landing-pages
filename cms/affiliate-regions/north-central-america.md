@@ -12,7 +12,7 @@ title: North & Central America
 slug: north-central-america
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077cecb2cf4c1266aeaa8fd_602f64edc97c5content_global-properties-north-america.jpeg
+    https://development.nanproperties.com/assets/external/6077cecb2cf4c1266aeaa8fd_602f64edc97c5content_global-properties-north-america.jpeg
   alt: null
 updated-on: '2021-06-03T01:54:56.372Z'
 created-on: '2021-04-15T05:27:39.302Z'

@@ -10,7 +10,7 @@ f_country-2: United States
 f_zip-code-2: '92260'
 f_affiliate-logo-2:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b81781bbefa23446e70096_6081e570b322960c17002bac_60785a542a6d96974bb7b1e1_content_RED_-_HK_Lane_logo_ONLY.png
+    https://development.nanproperties.com/assets/external/60b81781bbefa23446e70096_6081e570b322960c17002bac_60785a542a6d96974bb7b1e1_content_red_-_hk_lane_logo_only.png
   alt: null
 slug: hk-lane-real-estate
 f_region-2: cms/affiliate-regions/north-central-america.md

@@ -7,8 +7,7 @@ f_highlights-about-this-listing-max-200-characters: >-
   Stunning modern home in the beautiful neighborhood of Timbergrove. Sold over
   $1mm+
 f_featured-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077ca9e4baced5e4f739d67_6053c2ecf265fimg-1-12.jpeg
+  url: https://development.nanproperties.com/assets/external/6077ca9e4baced5e4f739d67_6053c2ecf265fimg-1-12.jpeg
   alt: null
 slug: waltway-drive
 f_agent: cms/agents/andrew-lin.md

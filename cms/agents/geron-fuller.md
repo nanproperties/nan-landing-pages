@@ -10,7 +10,7 @@ created-on: '2022-01-13T23:43:38.319Z'
 published-on: '2022-01-18T17:53:41.470Z'
 f_headshot:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61e6fe859d62ea7c53870cec_Fuller%2C%20Geron%20%7C%20Primary%20Photo.jpg
+    https://development.nanproperties.com/assets/external/61e6fe859d62ea7c53870cec_fuller2c20geron207c20primary20photo.jpg
   alt: null
 f_if-team-is-this-person-the-team-s-lead: false
 layout: '[agents].html'

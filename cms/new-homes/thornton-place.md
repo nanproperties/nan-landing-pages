@@ -24,8 +24,7 @@ f_description: >-
   3 beds, 3 and a half baths, and 1,877-1,942 square feet. Designed with your
   security of mind, the community is fully gated.
 f_featured-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61e96b0565696f0e5bcc374b_VIEW%202%20(1).jpg
+  url: https://development.nanproperties.com/assets/external/61e96b0565696f0e5bcc374b_view202201.jpg
   alt: null
 f_price-range: 389,900
 layout: '[new-homes].html'
