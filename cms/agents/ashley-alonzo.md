@@ -12,7 +12,7 @@ f_if-team-is-this-person-the-team-s-lead: false
 f_team: cms/teams/the-nikki-hohman-team.md
 f_headshot:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/627d8302ac020583d8113525_optimized_4e6ea6d0fece3bdca97cf0578906ed13.jpeg
+    https://development.nanproperties.com/assets/external/627d8302ac020583d8113525_optimized_4e6ea6d0fece3bdca97cf0578906ed13.jpeg
   alt: null
 f_website: https://www.nanproperties.com/agents/74173-ashley-alonzo
 layout: '[agents].html'

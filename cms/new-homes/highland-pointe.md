@@ -14,8 +14,7 @@ f_bedrooms: 3-4
 f_builder: cms/builders/orchid-homes.md
 f_city: Houston
 f_featured-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62c5ba80ea6e2b73e059c6a1_view_exterior_Final%20(1)%20(1)%20(1).jpg
+  url: https://development.nanproperties.com/assets/external/62c5ba80ea6e2b73e059c6a1_view_exterior_final201201201.jpg
   alt: null
 f_price-range: $339,900-$344,900
 f_square-footage: 1,757-1,761

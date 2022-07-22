@@ -8,7 +8,7 @@ f_media-outlet-excerpt: >-
 title: Why Houstonians Are Flocking to The Housing Market
 f_image-or-screenshot-of-article:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6080856b0615a56ff52ed603_Screen_Shot_2021-04-21_at_11.04.58_AM.png
+    https://development.nanproperties.com/assets/external/6080856b0615a56ff52ed603_screen_shot_2021-04-21_at_11.04.58_AM.png
   alt: null
 slug: why-houstonians-are-flocking-to-the-housing-market
 updated-on: '2021-04-21T20:07:26.088Z'

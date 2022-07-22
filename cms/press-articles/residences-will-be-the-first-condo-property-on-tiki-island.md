@@ -14,7 +14,7 @@ title: Residences Will be the First Condo Property on Tiki Island
 slug: residences-will-be-the-first-condo-property-on-tiki-island
 f_image-or-screenshot-of-article:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61f4a269363e1f81208c6fbc_Screen%20Shot%202022-01-21%20at%2010.10.09%20AM.png
+    https://development.nanproperties.com/assets/external/61f4a269363e1f81208c6fbc_screen20shot202022-01-2120at2010.10.09%20AM.png
   alt: null
 updated-on: '2022-01-29T02:11:58.976Z'
 created-on: '2022-01-29T02:11:58.976Z'

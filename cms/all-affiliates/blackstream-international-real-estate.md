@@ -10,7 +10,7 @@ f_country-2: United States
 f_zip-code-2: '29607'
 f_affiliate-logo-2:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60b81782375a3ae4bc617683_6081e55d07a62d41d45d8523_60785a70bfbd925339043a11_logo_blackstream-and-SVN_B-over-BS-CIRE_black__1_.png
+    https://development.nanproperties.com/assets/external/60b81782375a3ae4bc617683_6081e55d07a62d41d45d8523_60785a70bfbd925339043a11_logo_blackstream-and-svn_b-over-bs-cire_black__1_.png
   alt: null
 slug: blackstream-international-real-estate
 f_region-2: cms/affiliate-regions/north-central-america.md

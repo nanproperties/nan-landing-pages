@@ -16,39 +16,29 @@ f_description: >-
   and downtown.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6206ef38e2a2bbe54af5e725_36196c481df989f3b629add41_main%20image%20copy.jpg
+    https://development.nanproperties.com/assets/external/6206ef38e2a2bbe54af5e725_36196c481df989f3b629add41_main20image20copy.jpg
   alt: null
 slug: 7twenty-berry
 f_image-gallery:
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6196ca70e9950336e1cc41f8_1.jpg
+  - url: https://development.nanproperties.com/assets/external/6196ca70e9950336e1cc41f8_1.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6196ca77a092bc7267e536fa_2.jpg
+  - url: https://development.nanproperties.com/assets/external/6196ca77a092bc7267e536fa_2.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6196cab3d67496851910c931_11.jpg
+  - url: https://development.nanproperties.com/assets/external/6196cab3d67496851910c931_11.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6196b1eacc0f1374a1a1169f_RMM_3898-HDR.jpg
+  - url: https://development.nanproperties.com/assets/external/6196b1eacc0f1374a1a1169f_rmm_3898-hdr.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6196b1e4719ab4b949befa6b_RMM_3934-HDR.jpg
+  - url: https://development.nanproperties.com/assets/external/6196b1e4719ab4b949befa6b_rmm_3934-hdr.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6196ca8cab9d5794e59b71f6_6.jpg
+  - url: https://development.nanproperties.com/assets/external/6196ca8cab9d5794e59b71f6_6.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6196ca924fe27444f852853b_7.jpg
+  - url: https://development.nanproperties.com/assets/external/6196ca924fe27444f852853b_7.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6196ca972c836e49dc75b6bd_8.jpg
+  - url: https://development.nanproperties.com/assets/external/6196ca972c836e49dc75b6bd_8.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6196ca9ccee64359c1f74691_10.jpg
+  - url: https://development.nanproperties.com/assets/external/6196ca9ccee64359c1f74691_10.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6196caa4aa49b706fc8b6e90_9.jpg
+  - url: https://development.nanproperties.com/assets/external/6196caa4aa49b706fc8b6e90_9.jpg
     alt: null
 f_agent-2: cms/agents/natalie-garza.md
 f_builder: cms/builders/stoneworks-building-group-llc.md
