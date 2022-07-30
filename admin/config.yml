@@ -3183,18 +3183,43 @@ collections:
             label: Text
             name: '-5e53e7dd'
             widget: string
+          - hint: 'Original text: The Heights, key: 27182f3d'
+            label: Text
+            name: 27182f3d
+            widget: string
+          - hint: >-
+              Original text: Our main office location in the Height is located
+              on Yale St. and offers premier amenities to agents and clients
+              alike, such as soundproof phone rooms, nap pods, meditation room,
+              rooftop patio with a built-in bar and kitchen ideal for client and
+              team meetings., key: -6ebb0e07
+            label: Text
+            name: '-6ebb0e07'
+            widget: text
+          - hint: 'Original text: 725 Yale St., key: -41f8bb8c'
+            label: Text
+            name: '-41f8bb8c'
+            widget: string
+          - hint: 'Original text: Houston, TX 77007, key: 6d897fdd'
+            label: Text
+            name: 6d897fdd
+            widget: string
+          - hint: 'Original text: 713.714.6454, key: 42adc466'
+            label: Text
+            name: 42adc466
+            widget: string
           - hint: 'Original text: Galleria, key: -66e32a81'
             label: Text
             name: '-66e32a81'
             widget: string
           - hint: >-
-              Original text: Our main office is located in a prime location with
-              awe-inspiring 14th-floor views. We offer our clients and agents
-              first-class amenities including multiple conference rooms,
+              Original text: Our Galleria office is located in a prime location
+              with awe-inspiring 14th-floor views. We offer our clients and
+              agents first-class amenities including multiple conference rooms,
               concierge services, complimentary guest parking and more., key:
-              15a5f72b
+              247c44f1
             label: Text
-            name: 15a5f72b
+            name: 247c44f1
             widget: text
           - hint: 'Original text: 2200 Post Oak Blvd, Suite 1475, key: -14f6fa64'
             label: Text
@@ -3204,30 +3229,27 @@ collections:
             label: Text
             name: 6d898077
             widget: string
-          - hint: 'Original text: 713.714.6454, key: 42adc466'
+          - hint: 'Original text: Galveston, key: -64710f9f'
             label: Text
-            name: 42adc466
-            widget: string
-          - hint: 'Original text: The Heights, key: 27182f3d'
-            label: Text
-            name: 27182f3d
+            name: '-64710f9f'
             widget: string
           - hint: >-
-              Original text: The Heights office is located on Yale St. and will
-              offer premier amenities to agents and clients alike, such as
-              soundproof phone rooms, nap pods, meditation room, rooftop patio
-              with a built-in bar and kitchen ideal for client and team
-              meetings., key: -659826c8
+              Original text: Our Galveston office is located on the 2nd floor of
+              the prestigious Diamond Beach Resort., key: 705e934b
             label: Text
-            name: '-659826c8'
-            widget: text
-          - hint: 'Original text: 725 Yale St., key: -41f8bb8c'
-            label: Text
-            name: '-41f8bb8c'
+            name: 705e934b
             widget: string
-          - hint: 'Original text: Houston, TX 77007, key: 6d897fdd'
+          - hint: 'Original text: 10327 FM 3005, 2nd Floor, key: 443d80cc'
             label: Text
-            name: 6d897fdd
+            name: 443d80cc
+            widget: string
+          - hint: 'Original text: Galveston, TX 77554, key: -27c4fd53'
+            label: Text
+            name: '-27c4fd53'
+            widget: string
+          - hint: 'Original text: 409.206.5800, key: 1789f7ea'
+            label: Text
+            name: 1789f7ea
             widget: string
           - hint: 'Original text: Now Hiring, key: 1f59d77b'
             label: Text
@@ -3549,14 +3571,6 @@ collections:
           - hint: 'Original text: info@nanproperties.com, key: 5015a10f'
             label: Text
             name: 5015a10f
-            widget: string
-          - hint: 'Original text: 10327 FM 3005, 2nd Floor, key: 443d80cc'
-            label: Text
-            name: 443d80cc
-            widget: string
-          - hint: 'Original text: Galveston, TX 77554, key: -27c4fd53'
-            label: Text
-            name: '-27c4fd53'
             widget: string
           - hint: 'Original text: Live Life On The Waterfront, key: 22f87c92'
             label: Text
@@ -6175,6 +6189,19 @@ collections:
                 required: false
           - label: Image
             name: '-2cfcc58'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '53518796'
             widget: object
             fields:
               - name: url

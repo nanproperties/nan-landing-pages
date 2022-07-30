@@ -55,13 +55,13 @@
         <div class="luxury-video-background"></div>
         <div class="iframe luxury-video-embed w-embed w-iframe">
           <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-          <div class="embed-container"><iframe src="https://www.youtube.com/embed/XkD8ZiAy2Q8" frameborder="0" allowfullscreen=""></iframe></div>
+          <div class="embed-container"><iframe src="https://www.youtube.com/embed/cnuEoHAaRxw" frameborder="0" allowfullscreen=""></iframe></div>
         </div>
         <div class="luxury-video-embed-list-wrapper">
           <div class="luxury-video-embed-wrapper">
             <div class="iframe luxury-video-embed w-embed w-iframe">
               <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-              <div class="embed-container"><iframe src="https://www.youtube.com/embed/XkD8ZiAy2Q8" frameborder="0" allowfullscreen=""></iframe></div>
+              <div class="embed-container"><iframe src="https://www.youtube.com/embed/bXjMkQwt-n8" frameborder="0" allowfullscreen=""></iframe></div>
             </div>
           </div>
           <div class="luxury-video-embed-wrapper">
@@ -78,7 +78,7 @@
           <div class="overline luxury-video-overline">{{ texts.78ceca63 }}</div>
           <h2 class="h3 luxury-video-title">{{ texts.-6a8e6bb4 }}</h2>
         </div>
-        {%- assign collection = collections.luxury-listings-page | filter: "f_category,ne,International; f_types,ne,Waterfront", "ALL", page.inputPath | sort: "created-on" -%}{%- include "partials/luxury-listings-grid" -%}
+        {%- assign collection = collections.luxury-listings-page | filter: "f_category,ne,International; f_types,ne,Waterfront", "ALL", page.inputPath | sort: "-published-on" -%}{%- include "partials/luxury-listings-grid" -%}
       </div>
       <div class="section luxury-listings-section wf-section">
         <div class="luxury-listings-title-wrapper">

@@ -66,7 +66,7 @@
       <section class="section wf-section">
         <h2 class="h2 services-listings-title">{{ texts.116d175 }}</h2>
         <div class="orange-divider center margin-40"></div>
-        {%- assign collection = collections.luxury-listings-page | filter: "f_category,ne,International; f_types,ne,Waterfront", "ALL", page.inputPath | sort: "created-on" -%}{%- include "partials/luxury-listings-grid" -%}
+        {%- assign collection = collections.luxury-listings-page | filter: "f_category,ne,International; f_types,ne,Waterfront", "ALL", page.inputPath | sort: "-published-on" -%}{%- include "partials/luxury-listings-grid" -%}
         <div class="primary-button-container services-listings-button-container">
           <a href="{{ links.23 }}" class="primary-button w-button">{{ texts.7a5c6674 }}</a>
         </div>
