@@ -517,6 +517,12 @@ a {
   text-align: center;
 }
 
+.h2.luxury-video-title {
+  font-family: freight-display-pro, sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
 .h3 {
   font-size: 32px;
   line-height: 1.3em;
@@ -2397,6 +2403,7 @@ a {
 }
 
 .orange-divider.center {
+  height: 2px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -5359,6 +5366,11 @@ a {
   grid-template-rows: auto;
 }
 
+.social-proof-row.nan-signature-brand-logos {
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 .image-column {
   width: 100%;
   height: 100%;
@@ -5744,6 +5756,23 @@ a {
 
 .empty-state-11 {
   display: none;
+}
+
+.nan-signature-social-proof-brand-logo-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 26px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.nan-signature-brand-power-stats-wrapper {
+  padding: 25px 50px;
+  background-color: #fafafa;
 }
 
 @media screen and (max-width: 991px) {
@@ -7412,6 +7441,11 @@ a {
     grid-template-columns: 1fr 1fr;
   }
 
+  .social-proof-row.nan-signature-brand-logos {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
   .landing-page-3-col-grid {
     display: block;
     -ms-grid-columns: 1fr;
@@ -7453,6 +7487,18 @@ a {
 
   .checklist-item-check-image {
     padding: 0px;
+  }
+
+  .nan-signature-social-proof-brand-logo-wrapper {
+    padding: 15px 35px;
+  }
+
+  .nan-signature-brand-power-stats-wrapper {
+    display: none;
+  }
+
+  .image-14 {
+    display: block;
   }
 }
 
@@ -10381,6 +10427,13 @@ a {
     grid-row-end: 2;
     -ms-grid-row: 1;
     grid-row-start: 1;
+  }
+
+  #w-node-e101f465-18cf-5e14-fb39-a324c081e1bb-1947fe90 {
+    -webkit-box-ordinal-group: -9998;
+    -webkit-order: -9999;
+    -ms-flex-order: -9999;
+    order: -9999;
   }
 }
 
