@@ -5140,10 +5140,10 @@ collections:
             widget: string
           - hint: >-
               Original text: Through a range of premium services, market
-              experts, & marketing channels, Nan Signature homes gain unrivaled
-              exposure. Our, key: 4dbb113
+              experts, and marketing channels, Nan Signature homes gain
+              unrivaled exposure. Our, key: 16480e02
             label: Text
-            name: 4dbb113
+            name: '16480e02'
             widget: text
           - hint: >-
               Original text: campaigns achieve results across diverse venues and
@@ -5173,12 +5173,12 @@ collections:
           - hint: >-
               Original text: A successful sale begins on day one. Our
               experienced agents conduct thorough market research and leverage
-              our proven vpricing framework to price your property at the most
+              our proven pricing framework to price your property at the most
               optimal price point. We then continually track market data
               performance to stay ahead of trends to make your home selling
-              experience discreet, fast, and smooth., key: 6cfcdcb1
+              experience discreet, fast, and smooth., key: 676f5477
             label: Text
-            name: 6cfcdcb1
+            name: 676f5477
             widget: text
       - label: Links
         name: links
