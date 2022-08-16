@@ -13,14 +13,14 @@ f_featured-image:
   alt: null
 slug: green-oakes
 f_agent-2: cms/agents/natalie-garza.md
-updated-on: '2022-08-16T21:44:46.707Z'
+updated-on: '2022-08-16T23:27:02.643Z'
 created-on: '2021-07-20T13:55:04.436Z'
-published-on: '2022-08-16T22:54:24.163Z'
+published-on: '2022-08-16T23:32:52.623Z'
 f_builder: cms/builders/sbd-investment.md
 f_price-range: Starting in the 350's
 f_description: >
   Welcome to the beautiful new community of Green Oaks Estates. Located at 3415
-  Paul Quinn road, this development is situated near TC Jester and is comprised
+  Paul Quinn Road, this development is situated near TC Jester and is comprised
   of 25 gorgeous new construction homes. These homes range from 1,620 to 1,930
   square feet, three to four bedrooms, and two to three baths. Each detail of
   these homes are thoughtfully designed and modern finishes all throughout. The
