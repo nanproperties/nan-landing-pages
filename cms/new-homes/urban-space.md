@@ -36,11 +36,29 @@ f_image-gallery:
   - url: >-
       https://development.nanproperties.com/assets/external/6230ae664e55842a82ba364f_110220g20paul20quinn20st204201201201201.jpg
     alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b003f2ebfd4933c46b2_dji_0085.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b0080d53a57cbdb8775_dji_0089.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b013fcff271b0170164_dji_0090.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b03c43441d78b1fbc48_dji_0091.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b0486fa67f30336d4bc_dji_0093.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b2b3f2ebf4a443c7bb4_dji_0097.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b2e80d53a3c66db91c9_dsc00714-2.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b2fbd311bb7ce48b8e4_dsc00715-2.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b30caa606c8a25604d7_dsc00717-2.jpg
+    alt: null
 f_agent-2: cms/agents/nancy-ramos.md
 f_builder: cms/builders/new-era-living.md
-updated-on: '2022-03-15T15:42:28.028Z'
+updated-on: '2022-08-16T21:25:08.982Z'
 created-on: '2022-02-22T16:08:50.874Z'
-published-on: '2022-03-17T16:40:53.415Z'
+published-on: '2022-08-16T22:54:24.163Z'
 f_description: >-
   Urban Space is a charming new gated community located at 1002 G Paul Quinn St.
   Situated in the highly coveted Tidwell area, Urban Space is comprised of seven

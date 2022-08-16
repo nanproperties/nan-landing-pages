@@ -13,9 +13,9 @@ f_featured-image:
   alt: null
 slug: green-oakes
 f_agent-2: cms/agents/natalie-garza.md
-updated-on: '2021-07-23T16:44:16.994Z'
+updated-on: '2022-08-16T21:44:46.707Z'
 created-on: '2021-07-20T13:55:04.436Z'
-published-on: '2021-07-23T16:45:10.866Z'
+published-on: '2022-08-16T22:54:24.163Z'
 f_builder: cms/builders/sbd-investment.md
 f_price-range: Starting in the 350's
 f_description: >
@@ -28,6 +28,29 @@ f_description: >
   and direct access to the 45 freeway.
 f_coming-soon: true
 f_is-this-a-55-community: false
+f_image-gallery:
+  - url: https://development.nanproperties.com/assets/external/62fc0f92ed44b70e229546d8_dji_0053.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0f939ed83a242ad179f8_dji_0054.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0f94a1399e2da952ad4e_dji_0055.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0f95be9794d91d4686d8_dji_0058.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0f963ff3694265280328_dji_0061.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0faa898c4132a6f951d0_dji_0063.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0fac0905672807048548_dji_0064.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0fad179b175a87bc7eac_dji_0065.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0fae90abf1324ac6cd15_dji_0066.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0fafed44b75ea5955553_dji_0067.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0fc8090567942e048cb5_dji_0068.jpg
+    alt: null
 layout: '[new-homes].html'
 tags: new-homes
 ---

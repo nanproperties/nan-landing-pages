@@ -17,15 +17,38 @@ f_description: >-
 slug: square-on-dunlavy
 f_agent-2: cms/agents/thomas-eureste.md
 f_builder: cms/builders/iklo-homes.md
-updated-on: '2021-07-12T16:20:31.480Z'
+updated-on: '2022-08-16T21:28:29.930Z'
 created-on: '2021-07-12T15:51:14.458Z'
-published-on: '2021-07-12T20:51:42.204Z'
+published-on: '2022-08-16T22:54:24.163Z'
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/60ec6bb332f1c4c0dcca9042_final20rendering20_20041024_1.jpg
   alt: null
 f_zip-code: 77006
 f_coming-soon: false
 f_is-this-a-55-community: false
+f_image-gallery:
+  - url: https://development.nanproperties.com/assets/external/62fc0bd3ef5931ae58e0f36a_dji_0179.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0bd4bd311bcfef4933dd_dji_0180.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0bd5c434410493202d03_dji_0182.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0bd6bec704287b9131d3_dji_0183.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0bd7bd311b1080493517_dji_0184.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0be9caa606d24256da12_dji_0185.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0becbec70463cc913883_dji_0186.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0bed01e32be6de85413a_dji_0187.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0bee80d53ad07cdbe19d_dsc00733-2.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0befbec7042e6091391e_dsc00735-2.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0bf6bec70462fc913a21_dsc00736-2.jpg
+    alt: null
 layout: '[new-homes].html'
 tags: new-homes
 ---

@@ -19,9 +19,9 @@ f_description: >-
   from 1,460 to 2,006 square feet and boast 3-4 bedrooms and 1.5 baths.
 slug: green-park
 f_agent-2: cms/agents/natalie-garza.md
-updated-on: '2021-08-11T16:39:53.648Z'
+updated-on: '2022-08-16T20:53:07.685Z'
 created-on: '2021-07-23T16:17:03.766Z'
-published-on: '2021-08-11T16:56:59.101Z'
+published-on: '2022-08-16T22:54:24.163Z'
 f_coming-soon: false
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/6101816eca13107fd554c8ac_rmm_5844-hdr.jpg
@@ -42,6 +42,16 @@ f_image-gallery:
   - url: https://development.nanproperties.com/assets/external/61018d0d0e50806560324a05_rmm_5913-hdr.jpg
     alt: null
   - url: https://development.nanproperties.com/assets/external/61018d0dfe40a60a50349dad_rmm_5925-hdr.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fbf3a846646917076facc6_dji_0116.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fbf3a99cc090c9c5a99370_dji_0118.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fbf3aaa0d84b3024fda133_dji_0122.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fbf3ab490fe76256c30dab_dsc00730-2.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fbf3ad5b9d97f7b26b8dab_dsc00732-2.jpg
     alt: null
 f_builder: cms/builders/stoneworks-building-group-llc.md
 f_is-this-a-55-community: false

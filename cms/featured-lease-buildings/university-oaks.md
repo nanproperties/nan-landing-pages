@@ -22,10 +22,30 @@ f_gallery-images:
   - url: >-
       https://development.nanproperties.com/assets/external/62aa11b595756006b9a5b47c_uo-living_kitchen_view_02_26.11.2020-700x400-opt.jpg
     alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc1053c7e445f41ce1c7e1_dji_0206.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc10543ff369b78028039c_dji_0207.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc10552a821e06e7df8e51_dji_0209.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc10562a821e5514df8eeb_dji_0210.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc10577d86cee322860c91_dji_0211.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc10687d86ce82af862cc8_dji_0216.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc10692a821e30addfa0ad_dji_0215.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc106abe979486dd4749af_dji_0214.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc106bbe9794f51d474ba5_dji_0213.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc106c7d86cef5fc86350d_dji_0212.jpg
+    alt: null
 f_area: cms/leasing-areas/medical-center.md
-updated-on: '2022-06-15T17:35:48.027Z'
+updated-on: '2022-08-16T21:47:35.800Z'
 created-on: '2022-06-15T17:08:13.862Z'
-published-on: '2022-06-15T17:36:01.792Z'
+published-on: '2022-08-16T22:54:24.163Z'
 layout: '[featured-lease-buildings].html'
 tags: featured-lease-buildings
 ---

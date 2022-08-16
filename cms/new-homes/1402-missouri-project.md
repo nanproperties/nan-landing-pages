@@ -46,9 +46,33 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/6113edc947d26c5165700484_kitchen2015201.jpg
     alt: null
-updated-on: '2021-08-11T17:41:26.474Z'
+  - url: https://development.nanproperties.com/assets/external/62fc0b67dcdec30b41513e49_dji_0189.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b68dcdec3c79b51408f_dji_0190.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b69bec7047fcc9112a3_dji_0188.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b6abec704f7cb9112f4_dji_0191.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b6cef59311079e0f357_dji_0192.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b7dd9c65cd63eef0394_dji_0194.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b7ecaa60678615673b5_dji_0195.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b7ed9c65ca3f8ef041c_dji_0196.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b808435dd69fdaff140_dji_0197.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0ba086fa6796cc3769b8_dji_0201.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0ba1893a39ef8d4c2430_dji_0202.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0ba3dcdec396b4517ce7_dji_0203.jpg
+    alt: null
+updated-on: '2022-08-16T21:27:12.689Z'
 created-on: '2021-08-11T15:34:02.879Z'
-published-on: '2021-08-11T17:41:26.474Z'
+published-on: '2022-08-16T22:54:24.163Z'
 f_is-this-a-55-community: false
 layout: '[new-homes].html'
 tags: new-homes

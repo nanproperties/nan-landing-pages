@@ -40,11 +40,19 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/6196caa4aa49b706fc8b6e90_9.jpg
     alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc09aca45dba08828f4ff2_dji_0156.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc09ada45dba56238f500d_dji_0157.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc09aecaa606f19c548037_dji_0168.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc09b0c5f8670ac17abba5_dji_0171.jpg
+    alt: null
 f_agent-2: cms/agents/natalie-garza.md
 f_builder: cms/builders/stoneworks-building-group-llc.md
-updated-on: '2022-02-11T23:20:32.779Z'
+updated-on: '2022-08-16T21:20:52.127Z'
 created-on: '2021-04-15T05:01:17.412Z'
-published-on: '2022-02-11T23:51:56.005Z'
+published-on: '2022-08-16T22:54:24.163Z'
 f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_look-book-q2-please-enter-pardot-form-url: https://marketing.nanproperties.com/l/852693/2021-04-20/ljbwj

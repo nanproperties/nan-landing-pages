@@ -1,6 +1,5 @@
 ---
 f_sold: false
-f_development-headline: null
 f_zip-code: 77076
 f_square-footage: 1,380-1,954
 f_bathrooms: 2.5-3.5
@@ -39,11 +38,19 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/60e5cd4baa54ea49eae9875f_house2009201.jpg
     alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0453db0073393dc39e8d_dji_0141.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0453bec704aea48adcf9_dji_0140.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc04558044d170457e64a8_dji_0152.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc045613c44001130e1f30_dji_0147.jpg
+    alt: null
 f_builder: cms/builders/stoneworks-building-group-llc.md
 f_agent-2: cms/agents/natalie-garza.md
-updated-on: '2021-07-07T15:51:20.031Z'
+updated-on: '2022-08-16T20:58:47.634Z'
 created-on: '2021-07-07T15:51:20.031Z'
-published-on: '2021-07-07T15:51:20.031Z'
+published-on: '2022-08-16T22:54:24.163Z'
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_coming-soon: false
 f_is-this-a-55-community: false
