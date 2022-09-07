@@ -12,10 +12,10 @@ f_featured-image:
   url: https://development.nanproperties.com/assets/external/60f6d55b2373bc8cda9bf964_communitydesign-1.png
   alt: null
 slug: green-oakes
-f_agent-2: cms/agents/nan-properties.md
-updated-on: '2022-08-16T23:27:02.643Z'
+f_agent-2: cms/agents/thomas-eureste.md
+updated-on: '2022-09-07T16:37:18.181Z'
 created-on: '2021-07-20T13:55:04.436Z'
-published-on: '2022-08-16T23:32:52.623Z'
+published-on: '2022-09-07T16:38:29.659Z'
 f_builder: cms/builders/sbd-investment.md
 f_price-range: Starting in the 350's
 f_description: >
@@ -51,6 +51,7 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/62fc0fc8090567942e048cb5_dji_0068.jpg
     alt: null
+f_co-listing-agent: cms/agents/jason-nguyen.md
 layout: '[new-homes].html'
 tags: new-homes
 ---

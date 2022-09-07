@@ -1669,6 +1669,10 @@ a {
   height: auto;
 }
 
+.aside-name-wrapper {
+  margin-bottom: 20px;
+}
+
 .aside-agent-name {
   margin-bottom: 10px;
   font-family: freight-display-pro, sans-serif;

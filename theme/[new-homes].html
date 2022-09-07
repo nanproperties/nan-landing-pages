@@ -18,7 +18,7 @@
 <body>
   <div class="page-wrapper">
     <div class="custom-page">
-      {%- include "partials/custom-css" -%}
+      {%- include "partials/custom-css-2022" -%}
       <div class="section development-content-section wf-section">
         <aside id="w-node-c4348008-d97f-5a0a-0a57-cabeac9dd231-327f63b9" class="aside development-aside">
           {% assign ref = f_agent-2 | resolveReference %}{%- unless ref.data.title == "Nan Properties" -%}<div class="aside-headshot-wrapper">{%- assign agentsOfNew-homes = f_agent-2 | resolveReference -%}{% assign ref = f_agent-2 | resolveReference %}{%- unless ref.data.title == "Nan Properties" -%}<img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;24vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ agentsOfNew-homes.data.f_headshot.url }}" alt="{{ agentsOfNew-homes.data.f_headshot.alt }}" class="image-3">{%- endunless -%}</div>{%- endunless -%}
@@ -27,7 +27,16 @@
             <div class="aside-agent-title">{{ agentsOfNew-homes.data.f_title }}</div>
             <a href="{{ "tel:" | append: agentsOfNew-homes.data.f_cell-phone }}" class="aside-agent-phone">{{ agentsOfNew-homes.data.f_cell-phone }}</a>
             <a href="{{ "mailto:" | append: agentsOfNew-homes.data.f_email }}" class="aside-agent-email">{{ agentsOfNew-homes.data.f_email }}</a>
-            {% assign ref = f_agent-2 | resolveReference %}{%- unless ref.data.title == "Nan Properties" -%}<a href="{{ links.-41a1c015 }}" class="primary-button w-button">{{ texts.-67d71d58 }}</a>{%- endunless -%}
+            {% assign ref = f_agent-2 | resolveReference %}{%- unless ref.data.title == "Nan Properties" -%}{%- unless f_co-listing-agent -%}<a href="{{ links.-41a1c015 }}" class="primary-button primary-agent-button w-button">{{ texts.-67d71d58 }}</a>{%- endunless -%}{%- endunless -%}
+            {% assign ref = f_agent-2 | resolveReference %}{%- if ref.data.title == "Nan Properties" -%}<a href="{{ links.-41a1c015 }}" class="primary-button nan-properties-agent w-button">{{ texts.-6760041e }}</a>{%- endif -%}
+          </div>
+          {% assign ref = f_agent-2 | resolveReference %}{%- unless ref.data.title == "Nan Properties" -%}<div class="aside-headshot-wrapper co-listing-agent-headshot-wrapper">{%- assign agentsOfNew-homes = f_agent-2 | resolveReference -%}{% assign ref = f_agent-2 | resolveReference %}{%- unless ref.data.title == "Nan Properties" -%}<img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;24vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ agentsOfNew-homes.data.f_headshot.url }}" alt="{{ agentsOfNew-homes.data.f_headshot.alt }}" class="image-3">{%- endunless -%}</div>{%- endunless -%}
+          <div class="aside-name-wrapper">
+            {%- assign agentsOfNew-homes = f_agent-2 | resolveReference -%}<div class="aside-agent-name">{{ agentsOfNew-homes.data.title }}</div>
+            <div class="aside-agent-title">{{ agentsOfNew-homes.data.f_title }}</div>
+            <a href="{{ "tel:" | append: agentsOfNew-homes.data.f_cell-phone }}" class="aside-agent-phone">{{ agentsOfNew-homes.data.f_cell-phone }}</a>
+            <a href="{{ "mailto:" | append: agentsOfNew-homes.data.f_email }}" class="aside-agent-email">{{ agentsOfNew-homes.data.f_email }}</a>
+            {% assign ref = f_agent-2 | resolveReference %}{%- unless ref.data.title == "Nan Properties" -%}{%- unless f_co-listing-agent -%}<a href="{{ links.-41a1c015 }}" class="primary-button co-listing-agent-button w-button">{{ texts.-6760041e }}</a>{%- endunless -%}{%- endunless -%}
             {% assign ref = f_agent-2 | resolveReference %}{%- if ref.data.title == "Nan Properties" -%}<a href="{{ links.-41a1c015 }}" class="primary-button nan-properties-agent w-button">{{ texts.-6760041e }}</a>{%- endif -%}
           </div>
         </aside>
