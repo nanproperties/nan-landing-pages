@@ -12,7 +12,7 @@ f_featured-image:
   url: https://development.nanproperties.com/assets/external/60f6d55b2373bc8cda9bf964_communitydesign-1.png
   alt: null
 slug: green-oakes
-f_agent-2: cms/agents/natalie-garza.md
+f_agent-2: cms/agents/nan-properties.md
 updated-on: '2022-08-16T23:27:02.643Z'
 created-on: '2021-07-20T13:55:04.436Z'
 published-on: '2022-08-16T23:32:52.623Z'

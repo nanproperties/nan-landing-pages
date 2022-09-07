@@ -27,7 +27,7 @@ f_featured-image:
   url: https://development.nanproperties.com/assets/external/60e5f4948a3ea25f494ae6ac_dsc03004a201.jpg
   alt: null
 slug: kingwood-royal-brook
-f_agent-2: cms/agents/natalie-garza.md
+f_agent-2: cms/agents/nan-properties.md
 f_builder: cms/builders/j-patrick.md
 f_image-gallery:
   - url: https://development.nanproperties.com/assets/external/60e5f6078a3ea2e7f74c519b_dsc03016201.jpg

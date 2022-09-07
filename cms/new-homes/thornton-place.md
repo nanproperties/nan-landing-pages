@@ -12,7 +12,7 @@ title: 920 Thornton
 f_bedrooms: '3'
 slug: thornton-place
 f_builder: cms/builders/stoneworks-building-group-llc.md
-f_agent-2: cms/agents/natalie-garza.md
+f_agent-2: cms/agents/nan-properties.md
 updated-on: '2022-08-16T21:22:45.616Z'
 created-on: '2022-01-17T18:44:29.338Z'
 published-on: '2022-08-16T22:54:24.163Z'

@@ -2042,6 +2042,10 @@ collections:
             label: Text
             name: '-67d71d58'
             widget: string
+          - hint: "Original text: CONTACT\_US\_››, key: -6760041e"
+            label: Text
+            name: '-6760041e'
+            widget: string
           - hint: 'Original text: Welcome To, key: -706a8fc7'
             label: Text
             name: '-706a8fc7'
@@ -5180,6 +5184,38 @@ collections:
             label: Text
             name: 676f5477
             widget: text
+          - hint: "Original text: I\_Can Help Find Your Forever Home , key: -5fd7ec56"
+            label: Text
+            name: '-5fd7ec56'
+            widget: string
+          - hint: "Original text: Your Sugar Land &\_Houston Expert, key: -6022df2c"
+            label: Text
+            name: '-6022df2c'
+            widget: string
+          - hint: "Original text: As a repeat Top Producer and 10+\_years in real estate, I\_help my clients leverage our local &\_international network to find beautiful homes that are hard to find on the market., key: 7a502c06"
+            label: Text
+            name: 7a502c06
+            widget: text
+          - hint: 'Original text: Contact ME ››, key: -4d14158'
+            label: Text
+            name: '-4d14158'
+            widget: string
+          - hint: "Original text: HOw\_I\_Help You, key: -14467c79"
+            label: Text
+            name: '-14467c79'
+            widget: string
+          - hint: "Original text: How I\_Help You, key: 49c0f327"
+            label: Text
+            name: 49c0f327
+            widget: string
+          - hint: "Original text: I live and breathe real estate! I\_am proud to be an expert in the most desirable pockets of southwest Harris County, including Sugar Land, Richmond, and Missouri City., key: -179fabb0"
+            label: Text
+            name: '-179fabb0'
+            widget: text
+          - hint: "Original text: Whether you are a first-time buyer or finally purchasing your dream home, I\_can help guide you at every step of the process with my extensive experience in your corner., key: -16bdf71"
+            label: Text
+            name: '-16bdf71'
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -5772,7 +5808,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 49d35fc5
+            name: 355215c
             widget: object
             fields:
               - name: url
@@ -5902,7 +5938,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: df01cf0
+            name: '-1407bd52'
             widget: object
             fields:
               - name: url
@@ -5915,7 +5951,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 2a142ff0
+            name: '-42899189'
             widget: object
             fields:
               - name: url
@@ -6266,7 +6302,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-5de73457'
+            name: 6d34f1ee
             widget: object
             fields:
               - name: url
@@ -6331,7 +6367,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-3cbca8bd'
+            name: 317f733b
             widget: object
             fields:
               - name: url
@@ -7294,6 +7330,84 @@ collections:
                 required: false
           - label: Image
             name: 1033b346
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 6e3dcfdc
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 6f81f29a
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 49d35fc5
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: df01cf0
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-5de73457'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3cbca8bd'
             widget: object
             fields:
               - name: url

@@ -18,7 +18,7 @@ f_description: >-
   the community for you to enjoy at your leisure. These beautiful homes range
   from 1,460 to 2,006 square feet and boast 3-4 bedrooms and 1.5 baths.
 slug: green-park
-f_agent-2: cms/agents/natalie-garza.md
+f_agent-2: cms/agents/nan-properties.md
 updated-on: '2022-08-16T20:53:07.685Z'
 created-on: '2021-07-23T16:17:03.766Z'
 published-on: '2022-08-16T22:54:24.163Z'

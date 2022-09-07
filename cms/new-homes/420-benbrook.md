@@ -47,7 +47,7 @@ f_image-gallery:
   - url: https://development.nanproperties.com/assets/external/62fc045613c44001130e1f30_dji_0147.jpg
     alt: null
 f_builder: cms/builders/stoneworks-building-group-llc.md
-f_agent-2: cms/agents/natalie-garza.md
+f_agent-2: cms/agents/nan-properties.md
 updated-on: '2022-08-16T20:58:47.634Z'
 created-on: '2021-07-07T15:51:20.031Z'
 published-on: '2022-08-16T22:54:24.163Z'
