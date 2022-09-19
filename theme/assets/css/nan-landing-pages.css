@@ -5806,6 +5806,8 @@ a {
 }
 
 .landing-page-hero-social-media-item {
+  width: 100%;
+  max-width: 40px;
   margin-right: 10px;
 }
 
