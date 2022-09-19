@@ -5796,6 +5796,19 @@ a {
   background-color: #fafafa;
 }
 
+.landing-page-hero-social-media-row {
+  margin-top: 40px;
+}
+
+.landing-page-hero-social-media-item-wrapper {
+  width: 40px;
+  margin-right: 20px;
+}
+
+.landing-page-hero-social-media-item {
+  margin-right: 10px;
+}
+
 @media screen and (max-width: 991px) {
   .h2.mx-page-h2 {
     text-align: center;
@@ -7520,6 +7533,17 @@ a {
 
   .image-14 {
     display: block;
+  }
+
+  .landing-page-hero-social-media-row {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
 }
 
