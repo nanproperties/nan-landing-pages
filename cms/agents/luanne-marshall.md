@@ -1,15 +1,18 @@
 ---
-f_website: null
 f_email: luanne.marshall@nanproperties.com
 f_instagram-handle: '@luannemarshall_realestate'
 f_cell-phone: 'C: 832.419.0685'
 title: Luanne Marshall
 f_title: Broker Associate
 slug: luanne-marshall
-updated-on: '2022-01-13T23:43:40.687Z'
+updated-on: '2022-10-18T05:41:23.714Z'
 created-on: '2022-01-13T23:43:40.687Z'
-published-on: '2022-01-14T00:03:58.602Z'
-f_if-team-is-this-person-the-team-s-lead: false
+published-on: '2022-10-18T05:41:56.977Z'
+f_if-team-is-this-person-the-team-s-lead: true
+f_team: cms/teams/the-luanne-marshall-team.md
+f_headshot:
+  url: https://development.nanproperties.com/assets/external/634e3c82c0d353872dd91201_luanne.jpeg
+  alt: null
 layout: '[agents].html'
 tags: agents
 ---
