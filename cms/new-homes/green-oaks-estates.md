@@ -9,13 +9,13 @@ f_city: Houston
 title: Green Oaks Estates
 f_bedrooms: 3-4
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/60f6d55b2373bc8cda9bf964_communitydesign-1.png
+  url: https://development.nanproperties.com/assets/external/6398a54309eabeefbc320102_rmm_2199-hdr.jpg
   alt: null
 slug: green-oaks-estates
 f_agent-2: cms/agents/thomas-eureste.md
-updated-on: '2022-09-07T16:51:22.378Z'
+updated-on: '2022-12-13T16:16:06.143Z'
 created-on: '2021-07-20T13:55:04.436Z'
-published-on: '2022-09-07T16:51:47.044Z'
+published-on: '2022-12-13T22:30:49.780Z'
 f_builder: cms/builders/sbd-investment.md
 f_price-range: Starting in the 350's
 f_description: >

@@ -15,11 +15,11 @@ f_description: >-
   residences feature three beds and three and a half baths. The community is
   located in a highly coveted area, just minutes away from Montrose and Midtown.
 slug: square-on-dunlavy
-f_agent-2: cms/agents/thomas-eureste.md
+f_agent-2: cms/agents/zoya-hanif.md
 f_builder: cms/builders/iklo-homes.md
-updated-on: '2022-08-16T21:28:29.930Z'
+updated-on: '2022-12-13T16:28:47.723Z'
 created-on: '2021-07-12T15:51:14.458Z'
-published-on: '2022-08-16T22:54:24.163Z'
+published-on: '2022-12-13T22:30:49.780Z'
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/60ec6bb332f1c4c0dcca9042_final20rendering20_20041024_1.jpg
   alt: null
@@ -49,6 +49,7 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/62fc0bf6bec70462fc913a21_dsc00736-2.jpg
     alt: null
+f_co-listing-agent: cms/agents/nancy-ramos.md
 layout: '[new-homes].html'
 tags: new-homes
 ---

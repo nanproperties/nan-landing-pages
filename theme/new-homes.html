@@ -26,6 +26,9 @@
           {%- unless collection.length == 0 -%}<div role="list" class="developments-content-list w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="developments-content-item w-dyn-item">
               <div class="developments-text-wrapper">
+                <div id="w-node-_17b26635-9bfa-3ed3-0341-827f805177f0-ac7f63c1" class="developments-sold-out-wrapper">
+                  <div class="sold-out-text">{{ texts.-7939ae9e }}</div>
+                </div>
                 <div class="developments-text-wrapper-inner">
                   <div class="developments-text-city-wrapper">
                     {%- if item.data.f_neighborhood-if-different-than-city -%}<div class="developments-text-city neighborhood">{{ item.data.f_city }}</div>{%- endif -%}

@@ -1,6 +1,6 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_street-address: '5118 Golden Forest '
@@ -8,9 +8,9 @@ title: 'Golden Forest '
 slug: golden-forest-2
 f_builder: cms/builders/new-elite-homes-llc.md
 f_agent-2: cms/agents/yvonne-pruneda.md
-updated-on: '2022-02-11T23:43:07.716Z'
+updated-on: '2022-12-13T16:08:46.715Z'
 created-on: '2021-12-30T22:24:51.168Z'
-published-on: '2022-02-11T23:51:56.005Z'
+published-on: '2022-12-13T22:30:49.780Z'
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/61eee6b07f9a110b3389356c_iimg_230.jpg
   alt: null

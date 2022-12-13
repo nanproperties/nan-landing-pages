@@ -43,10 +43,10 @@ f_image-gallery:
       https://development.nanproperties.com/assets/external/6081e6903d445a652ee612e4_6077c899b27f2a03347b38b9_604848a742051360aa673487740091bc226fc62e64d29-cc_ft_384.jpeg
     alt: null
 f_agent-2: cms/agents/jason-nguyen.md
-updated-on: '2021-07-08T14:40:31.290Z'
+updated-on: '2022-12-13T16:07:39.354Z'
 created-on: '2021-04-22T21:11:45.647Z'
-published-on: '2021-07-08T14:42:09.979Z'
-f_sold: false
+published-on: '2022-12-13T22:30:49.780Z'
+f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_builder: cms/builders/spring-w-homes.md
 f_coming-soon: false

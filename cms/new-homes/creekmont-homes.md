@@ -37,11 +37,11 @@ f_featured-image:
   url: https://development.nanproperties.com/assets/external/62ab911828e6735b19baf121_rmm_3222-hdr201.jpg
   alt: null
 slug: creekmont-homes
-f_agent-2: cms/agents/erica-capistran.md
+f_agent-2: cms/agents/yvonne-pruneda.md
 f_builder: cms/builders/spring-w-homes.md
-updated-on: '2022-06-16T20:25:05.624Z'
+updated-on: '2022-12-13T16:13:28.674Z'
 created-on: '2022-06-16T20:25:05.624Z'
-published-on: '2022-07-07T03:47:55.919Z'
+published-on: '2022-12-13T22:30:49.780Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---

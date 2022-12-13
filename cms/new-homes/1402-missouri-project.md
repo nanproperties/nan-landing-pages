@@ -1,6 +1,6 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77006
 f_square-footage: 2,644
@@ -70,9 +70,9 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/62fc0ba3dcdec396b4517ce7_dji_0203.jpg
     alt: null
-updated-on: '2022-08-16T21:27:12.689Z'
+updated-on: '2022-12-13T16:08:54.843Z'
 created-on: '2021-08-11T15:34:02.879Z'
-published-on: '2022-08-16T22:54:24.163Z'
+published-on: '2022-12-13T22:30:49.780Z'
 f_is-this-a-55-community: false
 layout: '[new-homes].html'
 tags: new-homes
