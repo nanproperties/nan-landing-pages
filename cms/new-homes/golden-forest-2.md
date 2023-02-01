@@ -8,9 +8,9 @@ title: 'Golden Forest '
 slug: golden-forest-2
 f_builder: cms/builders/new-elite-homes-llc.md
 f_agent-2: cms/agents/yvonne-pruneda.md
-updated-on: '2022-12-13T16:08:46.715Z'
+updated-on: '2023-02-01T16:43:44.170Z'
 created-on: '2021-12-30T22:24:51.168Z'
-published-on: '2022-12-13T22:30:49.780Z'
+published-on: '2023-02-01T16:45:13.231Z'
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/61eee6b07f9a110b3389356c_iimg_230.jpg
   alt: null

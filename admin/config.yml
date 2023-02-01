@@ -801,8 +801,8 @@ collections:
         label: Developments
         widget: relation
         required: false
-        collection: new_homes_collections
-        value_field: cms/new-homes-collections/{{slug}}.md
+        collection: new_homes
+        value_field: cms/new-homes/{{slug}}.md
         search_fields:
           - slug
           - name
@@ -1474,9 +1474,9 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-  - name: new_homes_collections
+  - name: new_homes
     label: New Homes aka Developments
-    folder: cms/new-homes-collections
+    folder: cms/new-homes
     create: true
     identifier_field: name
     extension: md
@@ -1688,11 +1688,11 @@ collections:
       - label: Tags
         widget: hidden
         name: tags
-        default: new-homes-collections
+        default: new-homes
       - label: Layout
         widget: hidden
         name: layout
-        default: '[new-homes-collections].html'
+        default: '[new-homes].html'
       - label: Publish Date
         name: date
         widget: datetime

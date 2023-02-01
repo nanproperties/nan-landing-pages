@@ -34,7 +34,7 @@
         <div class="vertical-divider"></div>
       </div>
       <div class="section builder-listings-section wf-section">
-        {%- assign collection = collections.new-homes-collections | filter: "f_builder,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
+        {%- assign collection = collections.new-homes | filter: "f_builder,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="grid builder-list-grid w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="builder-listings-item-wrapper w-dyn-item">
               <a href="{{ item.url }}" class="builder-listings-item-image-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;43vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ item.data.f_featured-image.url }}" alt="{{ item.data.f_featured-image.alt }}" class="builder-listings-item-image">
