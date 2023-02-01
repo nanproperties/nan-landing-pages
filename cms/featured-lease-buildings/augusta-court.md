@@ -3,7 +3,7 @@ f_destination-url: https://www.nanproperties.com//featured-lease-buildings/augus
 title: Augusta Court
 f_background-image:
   url: >-
-    /assets/external/623cdbea7f6705ff67b2b572_screen20shot202022-03-2420at204.00.24%20PM.png
+    https://development.nanproperties.com/assets/external/623cdbea7f6705ff67b2b572_screen20shot202022-03-2420at204.00.24%20PM.png
   alt: null
 slug: augusta-court
 f_area: cms/leasing-areas/galleria-river-oaks.md
@@ -12,42 +12,42 @@ created-on: '2022-03-24T21:00:54.096Z'
 published-on: '2022-03-28T17:17:01.574Z'
 f_city: Houston
 f_gallery-images:
-  - url: /assets/external/623cedc5703a171088df49fa_img_2861201.jpeg
+  - url: https://development.nanproperties.com/assets/external/623cedc5703a171088df49fa_img_2861201.jpeg
     alt: null
   - url: >-
-      /assets/external/623cedc5d0ab4f65aee4b5e1_photo20oct20142c20122033204720pm201.jpeg
+      https://development.nanproperties.com/assets/external/623cedc5d0ab4f65aee4b5e1_photo20oct20142c20122033204720pm201.jpeg
     alt: null
   - url: >-
-      /assets/external/623cedc5a41351ed8659cd1d_photo20oct20142c20122034204620pm202.jpeg
+      https://development.nanproperties.com/assets/external/623cedc5a41351ed8659cd1d_photo20oct20142c20122034204620pm202.jpeg
     alt: null
   - url: >-
-      /assets/external/623cedc404c65bfd02f5eec1_photo20oct20142c20122039200420pm1.jpeg
+      https://development.nanproperties.com/assets/external/623cedc404c65bfd02f5eec1_photo20oct20142c20122039200420pm1.jpeg
     alt: null
   - url: >-
-      /assets/external/623cedc44e881dfff6038ae7_photo20oct20142c20122039204020pm203.jpeg
+      https://development.nanproperties.com/assets/external/623cedc44e881dfff6038ae7_photo20oct20142c20122039204020pm203.jpeg
     alt: null
   - url: >-
-      /assets/external/623cedc4b4be543486501e43_photo20oct20142c20122042201820pm203.jpeg
+      https://development.nanproperties.com/assets/external/623cedc4b4be543486501e43_photo20oct20142c20122042201820pm203.jpeg
     alt: null
   - url: >-
-      /assets/external/623cedc4a1b2740c6debf66c_181920augusta20drive20houston20tx20usa20-20017.jpeg
+      https://development.nanproperties.com/assets/external/623cedc4a1b2740c6debf66c_181920augusta20drive20houston20tx20usa20-20017.jpeg
     alt: null
   - url: >-
-      /assets/external/623cedc40683b5a61d8561aa_181920augusta20drive20houston20tx20usa20-20006.jpeg
+      https://development.nanproperties.com/assets/external/623cedc40683b5a61d8561aa_181920augusta20drive20houston20tx20usa20-20006.jpeg
     alt: null
   - url: >-
-      /assets/external/623cedc458dd97693841930c_181920augusta20drive20houston20tx20usa20-20007.jpeg
+      https://development.nanproperties.com/assets/external/623cedc458dd97693841930c_181920augusta20drive20houston20tx20usa20-20007.jpeg
     alt: null
   - url: >-
-      /assets/external/623cedc40cf27665652d4fbd_181920augusta20drive20houston20tx20usa20-20013.jpeg
+      https://development.nanproperties.com/assets/external/623cedc40cf27665652d4fbd_181920augusta20drive20houston20tx20usa20-20013.jpeg
     alt: null
-  - url: /assets/external/623cedc5b4be546bef501e5b_ex1.jpeg
+  - url: https://development.nanproperties.com/assets/external/623cedc5b4be546bef501e5b_ex1.jpeg
     alt: null
-  - url: /assets/external/623cedc55eb003e196006157_ex5.jpeg
+  - url: https://development.nanproperties.com/assets/external/623cedc55eb003e196006157_ex5.jpeg
     alt: null
-  - url: /assets/external/623cedc51da45211502012fd_ex3.jpeg
+  - url: https://development.nanproperties.com/assets/external/623cedc51da45211502012fd_ex3.jpeg
     alt: null
-  - url: /assets/external/623cedc50cf2761dbc2d4fc4_ex7.jpeg
+  - url: https://development.nanproperties.com/assets/external/623cedc50cf2761dbc2d4fc4_ex7.jpeg
     alt: null
 f_street-address: 1819 Augusta Drive
 f_zip-code: '77057'

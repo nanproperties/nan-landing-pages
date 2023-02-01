@@ -5,7 +5,7 @@ f_team-slogan: Your Real Estate Experts
 f_featured-video-youtube-id: f5wxiFyaHic
 f_secondary-team-image:
   url: >-
-    /assets/external/6296e2572969e62934b1f7e4_sara20black20clayton20simms20-20forth20and20nomad-3.jpeg
+    https://development.nanproperties.com/assets/external/6296e2572969e62934b1f7e4_sara20black20clayton20simms20-20forth20and20nomad-3.jpeg
   alt: null
 slug: the-sara-black-team
 updated-on: '2022-06-01T03:51:56.623Z'

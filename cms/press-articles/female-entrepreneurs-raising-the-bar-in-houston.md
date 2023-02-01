@@ -10,7 +10,7 @@ title: Female Entrepreneurs Raising The Bar in Houston
 slug: female-entrepreneurs-raising-the-bar-in-houston
 f_image-or-screenshot-of-article:
   url: >-
-    /assets/external/60808563814f55a9ea07b5ee_screen_shot_2021-04-21_at_8.47.19_AM.png
+    https://development.nanproperties.com/assets/external/60808563814f55a9ea07b5ee_screen_shot_2021-04-21_at_8.47.19_AM.png
   alt: null
 updated-on: '2021-04-21T20:04:51.512Z'
 created-on: '2021-04-21T20:04:51.512Z'

@@ -16,35 +16,35 @@ f_description: >-
   3.5 baths. This quiet community is fully gated and features two lush
   recreational parks.
 f_featured-image:
-  url: /assets/external/60e5c77885b099e3247ec8bb_aerial20view201201.jpg
+  url: https://development.nanproperties.com/assets/external/60e5c77885b099e3247ec8bb_aerial20view201201.jpg
   alt: null
 slug: 420-benbrook
 f_image-gallery:
-  - url: /assets/external/60e5cb45677660e774b158c8_house2001201.jpg
+  - url: https://development.nanproperties.com/assets/external/60e5cb45677660e774b158c8_house2001201.jpg
     alt: null
-  - url: /assets/external/60e5cb61c823a1b016a1e2b6_house2002201.jpg
+  - url: https://development.nanproperties.com/assets/external/60e5cb61c823a1b016a1e2b6_house2002201.jpg
     alt: null
-  - url: /assets/external/60e5cbc22267532bdab218c2_house2003201.jpg
+  - url: https://development.nanproperties.com/assets/external/60e5cbc22267532bdab218c2_house2003201.jpg
     alt: null
-  - url: /assets/external/60e5cc04e5c4210c824d7a28_house2004201.jpg
+  - url: https://development.nanproperties.com/assets/external/60e5cc04e5c4210c824d7a28_house2004201.jpg
     alt: null
-  - url: /assets/external/60e5cc3838c8e90dc20f5f11_house2005201.jpg
+  - url: https://development.nanproperties.com/assets/external/60e5cc3838c8e90dc20f5f11_house2005201.jpg
     alt: null
-  - url: /assets/external/60e5cc9ebd0aee8c87c90b4e_house2006201.jpg
+  - url: https://development.nanproperties.com/assets/external/60e5cc9ebd0aee8c87c90b4e_house2006201.jpg
     alt: null
-  - url: /assets/external/60e5ccd8bd0aee23dac924e7_house2007201.jpg
+  - url: https://development.nanproperties.com/assets/external/60e5ccd8bd0aee23dac924e7_house2007201.jpg
     alt: null
-  - url: /assets/external/60e5cd25494152396fe0f372_house2008201.jpg
+  - url: https://development.nanproperties.com/assets/external/60e5cd25494152396fe0f372_house2008201.jpg
     alt: null
-  - url: /assets/external/60e5cd4baa54ea49eae9875f_house2009201.jpg
+  - url: https://development.nanproperties.com/assets/external/60e5cd4baa54ea49eae9875f_house2009201.jpg
     alt: null
-  - url: /assets/external/62fc0453db0073393dc39e8d_dji_0141.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0453db0073393dc39e8d_dji_0141.jpg
     alt: null
-  - url: /assets/external/62fc0453bec704aea48adcf9_dji_0140.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0453bec704aea48adcf9_dji_0140.jpg
     alt: null
-  - url: /assets/external/62fc04558044d170457e64a8_dji_0152.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc04558044d170457e64a8_dji_0152.jpg
     alt: null
-  - url: /assets/external/62fc045613c44001130e1f30_dji_0147.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc045613c44001130e1f30_dji_0147.jpg
     alt: null
 f_builder: cms/builders/stoneworks-building-group-llc.md
 f_agent-2: cms/agents/nan-properties.md

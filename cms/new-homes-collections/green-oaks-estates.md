@@ -9,7 +9,7 @@ f_city: Houston
 title: Green Oaks Estates
 f_bedrooms: 3-4
 f_featured-image:
-  url: /assets/external/6398a54309eabeefbc320102_rmm_2199-hdr.jpg
+  url: https://development.nanproperties.com/assets/external/6398a54309eabeefbc320102_rmm_2199-hdr.jpg
   alt: null
 slug: green-oaks-estates
 f_agent-2: cms/agents/thomas-eureste.md
@@ -29,27 +29,27 @@ f_description: >
 f_coming-soon: true
 f_is-this-a-55-community: false
 f_image-gallery:
-  - url: /assets/external/62fc0f92ed44b70e229546d8_dji_0053.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0f92ed44b70e229546d8_dji_0053.jpg
     alt: null
-  - url: /assets/external/62fc0f939ed83a242ad179f8_dji_0054.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0f939ed83a242ad179f8_dji_0054.jpg
     alt: null
-  - url: /assets/external/62fc0f94a1399e2da952ad4e_dji_0055.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0f94a1399e2da952ad4e_dji_0055.jpg
     alt: null
-  - url: /assets/external/62fc0f95be9794d91d4686d8_dji_0058.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0f95be9794d91d4686d8_dji_0058.jpg
     alt: null
-  - url: /assets/external/62fc0f963ff3694265280328_dji_0061.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0f963ff3694265280328_dji_0061.jpg
     alt: null
-  - url: /assets/external/62fc0faa898c4132a6f951d0_dji_0063.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0faa898c4132a6f951d0_dji_0063.jpg
     alt: null
-  - url: /assets/external/62fc0fac0905672807048548_dji_0064.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0fac0905672807048548_dji_0064.jpg
     alt: null
-  - url: /assets/external/62fc0fad179b175a87bc7eac_dji_0065.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0fad179b175a87bc7eac_dji_0065.jpg
     alt: null
-  - url: /assets/external/62fc0fae90abf1324ac6cd15_dji_0066.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0fae90abf1324ac6cd15_dji_0066.jpg
     alt: null
-  - url: /assets/external/62fc0fafed44b75ea5955553_dji_0067.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0fafed44b75ea5955553_dji_0067.jpg
     alt: null
-  - url: /assets/external/62fc0fc8090567942e048cb5_dji_0068.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0fc8090567942e048cb5_dji_0068.jpg
     alt: null
 f_co-listing-agent: cms/agents/jason-nguyen.md
 layout: '[new-homes-collections].html'

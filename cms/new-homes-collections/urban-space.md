@@ -13,46 +13,46 @@ f_bedrooms: '3'
 slug: urban-space
 f_image-gallery:
   - url: >-
-      /assets/external/6230ac9885778405fa2f8056_conjunto20paul20quinn204201201.jpg
+      https://development.nanproperties.com/assets/external/6230ac9885778405fa2f8056_conjunto20paul20quinn204201201.jpg
     alt: null
   - url: >-
-      /assets/external/6230acce074fdde6a2f43d56_110620j20paul20quinn20st204201201201202.jpg
+      https://development.nanproperties.com/assets/external/6230acce074fdde6a2f43d56_110620j20paul20quinn20st204201201201202.jpg
     alt: null
   - url: >-
-      /assets/external/6230ad2b1ba0583c096754fc_110620h20paul20quinn20st204201201201202.jpg
+      https://development.nanproperties.com/assets/external/6230ad2b1ba0583c096754fc_110620h20paul20quinn20st204201201201202.jpg
     alt: null
   - url: >-
-      /assets/external/6230ad7a059c24821b2ce2ab_110620g20paul20quinn20st204201202.jpg
+      https://development.nanproperties.com/assets/external/6230ad7a059c24821b2ce2ab_110620g20paul20quinn20st204201202.jpg
     alt: null
   - url: >-
-      /assets/external/6230addd4e5584493eb9c9d2_110620f20paul20quinn20st204201201201201.jpg
+      https://development.nanproperties.com/assets/external/6230addd4e5584493eb9c9d2_110620f20paul20quinn20st204201201201201.jpg
     alt: null
   - url: >-
-      /assets/external/6230ae1b1ba05812dc67c42e_110220i2020paul20quinn20st204201201201202.jpg
+      https://development.nanproperties.com/assets/external/6230ae1b1ba05812dc67c42e_110220i2020paul20quinn20st204201201201202.jpg
     alt: null
   - url: >-
-      /assets/external/6230ae430113033f6ceb5dc0_110220h20paul20quinn20st204201201201201.jpg
+      https://development.nanproperties.com/assets/external/6230ae430113033f6ceb5dc0_110220h20paul20quinn20st204201201201201.jpg
     alt: null
   - url: >-
-      /assets/external/6230ae664e55842a82ba364f_110220g20paul20quinn20st204201201201201.jpg
+      https://development.nanproperties.com/assets/external/6230ae664e55842a82ba364f_110220g20paul20quinn20st204201201201201.jpg
     alt: null
-  - url: /assets/external/62fc0b003f2ebfd4933c46b2_dji_0085.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b003f2ebfd4933c46b2_dji_0085.jpg
     alt: null
-  - url: /assets/external/62fc0b0080d53a57cbdb8775_dji_0089.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b0080d53a57cbdb8775_dji_0089.jpg
     alt: null
-  - url: /assets/external/62fc0b013fcff271b0170164_dji_0090.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b013fcff271b0170164_dji_0090.jpg
     alt: null
-  - url: /assets/external/62fc0b03c43441d78b1fbc48_dji_0091.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b03c43441d78b1fbc48_dji_0091.jpg
     alt: null
-  - url: /assets/external/62fc0b0486fa67f30336d4bc_dji_0093.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b0486fa67f30336d4bc_dji_0093.jpg
     alt: null
-  - url: /assets/external/62fc0b2b3f2ebf4a443c7bb4_dji_0097.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b2b3f2ebf4a443c7bb4_dji_0097.jpg
     alt: null
-  - url: /assets/external/62fc0b2e80d53a3c66db91c9_dsc00714-2.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b2e80d53a3c66db91c9_dsc00714-2.jpg
     alt: null
-  - url: /assets/external/62fc0b2fbd311bb7ce48b8e4_dsc00715-2.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b2fbd311bb7ce48b8e4_dsc00715-2.jpg
     alt: null
-  - url: /assets/external/62fc0b30caa606c8a25604d7_dsc00717-2.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b30caa606c8a25604d7_dsc00717-2.jpg
     alt: null
 f_agent-2: cms/agents/nancy-ramos.md
 f_builder: cms/builders/new-era-living.md
@@ -69,7 +69,7 @@ f_description: >-
   more!
 f_featured-image:
   url: >-
-    /assets/external/6230ac7cbd3580c6e28c058a_conjunto20paul20quinn20st20view202202201.jpg
+    https://development.nanproperties.com/assets/external/6230ac7cbd3580c6e28c058a_conjunto20paul20quinn20st20view202202201.jpg
   alt: null
 f_price-range: $319,900-364,900
 layout: '[new-homes-collections].html'
