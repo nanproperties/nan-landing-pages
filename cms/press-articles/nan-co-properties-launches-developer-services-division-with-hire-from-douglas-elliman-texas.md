@@ -12,7 +12,7 @@ title: >-
   Douglas Elliman Texas
 f_image-or-screenshot-of-article:
   url: >-
-    https://development.nanproperties.com/assets/external/60db9096700de4bf3a962749_content_screen_shot_2020-11-12_at_12.30.42_AM.png
+    /assets/external/60db9096700de4bf3a962749_content_screen_shot_2020-11-12_at_12.30.42_AM.png
   alt: null
 slug: >-
   nan-co-properties-launches-developer-services-division-with-hire-from-douglas-elliman-texas

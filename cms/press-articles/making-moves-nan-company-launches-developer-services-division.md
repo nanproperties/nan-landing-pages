@@ -10,7 +10,7 @@ f_media-outlet-excerpt: >-
 title: 'Making Moves: Nan & Company launches developer services division'
 f_image-or-screenshot-of-article:
   url: >-
-    https://development.nanproperties.com/assets/external/60db90957f30849b0cd92fba_screen_shot_2020-11-12_at_12.33.04_AM.png
+    /assets/external/60db90957f30849b0cd92fba_screen_shot_2020-11-12_at_12.33.04_AM.png
   alt: null
 slug: making-moves-nan-company-launches-developer-services-division
 updated-on: '2021-06-29T21:32:33.843Z'

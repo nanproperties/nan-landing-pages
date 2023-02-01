@@ -14,7 +14,7 @@ title: Lennar Homes
 f_builder-slogan: We build new dream homes.
 f_builder-logo:
   url: >-
-    https://development.nanproperties.com/assets/external/6081e6c4e1a0e08577d3085b_6077bf4035f7f1b27e9f5eb6_6034712b046b64975fa00-1d3d-49dd-a536-20d85d1d8036.png
+    /assets/external/6081e6c4e1a0e08577d3085b_6077bf4035f7f1b27e9f5eb6_6034712b046b64975fa00-1d3d-49dd-a536-20d85d1d8036.png
   alt: null
 slug: lennar-homes
 updated-on: '2021-04-22T21:12:36.465Z'

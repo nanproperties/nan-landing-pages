@@ -801,8 +801,8 @@ collections:
         label: Developments
         widget: relation
         required: false
-        collection: new_homes
-        value_field: cms/new-homes/{{slug}}.md
+        collection: new_homes_collections
+        value_field: cms/new-homes-collections/{{slug}}.md
         search_fields:
           - slug
           - name
@@ -1474,9 +1474,9 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-  - name: new_homes
+  - name: new_homes_collections
     label: New Homes aka Developments
-    folder: cms/new-homes
+    folder: cms/new-homes-collections
     create: true
     identifier_field: name
     extension: md
@@ -1688,11 +1688,11 @@ collections:
       - label: Tags
         widget: hidden
         name: tags
-        default: new-homes
+        default: new-homes-collections
       - label: Layout
         widget: hidden
         name: layout
-        default: '[new-homes].html'
+        default: '[new-homes-collections].html'
       - label: Publish Date
         name: date
         widget: datetime
@@ -2175,6 +2175,14 @@ collections:
           - hint: "Original text: VISIT\_WEBSITE, key: 47b97206"
             label: Text
             name: 47b97206
+            widget: string
+          - hint: 'Original text: CURRENT, key: 6df74959'
+            label: Text
+            name: 6df74959
+            widget: string
+          - hint: "Original text: PAST\_DEVELOPMENTS, key: -495aab9a"
+            label: Text
+            name: '-495aab9a'
             widget: string
           - hint: "Original text: SOLD\_OUT, key: -7939ae9e"
             label: Text
@@ -5303,6 +5311,14 @@ collections:
           - hint: 'Original link: https://www.christiesrealestate.com, key: -2d417c0f'
             label: Link
             name: '-2d417c0f'
+            widget: string
+          - hint: 'Original link: /new-homes, key: 747771b8'
+            label: Link
+            name: 747771b8
+            widget: string
+          - hint: 'Original link: /new-homes-sold, key: -31cd0837'
+            label: Link
+            name: '-31cd0837'
             widget: string
           - hint: >-
               Original link:

@@ -7,7 +7,7 @@ created-on: '2022-05-12T18:07:08.002Z'
 published-on: '2022-07-22T21:15:06.744Z'
 f_instagram-link: https://www.instagram.com/soldbynikkih/
 f_secondary-team-image:
-  url: https://development.nanproperties.com/assets/external/627d846ee80186a62c2f86ac___9129202.jpeg
+  url: /assets/external/627d846ee80186a62c2f86ac___9129202.jpeg
   alt: null
 f_mini-feature-video-youtube-id: 6CX3VYRSnyk
 f_custom-block-1: '![](https://development.nanproperties.com/assets/external/62db12d18757e877e3f7c0c1_nikki-hohman-team-3201.jpeg)'

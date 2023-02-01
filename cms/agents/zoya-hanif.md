@@ -8,11 +8,11 @@ title: Zoya Hanif
 f_title: Realtor Associate
 slug: zoya-hanif
 f_headshot:
-  url: https://development.nanproperties.com/assets/external/6398a7ccc48755cc92e57665_zoya20hanif20headshot20201.jpg
+  url: /assets/external/639ad9e1b9bb741ff394e838_zoya.webp
   alt: null
-updated-on: '2022-12-13T16:28:18.880Z'
+updated-on: '2022-12-15T08:25:07.420Z'
 created-on: '2022-12-13T16:28:18.880Z'
-published-on: '2022-12-13T22:30:49.780Z'
+published-on: '2023-02-01T04:27:02.308Z'
 layout: '[agents].html'
 tags: agents
 ---

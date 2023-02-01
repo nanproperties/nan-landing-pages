@@ -3,7 +3,7 @@ f_destination-url: https://www.nanproperties.com//featured-lease-buildings/aris-
 title: Aris Market Square
 slug: aris-market-square
 f_background-image:
-  url: https://development.nanproperties.com/assets/external/61d8dfd4961fe188cef5720e_content_aris-market-square.jpeg
+  url: /assets/external/61d8dfd4961fe188cef5720e_content_aris-market-square.jpeg
   alt: null
 f_area: cms/leasing-areas/downtown.md
 updated-on: '2022-03-28T17:36:59.359Z'
@@ -11,9 +11,9 @@ created-on: '2022-01-08T00:50:29.055Z'
 published-on: '2022-03-28T17:37:31.387Z'
 f_city: Houston
 f_gallery-images:
-  - url: https://development.nanproperties.com/assets/external/6241f2180adb06fe57528fe1_content_25.jpeg
+  - url: /assets/external/6241f2180adb06fe57528fe1_content_25.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/6241f21889d64138c7730381_content_17.jpeg
+  - url: /assets/external/6241f21889d64138c7730381_content_17.jpeg
     alt: null
 f_street-address: 409 Travis St
 f_video-tour:

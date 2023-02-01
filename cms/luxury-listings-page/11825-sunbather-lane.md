@@ -4,7 +4,7 @@ f_url: >-
 f_types: Waterfront
 title: 11825 Sunbather Lane
 f_image:
-  url: https://development.nanproperties.com/assets/external/60b57b22c46871cb40f99d91_img-1.jpeg
+  url: /assets/external/60b57b22c46871cb40f99d91_img-1.jpeg
   alt: null
 slug: 11825-sunbather-lane
 updated-on: '2021-06-01T00:11:14.721Z'

@@ -11,7 +11,7 @@ published-on: '2022-05-13T23:24:43.089Z'
 f_featured-agent: cms/agents/yvonne-pruneda.md
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets/external/627ee359a950843e8b9b4c45_screen20shot202022-05-1320at204.01.40%20PM.png
+    /assets/external/627ee359a950843e8b9b4c45_screen20shot202022-05-1320at204.01.40%20PM.png
   alt: null
 layout: '[commercial-listings].html'
 tags: commercial-listings

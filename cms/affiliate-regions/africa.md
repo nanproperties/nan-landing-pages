@@ -9,7 +9,7 @@ f_continent-description: >-
 title: Africa
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets/external/6077cec78ec3146b700bc7d3_602f64f3e3a72global-properties-africa.jpeg
+    /assets/external/6077cec78ec3146b700bc7d3_602f64f3e3a72global-properties-africa.jpeg
   alt: null
 slug: africa
 updated-on: '2021-06-03T01:55:11.337Z'
