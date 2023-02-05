@@ -3889,10 +3889,6 @@ collections:
             label: Text
             name: 26dfdf12
             widget: text
-          - hint: 'Original text: MATCH YOUR LIFESTYLE TO YOUR HOME., key: 370eeaaa'
-            label: Text
-            name: 370eeaaa
-            widget: string
           - hint: >-
               Original text: Connect with one of our experienced agents today.,
               key: 1abb4f5a
@@ -5295,12 +5291,6 @@ collections:
             label: Text
             name: '-30ccc86'
             widget: text
-          - hint: >-
-              Original text: Buying Your First Home Is Easier Than You Think.,
-              key: 26032649
-            label: Text
-            name: '26032649'
-            widget: string
           - hint: >-
               Original text: We help you find the right homebuyer program to
               save you money and buy your first home., key: -44bcd058

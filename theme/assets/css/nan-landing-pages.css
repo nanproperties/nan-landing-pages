@@ -5888,6 +5888,31 @@ a {
   font-size: 1.3vw;
 }
 
+.section-headline {
+  position: static;
+  left: 0%;
+  top: -20vw;
+  right: 0%;
+  bottom: auto;
+  color: #fff;
+}
+
+.section-headline.white {
+  color: #fff;
+}
+
+.section-headline-2 {
+  position: static;
+  left: 0%;
+  top: -20vw;
+  right: 0%;
+  bottom: auto;
+}
+
+.section-headline-2.white {
+  color: #fff;
+}
+
 @media screen and (max-width: 991px) {
   .h2.mx-page-h2 {
     text-align: center;
