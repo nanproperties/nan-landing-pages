@@ -3889,11 +3889,15 @@ collections:
             label: Text
             name: 26dfdf12
             widget: text
-          - hint: >-
-              Original text: Connect with our experienced agents today., key:
-              478f1761
+          - hint: 'Original text: MATCH YOUR LIFESTYLE TO YOUR HOME., key: 370eeaaa'
             label: Text
-            name: 478f1761
+            name: 370eeaaa
+            widget: string
+          - hint: >-
+              Original text: Connect with one of our experienced agents today.,
+              key: 1abb4f5a
+            label: Text
+            name: 1abb4f5a
             widget: string
           - hint: 'Original text: Contact Us Now, key: 7a5c6674'
             label: Text
@@ -3908,10 +3912,12 @@ collections:
               fundamentals of real estate in a fun and unique way. We are able
               to stand out in a competitive market by using cutting edge
               technology to market ourselves through a fresh and innovative
-              approach. Our Christie’s affiliation provides us access to
-              resources that allow us to stand above the rest., key: 64dde236
+              approach. Our affiliations with Christie's International Real
+              Estate, Leading Real Estate Companies of the World, and Luxury
+              Portfolio provide us access to resources that allow us to stand
+              above the rest., key: eb30f8b
             label: Text
-            name: 64dde236
+            name: eb30f8b
             widget: text
           - hint: 'Original text: BUYING, key: 7577379c'
             label: Text
@@ -3938,6 +3944,34 @@ collections:
             label: Text
             name: 78c03151
             widget: text
+          - hint: 'Original text: SELLING, key: -5f49c4d0'
+            label: Text
+            name: '-5f49c4d0'
+            widget: string
+          - hint: "Original text: We Get Top Dollar For Your Home \_Fast., key: -67b5b5a6"
+            label: Text
+            name: '-67b5b5a6'
+            widget: string
+          - hint: >-
+              Original text: Throughout various channels of marketing, we target
+              audiences across different mediums to maximize your listings
+              exposure. The Nan Difference includes digital and print
+              advertising, social media marketing, and technology such as 3D
+              virtual tours. Our professional photography and high-definition
+              drone , key: 6dfa4ff8
+            label: Text
+            name: 6dfa4ff8
+            widget: text
+          - hint: 'Original text: videography, key: 6026f526'
+            label: Text
+            name: 6026f526
+            widget: string
+          - hint: >-
+              Original text:  helps ensure your listing is seen in the very best
+              light., key: -6bd407b0
+            label: Text
+            name: '-6bd407b0'
+            widget: string
           - hint: 'Original text: Leasing, key: 663fd477'
             label: Text
             name: 663fd477
@@ -3973,10 +4007,6 @@ collections:
           - hint: 'Original text: . , key: 5b2'
             label: Text
             name: 5b2
-            widget: string
-          - hint: 'Original text: Check Out Our Most Recent Listings, key: 116d175'
-            label: Text
-            name: 116d175
             widget: string
           - hint: 'Original text: Browse Our Website, key: -60410ef'
             label: Text
@@ -5265,6 +5295,68 @@ collections:
             label: Text
             name: '-30ccc86'
             widget: text
+          - hint: >-
+              Original text: Buying Your First Home Is Easier Than You Think.,
+              key: 26032649
+            label: Text
+            name: '26032649'
+            widget: string
+          - hint: >-
+              Original text: We help you find the right homebuyer program to
+              save you money and buy your first home., key: -44bcd058
+            label: Text
+            name: '-44bcd058'
+            widget: string
+          - hint: >-
+              Original text: Here at Nan and Company Properties, we make the
+              home buying process easy by cultivating a comfortable environment
+              based on honesty and communication. Our agents work around the
+              clock so that you can find the forever home. We believe that our
+              clients should not have to go anywhere else to get the services
+              they need, which is why we are proud to call ourselves a true
+              full-service agency. We strive to have a long-lasting relationship
+              with our clients built on trust and confidence., key: -5193dc34
+            label: Text
+            name: '-5193dc34'
+            widget: text
+          - hint: 'Original text: SPEAK WITH A SPECIALIST, key: 218a4e9c'
+            label: Text
+            name: 218a4e9c
+            widget: string
+          - hint: 'Original text: TOOLS & RESOURCES, key: -5fcc85a'
+            label: Text
+            name: '-5fcc85a'
+            widget: string
+          - hint: >-
+              Original text: Make The Best, Most Informed Decision., key:
+              -1e642382
+            label: Text
+            name: '-1e642382'
+            widget: string
+          - hint: >-
+              Original text: With a suite of tools and resources available to
+              calculate costs, mortgages, and interest rates, you get the most
+              informed decision about your future purchase., key: 5034dabd
+            label: Text
+            name: 5034dabd
+            widget: text
+          - hint: 'Original text: WORLD-CLASS SERVICE, key: 54356cb2'
+            label: Text
+            name: 54356cb2
+            widget: string
+          - hint: >-
+              Original text: A Home Buying Experience Unlike Any Other., key:
+              -32c71472
+            label: Text
+            name: '-32c71472'
+            widget: string
+          - hint: >-
+              Original text: We tap into our extensive home lender database and
+              help you connect with a reputable lender. Speak with one of our
+              specialists to find out how this works., key: 4eded205
+            label: Text
+            name: 4eded205
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -5627,6 +5719,17 @@ collections:
               key: -2bc3dba7
             label: Link
             name: '-2bc3dba7'
+            widget: string
+          - hint: >-
+              Original link: http://Throughout various channels of marketing, we
+              target audiences across different mediums to maximize your
+              listings exposure. The Nan Difference includes digital and print
+              advertising, social media marketing, and technology such as 3D
+              virtual tours. Our professional photography and high-definition
+              drone videography helps ensure your listing is seen in the very
+              best light., key: -57e88254
+            label: Link
+            name: '-57e88254'
             widget: string
           - hint: >-
               Original link: https://www.youtube.com/watch?v=tusX6MXshcE, key:
@@ -6018,7 +6121,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-42899189'
+            name: '-3e8fd4d0'
             widget: object
             fields:
               - name: url
@@ -6473,6 +6576,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: '-42899189'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '-37bb36cf'
             widget: object
             fields:
@@ -6668,7 +6784,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 7e7197dc
+            name: '-6e65dd35'
             widget: object
             fields:
               - name: url
@@ -6681,7 +6797,20 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-60111ed1'
+            name: '-48d2fae3'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1bbf576e'
             widget: object
             fields:
               - name: url
@@ -7383,7 +7512,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-2f7f8794'
+            name: '-26e423b'
             widget: object
             fields:
               - name: url
@@ -7475,6 +7604,45 @@ collections:
                 required: false
           - label: Image
             name: '-6ecbd30e'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 540f2fbf
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-667e1a60'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '63022125'
             widget: object
             fields:
               - name: url
