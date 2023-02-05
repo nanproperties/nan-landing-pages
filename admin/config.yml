@@ -2593,6 +2593,42 @@ collections:
             label: Text
             name: '-5afd4126'
             widget: text
+          - hint: 'Original text: The Proof Is In The , key: -33257481'
+            label: Text
+            name: '-33257481'
+            widget: string
+          - hint: 'Original text: Numbers, key: -1404d9d6'
+            label: Text
+            name: '-1404d9d6'
+            widget: string
+          - hint: 'Original text: $500M, key: 214201c'
+            label: Text
+            name: 214201c
+            widget: string
+          - hint: 'Original text: 2022 Sales Volume In Houston, key: 63057aa3'
+            label: Text
+            name: 63057aa3
+            widget: string
+          - hint: 'Original text: $586B, key: 2143ed3'
+            label: Text
+            name: 2143ed3
+            widget: string
+          - hint: >-
+              Original text: Total Annual Homes Sales Globally Across Our
+              Network, key: 19c33d04
+            label: Text
+            name: 19c33d04
+            widget: string
+          - hint: 'Original text: 200,000+, key: -766eec4b'
+            label: Text
+            name: '-766eec4b'
+            widget: string
+          - hint: >-
+              Original text: Potential Buyers, Prospects, and Partners In Our
+              Database, key: -7ae62bfd
+            label: Text
+            name: '-7ae62bfd'
+            widget: string
           - hint: 'Original text: World-Class, key: 59a51b3d'
             label: Text
             name: 59a51b3d
@@ -2653,6 +2689,68 @@ collections:
             label: Text
             name: 4627a72f
             widget: string
+          - hint: 'Original text: Adaptive , key: a45184a'
+            label: Text
+            name: a45184a
+            widget: string
+          - hint: 'Original text: Marketing, key: 3fc9ea06'
+            label: Text
+            name: 3fc9ea06
+            widget: string
+          - hint: >-
+              Original text: Your home will be prominently displayed on our
+              website and, key: -6939c8f4
+            label: Text
+            name: '-6939c8f4'
+            widget: string
+          - hint: >-
+              Original text: include detailed information to highlight its
+              features., key: 66972274
+            label: Text
+            name: '66972274'
+            widget: string
+          - hint: >-
+              Original text: Our Search Engine Optimization (SEO) and digital
+              marketing, key: -44859a50
+            label: Text
+            name: '-44859a50'
+            widget: string
+          - hint: >-
+              Original text: team also ensures that your home is effectively
+              marketed online and distributed to hundreds of other sites., key:
+              50f4f4e1
+            label: Text
+            name: 50f4f4e1
+            widget: text
+          - hint: "Original text: GET\_HOME\_VALUATION, key: 28518e0a"
+            label: Text
+            name: 28518e0a
+            widget: string
+          - hint: 'Original text: Award-Winning , key: -50ffb2c0'
+            label: Text
+            name: '-50ffb2c0'
+            widget: string
+          - hint: "Original text: Photography &\_Videography, key: 2576a629"
+            label: Text
+            name: 2576a629
+            widget: string
+          - hint: >-
+              Original text: Professional photography is essential when
+              attracting buyers to your listing. With award-winning
+              photographers, we ensure your listing is seen in the very best
+              light., key: 6211be03
+            label: Text
+            name: 6211be03
+            widget: text
+          - hint: >-
+              Original text: Our team of expert videographers are available to
+              create your very own walk-through listing video. Created with
+              wide-angle shots and high-definition technology, this two minute
+              video highlights the home and can be shared through multiple
+              social media platforms., key: -347f070a
+            label: Text
+            name: '-347f070a'
+            widget: text
           - hint: 'Original text: Instant , key: 24f0fa7f'
             label: Text
             name: 24f0fa7f
@@ -2683,14 +2781,6 @@ collections:
             label: Text
             name: '-66a6f985'
             widget: text
-          - hint: "Original text: GET\_HOME\_VALUATION, key: 28518e0a"
-            label: Text
-            name: 28518e0a
-            widget: string
-          - hint: 'Original text: Apply Below, key: -659eef41'
-            label: Text
-            name: '-659eef41'
-            widget: string
           - hint: 'Original text: We Are The , key: 2037314d'
             label: Text
             name: 2037314d
@@ -2952,6 +3042,10 @@ collections:
           - hint: 'Original text: Social Media, key: 3eb4f971'
             label: Text
             name: 3eb4f971
+            widget: string
+          - hint: 'Original text: Apply Below, key: -659eef41'
+            label: Text
+            name: '-659eef41'
             widget: string
           - hint: >-
               Original text: Selling Locally, Marketing Internationally, key:
@@ -3284,114 +3378,6 @@ collections:
             label: Text
             name: 1f59d77b
             widget: string
-          - hint: 'Original text: 2021, key: 1774fd'
-            label: Text
-            name: 1774fd
-            widget: string
-          - hint: 'Original text: 2020, key: 1774fc'
-            label: Text
-            name: 1774fc
-            widget: string
-          - hint: 'Original text: 2019, key: 1774e6'
-            label: Text
-            name: '1774e6'
-            widget: string
-          - hint: 'Original text: 2018, key: 1774e5'
-            label: Text
-            name: '1774e5'
-            widget: string
-          - hint: 'Original text: 2017, key: 1774e4'
-            label: Text
-            name: '1774e4'
-            widget: string
-          - hint: 'Original text: 2016, key: 1774e3'
-            label: Text
-            name: '1774e3'
-            widget: string
-          - hint: >-
-              Original text: Nan Celebrates End of Year Party at MAD Houston,
-              key: -1234ed27
-            label: Text
-            name: '-1234ed27'
-            widget: string
-          - hint: "Original text: Our COO\_Provides an Update on Our Newest Office In The Heights Part 2, key: 4713a105"
-            label: Text
-            name: 4713a105
-            widget: string
-          - hint: "Original text: Our COO\_Provides an Update on Our Newest Office In The Heights Part 1, key: 4713a104"
-            label: Text
-            name: 4713a104
-            widget: string
-          - hint: >-
-              Original text: Our Top Producers Come Together For The 2021 Top
-              Producers Photoshoot, key: -6b5ca3b4
-            label: Text
-            name: '-6b5ca3b4'
-            widget: string
-          - hint: 'Original text: The #NanFam Gives Back, key: -e0eae6'
-            label: Text
-            name: '-e0eae6'
-            widget: string
-          - hint: >-
-              Original text: Nan Holds First In-Person Sales Meeting Of The Year
-              At New Heights Office, key: -3d1a3bcb
-            label: Text
-            name: '-3d1a3bcb'
-            widget: string
-          - hint: >-
-              Original text: Nan Launches Our Be Different Campaign, key:
-              -51eea01a
-            label: Text
-            name: '-51eea01a'
-            widget: string
-          - hint: >-
-              Original text: Nan Closes a Successful Year with a Party at
-              Electric Feel Good, key: -67e910f6
-            label: Text
-            name: '-67e910f6'
-            widget: string
-          - hint: >-
-              Original text: Nan Welcomes Ryan Serhant to the 2019 Nan Awards,
-              key: -41e1819c
-            label: Text
-            name: '-41e1819c'
-            widget: string
-          - hint: >-
-              Original text: Christie's International Real Estate: 2019 Luxury
-              Specialist Conference Re-cap, key: 7669fc0d
-            label: Text
-            name: 7669fc0d
-            widget: string
-          - hint: >-
-              Original text: Houston Business Journal Residential Real Estate
-              Awards 2019, key: -d8e8675
-            label: Text
-            name: '-d8e8675'
-            widget: string
-          - hint: >-
-              Original text: The #NanFam Donates Over 1,000 Toys For The Annual
-              #NanFam Toy Drive, key: 1e665ac
-            label: Text
-            name: 1e665ac
-            widget: string
-          - hint: >-
-              Original text: Nan Celebrates A Successful 2018 And Named HBJ's
-              Best Place To Work, key: 404d7698
-            label: Text
-            name: 404d7698
-            widget: string
-          - hint: >-
-              Original text: 2017 Was A Year Of Incredible Growth, Collaboration
-              And Motivation For The NanFam, key: -6be5789b
-            label: Text
-            name: '-6be5789b'
-            widget: string
-          - hint: >-
-              Original text: Nan Parties To Close Out An Incredible 2016, key:
-              215427e9
-            label: Text
-            name: '215427e9'
-            widget: string
           - hint: 'Original text: CONTACTENOS, key: -7d34c3b3'
             label: Text
             name: '-7d34c3b3'
@@ -3600,6 +3586,114 @@ collections:
           - hint: 'Original text: info@nanproperties.com, key: 5015a10f'
             label: Text
             name: 5015a10f
+            widget: string
+          - hint: 'Original text: 2021, key: 1774fd'
+            label: Text
+            name: 1774fd
+            widget: string
+          - hint: 'Original text: 2020, key: 1774fc'
+            label: Text
+            name: 1774fc
+            widget: string
+          - hint: 'Original text: 2019, key: 1774e6'
+            label: Text
+            name: '1774e6'
+            widget: string
+          - hint: 'Original text: 2018, key: 1774e5'
+            label: Text
+            name: '1774e5'
+            widget: string
+          - hint: 'Original text: 2017, key: 1774e4'
+            label: Text
+            name: '1774e4'
+            widget: string
+          - hint: 'Original text: 2016, key: 1774e3'
+            label: Text
+            name: '1774e3'
+            widget: string
+          - hint: >-
+              Original text: Nan Celebrates End of Year Party at MAD Houston,
+              key: -1234ed27
+            label: Text
+            name: '-1234ed27'
+            widget: string
+          - hint: "Original text: Our COO\_Provides an Update on Our Newest Office In The Heights Part 2, key: 4713a105"
+            label: Text
+            name: 4713a105
+            widget: string
+          - hint: "Original text: Our COO\_Provides an Update on Our Newest Office In The Heights Part 1, key: 4713a104"
+            label: Text
+            name: 4713a104
+            widget: string
+          - hint: >-
+              Original text: Our Top Producers Come Together For The 2021 Top
+              Producers Photoshoot, key: -6b5ca3b4
+            label: Text
+            name: '-6b5ca3b4'
+            widget: string
+          - hint: 'Original text: The #NanFam Gives Back, key: -e0eae6'
+            label: Text
+            name: '-e0eae6'
+            widget: string
+          - hint: >-
+              Original text: Nan Holds First In-Person Sales Meeting Of The Year
+              At New Heights Office, key: -3d1a3bcb
+            label: Text
+            name: '-3d1a3bcb'
+            widget: string
+          - hint: >-
+              Original text: Nan Launches Our Be Different Campaign, key:
+              -51eea01a
+            label: Text
+            name: '-51eea01a'
+            widget: string
+          - hint: >-
+              Original text: Nan Closes a Successful Year with a Party at
+              Electric Feel Good, key: -67e910f6
+            label: Text
+            name: '-67e910f6'
+            widget: string
+          - hint: >-
+              Original text: Nan Welcomes Ryan Serhant to the 2019 Nan Awards,
+              key: -41e1819c
+            label: Text
+            name: '-41e1819c'
+            widget: string
+          - hint: >-
+              Original text: Christie's International Real Estate: 2019 Luxury
+              Specialist Conference Re-cap, key: 7669fc0d
+            label: Text
+            name: 7669fc0d
+            widget: string
+          - hint: >-
+              Original text: Houston Business Journal Residential Real Estate
+              Awards 2019, key: -d8e8675
+            label: Text
+            name: '-d8e8675'
+            widget: string
+          - hint: >-
+              Original text: The #NanFam Donates Over 1,000 Toys For The Annual
+              #NanFam Toy Drive, key: 1e665ac
+            label: Text
+            name: 1e665ac
+            widget: string
+          - hint: >-
+              Original text: Nan Celebrates A Successful 2018 And Named HBJ's
+              Best Place To Work, key: 404d7698
+            label: Text
+            name: 404d7698
+            widget: string
+          - hint: >-
+              Original text: 2017 Was A Year Of Incredible Growth, Collaboration
+              And Motivation For The NanFam, key: -6be5789b
+            label: Text
+            name: '-6be5789b'
+            widget: string
+          - hint: >-
+              Original text: Nan Parties To Close Out An Incredible 2016, key:
+              215427e9
+            label: Text
+            name: '215427e9'
             widget: string
           - hint: 'Original text: Live Life On The Waterfront, key: 22f87c92'
             label: Text
@@ -5347,6 +5441,82 @@ collections:
             label: Text
             name: 4eded205
             widget: text
+          - hint: 'Original text: Commercial Experts In Your Corner, key: 40007794'
+            label: Text
+            name: '40007794'
+            widget: string
+          - hint: >-
+              Original text: Our team of experienced professionals is dedicated
+              to helping businesses and investors achieve their real estate
+              goals, whether it's leasing and property management, investment
+              sales and financing, or something else entirely. With our focus on
+              personalized, results-driven solutions, we're confident that we
+              can help you find the right path forward for your business., key:
+              -5e4552fa
+            label: Text
+            name: '-5e4552fa'
+            widget: text
+          - hint: 'Original text: LEASING, key: 2dd2c877'
+            label: Text
+            name: 2dd2c877
+            widget: string
+          - hint: >-
+              Original text: Find The Right Space For Your Business., key:
+              -317ffe74
+            label: Text
+            name: '-317ffe74'
+            widget: string
+          - hint: >-
+              Original text: We know that choosing the right property for your
+              business is only the first step. Our team of leasing and property
+              management experts is here to help you navigate the complexities
+              of commercial real estate and ensure that your business is set up
+              for success. Whether you're looking to secure a new location or
+              optimize your current space, our team will work with you to create
+              a customized solution that fits your needs., key: 50cfaa27
+            label: Text
+            name: 50cfaa27
+            widget: text
+          - hint: 'Original text: Investment Sales and Financing, key: 8e9de0d'
+            label: Text
+            name: 8e9de0d
+            widget: string
+          - hint: "Original text: A\_Team That Understands Your Goals and Needs., key: -772e9859"
+            label: Text
+            name: '-772e9859'
+            widget: string
+          - hint: >-
+              Original text: If you're looking to invest in commercial real
+              estate, you need a partner who understands the market and has the
+              expertise to help you make informed decisions. Our team of
+              experienced commercial agents work with you to identify the best
+              opportunities for growth and help you secure the financing you
+              need to bring your plans to fruition. Whether you're looking to
+              invest in a new property or refinance your current portfolio, we
+              have the knowledge and experience to help you succeed., key:
+              -51659fbd
+            label: Text
+            name: '-51659fbd'
+            widget: text
+          - hint: 'Original text: Market Insights, key: 2609a33f'
+            label: Text
+            name: 2609a33f
+            widget: string
+          - hint: 'Original text: Stay Ahead of the Competition., key: -14e2faff'
+            label: Text
+            name: '-14e2faff'
+            widget: string
+          - hint: >-
+              Original text: We believe that staying ahead of the curve is key
+              to success in commercial real estate. That's why we help you stay
+              on top of the latest trends and developments. Whether you're
+              looking for in-depth market reports, real-time data, or expert
+              insights, we have the resources you need to make informed
+              decisions about your commercial real estate investments., key:
+              -792b56b3
+            label: Text
+            name: '-792b56b3'
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -5572,30 +5742,6 @@ collections:
             label: Link
             name: 15f27331
             widget: string
-          - hint: 'Original link: #2021, key: 204aba0'
-            label: Link
-            name: 204aba0
-            widget: string
-          - hint: 'Original link: #2020, key: 204ab9f'
-            label: Link
-            name: 204ab9f
-            widget: string
-          - hint: 'Original link: #2019, key: 204ab89'
-            label: Link
-            name: 204ab89
-            widget: string
-          - hint: 'Original link: #2018, key: 204ab88'
-            label: Link
-            name: 204ab88
-            widget: string
-          - hint: 'Original link: #2017, key: 204ab87'
-            label: Link
-            name: 204ab87
-            widget: string
-          - hint: 'Original link: #2016, key: 204ab86'
-            label: Link
-            name: 204ab86
-            widget: string
           - hint: >-
               Original link:
               https://www.nanproperties.com/real-estate/70-w-broad-oaks-drive-houston-tx-77056/52635370/108054572,
@@ -5659,6 +5805,30 @@ collections:
           - hint: 'Original link: mailto:info@nanproperties.com, key: 6a093717'
             label: Link
             name: 6a093717
+            widget: string
+          - hint: 'Original link: #2021, key: 204aba0'
+            label: Link
+            name: 204aba0
+            widget: string
+          - hint: 'Original link: #2020, key: 204ab9f'
+            label: Link
+            name: 204ab9f
+            widget: string
+          - hint: 'Original link: #2019, key: 204ab89'
+            label: Link
+            name: 204ab89
+            widget: string
+          - hint: 'Original link: #2018, key: 204ab88'
+            label: Link
+            name: 204ab88
+            widget: string
+          - hint: 'Original link: #2017, key: 204ab87'
+            label: Link
+            name: 204ab87
+            widget: string
+          - hint: 'Original link: #2016, key: 204ab86'
+            label: Link
+            name: 204ab86
             widget: string
           - hint: >-
               Original link:
@@ -6137,7 +6307,46 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 6f8db6e0
+            name: 4071fe01
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 74fbfd1
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-72470b74'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 7dfde2df
             widget: object
             fields:
               - name: url
@@ -7633,6 +7842,58 @@ collections:
                 required: false
           - label: Image
             name: '63022125'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 329f5f80
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-7d7f7afc'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 3dcc9315
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 11170af1
             widget: object
             fields:
               - name: url
