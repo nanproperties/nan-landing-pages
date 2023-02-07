@@ -3374,9 +3374,113 @@ collections:
             label: Text
             name: 1789f7ea
             widget: string
-          - hint: 'Original text: Now Hiring, key: 1f59d77b'
+          - hint: 'Original text: 2021, key: 1774fd'
             label: Text
-            name: 1f59d77b
+            name: 1774fd
+            widget: string
+          - hint: 'Original text: 2020, key: 1774fc'
+            label: Text
+            name: 1774fc
+            widget: string
+          - hint: 'Original text: 2019, key: 1774e6'
+            label: Text
+            name: '1774e6'
+            widget: string
+          - hint: 'Original text: 2018, key: 1774e5'
+            label: Text
+            name: '1774e5'
+            widget: string
+          - hint: 'Original text: 2017, key: 1774e4'
+            label: Text
+            name: '1774e4'
+            widget: string
+          - hint: 'Original text: 2016, key: 1774e3'
+            label: Text
+            name: '1774e3'
+            widget: string
+          - hint: >-
+              Original text: Nan Celebrates End of Year Party at MAD Houston,
+              key: -1234ed27
+            label: Text
+            name: '-1234ed27'
+            widget: string
+          - hint: "Original text: Our COO\_Provides an Update on Our Newest Office In The Heights Part 2, key: 4713a105"
+            label: Text
+            name: 4713a105
+            widget: string
+          - hint: "Original text: Our COO\_Provides an Update on Our Newest Office In The Heights Part 1, key: 4713a104"
+            label: Text
+            name: 4713a104
+            widget: string
+          - hint: >-
+              Original text: Our Top Producers Come Together For The 2021 Top
+              Producers Photoshoot, key: -6b5ca3b4
+            label: Text
+            name: '-6b5ca3b4'
+            widget: string
+          - hint: 'Original text: The #NanFam Gives Back, key: -e0eae6'
+            label: Text
+            name: '-e0eae6'
+            widget: string
+          - hint: >-
+              Original text: Nan Holds First In-Person Sales Meeting Of The Year
+              At New Heights Office, key: -3d1a3bcb
+            label: Text
+            name: '-3d1a3bcb'
+            widget: string
+          - hint: >-
+              Original text: Nan Launches Our Be Different Campaign, key:
+              -51eea01a
+            label: Text
+            name: '-51eea01a'
+            widget: string
+          - hint: >-
+              Original text: Nan Closes a Successful Year with a Party at
+              Electric Feel Good, key: -67e910f6
+            label: Text
+            name: '-67e910f6'
+            widget: string
+          - hint: >-
+              Original text: Nan Welcomes Ryan Serhant to the 2019 Nan Awards,
+              key: -41e1819c
+            label: Text
+            name: '-41e1819c'
+            widget: string
+          - hint: >-
+              Original text: Christie's International Real Estate: 2019 Luxury
+              Specialist Conference Re-cap, key: 7669fc0d
+            label: Text
+            name: 7669fc0d
+            widget: string
+          - hint: >-
+              Original text: Houston Business Journal Residential Real Estate
+              Awards 2019, key: -d8e8675
+            label: Text
+            name: '-d8e8675'
+            widget: string
+          - hint: >-
+              Original text: The #NanFam Donates Over 1,000 Toys For The Annual
+              #NanFam Toy Drive, key: 1e665ac
+            label: Text
+            name: 1e665ac
+            widget: string
+          - hint: >-
+              Original text: Nan Celebrates A Successful 2018 And Named HBJ's
+              Best Place To Work, key: 404d7698
+            label: Text
+            name: 404d7698
+            widget: string
+          - hint: >-
+              Original text: 2017 Was A Year Of Incredible Growth, Collaboration
+              And Motivation For The NanFam, key: -6be5789b
+            label: Text
+            name: '-6be5789b'
+            widget: string
+          - hint: >-
+              Original text: Nan Parties To Close Out An Incredible 2016, key:
+              215427e9
+            label: Text
+            name: '215427e9'
             widget: string
           - hint: 'Original text: CONTACTENOS, key: -7d34c3b3'
             label: Text
@@ -3586,114 +3690,6 @@ collections:
           - hint: 'Original text: info@nanproperties.com, key: 5015a10f'
             label: Text
             name: 5015a10f
-            widget: string
-          - hint: 'Original text: 2021, key: 1774fd'
-            label: Text
-            name: 1774fd
-            widget: string
-          - hint: 'Original text: 2020, key: 1774fc'
-            label: Text
-            name: 1774fc
-            widget: string
-          - hint: 'Original text: 2019, key: 1774e6'
-            label: Text
-            name: '1774e6'
-            widget: string
-          - hint: 'Original text: 2018, key: 1774e5'
-            label: Text
-            name: '1774e5'
-            widget: string
-          - hint: 'Original text: 2017, key: 1774e4'
-            label: Text
-            name: '1774e4'
-            widget: string
-          - hint: 'Original text: 2016, key: 1774e3'
-            label: Text
-            name: '1774e3'
-            widget: string
-          - hint: >-
-              Original text: Nan Celebrates End of Year Party at MAD Houston,
-              key: -1234ed27
-            label: Text
-            name: '-1234ed27'
-            widget: string
-          - hint: "Original text: Our COO\_Provides an Update on Our Newest Office In The Heights Part 2, key: 4713a105"
-            label: Text
-            name: 4713a105
-            widget: string
-          - hint: "Original text: Our COO\_Provides an Update on Our Newest Office In The Heights Part 1, key: 4713a104"
-            label: Text
-            name: 4713a104
-            widget: string
-          - hint: >-
-              Original text: Our Top Producers Come Together For The 2021 Top
-              Producers Photoshoot, key: -6b5ca3b4
-            label: Text
-            name: '-6b5ca3b4'
-            widget: string
-          - hint: 'Original text: The #NanFam Gives Back, key: -e0eae6'
-            label: Text
-            name: '-e0eae6'
-            widget: string
-          - hint: >-
-              Original text: Nan Holds First In-Person Sales Meeting Of The Year
-              At New Heights Office, key: -3d1a3bcb
-            label: Text
-            name: '-3d1a3bcb'
-            widget: string
-          - hint: >-
-              Original text: Nan Launches Our Be Different Campaign, key:
-              -51eea01a
-            label: Text
-            name: '-51eea01a'
-            widget: string
-          - hint: >-
-              Original text: Nan Closes a Successful Year with a Party at
-              Electric Feel Good, key: -67e910f6
-            label: Text
-            name: '-67e910f6'
-            widget: string
-          - hint: >-
-              Original text: Nan Welcomes Ryan Serhant to the 2019 Nan Awards,
-              key: -41e1819c
-            label: Text
-            name: '-41e1819c'
-            widget: string
-          - hint: >-
-              Original text: Christie's International Real Estate: 2019 Luxury
-              Specialist Conference Re-cap, key: 7669fc0d
-            label: Text
-            name: 7669fc0d
-            widget: string
-          - hint: >-
-              Original text: Houston Business Journal Residential Real Estate
-              Awards 2019, key: -d8e8675
-            label: Text
-            name: '-d8e8675'
-            widget: string
-          - hint: >-
-              Original text: The #NanFam Donates Over 1,000 Toys For The Annual
-              #NanFam Toy Drive, key: 1e665ac
-            label: Text
-            name: 1e665ac
-            widget: string
-          - hint: >-
-              Original text: Nan Celebrates A Successful 2018 And Named HBJ's
-              Best Place To Work, key: 404d7698
-            label: Text
-            name: 404d7698
-            widget: string
-          - hint: >-
-              Original text: 2017 Was A Year Of Incredible Growth, Collaboration
-              And Motivation For The NanFam, key: -6be5789b
-            label: Text
-            name: '-6be5789b'
-            widget: string
-          - hint: >-
-              Original text: Nan Parties To Close Out An Incredible 2016, key:
-              215427e9
-            label: Text
-            name: '215427e9'
             widget: string
           - hint: 'Original text: Live Life On The Waterfront, key: 22f87c92'
             label: Text
@@ -5726,10 +5722,6 @@ collections:
             label: Link
             name: 2951d305
             widget: string
-          - hint: 'Original link: #open-positions, key: -147eb876'
-            label: Link
-            name: '-147eb876'
-            widget: string
           - hint: >-
               Original link:
               https://www.nanproperties.com/our-developments-page, key: 775e116f
@@ -5741,6 +5733,30 @@ collections:
               15f27331
             label: Link
             name: 15f27331
+            widget: string
+          - hint: 'Original link: #2021, key: 204aba0'
+            label: Link
+            name: 204aba0
+            widget: string
+          - hint: 'Original link: #2020, key: 204ab9f'
+            label: Link
+            name: 204ab9f
+            widget: string
+          - hint: 'Original link: #2019, key: 204ab89'
+            label: Link
+            name: 204ab89
+            widget: string
+          - hint: 'Original link: #2018, key: 204ab88'
+            label: Link
+            name: 204ab88
+            widget: string
+          - hint: 'Original link: #2017, key: 204ab87'
+            label: Link
+            name: 204ab87
+            widget: string
+          - hint: 'Original link: #2016, key: 204ab86'
+            label: Link
+            name: 204ab86
             widget: string
           - hint: >-
               Original link:
@@ -5805,30 +5821,6 @@ collections:
           - hint: 'Original link: mailto:info@nanproperties.com, key: 6a093717'
             label: Link
             name: 6a093717
-            widget: string
-          - hint: 'Original link: #2021, key: 204aba0'
-            label: Link
-            name: 204aba0
-            widget: string
-          - hint: 'Original link: #2020, key: 204ab9f'
-            label: Link
-            name: 204ab9f
-            widget: string
-          - hint: 'Original link: #2019, key: 204ab89'
-            label: Link
-            name: 204ab89
-            widget: string
-          - hint: 'Original link: #2018, key: 204ab88'
-            label: Link
-            name: 204ab88
-            widget: string
-          - hint: 'Original link: #2017, key: 204ab87'
-            label: Link
-            name: 204ab87
-            widget: string
-          - hint: 'Original link: #2016, key: 204ab86'
-            label: Link
-            name: 204ab86
             widget: string
           - hint: >-
               Original link:
@@ -6983,7 +6975,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-6e65dd35'
+            name: '-740405f5'
             widget: object
             fields:
               - name: url
@@ -7881,19 +7873,6 @@ collections:
                 required: false
           - label: Image
             name: 3dcc9315
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 11170af1
             widget: object
             fields:
               - name: url

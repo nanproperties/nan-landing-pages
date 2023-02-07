@@ -5,7 +5,13 @@ updated-on: '2021-07-06T20:38:47.076Z'
 created-on: '2021-07-02T21:42:22.710Z'
 published-on: '2021-07-06T20:39:06.173Z'
 f_developments:
+  - cms/new-homes/chenevert-manor.md
   - cms/new-homes/creekmont-drive.md
+  - cms/new-homes/del-norte-heights.md
+  - cms/new-homes/fulton-station.md
+  - cms/new-homes/golden-forest.md
+  - cms/new-homes/marathon-street.md
+  - cms/new-homes/patrick-street-landing.md
 f_featured: true
 layout: '[city].html'
 tags: city
