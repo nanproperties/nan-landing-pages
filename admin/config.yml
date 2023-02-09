@@ -7703,7 +7703,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-26e423b'
+            name: '-76a7dc92'
             widget: object
             fields:
               - name: url
@@ -7716,7 +7716,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 1033b346
+            name: '184e0643'
             widget: object
             fields:
               - name: url
@@ -7860,6 +7860,19 @@ collections:
                 required: false
           - label: Image
             name: '-7d7f7afc'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 7bb8565
             widget: object
             fields:
               - name: url
