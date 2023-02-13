@@ -10,7 +10,7 @@ f_street-address: 4944 & 4948 Creekmont
 f_city: Houston
 title: 'Creekmont Homes '
 f_bedrooms: '4'
-f_price-range: 449,900
+f_price-range: 429,990
 f_description: >-
   These luxurious new homes are beautifully located at 4944 & 4948 Creekmont dr,
   perfectly situated right off Highway 290. The development comprises two
@@ -45,9 +45,9 @@ f_featured-image:
 slug: creekmont-homes
 f_agent-2: cms/agents/yvonne-pruneda.md
 f_builder: cms/builders/spring-w-homes.md
-updated-on: '2023-02-09T20:01:09.638Z'
+updated-on: '2023-02-10T17:13:38.721Z'
 created-on: '2022-06-16T20:25:05.624Z'
-published-on: '2023-02-09T20:21:10.510Z'
+published-on: '2023-02-10T17:57:47.742Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---
