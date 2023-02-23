@@ -6073,6 +6073,13 @@ a {
     margin-top: -200px;
   }
 
+  .div-block-6.the-woodlands.the-woodlands-video-embed-wrapper {
+    width: 100%;
+    margin-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
   .div-block-6.gatherings-video-embed-wrapper {
     width: 90%;
     margin-top: -200px;
@@ -6080,6 +6087,10 @@ a {
 
   .div-block-6.gatherings-video-embed-wrapper.alternate {
     margin-top: -145px;
+  }
+
+  .html-embed-3.the-woodlands-video-embed {
+    border-width: 25px;
   }
 
   .mx-page-statistics-grid {
@@ -6369,7 +6380,7 @@ a {
   }
 
   .christies-image-wrapper {
-    display: none;
+    display: block;
   }
 
   .global-properties-list {
@@ -7161,10 +7172,6 @@ a {
     display: inline;
   }
 
-  .christies-image-wrapper {
-    display: none;
-  }
-
   .global-properties-list {
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
@@ -7377,6 +7384,10 @@ a {
 
   .div-block-6.gatherings-video-embed-wrapper.alternate {
     margin-top: -119px;
+  }
+
+  .html-embed-3.the-woodlands-video-embed {
+    border-width: 0px;
   }
 
   .mx-page-statistics-grid-item {
@@ -10573,6 +10584,42 @@ a {
   align-self: center;
 }
 
+#w-node-_279790ba-3ea1-85ee-f06b-59eb7c0a837b-9af43e33 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
+#w-node-_23a4d417-526e-e214-a54d-abc75a08875e-9af43e33 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
+#w-node-_23a4d417-526e-e214-a54d-abc75a088774-9af43e33 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
+#w-node-f099cc20-b470-4c31-d7b3-4fd2f5439eae-9af43e33 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
 @media screen and (max-width: 991px) {
   #w-node-_1c95bee8-d597-f5ea-7c1c-ae97fba21bbc-277f63c3 {
     -ms-grid-column-span: 3;
@@ -10897,13 +10944,6 @@ a {
     align-self: center;
     -ms-grid-column-align: center;
     justify-self: center;
-  }
-
-  #w-node-fa785ff3-ba45-87c2-db2d-bfcbbacd6597-d4a73c94 {
-    -webkit-box-ordinal-group: -9998;
-    -webkit-order: -9999;
-    -ms-flex-order: -9999;
-    order: -9999;
   }
 
   #w-node-_75c21d1d-e79a-6b6a-ad45-bfd670f23b45-d4a73c94 {
@@ -11233,6 +11273,58 @@ a {
     -ms-flex-order: -9999;
     order: -9999;
   }
+
+  #w-node-_23a4d417-526e-e214-a54d-abc75a088754-9af43e33 {
+    -webkit-box-ordinal-group: -9998;
+    -webkit-order: -9999;
+    -ms-flex-order: -9999;
+    order: -9999;
+    -ms-grid-column-span: 1;
+    grid-column-end: 2;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: 3;
+    -ms-grid-row: 2;
+    grid-row-start: 2;
+  }
+
+  #w-node-_23a4d417-526e-e214-a54d-abc75a08875e-9af43e33 {
+    -webkit-box-ordinal-group: -9998;
+    -webkit-order: -9999;
+    -ms-flex-order: -9999;
+    order: -9999;
+    -ms-grid-column-span: 1;
+    grid-column-end: 2;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: 2;
+    -ms-grid-row: 1;
+    grid-row-start: 1;
+  }
+
+  #w-node-f099cc20-b470-4c31-d7b3-4fd2f5439eb0-9af43e33 {
+    -ms-grid-column-span: 1;
+    grid-column-end: 2;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: 3;
+    -ms-grid-row: 2;
+    grid-row-start: 2;
+  }
+
+  #w-node-f099cc20-b470-4c31-d7b3-4fd2f5439eae-9af43e33 {
+    -ms-grid-column-span: 1;
+    grid-column-end: 2;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: 2;
+    -ms-grid-row: 1;
+    grid-row-start: 1;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -11518,13 +11610,6 @@ a {
   }
 
   #w-node-e101f465-18cf-5e14-fb39-a324c081e1bb-b8e14fa4 {
-    -webkit-box-ordinal-group: -9998;
-    -webkit-order: -9999;
-    -ms-flex-order: -9999;
-    order: -9999;
-  }
-
-  #w-node-fa785ff3-ba45-87c2-db2d-bfcbbacd6597-d4a73c94 {
     -webkit-box-ordinal-group: -9998;
     -webkit-order: -9999;
     -ms-flex-order: -9999;

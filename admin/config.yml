@@ -5513,6 +5513,116 @@ collections:
             label: Text
             name: '-792b56b3'
             widget: text
+          - hint: >-
+              Original text: El Mejor Lugar Para Vivir En Estados Unidos, key:
+              229021c3
+            label: Text
+            name: 229021c3
+            widget: string
+          - hint: >-
+              Original text: The Woodlands Texas, es el mejor lugar para vivir
+              en Estados Unidos* y es un excelente lugar para tu familia,
+              gracias a su alta calidad de vida, excelentes escuelas y amplia
+              variedad de actividades recreativas. La comunidad está bien
+              planificada con muchos espacios verdes, senderos para caminar y
+              andar en bicicleta y muchos parques para que las familias
+              disfruten. Además, la zona tiene una muy baja tasa de
+              criminalidad, lo que lo convierte en un lugar seguro y protegido
+              para las familias. The Woodlands también es hogar de una gran
+              variedad de opciones de compras, restaurantes y entretenimiento,
+              lo que lo convierte en un lugar excelente para vivir. Con su
+              fuerte mercado laboral y economía en crecimiento, y una gran
+              comunidad hispana The Woodlands brinda a las familias una sólida
+              base para su futuro. Además ofrece una variedad de opciones de
+              vivienda asequibles comparado con otros destinos como San Diego.
+              Todos estos factores combinados hacen de The Woodlands un destino
+              ideal para las familias mexicanas que buscan reubicarse., key:
+              3fec5813
+            label: Text
+            name: 3fec5813
+            widget: text
+          - hint: >-
+              Original text: * NICHE Ranking 2022
+              https://www.niche.com/places-to-live/search/best-cities/, key:
+              69db6416
+            label: Text
+            name: 69db6416
+            widget: string
+          - hint: "Original text: VE LAS CASAS DISPONIBLES\_››, key: -15c68fb4"
+            label: Text
+            name: '-15c68fb4'
+            widget: string
+          - hint: "Original text: Tus Equipo En\_Houston y The Woodlands, key: 74b032af"
+            label: Text
+            name: 74b032af
+            widget: string
+          - hint: 'Original text: Un Excelente Lugar Para Tu Familia, key: -4adedcd9'
+            label: Text
+            name: '-4adedcd9'
+            widget: string
+          - hint: >-
+              Original text: Houston, Texas es un excelente lugar para las
+              familias mexicanas debido a su diversa cultura,, key: 4492c3e5
+            label: Text
+            name: 4492c3e5
+            widget: text
+          - hint: >-
+              Original text: economía fuerte y abundante de oportunidades
+              educativas y recreativas. La ciudad ofrece una, key: 3b0292d9
+            label: Text
+            name: 3b0292d9
+            widget: text
+          - hint: >-
+              Original text: variedad de opciones de vivienda asequibles, lo que
+              la hace accesible para familias de todos los, key: -630c256f
+            label: Text
+            name: '-630c256f'
+            widget: text
+          - hint: >-
+              Original text: niveles de ingresos. Houston también cuenta con un
+              fuerte mercado laboral, con un creciente número, key: 69ca827b
+            label: Text
+            name: 69ca827b
+            widget: text
+          - hint: >-
+              Original text: de empresas estableciendo sus sedes en la zona,
+              brindando a las familias oportunidades de empleo, key: -6b56f502
+            label: Text
+            name: '-6b56f502'
+            widget: text
+          - hint: >-
+              Original text: estables. Además, Houston es el hogar de algunas de
+              las mejores escuelas de Texas, así como de una, key: 7fe91245
+            label: Text
+            name: 7fe91245
+            widget: text
+          - hint: >-
+              Original text: serie de museos, parques e instituciones
+              culturales, lo que lo convierte en un lugar ideal para que las,
+              key: 9ce3dbb
+            label: Text
+            name: 9ce3dbb
+            widget: text
+          - hint: >-
+              Original text: familias aprendan, jueguen y crezcan juntas. Con su
+              clima cálido, gente amable y rica historia, Houston, key:
+              -1cdd7920
+            label: Text
+            name: '-1cdd7920'
+            widget: text
+          - hint: >-
+              Original text: es un lugar vibrante y emocionante para las
+              familias llamar hogar. Además la influencia hispana en, key:
+              -7c14dc2b
+            label: Text
+            name: '-7c14dc2b'
+            widget: text
+          - hint: >-
+              Original text: Houston hace que la adaptación para las familias
+              mexicanas sea mucho más fácil., key: 22e20a39
+            label: Text
+            name: 22e20a39
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -7886,6 +7996,19 @@ collections:
                 required: false
           - label: Image
             name: 3dcc9315
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '26545e94'
             widget: object
             fields:
               - name: url
