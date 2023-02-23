@@ -123,6 +123,10 @@ a {
   padding-bottom: 0px;
 }
 
+.page-wrapper.the-woodlands-mx-landing-page {
+  padding-top: 0px;
+}
+
 .custom-page {
   position: relative;
   padding-right: 20px;
@@ -1337,6 +1341,10 @@ a {
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
+}
+
+.section.the-woodlands-video-intro-section {
+  margin-top: 0px;
 }
 
 .builder-listings-item-wrapper {
@@ -4077,6 +4085,10 @@ a {
   border-color: #fff;
 }
 
+.html-embed-3.the-woodlands-video-embed {
+  border-width: 0px;
+}
+
 .div-block-7 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -6094,10 +6106,6 @@ a {
 
   .div-block-6.gatherings-video-embed-wrapper.alternate {
     margin-top: -145px;
-  }
-
-  .html-embed-3.the-woodlands-video-embed {
-    border-width: 25px;
   }
 
   .mx-page-statistics-grid {

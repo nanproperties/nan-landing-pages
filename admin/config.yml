@@ -5623,6 +5623,10 @@ collections:
             label: Text
             name: 22e20a39
             widget: string
+          - hint: "Original text: Tu Equipo En\_Houston y The Woodlands, key: -2cd5f862"
+            label: Text
+            name: '-2cd5f862'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -8009,6 +8013,19 @@ collections:
                 required: false
           - label: Image
             name: '26545e94'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-6969d16'
             widget: object
             fields:
               - name: url
