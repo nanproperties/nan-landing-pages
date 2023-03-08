@@ -2039,10 +2039,6 @@ collections:
             label: Text
             name: '-41ce341e'
             widget: string
-          - hint: 'Original text: View Listing, key: 5e7b0809'
-            label: Text
-            name: 5e7b0809
-            widget: string
           - hint: 'Original text: View Details ››, key: 56a75639'
             label: Text
             name: 56a75639
@@ -5635,6 +5631,10 @@ collections:
             label: Link
             name: '-36f412f2'
             widget: string
+          - hint: 'Original link: #, key: 23'
+            label: Link
+            name: '23'
+            widget: string
           - hint: 'Original link: #cms-form, key: -41a1c015'
             label: Link
             name: '-41a1c015'
@@ -5717,10 +5717,6 @@ collections:
               2f004efe
             label: Link
             name: 2f004efe
-            widget: string
-          - hint: 'Original link: #, key: 23'
-            label: Link
-            name: '23'
             widget: string
           - hint: >-
               Original link: https://www.nanproperties.com/christies, key:
@@ -6240,7 +6236,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 355215c
+            name: 49d35fc5
             widget: object
             fields:
               - name: url
@@ -6370,7 +6366,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-1407bd52'
+            name: df01cf0
             widget: object
             fields:
               - name: url
@@ -6773,7 +6769,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 6d34f1ee
+            name: '-5de73457'
             widget: object
             fields:
               - name: url
@@ -6838,7 +6834,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 317f733b
+            name: '-3cbca8bd'
             widget: object
             fields:
               - name: url
@@ -8022,58 +8018,6 @@ collections:
                 required: false
           - label: Image
             name: '26545e94'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 49d35fc5
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: df01cf0
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-5de73457'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3cbca8bd'
             widget: object
             fields:
               - name: url

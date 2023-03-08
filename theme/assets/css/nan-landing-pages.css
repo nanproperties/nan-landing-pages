@@ -1459,7 +1459,7 @@ a {
   width: 100%;
   max-height: 250px;
   max-width: 250px;
-  margin-top: -125px;
+  margin-top: 0px;
   margin-right: auto;
   margin-left: auto;
   padding: 40px;
@@ -1473,6 +1473,10 @@ a {
   align-items: center;
   background-color: #fafafa;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
+}
+
+.builder-hero-logo-wrapper.negative-margin {
+  margin-top: -125px;
 }
 
 .builder-hero-logo {
@@ -5970,6 +5974,14 @@ a {
 .proof-is-in-the-numbers-description {
   font-size: 1rem;
   line-height: 1em;
+}
+
+.text-block-12 {
+  display: none;
+}
+
+.empty-state-12 {
+  background-color: transparent;
 }
 
 @media screen and (max-width: 991px) {
