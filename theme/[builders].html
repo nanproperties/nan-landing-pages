@@ -29,20 +29,95 @@
           <p class="paragraph-2 builders-hero-paragraph">{{ f_builder-description }}</p>
           {%- if f_builder-youtube-id -%}<div class="w-embed w-iframe"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/{{ item.data['builder-youtube-id'] }}" frameborder="0" allowfullscreen=""></iframe></div></div>{%- endif -%}
           <div class="builder-other-projects-outer-container">
-            <div class="builder-other-projects-container w-dyn-list">
-              <div role="list" class="builder-other-projects-list w-dyn-items">
-                <div role="listitem" class="builder-other-projects-item w-dyn-item">
-                  <h3 id="w-node-_5a4c45ec-7a68-a477-c174-6c0b81cd35d7-747f63b7" class="h4"></h3>
-                  <div class="builder-other-projects-item-gallery-wrapper w-dyn-list">
-                    <div role="list" class="builder-other-projects-item-gallery-list w-dyn-items">
-                      <div role="listitem" class="builder-other-projects-item-gallery-item w-dyn-item"><img src="{{ images.0.url }}" loading="lazy" alt="{{ images.0.alt | trim | escape }}"></div>
-                    </div>
-                  </div>
+            <div class="builder-other-projects-wrapper">
+              <h3 id="w-node-_5a4c45ec-7a68-a477-c174-6c0b81cd35d7-747f63b7" class="h4">{{ f_other-project-1-title }}</h3>
+              {%- assign setItems = f_other-project-1-images -%}<div class="builder-other-projects-container w-dyn-list">
+                {%- unless setItems.length == 0 -%}<div role="list" class="builder-other-projects-list w-dyn-items">
+                  {%- for setItem in setItems -%}<div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;31vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ setItem.url }}" alt="{{ setItem.alt }}"></div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
+              <template><div class="builder-other-projects-container w-dyn-list">
+                <div role="list" class="builder-other-projects-list w-dyn-items">
+                  <div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;31vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{# setItem.url #}" alt="{# setItem.alt #}"></div>
                 </div>
-              </div>
-              <div class="w-dyn-empty">
-                <div>{{ texts.3d503d2b }}</div>
-              </div>
+                <div class="empty-state-14 w-dyn-empty">
+                  <div>{# texts.3d503d2b #}</div>
+                </div>
+              </div></template></div>
+            </div>
+            <div class="builder-other-projects-wrapper">
+              <h3 id="w-node-_7f1a1525-4ce8-6bba-f824-3e3d1d4acef1-747f63b7" class="h4">{{ f_other-project-1-title }}</h3>
+              {%- assign setItems = f_other-project-1-images -%}<div class="builder-other-projects-container w-dyn-list">
+                {%- unless setItems.length == 0 -%}<div role="list" class="builder-other-projects-list w-dyn-items">
+                  {%- for setItem in setItems -%}<div role="listitem" class="builder-other-projects-item w-dyn-item"><img src="{{ setItem.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;31vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" alt="{{ setItem.alt }}"></div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
+              <template><div class="builder-other-projects-container w-dyn-list">
+                <div role="list" class="builder-other-projects-list w-dyn-items">
+                  <div role="listitem" class="builder-other-projects-item w-dyn-item"><img src="{# setItem.url #}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;31vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" alt="{# setItem.alt #}"></div>
+                </div>
+                <div class="empty-state-14 w-dyn-empty">
+                  <div>{# texts.3d503d2b #}</div>
+                </div>
+              </div></template></div>
+            </div>
+            <div class="builder-other-projects-wrapper">
+              <h3 id="w-node-f40a5053-9f89-b824-13e7-2d23b5f64717-747f63b7" class="h4">{{ f_other-project-1-title }}</h3>
+              {%- assign setItems = f_other-project-1-images -%}<div class="builder-other-projects-container w-dyn-list">
+                {%- unless setItems.length == 0 -%}<div role="list" class="builder-other-projects-list w-dyn-items">
+                  {%- for setItem in setItems -%}<div role="listitem" class="builder-other-projects-item w-dyn-item"><img src="{{ setItem.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;31vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" alt="{{ setItem.alt }}"></div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
+              <template><div class="builder-other-projects-container w-dyn-list">
+                <div role="list" class="builder-other-projects-list w-dyn-items">
+                  <div role="listitem" class="builder-other-projects-item w-dyn-item"><img src="{# setItem.url #}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;31vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" alt="{# setItem.alt #}"></div>
+                </div>
+                <div class="empty-state-14 w-dyn-empty">
+                  <div>{# texts.3d503d2b #}</div>
+                </div>
+              </div></template></div>
+            </div>
+            <div class="builder-other-projects-wrapper">
+              <h3 id="w-node-_383ebc70-3c38-401d-a637-6dc4e1862bd5-747f63b7" class="h4">{{ f_other-project-1-title }}</h3>
+              {%- assign setItems = f_other-project-1-images -%}<div class="builder-other-projects-container w-dyn-list">
+                {%- unless setItems.length == 0 -%}<div role="list" class="builder-other-projects-list w-dyn-items">
+                  {%- for setItem in setItems -%}<div role="listitem" class="builder-other-projects-item w-dyn-item"><img src="{{ setItem.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;31vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" alt="{{ setItem.alt }}"></div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
+              <template><div class="builder-other-projects-container w-dyn-list">
+                <div role="list" class="builder-other-projects-list w-dyn-items">
+                  <div role="listitem" class="builder-other-projects-item w-dyn-item"><img src="{# setItem.url #}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;31vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" alt="{# setItem.alt #}"></div>
+                </div>
+                <div class="empty-state-14 w-dyn-empty">
+                  <div>{# texts.3d503d2b #}</div>
+                </div>
+              </div></template></div>
+            </div>
+            <div class="builder-other-projects-wrapper">
+              <h3 id="w-node-_28a0530f-d3a1-8b2e-e213-c6ff57d5f36e-747f63b7" class="h4">{{ f_other-project-1-title }}</h3>
+              {%- assign setItems = f_other-project-1-images -%}<div class="builder-other-projects-container w-dyn-list">
+                {%- unless setItems.length == 0 -%}<div role="list" class="builder-other-projects-list w-dyn-items">
+                  {%- for setItem in setItems -%}<div role="listitem" class="builder-other-projects-item w-dyn-item"><img src="{{ setItem.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;31vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" alt="{{ setItem.alt }}"></div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
+              <template><div class="builder-other-projects-container w-dyn-list">
+                <div role="list" class="builder-other-projects-list w-dyn-items">
+                  <div role="listitem" class="builder-other-projects-item w-dyn-item"><img src="{# setItem.url #}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;31vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" alt="{# setItem.alt #}"></div>
+                </div>
+                <div class="empty-state-14 w-dyn-empty">
+                  <div>{# texts.3d503d2b #}</div>
+                </div>
+              </div></template></div>
             </div>
           </div>
           <div class="builder-hero-button-wrapper">
