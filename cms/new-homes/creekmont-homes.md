@@ -43,11 +43,11 @@ f_featured-image:
   url: https://development.nanproperties.com/assets/external/63e5330b4a86b7b3d70ae16d_img_408.jpg
   alt: null
 slug: creekmont-homes
-f_agent-2: cms/agents/yvonne-pruneda.md
+f_agent-2: cms/agents/geron-fuller.md
 f_builder: cms/builders/spring-w-homes.md
-updated-on: '2023-02-10T17:13:38.721Z'
+updated-on: '2023-04-05T13:24:22.129Z'
 created-on: '2022-06-16T20:25:05.624Z'
-published-on: '2023-02-10T17:57:47.742Z'
+published-on: '2023-04-05T16:58:08.139Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---
