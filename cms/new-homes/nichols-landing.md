@@ -1,6 +1,6 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77020
@@ -28,9 +28,9 @@ f_featured-image:
   alt: null
 f_builder: cms/builders/urbanlux.md
 f_agent-2: cms/agents/nikki-hohman.md
-updated-on: '2022-05-24T14:29:53.477Z'
+updated-on: '2023-04-06T01:55:14.960Z'
 created-on: '2022-05-24T14:29:53.477Z'
-published-on: '2022-05-26T02:03:32.545Z'
+published-on: '2023-04-06T21:38:06.971Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---

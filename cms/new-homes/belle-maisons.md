@@ -1,7 +1,7 @@
 ---
 f_matterport-url: https://matterport.com/discover/space/6QKedWbqAy9
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77026
@@ -44,9 +44,9 @@ f_image-gallery:
     alt: null
 f_builder: cms/builders/abn-homes-llc.md
 f_agent-2: cms/agents/nancy-ramos.md
-updated-on: '2023-02-10T17:34:06.710Z'
+updated-on: '2023-04-06T01:55:04.416Z'
 created-on: '2023-02-10T17:34:06.710Z'
-published-on: '2023-02-10T17:57:47.742Z'
+published-on: '2023-04-06T21:38:06.971Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---
