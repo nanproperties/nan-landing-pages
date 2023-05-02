@@ -20,7 +20,44 @@
 <body>
   <div class="page-wrapper">
     <div class="custom-page">
-      {%- include "partials/custom-css-2022" -%}
+      <div class="custom-css-wrapper">
+        <div class="w-embed">
+          <link rel="stylesheet" href="https://use.typekit.net/qys7muq.css">
+          <link href="https://development.nanproperties.com/assets/css/nan-landing-pages.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+          <style>
+/* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
+#cms-content img {
+    height: inherit !important;
+  margin: inherit;
+}
+p {
+    margin-bottom: 40px !important;
+}
+.developments-content-item #developments-image-wrapper img.developments-image {
+height:100%!important
+}
+.builder-hero-logo {
+		margin:0!important;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .body-title, #rprAvmWidget_1 {
+text-transform:none;
+}
+img.landing-page-hero-social-media-item {
+    max-width: 40px !important;
+}
+.floating-gray-background::before {
+    content: '';
+    top: 60px;
+    left: 0;
+    position: absolute;
+    background-color: var(--light-gray);
+    width: 100%;
+    height: 95%;
+    z-index: -1;
+}
+</style>
+        </div>
+      </div>
       <div class="luxury-listings-images-section wf-section">
         <div class="w-layout-grid luxury-listings-images-grid">
           <div id="w-node-a195887b-c633-a539-e1c9-0ce725e61b90-ab931569" class="luxury-listings-images-wrapper"><img class="luxury-listings-images-image" src="{{ images.5f6a0118.url }}" alt="{{ images.5f6a0118.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;96vw&quot;}]" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, 96vw" loading="lazy"></div>

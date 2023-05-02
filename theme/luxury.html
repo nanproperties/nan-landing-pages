@@ -20,7 +20,32 @@
 <body>
   <div class="page-wrapper">
     <div class="custom-page">
-      {%- include "partials/custom-css" -%}
+      <div class="custom-css-wrapper">
+        <div class="w-embed">
+          <link rel="stylesheet" href="https://use.typekit.net/qys7muq.css">
+          <link href="https://hungry-bartik-282a9c.netlify.app/static/css/webflow-mod.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+          <link href="https://hungry-bartik-282a9c.netlify.app/static/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+          <style>
+/* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
+#cms-content img {
+    height: inherit !important;
+  margin: inherit;
+}
+p {
+    margin-bottom: 40px !important;
+}
+.developments-content-item #developments-image-wrapper img.developments-image {
+height:100%!important
+}
+.builder-hero-logo {
+		margin:0!important;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .body-title, #rprAvmWidget_1 {
+text-transform:none;
+}
+</style>
+        </div>
+      </div>
       <header class="section luxury-header-section wf-section">
         <div class="luxury-intro-row">
           <div class="luxury-intro-row-column-1"><img class="luxury-intro-image" src="{{ images.787dd6b.url }}" alt="{{ images.787dd6b.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;83vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;43vw&quot;}]" sizes="(max-width: 479px) 83vw, (max-width: 767px) 42vw, 43vw" loading="lazy"></div>
@@ -78,7 +103,21 @@
           <div class="overline luxury-video-overline">{{ texts.78ceca63 }}</div>
           <h2 class="h3 luxury-video-title">{{ texts.-6a8e6bb4 }}</h2>
         </div>
-        {%- assign collection = collections.luxury-listings-page | filter: "f_category,ne,International; f_types,ne,Waterfront", "ALL", page.inputPath | sort: "-published-on" -%}{%- include "partials/luxury-listings-grid" -%}
+        {%- assign collection = collections.luxury-listings-page | filter: "f_category,ne,International; f_types,ne,Waterfront", "ALL", page.inputPath | sort: "-published-on" -%}<div class="luxury-listings-grid-wrapper w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="luxury-listings-grid w-dyn-items">
+            {%- for item in collection -%}<div role="listitem" class="luxury-listings-item-wrapper w-dyn-item">
+              <a href="{{ item.data.f_url }}" class="luxury-listings-item-wrapper-anchor w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.title }}" class="luxury-listings-image">
+                <div class="luxury-listings-descript">
+                  <div class="luxury-listing-item-title">{{ item.data.title }}</div>
+                  <div class="luxury-listing-item-title">{{ texts.2192 }}</div>
+                </div>
+              </a>
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+            <div>{{ texts.3d503d2b }}</div>
+          </div>{%- endif -%}
+        </div>
       </div>
       <div class="section luxury-listings-section wf-section">
         <div class="luxury-listings-title-wrapper">
@@ -101,7 +140,7 @@
           </div>{%- endif -%}
         </div>
       </div>
-      {%- include "partials/cms-form" -%}
+      <div id="cms-form" class="section cms-form wf-section"></div>
     </div>
   </div>
   <script src="https://development.nanproperties.com/assets/external/jquery-3.5.1.min.dc5e7f18c8.js" type="text/javascript" crossorigin="anonymous"></script>

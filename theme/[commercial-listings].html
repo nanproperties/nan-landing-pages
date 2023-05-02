@@ -18,7 +18,32 @@
 <body>
   <div class="page-wrapper">
     <div class="custom-page">
-      {%- include "partials/custom-css" -%}
+      <div class="custom-css-wrapper">
+        <div class="w-embed">
+          <link rel="stylesheet" href="https://use.typekit.net/qys7muq.css">
+          <link href="https://hungry-bartik-282a9c.netlify.app/static/css/webflow-mod.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+          <link href="https://hungry-bartik-282a9c.netlify.app/static/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+          <style>
+/* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
+#cms-content img {
+    height: inherit !important;
+  margin: inherit;
+}
+p {
+    margin-bottom: 40px !important;
+}
+.developments-content-item #developments-image-wrapper img.developments-image {
+height:100%!important
+}
+.builder-hero-logo {
+		margin:0!important;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .body-title, #rprAvmWidget_1 {
+text-transform:none;
+}
+</style>
+        </div>
+      </div>
       <div class="section development-content-section wf-section">
         <aside id="w-node-c0dd8de1-28c2-2c6a-d80a-5af282d04e57-3d712710" class="aside development-aside">
           <div class="aside-headshot-wrapper">{%- assign agentsOfCommercial-listings = f_featured-agent | resolveReference -%}<img src="{{ agentsOfCommercial-listings.data.f_headshot.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;24vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" alt="{{ agentsOfCommercial-listings.data.title }}" class="image-3"></div>

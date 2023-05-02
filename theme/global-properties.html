@@ -20,7 +20,32 @@
 <body>
   <div class="page-wrapper">
     <div class="custom-page">
-      {%- include "partials/custom-css" -%}
+      <div class="custom-css-wrapper">
+        <div class="w-embed">
+          <link rel="stylesheet" href="https://use.typekit.net/qys7muq.css">
+          <link href="https://hungry-bartik-282a9c.netlify.app/static/css/webflow-mod.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+          <link href="https://hungry-bartik-282a9c.netlify.app/static/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+          <style>
+/* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
+#cms-content img {
+    height: inherit !important;
+  margin: inherit;
+}
+p {
+    margin-bottom: 40px !important;
+}
+.developments-content-item #developments-image-wrapper img.developments-image {
+height:100%!important
+}
+.builder-hero-logo {
+		margin:0!important;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .body-title, #rprAvmWidget_1 {
+text-transform:none;
+}
+</style>
+        </div>
+      </div>
       <div class="section global-properties-header-section wf-section">
         <div class="global-properties-header-content-wrapper">
           <h2 class="h3 global-properties-header-title">{{ texts.-7731017f }}</h2>
@@ -46,7 +71,17 @@
           </div>{%- endif -%}
         </div>
       </div>
-      {%- include "partials/about-christies-section" -%}
+      <div class="section christies-wrapper wf-section">
+        <div id="w-node-_99ce1dab-9451-fb4b-d342-d0b46022b7a2-6022b7a1" class="christies-image-wrapper"><img class="christies-image" src="{{ images.-3601644.url }}" alt="{{ images.-3601644.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;44vw&quot;}]" sizes="(max-width: 767px) 100vw, 44vw" loading="lazy"></div>
+        <div class="christies-content-wrapper">
+          <div class="affiliate-broker-divider"></div>
+          <h2 class="h4">{{ texts.263edd3a }}</h2>
+          <div class="paragraph-2 christies-description w-richtext">
+            <p>{{ texts.-68de67ce }}<br></p>
+          </div>
+          <a href="{{ links.-2d417c0f }}" target="_blank" class="primary-button w-button">{{ texts.47b97206 }}</a>
+        </div>
+      </div>
     </div>
   </div>
   <script src="https://development.nanproperties.com/assets/external/jquery-3.5.1.min.dc5e7f18c8.js" type="text/javascript" crossorigin="anonymous"></script>

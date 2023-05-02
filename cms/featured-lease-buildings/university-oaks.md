@@ -10,18 +10,6 @@ f_background-image:
     https://development.nanproperties.com/assets/external/62aa10c9d708d28691fb8f07_view_driveway_2-1080x1080-040720-opt.jpeg
   alt: null
 f_gallery-images:
-  - url: >-
-      https://development.nanproperties.com/assets/external/62aa11397147dcbff50d8aa2_living_kitchen_view_001_26.11.2020-1-1080x1080-opt.jpg
-    alt: null
-  - url: >-
-      https://development.nanproperties.com/assets/external/62aa113ce097bb91fee3c593_dog_park_view-1080x1080-040720-opt.jpeg
-    alt: null
-  - url: >-
-      https://development.nanproperties.com/assets/external/62aa116303c8d7c42cd9bbae_view3_grill-area-1080x1080-040720-opt.jpeg
-    alt: null
-  - url: >-
-      https://development.nanproperties.com/assets/external/62aa11b595756006b9a5b47c_uo-living_kitchen_view_02_26.11.2020-700x400-opt.jpg
-    alt: null
   - url: https://development.nanproperties.com/assets/external/62fc1053c7e445f41ce1c7e1_dji_0206.jpg
     alt: null
   - url: https://development.nanproperties.com/assets/external/62fc10543ff369b78028039c_dji_0207.jpg
@@ -42,10 +30,22 @@ f_gallery-images:
     alt: null
   - url: https://development.nanproperties.com/assets/external/62fc106c7d86cef5fc86350d_dji_0212.jpg
     alt: null
+  - url: https://development.nanproperties.com/assets/external/64516f77459a0e206d8acf58_rmm_3879-hdr201.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/64516fdad624a26a0133f01b_rmm_4212-hdr201.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/64516ff06c2139027c360fb9_rmm_4206-hdr201.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/6451700a6c2139d975362eb8_rmm_4029-hdr.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/645170132aabfd518977f92e_rmm_4053-hdr.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/64517017e260f4c26ef1e1c4_rmm_4092-hdr201.jpg
+    alt: null
 f_area: cms/leasing-areas/medical-center.md
-updated-on: '2022-08-16T21:47:35.800Z'
+updated-on: '2023-05-02T20:18:59.411Z'
 created-on: '2022-06-15T17:08:13.862Z'
-published-on: '2022-08-16T22:54:24.163Z'
+published-on: '2023-05-02T23:19:07.752Z'
 layout: '[featured-lease-buildings].html'
 tags: featured-lease-buildings
 ---

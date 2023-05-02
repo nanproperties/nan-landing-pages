@@ -20,7 +20,32 @@
 <body>
   <div class="page-wrapper">
     <main class="custom-page">
-      {%- include "partials/custom-css" -%}
+      <div class="custom-css-wrapper">
+        <div class="w-embed">
+          <link rel="stylesheet" href="https://use.typekit.net/qys7muq.css">
+          <link href="https://hungry-bartik-282a9c.netlify.app/static/css/webflow-mod.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+          <link href="https://hungry-bartik-282a9c.netlify.app/static/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+          <style>
+/* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
+#cms-content img {
+    height: inherit !important;
+  margin: inherit;
+}
+p {
+    margin-bottom: 40px !important;
+}
+.developments-content-item #developments-image-wrapper img.developments-image {
+height:100%!important
+}
+.builder-hero-logo {
+		margin:0!important;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .body-title, #rprAvmWidget_1 {
+text-transform:none;
+}
+</style>
+        </div>
+      </div>
       <div class="section wf-section">
         <div class="affiliate-of-the-year-video-embed w-embed w-iframe">
           <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
@@ -28,8 +53,18 @@
         </div>
         <p>{{ texts.-34b1d757 }}<br><br>{{ texts.-23d2dbb1 }}<br><br>{{ texts.-7d9e9949 }}</p>
       </div>
-      {%- include "partials/about-christies-section" -%}
-      {%- include "partials/cms-form" -%}
+      <div class="section christies-wrapper wf-section">
+        <div id="w-node-_99ce1dab-9451-fb4b-d342-d0b46022b7a2-6022b7a1" class="christies-image-wrapper"><img class="christies-image" src="{{ images.-3601644.url }}" alt="{{ images.-3601644.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;44vw&quot;}]" sizes="(max-width: 767px) 100vw, 44vw" loading="lazy"></div>
+        <div class="christies-content-wrapper">
+          <div class="affiliate-broker-divider"></div>
+          <h2 class="h4">{{ texts.263edd3a }}</h2>
+          <div class="paragraph-2 christies-description w-richtext">
+            <p>{{ texts.-68de67ce }}<br></p>
+          </div>
+          <a href="{{ links.-2d417c0f }}" target="_blank" class="primary-button w-button">{{ texts.47b97206 }}</a>
+        </div>
+      </div>
+      <div id="cms-form" class="section cms-form wf-section"></div>
     </main>
   </div>
   <script src="https://development.nanproperties.com/assets/external/jquery-3.5.1.min.dc5e7f18c8.js" type="text/javascript" crossorigin="anonymous"></script>
