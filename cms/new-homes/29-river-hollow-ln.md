@@ -1,6 +1,6 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77027
@@ -13,9 +13,9 @@ f_bedrooms: '3'
 slug: 29-river-hollow-ln
 f_agent-2: cms/agents/ty-robinson.md
 f_builder: cms/builders/gilliard-homes.md
-updated-on: '2023-04-03T19:38:02.434Z'
+updated-on: '2023-05-22T18:07:03.970Z'
 created-on: '2023-03-21T13:04:39.385Z'
-published-on: '2023-04-03T19:38:08.116Z'
+published-on: '2023-05-22T18:07:52.919Z'
 f_development-youtube-video-id: https://www.youtube.com/watch?v=ScZv-NU3l_k
 f_matterport-url: https://my.matterport.com/show/?m=t6GTN2Vudfy
 f_featured-image:

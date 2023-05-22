@@ -1,5 +1,5 @@
 ---
-f_sold: false
+f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_square-footage: 2,648-2,984
 f_bathrooms: '3.5'
@@ -17,9 +17,9 @@ f_description: >-
 slug: square-on-dunlavy
 f_agent-2: cms/agents/zoya-hanif.md
 f_builder: cms/builders/iklo-homes.md
-updated-on: '2022-12-13T16:28:47.723Z'
+updated-on: '2023-05-22T18:07:24.714Z'
 created-on: '2021-07-12T15:51:14.458Z'
-published-on: '2022-12-13T22:30:49.780Z'
+published-on: '2023-05-22T18:07:52.919Z'
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/60ec6bb332f1c4c0dcca9042_final20rendering20_20041024_1.jpg
   alt: null

@@ -7,9 +7,9 @@ title: Views at Curry
 f_builder: cms/builders/mty-builders.md
 f_agent-2: cms/agents/jose-nieto-2.md
 slug: views-at-curry
-updated-on: '2023-05-03T04:45:57.185Z'
+updated-on: '2023-05-22T18:07:40.857Z'
 created-on: '2023-05-01T19:11:47.050Z'
-published-on: '2023-05-03T04:46:08.612Z'
+published-on: '2023-05-22T18:07:52.919Z'
 f_bathrooms: '2.5'
 f_bedrooms: '3'
 f_city: 'Houston '

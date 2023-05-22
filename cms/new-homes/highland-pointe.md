@@ -1,14 +1,14 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 title: Highland Pointe
 slug: highland-pointe
 f_agent-2: cms/agents/nancy-ramos.md
-updated-on: '2022-08-16T19:35:17.802Z'
+updated-on: '2023-05-22T18:07:11.529Z'
 created-on: '2022-07-06T16:35:45.136Z'
-published-on: '2022-08-16T22:54:24.163Z'
+published-on: '2023-05-22T18:07:52.919Z'
 f_bathrooms: '2.5'
 f_bedrooms: 3-4
 f_builder: cms/builders/orchid-homes.md
