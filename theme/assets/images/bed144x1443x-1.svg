@@ -1,0 +1,8 @@
+<svg width="432" height="432" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
+<path stroke-linejoin="round" stroke-width="1" stroke="#f16624" d="M5 17V20"></path>
+<path stroke-linejoin="round" stroke-width="1" stroke="#f16624" d="M19 17V20"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#f16624" fill="none" d="M2 12C2 10.8954 2.89543 10 4 10H20C21.1046 10 22 10.8954 22 12V17H2V12Z"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="#f16624" fill="none" d="M5 7C5 5.34315 6.34315 4 8 4H16C17.6569 4 19 5.34315 19 7V10H5V7Z"></path>
+<rect stroke-linejoin="round" stroke-width="1" stroke="#f16624" fill="none" height="1.5" width="2.5" y="7.75" x="7.75"></rect>
+<rect stroke-linejoin="round" stroke-width="1" stroke="#f16624" fill="none" height="1.5" width="2.5" y="7.75" x="13.75"></rect>
+</svg>

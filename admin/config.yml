@@ -3,6 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
+  branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -112,6 +113,7 @@ collections:
         label: Does this region have affiliates we are featuring?
         widget: boolean
         required: false
+        default: false
       - hint: ''
         name: f_continent-description
         label: Continent Description
@@ -256,6 +258,7 @@ collections:
         label: If Team, is this person the Team's Lead?
         widget: boolean
         required: false
+        default: false
       - label: Tags
         widget: hidden
         name: tags
@@ -924,6 +927,7 @@ collections:
         label: Featured?
         widget: boolean
         required: false
+        default: false
       - label: Tags
         widget: hidden
         name: tags
@@ -1621,11 +1625,13 @@ collections:
         label: Coming Soon?
         widget: boolean
         required: false
+        default: false
       - hint: ''
         name: f_sold
         label: Sold?
         widget: boolean
         required: false
+        default: false
       - hint: ''
         name: f_agent-2
         label: Agent
@@ -1777,6 +1783,7 @@ collections:
         label: Is this a 55+ Community?
         widget: boolean
         required: false
+        default: false
       - hint: >-
           Please indicate "Yes" ONLY IF there is a Pardot campaign already
           associated with this development to automatically send out the
@@ -1788,6 +1795,7 @@ collections:
           Development?
         widget: boolean
         required: false
+        default: false
       - hint: >-
           This will be the Pardot Form that then sends the Lookbook to the lead
           automatically.
@@ -1840,11 +1848,13 @@ collections:
         label: Is this a Featured Article?
         widget: boolean
         required: false
+        default: false
       - hint: ''
         name: f_is-this-a-developer-services-press-article
         label: is this a Developer Services Press Article?
         widget: boolean
         required: false
+        default: false
       - hint: 'Example: Forbes, etc'
         name: f_media-outlet-name
         label: Media Outlet Name
@@ -5729,6 +5739,206 @@ collections:
             label: Text
             name: 22e20a39
             widget: string
+          - hint: >-
+              Original text: Build Your Dream Beach House On Texas Gulf Coast's,
+              key: 7294855d
+            label: Text
+            name: 7294855d
+            widget: string
+          - hint: 'Original text: Best Kept Secret, key: 3b7bd816'
+            label: Text
+            name: 3b7bd816
+            widget: string
+          - hint: >-
+              Original text: Experience unparalleled beachfront living at
+              Seahorse Estates, the crown jewel of beachfront communities on
+              Follet's Island, and the Texas Gulf Coast's Best Kept Secret. No
+              longer do you need to compromise with a small, dated beach house
+              that offers limited views and lacks amenities. Instead, envisage
+              your dream beach house on some of the most breathtaking properties
+              on the Gulf Coast, granting you a sweeping panorama of the Gulf
+              and Bay whenever you desire., key: 600bb45f
+            label: Text
+            name: 600bb45f
+            widget: text
+          - hint: >-
+              Original text: Seahorse Estates is an exclusive community with
+              just two rows of waterfront homes - one beachfront, the other
+              bayfront. This layout guarantees all residents a matchless view of
+              both the gulf and bay. Nestled in the unincorporated sector of
+              Follet’s Island, our beaches are well maintained by Brazoria
+              County, complete with a regular upkeep schedule. Plus, they
+              continue to permit fireworks and campfires. John Howton, our
+              developer, has made substantial contributions to the conservation
+              of Seahorse Estates and the establishment of the Drum Bay Nature
+              Preserve. This thoughtful planning ensures residents will forever
+              enjoy the stunning bay vistas and provides migratory birds a haven
+              during their journey., key: a19d206
+            label: Text
+            name: a19d206
+            widget: text
+          - hint: >-
+              Original text: While many coastal regions grapple with beach
+              erosion, our beaches flourish naturally. Our community boasts
+              direct access to both the beach and bay, with top-tier beach and
+              bay community facilities. Enjoy seamless access to a
+              family-friendly beach via one of the seven beach walkovers, or
+              reach Drum Bay through a community boardwalk that leads to an
+              enchanting crabbing pier and a fishing pier. The latter also
+              offers kayak launch access directly into the Christmas Bay System.
+              Seahorse Estates has ambitious plans for further enhancing
+              community amenities, including a 9-hole miniature golf course, a
+              playground, and a picnic pavilion., key: 3ef38edd
+            label: Text
+            name: 3ef38edd
+            widget: text
+          - hint: >-
+              Original text: Don't let this opportunity to claim your slice of
+              paradise at Seahorse Estates slip away., key: 1cbfd16a
+            label: Text
+            name: 1cbfd16a
+            widget: string
+          - hint: 'Original text: View Existing Floor Plans, key: -38c8f364'
+            label: Text
+            name: '-38c8f364'
+            widget: string
+          - hint: 'Original text: Amenities, key: -7f374b09'
+            label: Text
+            name: '-7f374b09'
+            widget: string
+          - hint: >-
+              Original text: Seahorse Estates, nestled on the Gulf Coast,
+              combines direct beach and bay access with family-friendly
+              amenities and planned recreational features. Its spacious homes,
+              accommodating 17-28 guests, offer luxurious living with fantastic
+              beach or bay views. Seahorse Estates promises a memorable living
+              experience, perfect for creating enduring memories, making every
+              day a new adventure for residents and their guests., key: 18d79434
+            label: Text
+            name: 18d79434
+            widget: text
+          - hint: >-
+              Original text: More than 250′ of Natural Dune Protection, key:
+              287ca758
+            label: Text
+            name: 287ca758
+            widget: string
+          - hint: >-
+              Original text: Unobstructed Beach and Bay Views From Every Home,
+              key: -665d0e24
+            label: Text
+            name: '-665d0e24'
+            widget: string
+          - hint: 'Original text: Putt-Putt Course Coming Soon, key: -5ee626f8'
+            label: Text
+            name: '-5ee626f8'
+            widget: string
+          - hint: >-
+              Original text: Located Within the Upper Texas Coastal Birding
+              Trail; a Bird Watcher’s Paradise, key: -7c44b091
+            label: Text
+            name: '-7c44b091'
+            widget: string
+          - hint: 'Original text: 7 Planned Community Beach Walkovers, key: 54ca27bd'
+            label: Text
+            name: 54ca27bd
+            widget: string
+          - hint: >-
+              Original text: Naturally Growing Beaches, Rather than Eroding,
+              key: 7cb89ea7
+            label: Text
+            name: 7cb89ea7
+            widget: string
+          - hint: 'Original text: Direct Access to Drum Bay, key: 5b942d80'
+            label: Text
+            name: 5b942d80
+            widget: string
+          - hint: >-
+              Original text: Community Boardwalk with Crabbing and Bay Fishing
+              Pier, key: -60c9bb7
+            label: Text
+            name: '-60c9bb7'
+            widget: string
+          - hint: 'Original text: Community Kayak Launch to Drum Bay, key: 2d3cd222'
+            label: Text
+            name: 2d3cd222
+            widget: string
+          - hint: "Original text: CONTACT\_US\_TODAY, key: 517dd73f"
+            label: Text
+            name: 517dd73f
+            widget: string
+          - hint: 'Original text: Floor Plans, key: -1c716eea'
+            label: Text
+            name: '-1c716eea'
+            widget: string
+          - hint: 'Original text: The Dolphin, key: 64be14ef'
+            label: Text
+            name: 64be14ef
+            widget: string
+          - hint: 'Original text: 3.018 Sq. Ft., key: -17db3fb4'
+            label: Text
+            name: '-17db3fb4'
+            widget: string
+          - hint: 'Original text: 4 Bedrooms, key: 7f7b05a3'
+            label: Text
+            name: 7f7b05a3
+            widget: string
+          - hint: "Original text: 4 Full +\_1 Half Baths, key: 1ea79afc"
+            label: Text
+            name: 1ea79afc
+            widget: string
+          - hint: 'Original text: The Pelican, key: -318adc91'
+            label: Text
+            name: '-318adc91'
+            widget: string
+          - hint: 'Original text: 3,335 Sq. Ft., key: -3ccadcf4'
+            label: Text
+            name: '-3ccadcf4'
+            widget: string
+          - hint: 'Original text: 5 Bedrooms, key: 73c476c2'
+            label: Text
+            name: 73c476c2
+            widget: string
+          - hint: "Original text: 4 Full +\_2 Half Baths, key: 2659405b"
+            label: Text
+            name: 2659405b
+            widget: string
+          - hint: 'Original text: The Starfish, key: 3f0b4ab9'
+            label: Text
+            name: 3f0b4ab9
+            widget: string
+          - hint: 'Original text: 3.282 Sq. Ft., key: 4655a3a1'
+            label: Text
+            name: 4655a3a1
+            widget: string
+          - hint: "Original text: 5 Full +\_2 Half Baths, key: 32f235dc"
+            label: Text
+            name: 32f235dc
+            widget: string
+          - hint: 'Original text: The Sand Dollar, key: -7b8a1577'
+            label: Text
+            name: '-7b8a1577'
+            widget: string
+          - hint: 'Original text: 4,501 Sq. Ft., key: -526c8052'
+            label: Text
+            name: '-526c8052'
+            widget: string
+          - hint: 'Original text: 6 Bedrooms, key: 680de7e1'
+            label: Text
+            name: 680de7e1
+            widget: string
+          - hint: "Original text: 6 Full +\_2 Half Baths, key: 3f8b2b5d"
+            label: Text
+            name: 3f8b2b5d
+            widget: string
+          - hint: "Original text: VIEW\_FLOOR\_PLAN\_DETAILS, key: -583ab646"
+            label: Text
+            name: '-583ab646'
+            widget: string
+          - hint: "Original text: GET\_DIRECTIONS\_ON\_GOOGLE, key: -6e568d88"
+            label: Text
+            name: '-6e568d88'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -6193,6 +6403,19 @@ collections:
           - hint: 'Original link: https://www.linkedin.com/kyesampson, key: 6bd96fa2'
             label: Link
             name: 6bd96fa2
+            widget: string
+          - hint: >-
+              Original link: https://seahorsehomestx.com/floor-plans/, key:
+              -58beda59
+            label: Link
+            name: '-58beda59'
+            widget: string
+          - hint: >-
+              Original link:
+              https://www.google.com/maps/place/Seahorse/@29.0008768,-95.2349687,15z/data=!3m1!4b1!4m6!3m5!1s0x864072784f901d97:0xa5feb416e81c5922!8m2!3d29.0008589!4d-95.224669!16s%2Fg%2F11b76b9t35?entry=ttu,
+              key: 726c60e9
+            label: Link
+            name: 726c60e9
             widget: string
       - label: Images
         name: images
@@ -8128,6 +8351,123 @@ collections:
                 required: false
           - label: Image
             name: '26545e94'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-296fba9f'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 723c3556
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1cf8e338'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-324ba41e'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-5a0703d4'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 710ae3d6
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-6326a16a'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 2fe6185d
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-58c057c'
             widget: object
             fields:
               - name: url
