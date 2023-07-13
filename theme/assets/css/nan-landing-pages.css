@@ -923,6 +923,7 @@ a {
 
 .primary-button.outline.full-width {
   width: 100%;
+  display: block;
 }
 
 .primary-button.affiliates-page-office-button {
@@ -4898,6 +4899,7 @@ a {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  display: block;
 }
 
 .list-item-2, .list-4 {
@@ -4924,6 +4926,10 @@ a {
 .div-block-17 {
   align-items: center;
   display: flex;
+}
+
+.div-block-18 {
+  object-fit: cover;
 }
 
 @media screen and (max-width: 991px) {
