@@ -7,10 +7,10 @@ f_secondary-team-image:
   url: https://development.nanproperties.com/assets/external/62969cddf2da1a63af974532_yvonne202620michael.jpeg
   alt: null
 slug: the-yvonne-pruneda-group
-updated-on: '2022-05-31T22:56:20.184Z'
-created-on: '2022-05-26T01:59:25.778Z'
-published-on: '2022-06-01T03:59:42.943Z'
-layout: '[teams].html'
+updated-on: "2022-05-31T22:56:20.184Z"
+created-on: "2022-05-26T01:59:25.778Z"
+published-on: "2022-06-01T03:59:42.943Z"
+layout: "[teams].html"
 tags: teams
 ---
 

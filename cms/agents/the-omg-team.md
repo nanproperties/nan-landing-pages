@@ -32,7 +32,7 @@ f_bio: >-
   interest in mind, whether representing them on the listing or buying side. Her
   clients receive personalized service that is tailored to their unique needs
   and requirements. Olga's clients can trust that she will go above and beyond
-  to help them achieve their real estate goals. 
+  to help them achieve their real estate goals.
 title: The OMG Team
 f_facebook-handle: Olga M. Garza
 f_title: Realtor Associate
@@ -40,11 +40,9 @@ slug: the-omg-team
 f_headshot:
   url: https://development.nanproperties.com/assets/external/649c9ce5ce683228f70765b6_dsc01987201.jpg
   alt: null
-updated-on: '2023-06-28T21:07:43.158Z'
-created-on: '2023-06-28T21:07:43.158Z'
-published-on: '2023-06-29T20:14:23.538Z'
-layout: '[agents].html'
+updated-on: "2023-06-28T21:07:43.158Z"
+created-on: "2023-06-28T21:07:43.158Z"
+published-on: "2023-06-29T20:14:23.538Z"
+layout: "[agents].html"
 tags: agents
 ---
-
-

@@ -1,190 +1,559 @@
 <!DOCTYPE html>
-<html data-wf-page="6081e4971f9db93b747f63b7" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
-  <meta charset="utf-8">
-  
-  <meta content="width=device-width, initial-scale=1" name="viewport">
-  <link href="https://development.nanproperties.com/assets/css/normalize.css" rel="stylesheet" type="text/css">
-  <link href="https://development.nanproperties.com/assets/css/components.css" rel="stylesheet" type="text/css">
-  <link href="https://development.nanproperties.com/assets/css/nan-landing-pages.css" rel="stylesheet" type="text/css">
-  <script src="https://use.typekit.net/qys7muq.js" type="text/javascript"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
-  <link href="{{ settings.site.favicon | default: "https://development.nanproperties.com/assets/images/favicon.png" }}" rel="shortcut icon" type="image/x-icon">
-  <link href="{{ settings.site.apple_touch_icon | default: "https://development.nanproperties.com/assets/images/webclip.png" }}" rel="apple-touch-icon">
-{{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<style>.w-video.w-embed {
-            aspect-ratio: 16 / 9;
-        }</style></head>
-<body>
-  <div class="page-wrapper">
-    <div class="custom-css-wrapper">
-      <div class="w-embed">
-        <link rel="stylesheet" href="https://use.typekit.net/qys7muq.css">
-        <link href="https://development.nanproperties.com/assets/css/nan-landing-pages.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
-        <style>
-/* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
-#cms-content img {
-    height: inherit !important;
-  margin: inherit;
-}
-p {
-    margin-bottom: 40px !important;
-}
-.developments-content-item #developments-image-wrapper img.developments-image {
-height:100%!important
-}
-.builder-hero-logo {
-		margin:0!important;
-}
-h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .body-title, #rprAvmWidget_1 {
-text-transform:none;
-}
-img.landing-page-hero-social-media-item {
-    max-width: 40px !important;
-}
-.floating-gray-background::before {
-    content: '';
-    top: 60px;
-    left: 0;
-    position: absolute;
-    background-color: var(--light-gray);
-    width: 100%;
-    height: 95%;
-    z-index: -1;
-}
-.image-15.seahorse-image {
-    height: 100% !important;
-}
-</style>
-      </div>
-    </div>
-    <main class="custom-page">
-      <header class="section builder-hero-section wf-section">
-        {%- if f_builder-featured-image -%}<div class="builder-hero-image-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ f_builder-featured-image.url }}" alt="{{ f_builder-featured-image.alt }}" class="builder-hero-image"></div>{%- endif -%}
-        {%- if f_builder-featured-image -%}<div class="builder-hero-logo-wrapper negative-margin"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ f_builder-logo.url }}" alt="{{ f_builder-logo.alt }}" class="builder-hero-logo"></div>{%- endif -%}
-        {%- unless f_builder-featured-image -%}<div class="builder-hero-logo-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;52vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;170px&quot;}]" src="{{ f_builder-logo.url }}" alt="{{ f_builder-logo.alt }}" class="builder-hero-logo"></div>{%- endunless -%}
-        <div class="builder-hero-content-wrapper">
-          <h1 class="h2 builders-hero-title">{{ title }}</h1>
-          <h2 class="h4 builders-hero-subtitle">{{ f_builder-slogan }}</h2>
-          <p class="paragraph-2 builders-hero-paragraph">{{ f_builder-description }}</p>
-          {%- if f_builder-youtube-id -%}<div class="w-embed w-iframe"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/{{ item.data['builder-youtube-id'] }}" frameborder="0" allowfullscreen=""></iframe></div></div>{%- endif -%}
-          <div class="builder-other-projects-outer-container">
-            <div class="builder-other-projects-wrapper">
-              <h3 id="w-node-_5a4c45ec-7a68-a477-c174-6c0b81cd35d7-747f63b7" class="h4">{{ f_other-project-1-title }}</h3>
-              {%- assign setItems = f_other-project-1-images -%}<div class="builder-other-projects-container w-dyn-list">
-                {%- unless setItems.length == 0 -%}<div role="list" class="builder-other-projects-list w-dyn-items">
-                  {%- for setItem in setItems -%}<div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ setItem.url }}" alt="{{ setItem.alt }}"></div>{%- endfor -%}
-                </div>{%- endunless -%}
-                {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
-                  <div>{{ texts.3d503d2b }}</div>
-                </div>{%- endif -%}
-              <template><div class="builder-other-projects-container w-dyn-list">
-                <div role="list" class="builder-other-projects-list w-dyn-items">
-                  <div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{# setItem.url #}" alt="{# setItem.alt #}"></div>
-                </div>
-                <div class="empty-state-14 w-dyn-empty">
-                  <div>{# texts.3d503d2b #}</div>
-                </div>
-              </div></template></div>
-            </div>
-            <div class="builder-other-projects-wrapper">
-              <h3 id="w-node-_7f1a1525-4ce8-6bba-f824-3e3d1d4acef1-747f63b7" class="h4">{{ f_other-project-2-title }}</h3>
-              {%- assign setItems = f_other-project-2-images -%}<div class="builder-other-projects-container w-dyn-list">
-                {%- unless setItems.length == 0 -%}<div role="list" class="builder-other-projects-list w-dyn-items">
-                  {%- for setItem in setItems -%}<div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ setItem.url }}" alt="{{ setItem.alt }}"></div>{%- endfor -%}
-                </div>{%- endunless -%}
-                {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
-                  <div>{{ texts.3d503d2b }}</div>
-                </div>{%- endif -%}
-              <template><div class="builder-other-projects-container w-dyn-list">
-                <div role="list" class="builder-other-projects-list w-dyn-items">
-                  <div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{# setItem.url #}" alt="{# setItem.alt #}"></div>
-                </div>
-                <div class="empty-state-14 w-dyn-empty">
-                  <div>{# texts.3d503d2b #}</div>
-                </div>
-              </div></template></div>
-            </div>
-            <div class="builder-other-projects-wrapper">
-              <h3 id="w-node-f40a5053-9f89-b824-13e7-2d23b5f64717-747f63b7" class="h4">{{ f_other-project-3-title }}</h3>
-              {%- assign setItems = f_other-project-3-images -%}<div class="builder-other-projects-container w-dyn-list">
-                {%- unless setItems.length == 0 -%}<div role="list" class="builder-other-projects-list w-dyn-items">
-                  {%- for setItem in setItems -%}<div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ setItem.url }}" alt="{{ setItem.alt }}"></div>{%- endfor -%}
-                </div>{%- endunless -%}
-                {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
-                  <div>{{ texts.3d503d2b }}</div>
-                </div>{%- endif -%}
-              <template><div class="builder-other-projects-container w-dyn-list">
-                <div role="list" class="builder-other-projects-list w-dyn-items">
-                  <div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{# setItem.url #}" alt="{# setItem.alt #}"></div>
-                </div>
-                <div class="empty-state-14 w-dyn-empty">
-                  <div>{# texts.3d503d2b #}</div>
-                </div>
-              </div></template></div>
-            </div>
-            <div class="builder-other-projects-wrapper">
-              <h3 id="w-node-_383ebc70-3c38-401d-a637-6dc4e1862bd5-747f63b7" class="h4">{{ f_other-project-4-title }}</h3>
-              {%- assign setItems = f_other-project-4-images -%}<div class="builder-other-projects-container w-dyn-list">
-                {%- unless setItems.length == 0 -%}<div role="list" class="builder-other-projects-list w-dyn-items">
-                  {%- for setItem in setItems -%}<div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ setItem.url }}" alt="{{ setItem.alt }}"></div>{%- endfor -%}
-                </div>{%- endunless -%}
-                {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
-                  <div>{{ texts.3d503d2b }}</div>
-                </div>{%- endif -%}
-              <template><div class="builder-other-projects-container w-dyn-list">
-                <div role="list" class="builder-other-projects-list w-dyn-items">
-                  <div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{# setItem.url #}" alt="{# setItem.alt #}"></div>
-                </div>
-                <div class="empty-state-14 w-dyn-empty">
-                  <div>{# texts.3d503d2b #}</div>
-                </div>
-              </div></template></div>
-            </div>
-            <div class="builder-other-projects-wrapper">
-              <h3 id="w-node-_28a0530f-d3a1-8b2e-e213-c6ff57d5f36e-747f63b7" class="h4">{{ f_other-project-5-title }}</h3>
-              {%- assign setItems = f_other-project-5-images -%}<div class="builder-other-projects-container w-dyn-list">
-                {%- unless setItems.length == 0 -%}<div role="list" class="builder-other-projects-list w-dyn-items">
-                  {%- for setItem in setItems -%}<div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ setItem.url }}" alt="{{ setItem.alt }}"></div>{%- endfor -%}
-                </div>{%- endunless -%}
-                {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
-                  <div>{{ texts.3d503d2b }}</div>
-                </div>{%- endif -%}
-              <template><div class="builder-other-projects-container w-dyn-list">
-                <div role="list" class="builder-other-projects-list w-dyn-items">
-                  <div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{# setItem.url #}" alt="{# setItem.alt #}"></div>
-                </div>
-                <div class="empty-state-14 w-dyn-empty">
-                  <div>{# texts.3d503d2b #}</div>
-                </div>
-              </div></template></div>
-            </div>
-          </div>
-          <div class="builder-hero-button-wrapper">
-            <a href="{{ links.23 }}" class="primary-button w-button">{{ texts.-41ce341e }}</a>
-          </div>
-        </div>
-        <div class="vertical-divider"></div>
-      </header>
-      <section class="section builder-listings-section wf-section">
-        {%- assign collection = collections.new-homes | filter: "f_builder,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
-          {%- unless collection.length == 0 -%}<div role="list" class="grid builder-list-grid w-dyn-items">
-            {%- for item in collection -%}<div role="listitem" class="builder-listings-item-wrapper w-dyn-item">
-              <a href="{{ item.url }}" class="builder-listings-item-image-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;50vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ item.data.f_featured-image.url }}" alt="{{ item.data.f_featured-image.alt }}" class="builder-listings-item-image"></a>
-              <div class="builder-listings-item-text-wrapper">
-                <h3 class="h5 builder-listings-item-title">{{ item.data.f_street-address }}</h3>
-                <div class="subtitle-2">{{ item.data.f_city }}</div>
-                <a href="{{ item.url }}" class="builder-listings-item-link">{{ texts.56a75639 }}</a>
-              </div>
-            </div>{%- endfor -%}
-          </div>{%- endunless -%}
-          {%- if collection.length == 0 -%}<div class="empty-state-12 w-dyn-empty">
-            <div class="text-block-12">{{ texts.3d503d2b }}</div>
-          </div>{%- endif -%}
-        </div>
-      </section>
-    </main>
-  </div>
-  <script src="https://development.nanproperties.com/assets/external/jquery-3.5.1.min.dc5e7f18c8.js" type="text/javascript" crossorigin="anonymous"></script>
-  <script src="https://development.nanproperties.com/assets/js/nan-landing-pages.js" type="text/javascript"></script>
+<html
+  data-wf-page="6081e4971f9db93b747f63b7"
+  data-wf-site="60768515da5167820baefabe"
+>
+  <head>
+    {%- seo seo -%}
+    <meta charset="utf-8" />
 
-<script src="https://development.nanproperties.com/assets/js/udesly-11ty.min.js" async="" defer=""></script>{{ settings.site.footer_additional_content }}<script type="module">import*as UdeslyBanner from"https://cdn.jsdelivr.net/npm/udesly-ad-banner@0.0.1/loader/index.js";UdeslyBanner.defineCustomElements(),document.body.append(document.createElement("udesly-banner"));</script></body></html>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <link
+      href="https://development.nanproperties.com/assets/css/normalize.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://development.nanproperties.com/assets/css/components.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://development.nanproperties.com/assets/css/nan-landing-pages.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script
+      src="https://use.typekit.net/qys7muq.js"
+      type="text/javascript"
+    ></script>
+    <script type="text/javascript">
+      try {
+        Typekit.load();
+      } catch (e) {}
+    </script>
+    <script type="text/javascript">
+      !(function (o, c) {
+        var n = c.documentElement,
+          t = " w-mod-";
+        (n.className += t + "js"),
+          ("ontouchstart" in o ||
+            (o.DocumentTouch && c instanceof DocumentTouch)) &&
+            (n.className += t + "touch");
+      })(window, document);
+    </script>
+    <link href="{{ settings.site.favicon | default:
+    "https://development.nanproperties.com/assets/images/favicon.png" }}"
+    rel="shortcut icon" type="image/x-icon"> <link href="{{
+    settings.site.apple_touch_icon | default:
+    "https://development.nanproperties.com/assets/images/webclip.png" }}"
+    rel="apple-touch-icon"> {{ settings.site.header_additional_content }}{%-
+    include "partials/_site-css-variables" -%}
+    <style>
+      .w-video.w-embed {
+        aspect-ratio: 16 / 9;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page-wrapper">
+      <div class="custom-css-wrapper">
+        <div class="w-embed">
+          <link rel="stylesheet" href="https://use.typekit.net/qys7muq.css" />
+          <link
+            href="https://development.nanproperties.com/assets/css/nan-landing-pages.css"
+            rel="stylesheet"
+            type="text/css"
+            as="style"
+            onload="this.rel='stylesheet'"
+            onerror="this.rel='stylesheet'"
+          />
+          <style>
+            /* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
+            #cms-content img {
+              height: inherit !important;
+              margin: inherit;
+            }
+            p {
+              margin-bottom: 40px !important;
+            }
+            .developments-content-item
+              #developments-image-wrapper
+              img.developments-image {
+              height: 100% !important;
+            }
+            .builder-hero-logo {
+              margin: 0 !important;
+            }
+            h1,
+            .h1,
+            h2,
+            .h2,
+            h3,
+            .h3,
+            h4,
+            .h4,
+            h5,
+            .h5,
+            h6,
+            .h6,
+            .body-title,
+            #rprAvmWidget_1 {
+              text-transform: none;
+            }
+            img.landing-page-hero-social-media-item {
+              max-width: 40px !important;
+            }
+            .floating-gray-background::before {
+              content: "";
+              top: 60px;
+              left: 0;
+              position: absolute;
+              background-color: var(--light-gray);
+              width: 100%;
+              height: 95%;
+              z-index: -1;
+            }
+            .image-15.seahorse-image {
+              height: 100% !important;
+            }
+            img.developments-image {
+              height: 100% !important;
+            }
+          </style>
+        </div>
+      </div>
+      <main class="custom-page">
+        <header class="section builder-hero-section wf-section">
+          {%- if f_builder-featured-image -%}
+          <div class="builder-hero-image-wrapper">
+            <img
+              loading="lazy"
+              data-sizes='[{"max":10000,"size":"100vw"}]'
+              src="{{ f_builder-featured-image.url }}"
+              alt="{{ f_builder-featured-image.alt }}"
+              class="builder-hero-image"
+            />
+          </div>
+          {%- endif -%} {%- if f_builder-logo -%}
+          <div class="builder-hero-logo-wrapper negative-margin">
+            <img
+              loading="lazy"
+              data-sizes='[{"max":10000,"size":"100vw"}]'
+              src="{{ f_builder-logo.url }}"
+              alt="{{ f_builder-logo.alt }}"
+              class="builder-hero-logo"
+            />
+          </div>
+          {%- endif -%} {%- unless f_builder-featured-image -%}
+          <div class="builder-hero-logo-wrapper">
+            <img
+              loading="lazy"
+              data-sizes='[{"max":479,"size":"52vw"},{"max":10000,"size":"170px"}]'
+              src="{{ f_builder-logo.url }}"
+              alt="{{ f_builder-logo.alt }}"
+              class="builder-hero-logo"
+            />
+          </div>
+          {%- endunless -%}
+          <div class="builder-hero-content-wrapper">
+            <h1 class="h2 builders-hero-title">{{ title }}</h1>
+            <h2 class="h4 builders-hero-subtitle">{{ f_builder-slogan }}</h2>
+            <p class="paragraph-2 builders-hero-paragraph">
+              {{ f_builder-description }}
+            </p>
+            {%- if f_builder-youtube-id -%}
+            <div class="w-embed w-iframe">
+              <style>
+                .embed-container {
+                  position: relative;
+                  padding-bottom: 56.25%;
+                  height: 0;
+                  overflow: hidden;
+                  max-width: 100%;
+                }
+                .embed-container iframe,
+                .embed-container object,
+                .embed-container embed {
+                  position: absolute;
+                  top: 0;
+                  left: 0;
+                  width: 100%;
+                  height: 100%;
+                }
+              </style>
+              <div class="embed-container">
+                <iframe
+                  src="https://www.youtube.com/embed/{{ item.data['builder-youtube-id'] }}"
+                  frameborder="0"
+                  allowfullscreen=""
+                ></iframe>
+              </div>
+            </div>
+            {%- endif -%}
+            <div class="builder-other-projects-outer-container">
+              <div class="builder-other-projects-wrapper">
+                <h3
+                  id="w-node-_5a4c45ec-7a68-a477-c174-6c0b81cd35d7-747f63b7"
+                  class="h4"
+                >
+                  {{ f_other-project-1-title }}
+                </h3>
+                {%- assign setItems = f_other-project-1-images -%}
+                <div class="builder-other-projects-container w-dyn-list">
+                  {%- unless setItems.length == 0 -%}
+                  <div
+                    role="list"
+                    class="builder-other-projects-list w-dyn-items"
+                  >
+                    {%- for setItem in setItems -%}
+                    <div
+                      role="listitem"
+                      class="builder-other-projects-item w-dyn-item"
+                    >
+                      <img
+                        loading="lazy"
+                        data-sizes='[{"max":10000,"size":"100vw"}]'
+                        src="{{ setItem.url }}"
+                        alt="{{ setItem.alt }}"
+                      />
+                    </div>
+                    {%- endfor -%}
+                  </div>
+                  {%- endunless -%} {%- if setItems.length == 0 -%}
+                  <div class="empty-state-14 w-dyn-empty">
+                    <div>{{ texts.3d503d2b }}</div>
+                  </div>
+                  {%- endif -%}
+                  <template
+                    ><div class="builder-other-projects-container w-dyn-list">
+                      <div
+                        role="list"
+                        class="builder-other-projects-list w-dyn-items"
+                      >
+                        <div
+                          role="listitem"
+                          class="builder-other-projects-item w-dyn-item"
+                        >
+                          <img
+                            loading="lazy"
+                            data-sizes='[{"max":10000,"size":"100vw"}]'
+                            src="{# setItem.url #}"
+                            alt="{# setItem.alt #}"
+                          />
+                        </div>
+                      </div>
+                      <div class="empty-state-14 w-dyn-empty">
+                        <div>{# texts.3d503d2b #}</div>
+                      </div>
+                    </div></template
+                  >
+                </div>
+              </div>
+              <div class="builder-other-projects-wrapper">
+                <h3
+                  id="w-node-_7f1a1525-4ce8-6bba-f824-3e3d1d4acef1-747f63b7"
+                  class="h4"
+                >
+                  {{ f_other-project-2-title }}
+                </h3>
+                {%- assign setItems = f_other-project-2-images -%}
+                <div class="builder-other-projects-container w-dyn-list">
+                  {%- unless setItems.length == 0 -%}
+                  <div
+                    role="list"
+                    class="builder-other-projects-list w-dyn-items"
+                  >
+                    {%- for setItem in setItems -%}
+                    <div
+                      role="listitem"
+                      class="builder-other-projects-item w-dyn-item"
+                    >
+                      <img
+                        loading="lazy"
+                        data-sizes='[{"max":10000,"size":"100vw"}]'
+                        src="{{ setItem.url }}"
+                        alt="{{ setItem.alt }}"
+                      />
+                    </div>
+                    {%- endfor -%}
+                  </div>
+                  {%- endunless -%} {%- if setItems.length == 0 -%}
+                  <div class="empty-state-14 w-dyn-empty">
+                    <div>{{ texts.3d503d2b }}</div>
+                  </div>
+                  {%- endif -%}
+                  <template
+                    ><div class="builder-other-projects-container w-dyn-list">
+                      <div
+                        role="list"
+                        class="builder-other-projects-list w-dyn-items"
+                      >
+                        <div
+                          role="listitem"
+                          class="builder-other-projects-item w-dyn-item"
+                        >
+                          <img
+                            loading="lazy"
+                            data-sizes='[{"max":10000,"size":"100vw"}]'
+                            src="{# setItem.url #}"
+                            alt="{# setItem.alt #}"
+                          />
+                        </div>
+                      </div>
+                      <div class="empty-state-14 w-dyn-empty">
+                        <div>{# texts.3d503d2b #}</div>
+                      </div>
+                    </div></template
+                  >
+                </div>
+              </div>
+              <div class="builder-other-projects-wrapper">
+                <h3
+                  id="w-node-f40a5053-9f89-b824-13e7-2d23b5f64717-747f63b7"
+                  class="h4"
+                >
+                  {{ f_other-project-3-title }}
+                </h3>
+                {%- assign setItems = f_other-project-3-images -%}
+                <div class="builder-other-projects-container w-dyn-list">
+                  {%- unless setItems.length == 0 -%}
+                  <div
+                    role="list"
+                    class="builder-other-projects-list w-dyn-items"
+                  >
+                    {%- for setItem in setItems -%}
+                    <div
+                      role="listitem"
+                      class="builder-other-projects-item w-dyn-item"
+                    >
+                      <img
+                        loading="lazy"
+                        data-sizes='[{"max":10000,"size":"100vw"}]'
+                        src="{{ setItem.url }}"
+                        alt="{{ setItem.alt }}"
+                      />
+                    </div>
+                    {%- endfor -%}
+                  </div>
+                  {%- endunless -%} {%- if setItems.length == 0 -%}
+                  <div class="empty-state-14 w-dyn-empty">
+                    <div>{{ texts.3d503d2b }}</div>
+                  </div>
+                  {%- endif -%}
+                  <template
+                    ><div class="builder-other-projects-container w-dyn-list">
+                      <div
+                        role="list"
+                        class="builder-other-projects-list w-dyn-items"
+                      >
+                        <div
+                          role="listitem"
+                          class="builder-other-projects-item w-dyn-item"
+                        >
+                          <img
+                            loading="lazy"
+                            data-sizes='[{"max":10000,"size":"100vw"}]'
+                            src="{# setItem.url #}"
+                            alt="{# setItem.alt #}"
+                          />
+                        </div>
+                      </div>
+                      <div class="empty-state-14 w-dyn-empty">
+                        <div>{# texts.3d503d2b #}</div>
+                      </div>
+                    </div></template
+                  >
+                </div>
+              </div>
+              <div class="builder-other-projects-wrapper">
+                <h3
+                  id="w-node-_383ebc70-3c38-401d-a637-6dc4e1862bd5-747f63b7"
+                  class="h4"
+                >
+                  {{ f_other-project-4-title }}
+                </h3>
+                {%- assign setItems = f_other-project-4-images -%}
+                <div class="builder-other-projects-container w-dyn-list">
+                  {%- unless setItems.length == 0 -%}
+                  <div
+                    role="list"
+                    class="builder-other-projects-list w-dyn-items"
+                  >
+                    {%- for setItem in setItems -%}
+                    <div
+                      role="listitem"
+                      class="builder-other-projects-item w-dyn-item"
+                    >
+                      <img
+                        loading="lazy"
+                        data-sizes='[{"max":10000,"size":"100vw"}]'
+                        src="{{ setItem.url }}"
+                        alt="{{ setItem.alt }}"
+                      />
+                    </div>
+                    {%- endfor -%}
+                  </div>
+                  {%- endunless -%} {%- if setItems.length == 0 -%}
+                  <div class="empty-state-14 w-dyn-empty">
+                    <div>{{ texts.3d503d2b }}</div>
+                  </div>
+                  {%- endif -%}
+                  <template
+                    ><div class="builder-other-projects-container w-dyn-list">
+                      <div
+                        role="list"
+                        class="builder-other-projects-list w-dyn-items"
+                      >
+                        <div
+                          role="listitem"
+                          class="builder-other-projects-item w-dyn-item"
+                        >
+                          <img
+                            loading="lazy"
+                            data-sizes='[{"max":10000,"size":"100vw"}]'
+                            src="{# setItem.url #}"
+                            alt="{# setItem.alt #}"
+                          />
+                        </div>
+                      </div>
+                      <div class="empty-state-14 w-dyn-empty">
+                        <div>{# texts.3d503d2b #}</div>
+                      </div>
+                    </div></template
+                  >
+                </div>
+              </div>
+              <div class="builder-other-projects-wrapper">
+                <h3
+                  id="w-node-_28a0530f-d3a1-8b2e-e213-c6ff57d5f36e-747f63b7"
+                  class="h4"
+                >
+                  {{ f_other-project-5-title }}
+                </h3>
+                {%- assign setItems = f_other-project-5-images -%}
+                <div class="builder-other-projects-container w-dyn-list">
+                  {%- unless setItems.length == 0 -%}
+                  <div
+                    role="list"
+                    class="builder-other-projects-list w-dyn-items"
+                  >
+                    {%- for setItem in setItems -%}
+                    <div
+                      role="listitem"
+                      class="builder-other-projects-item w-dyn-item"
+                    >
+                      <img
+                        loading="lazy"
+                        data-sizes='[{"max":10000,"size":"100vw"}]'
+                        src="{{ setItem.url }}"
+                        alt="{{ setItem.alt }}"
+                      />
+                    </div>
+                    {%- endfor -%}
+                  </div>
+                  {%- endunless -%} {%- if setItems.length == 0 -%}
+                  <div class="empty-state-14 w-dyn-empty">
+                    <div>{{ texts.3d503d2b }}</div>
+                  </div>
+                  {%- endif -%}
+                  <template
+                    ><div class="builder-other-projects-container w-dyn-list">
+                      <div
+                        role="list"
+                        class="builder-other-projects-list w-dyn-items"
+                      >
+                        <div
+                          role="listitem"
+                          class="builder-other-projects-item w-dyn-item"
+                        >
+                          <img
+                            loading="lazy"
+                            data-sizes='[{"max":10000,"size":"100vw"}]'
+                            src="{# setItem.url #}"
+                            alt="{# setItem.alt #}"
+                          />
+                        </div>
+                      </div>
+                      <div class="empty-state-14 w-dyn-empty">
+                        <div>{# texts.3d503d2b #}</div>
+                      </div>
+                    </div></template
+                  >
+                </div>
+              </div>
+            </div>
+            <div class="builder-hero-button-wrapper">
+              <a href="{{ links.23 }}" class="primary-button w-button"
+                >{{ texts.-41ce341e }}</a
+              >
+            </div>
+          </div>
+          <div class="vertical-divider"></div>
+        </header>
+        <section class="section builder-listings-section wf-section">
+          {%- assign collection = collections.new-homes | filter:
+          "f_builder,eq,DYN_CONTEXT", "ALL", page.inputPath | sort:
+          "-created-on" -%}
+          <div class="w-dyn-list">
+            {%- unless collection.length == 0 -%}
+            <div role="list" class="grid builder-list-grid w-dyn-items">
+              {%- for item in collection -%}
+              <div
+                role="listitem"
+                class="builder-listings-item-wrapper w-dyn-item"
+              >
+                <a
+                  href="{{ item.url }}"
+                  class="builder-listings-item-image-wrapper w-inline-block"
+                  ><img
+                    loading="lazy"
+                    data-sizes='[{"max":479,"size":"50vw"},{"max":10000,"size":"23vw"}]'
+                    src="{{ item.data.f_featured-image.url }}"
+                    alt="{{ item.data.f_featured-image.alt }}"
+                    class="builder-listings-item-image"
+                /></a>
+                <div class="builder-listings-item-text-wrapper">
+                  <h3 class="h5 builder-listings-item-title">
+                    {{ item.data.f_street-address }}
+                  </h3>
+                  <div class="subtitle-2">{{ item.data.f_city }}</div>
+                  <a href="{{ item.url }}" class="builder-listings-item-link"
+                    >{{ texts.56a75639 }}</a
+                  >
+                </div>
+              </div>
+              {%- endfor -%}
+            </div>
+            {%- endunless -%} {%- if collection.length == 0 -%}
+            <div class="empty-state-12 w-dyn-empty">
+              <div class="text-block-12">{{ texts.3d503d2b }}</div>
+            </div>
+            {%- endif -%}
+          </div>
+        </section>
+      </main>
+    </div>
+    <script
+      src="https://development.nanproperties.com/assets/external/jquery-3.5.1.min.dc5e7f18c8.js"
+      type="text/javascript"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://development.nanproperties.com/assets/js/nan-landing-pages.js"
+      type="text/javascript"
+    ></script>
+
+    <script
+      src="https://development.nanproperties.com/assets/js/udesly-11ty.min.js"
+      async=""
+      defer=""
+    ></script>
+    {{ settings.site.footer_additional_content }}
+    <script type="module">
+      import * as UdeslyBanner from "https://cdn.jsdelivr.net/npm/udesly-ad-banner@0.0.1/loader/index.js";
+      UdeslyBanner.defineCustomElements(),
+        document.body.append(document.createElement("udesly-banner"));
+    </script>
+  </body>
+</html>

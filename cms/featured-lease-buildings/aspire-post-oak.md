@@ -7,9 +7,9 @@ f_background-image:
     https://development.nanproperties.com/assets/external/623cda96c6aa7111febabdb3_screen20shot202022-03-2420at203.54.41%20PM.png
   alt: null
 f_area: cms/leasing-areas/galleria-river-oaks.md
-updated-on: '2022-03-24T22:59:20.963Z'
-created-on: '2022-03-24T20:54:58.141Z'
-published-on: '2022-03-24T23:02:49.537Z'
+updated-on: "2022-03-24T22:59:20.963Z"
+created-on: "2022-03-24T20:54:58.141Z"
+published-on: "2022-03-24T23:02:49.537Z"
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/623cf7bc1da452c563206885_download202.jpeg
@@ -33,8 +33,8 @@ f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/623cf7bc09eac30ce96f8408_download203.jpeg
     alt: null
 f_street-address: 1616 Post Oak Blvd
-f_zip-code: '77056'
-layout: '[featured-lease-buildings].html'
+f_zip-code: "77056"
+layout: "[featured-lease-buildings].html"
 tags: featured-lease-buildings
 ---
 

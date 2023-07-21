@@ -11,12 +11,10 @@ f_featured-image:
     https://development.nanproperties.com/assets/external/6077cecb9d13c273ae2558d8_602f64ec479aacontent_global-properties-south-america.jpeg
   alt: null
 slug: south-america
-updated-on: '2021-06-03T01:57:28.900Z'
-created-on: '2021-04-15T05:27:40.179Z'
-published-on: '2021-06-03T02:16:28.066Z'
+updated-on: "2021-06-03T01:57:28.900Z"
+created-on: "2021-04-15T05:27:40.179Z"
+published-on: "2021-06-03T02:16:28.066Z"
 f_does-this-region-have-affiliates-we-are-featuring: false
-layout: '[affiliate-regions].html'
+layout: "[affiliate-regions].html"
 tags: affiliate-regions
 ---
-
-

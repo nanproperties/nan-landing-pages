@@ -11,13 +11,11 @@ f_image-or-screenshot-of-article:
     https://development.nanproperties.com/assets/external/6080856a7b4b8c7f053ba6e7_screen_shot_2021-04-21_at_10.56.00_AM.png
   alt: null
 slug: charming-heights-home-crafted-for-art-lovers-hits-market-at-829-000
-updated-on: '2021-04-21T20:04:59.005Z'
-created-on: '2021-04-21T20:04:59.005Z'
-published-on: '2021-04-22T21:13:29.827Z'
+updated-on: "2021-04-21T20:04:59.005Z"
+created-on: "2021-04-21T20:04:59.005Z"
+published-on: "2021-04-22T21:13:29.827Z"
 f_is-this-a-featured-article: false
 f_is-this-a-developer-services-press-article: false
-layout: '[press-articles].html'
+layout: "[press-articles].html"
 tags: press-articles
 ---
-
-

@@ -5,11 +5,11 @@ f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77091
 f_square-footage: 2,360
-f_bathrooms: '3'
+f_bathrooms: "3"
 f_street-address: 4944 & 4948 Creekmont
 f_city: Houston
-title: 'Creekmont Homes '
-f_bedrooms: '4'
+title: "Creekmont Homes "
+f_bedrooms: "4"
 f_price-range: 429,990
 f_description: >-
   These luxurious new homes are beautifully located at 4944 & 4948 Creekmont dr,
@@ -45,11 +45,9 @@ f_featured-image:
 slug: creekmont-homes
 f_agent-2: cms/agents/geron-fuller.md
 f_builder: cms/builders/spring-w-homes.md
-updated-on: '2023-04-05T13:24:22.129Z'
-created-on: '2022-06-16T20:25:05.624Z'
-published-on: '2023-04-05T16:58:08.139Z'
-layout: '[new-homes].html'
+updated-on: "2023-04-05T13:24:22.129Z"
+created-on: "2022-06-16T20:25:05.624Z"
+published-on: "2023-04-05T16:58:08.139Z"
+layout: "[new-homes].html"
 tags: new-homes
 ---
-
-

@@ -6,11 +6,9 @@ f_image:
   url: https://development.nanproperties.com/assets/external/60a5823adb9aceabcda14cd3_img-1.jpeg
   alt: null
 slug: 5156-huckleberry-circle
-updated-on: '2021-05-19T21:25:14.517Z'
-created-on: '2021-05-19T21:25:14.517Z'
-published-on: '2021-05-19T22:05:47.033Z'
-layout: '[luxury-listings-page].html'
+updated-on: "2021-05-19T21:25:14.517Z"
+created-on: "2021-05-19T21:25:14.517Z"
+published-on: "2021-05-19T22:05:47.033Z"
+layout: "[luxury-listings-page].html"
 tags: luxury-listings-page
 ---
-
-

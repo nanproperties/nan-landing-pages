@@ -1,14 +1,14 @@
 ---
-f_estimated-sellout: '2025-03-01T00:00:00.000Z'
+f_estimated-sellout: "2025-03-01T00:00:00.000Z"
 f_website-link: https://www.tiaraonthebeach.com/
 f_total-units: 63
 f_developer: Satya Inc
 title: Tiara on the Beach
 f_location: 10327 San Luis Pass Road, Galveston 77554
 slug: tiara-on-the-beach
-updated-on: '2022-01-29T03:23:57.786Z'
-created-on: '2022-01-29T01:30:05.352Z'
-published-on: '2022-01-29T03:24:32.516Z'
+updated-on: "2022-01-29T03:23:57.786Z"
+created-on: "2022-01-29T01:30:05.352Z"
+published-on: "2022-01-29T03:24:32.516Z"
 f_development-image:
   url: >-
     https://development.nanproperties.com/assets/external/61f49a705cd71c0ffe01dfd6_2101920tiara20-203d20views2002.jpeg
@@ -18,7 +18,7 @@ f_development-logo:
   alt: null
 f_nan-url-link-slug: >-
   https://www.nanproperties.com/developer-services/our-properties/tiara-on-the-beach
-layout: '[developments].html'
+layout: "[developments].html"
 tags: developments
 ---
 

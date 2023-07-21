@@ -16,11 +16,9 @@ f_builder-logo:
   url: >-
     https://development.nanproperties.com/assets/external/6081e6bffdacf8493134a2eb_6077bf4757ddc41ee6daa451_60347211c64c9ashton-woods.png
   alt: null
-updated-on: '2021-04-22T21:12:31.702Z'
-created-on: '2021-04-22T21:12:31.702Z'
-published-on: '2021-04-22T21:13:29.827Z'
-layout: '[builders].html'
+updated-on: "2021-04-22T21:12:31.702Z"
+created-on: "2021-04-22T21:12:31.702Z"
+published-on: "2021-04-22T21:13:29.827Z"
+layout: "[builders].html"
 tags: builders
 ---
-
-

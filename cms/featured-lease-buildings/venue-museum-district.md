@@ -6,9 +6,9 @@ f_background-image:
   alt: null
 slug: venue-museum-district
 f_area: cms/leasing-areas/mid-town-montrose.md
-updated-on: '2022-03-25T17:48:31.354Z'
-created-on: '2022-01-08T00:50:38.075Z'
-published-on: '2022-03-25T17:54:33.348Z'
+updated-on: "2022-03-25T17:48:31.354Z"
+created-on: "2022-01-08T00:50:38.075Z"
+published-on: "2022-03-25T17:54:33.348Z"
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/623cf5e16fe4b964a4b02d41_62269337efb134.42036244423.jpg
@@ -32,8 +32,8 @@ f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/623cf5dfb1a21e62e36485f5_62269379477926.95795338143.jpg
     alt: null
 f_street-address: 5353 Fannin St
-f_zip-code: '77004'
-layout: '[featured-lease-buildings].html'
+f_zip-code: "77004"
+layout: "[featured-lease-buildings].html"
 tags: featured-lease-buildings
 ---
 

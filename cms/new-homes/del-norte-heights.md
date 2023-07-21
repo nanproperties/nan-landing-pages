@@ -1,6 +1,6 @@
 ---
 f_square-footage: 1,730 - 2,194
-f_bathrooms: '3'
+f_bathrooms: "3"
 f_development-headline: STARTING FROM THE $299'S
 f_city: Houston
 title: Del Norte Heights
@@ -34,16 +34,14 @@ f_image-gallery:
       https://development.nanproperties.com/assets/external/6081e6927857bb3f6a8c6dea_6077c8a17735842751f3d1fe_605b9c19eb53aimg-6.jpeg
     alt: null
 slug: del-norte-heights
-updated-on: '2023-02-06T14:05:33.986Z'
-created-on: '2021-04-22T21:11:46.985Z'
-published-on: '2023-02-07T15:50:21.090Z'
+updated-on: "2023-02-06T14:05:33.986Z"
+created-on: "2021-04-22T21:11:46.985Z"
+published-on: "2023-02-07T15:50:21.090Z"
 f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_builder: cms/builders/sbd-investment.md
 f_coming-soon: false
 f_is-this-a-55-community: false
-layout: '[new-homes].html'
+layout: "[new-homes].html"
 tags: new-homes
 ---
-
-

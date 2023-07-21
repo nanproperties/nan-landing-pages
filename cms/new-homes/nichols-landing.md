@@ -5,12 +5,12 @@ f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77020
 f_square-footage: 1,767
-f_bathrooms: '2.5'
+f_bathrooms: "2.5"
 f_street-address: 5007 Nichols St
 f_city: Houston
 title: Nichol's Landing
 f_neighborhood-if-different-than-city: ≈77020
-f_bedrooms: '3'
+f_bedrooms: "3"
 f_price-range: 285K
 f_description: >-
   This magnificent new community is beautifully located at 5007 + 5009 Nichol's
@@ -28,11 +28,9 @@ f_featured-image:
   alt: null
 f_builder: cms/builders/urbanlux.md
 f_agent-2: cms/agents/nikki-hohman.md
-updated-on: '2023-04-06T01:55:14.960Z'
-created-on: '2022-05-24T14:29:53.477Z'
-published-on: '2023-04-06T21:38:06.971Z'
-layout: '[new-homes].html'
+updated-on: "2023-04-06T01:55:14.960Z"
+created-on: "2022-05-24T14:29:53.477Z"
+published-on: "2023-04-06T21:38:06.971Z"
+layout: "[new-homes].html"
 tags: new-homes
 ---
-
-

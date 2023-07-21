@@ -6,9 +6,9 @@ f_background-image:
   url: https://development.nanproperties.com/assets/external/61d8dfd8d4110683277edac7_68746202.jpeg
   alt: null
 f_area: cms/leasing-areas/medical-center.md
-updated-on: '2022-03-28T17:32:35.564Z'
-created-on: '2022-01-08T00:50:32.613Z'
-published-on: '2022-03-28T17:37:31.387Z'
+updated-on: "2022-03-28T17:32:35.564Z"
+created-on: "2022-01-08T00:50:32.613Z"
+published-on: "2022-03-28T17:37:31.387Z"
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241f113151cce7c042064b2_68746243.jpeg
@@ -18,8 +18,8 @@ f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241f11289bc616cc8a8fed9_68746202.jpeg
     alt: null
 f_street-address: 7600 Kirby Dr
-f_zip-code: '77030'
-layout: '[featured-lease-buildings].html'
+f_zip-code: "77030"
+layout: "[featured-lease-buildings].html"
 tags: featured-lease-buildings
 ---
 

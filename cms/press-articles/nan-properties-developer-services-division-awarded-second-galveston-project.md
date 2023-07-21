@@ -15,11 +15,9 @@ f_image-or-screenshot-of-article:
   url: >-
     https://development.nanproperties.com/assets/external/61f4a3254b3fe33d7a1a88ce_screen20shot202022-01-2120at2010.17.26%20AM.png
   alt: null
-updated-on: '2022-01-29T02:15:05.147Z'
-created-on: '2022-01-29T02:15:05.147Z'
-published-on: '2022-01-29T02:19:28.834Z'
-layout: '[press-articles].html'
+updated-on: "2022-01-29T02:15:05.147Z"
+created-on: "2022-01-29T02:15:05.147Z"
+published-on: "2022-01-29T02:19:28.834Z"
+layout: "[press-articles].html"
 tags: press-articles
 ---
-
-

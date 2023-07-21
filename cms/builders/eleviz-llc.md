@@ -3,9 +3,9 @@ f_builder-slogan: Dream - Believe - Create
 f_other-project-1-title: 1343 Du Barry Lane
 title: ELEVIZ LLC
 slug: eleviz-llc
-updated-on: '2023-07-11T13:57:25.238Z'
-created-on: '2023-07-10T19:01:01.128Z'
-published-on: '2023-07-13T19:12:54.469Z'
+updated-on: "2023-07-11T13:57:25.238Z"
+created-on: "2023-07-10T19:01:01.128Z"
+published-on: "2023-07-13T19:12:54.469Z"
 f_builder-description: >-
   Corina’s personal and professional motto is “Dream, Believe, Create”. She
   operates her life and company from the core of dreaming boldly, believing in
@@ -31,7 +31,7 @@ f_builder-description: >-
   I’ve been involved with it my entire life, in one way or another. I have now
   decided to make my passion for building homes into my occupation and utilize
   my experience, expertise as an engineer, and everything I have learned to
-  fulfill this dream.” 
+  fulfill this dream.”
 f_builder-featured-image:
   url: https://development.nanproperties.com/assets/external/64ad5d29251e637b3f3afece_featured20image.jpeg
   alt: null
@@ -93,9 +93,7 @@ f_other-project-2-images:
     alt: null
   - url: https://development.nanproperties.com/assets/external/64ad5f84ff08de38f942a9bc_byrne.jpeg
     alt: null
-f_other-project-2-title: '951 Byrne St '
-layout: '[builders].html'
+f_other-project-2-title: "951 Byrne St "
+layout: "[builders].html"
 tags: builders
 ---
-
-

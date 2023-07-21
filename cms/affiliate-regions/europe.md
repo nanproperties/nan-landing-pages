@@ -14,12 +14,10 @@ f_featured-image:
     https://development.nanproperties.com/assets/external/6077cec92494748d931a4279_602f64ef85bf9content_global-properties-europe.jpeg
   alt: null
 slug: europe
-updated-on: '2021-06-03T01:55:01.603Z'
-created-on: '2021-04-15T05:27:37.871Z'
-published-on: '2021-06-03T02:16:28.066Z'
+updated-on: "2021-06-03T01:55:01.603Z"
+created-on: "2021-04-15T05:27:37.871Z"
+published-on: "2021-06-03T02:16:28.066Z"
 f_does-this-region-have-affiliates-we-are-featuring: false
-layout: '[affiliate-regions].html'
+layout: "[affiliate-regions].html"
 tags: affiliate-regions
 ---
-
-

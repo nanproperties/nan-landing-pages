@@ -4,11 +4,11 @@ f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77006
 f_square-footage: 2,644
-f_bathrooms: '3.5'
+f_bathrooms: "3.5"
 f_street-address: 1402 Missouri St
 f_city: Houston
 title: 1402 Missouri Project
-f_bedrooms: '3'
+f_bedrooms: "3"
 f_price-range: 715,000-740,000
 f_description: >
   1402 Missouri Project is a beautiful new construction community that is
@@ -70,12 +70,10 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/62fc0ba3dcdec396b4517ce7_dji_0203.jpg
     alt: null
-updated-on: '2022-12-13T16:08:54.843Z'
-created-on: '2021-08-11T15:34:02.879Z'
-published-on: '2022-12-13T22:30:49.780Z'
+updated-on: "2022-12-13T16:08:54.843Z"
+created-on: "2021-08-11T15:34:02.879Z"
+published-on: "2022-12-13T22:30:49.780Z"
 f_is-this-a-55-community: false
-layout: '[new-homes].html'
+layout: "[new-homes].html"
 tags: new-homes
 ---
-
-

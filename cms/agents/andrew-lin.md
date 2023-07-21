@@ -18,12 +18,10 @@ f_headshot:
     https://development.nanproperties.com/assets/external/6077c685703f551487a5e640_602605164909doptimized_c26ebf5403db1854cf6dde320deafcc7-1.jpeg
   alt: null
 slug: andrew-lin
-updated-on: '2021-04-15T04:53:41.560Z'
-created-on: '2021-04-15T04:52:21.387Z'
-published-on: '2021-04-22T21:13:29.827Z'
+updated-on: "2021-04-15T04:53:41.560Z"
+created-on: "2021-04-15T04:52:21.387Z"
+published-on: "2021-04-22T21:13:29.827Z"
 f_if-team-is-this-person-the-team-s-lead: false
-layout: '[agents].html'
+layout: "[agents].html"
 tags: agents
 ---
-
-

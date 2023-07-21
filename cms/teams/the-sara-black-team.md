@@ -8,10 +8,10 @@ f_secondary-team-image:
     https://development.nanproperties.com/assets/external/6296e2572969e62934b1f7e4_sara20black20clayton20simms20-20forth20and20nomad-3.jpeg
   alt: null
 slug: the-sara-black-team
-updated-on: '2022-06-01T03:51:56.623Z'
-created-on: '2022-06-01T03:51:56.623Z'
-published-on: '2022-06-01T03:59:42.943Z'
-layout: '[teams].html'
+updated-on: "2022-06-01T03:51:56.623Z"
+created-on: "2022-06-01T03:51:56.623Z"
+published-on: "2022-06-01T03:59:42.943Z"
+layout: "[teams].html"
 tags: teams
 ---
 

@@ -17,7 +17,7 @@ f_bio: >-
   within the city. When not with clients, she can be found at the Lake of Ozarks
   or volunteering with SCRUBS Young Supporters of the Harris County Hospital
   District Foundation. Specializing in luxury real estate, contact Jennifer
-  Perrin for all of your real estate needs. 
+  Perrin for all of your real estate needs.
 title: Jennifer Perrin
 f_title: Realtor Associate
 f_headshot:
@@ -26,11 +26,9 @@ f_headshot:
   alt: null
 slug: jennifer-perrin
 f_team: cms/teams/the-luanne-marshall-team.md
-updated-on: '2022-10-18T05:37:58.864Z'
-created-on: '2022-10-18T05:37:58.864Z'
-published-on: '2022-10-18T05:41:56.977Z'
-layout: '[agents].html'
+updated-on: "2022-10-18T05:37:58.864Z"
+created-on: "2022-10-18T05:37:58.864Z"
+published-on: "2022-10-18T05:41:56.977Z"
+layout: "[agents].html"
 tags: agents
 ---
-
-

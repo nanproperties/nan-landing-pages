@@ -6,9 +6,9 @@ f_background-image:
   url: https://development.nanproperties.com/assets/external/61d8dfd593c297847f5343c7_x1600.jpeg
   alt: null
 f_area: cms/leasing-areas/downtown.md
-updated-on: '2022-03-28T17:35:47.223Z'
-created-on: '2022-01-08T00:50:29.613Z'
-published-on: '2022-03-28T17:37:31.387Z'
+updated-on: "2022-03-28T17:35:47.223Z"
+created-on: "2022-01-08T00:50:29.613Z"
+published-on: "2022-03-28T17:37:31.387Z"
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241f1e5be5990c1e5455193_download201.jpg
@@ -18,8 +18,8 @@ f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241f1e69f2488e3d367a330_download.jpg
     alt: null
 f_street-address: 9330 Main St
-f_zip-code: '77025'
-layout: '[featured-lease-buildings].html'
+f_zip-code: "77025"
+layout: "[featured-lease-buildings].html"
 tags: featured-lease-buildings
 ---
 

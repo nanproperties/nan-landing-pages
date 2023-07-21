@@ -11,13 +11,11 @@ f_image-or-screenshot-of-article:
   url: >-
     https://development.nanproperties.com/assets/external/608085672000562b48110b41_screen_shot_2021-04-21_at_9.01.08_AM.png
   alt: null
-updated-on: '2021-04-21T20:04:55.394Z'
-created-on: '2021-04-21T20:04:55.394Z'
-published-on: '2021-04-22T21:13:29.827Z'
+updated-on: "2021-04-21T20:04:55.394Z"
+created-on: "2021-04-21T20:04:55.394Z"
+published-on: "2021-04-22T21:13:29.827Z"
 f_is-this-a-featured-article: false
 f_is-this-a-developer-services-press-article: false
-layout: '[press-articles].html'
+layout: "[press-articles].html"
 tags: press-articles
 ---
-
-

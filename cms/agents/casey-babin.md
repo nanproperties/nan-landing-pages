@@ -1,6 +1,6 @@
 ---
 f_email: casey@nanproperties.com
-f_instagram-handle: '@caseybabin_realtor '
+f_instagram-handle: "@caseybabin_realtor "
 f_cell-phone: 832-392-9104
 f_bio: >-
   Beyond being trustworthy and honest, you need someone who has the experience
@@ -33,12 +33,10 @@ slug: casey-babin
 f_headshot:
   url: https://development.nanproperties.com/assets/external/60fadf304d12cdb8b186d0cf_dsc_7012-1a20-20casey20babin.jpg
   alt: null
-updated-on: '2021-07-23T15:26:34.907Z'
-created-on: '2021-07-23T15:26:34.907Z'
-published-on: '2021-07-23T16:20:38.487Z'
+updated-on: "2021-07-23T15:26:34.907Z"
+created-on: "2021-07-23T15:26:34.907Z"
+published-on: "2021-07-23T16:20:38.487Z"
 f_if-team-is-this-person-the-team-s-lead: false
-layout: '[agents].html'
+layout: "[agents].html"
 tags: agents
 ---
-
-

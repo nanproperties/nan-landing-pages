@@ -6,9 +6,9 @@ f_background-image:
   url: https://development.nanproperties.com/assets/external/61d8dfd4961fe188cef5720e_content_aris-market-square.jpeg
   alt: null
 f_area: cms/leasing-areas/downtown.md
-updated-on: '2022-03-28T17:36:59.359Z'
-created-on: '2022-01-08T00:50:29.055Z'
-published-on: '2022-03-28T17:37:31.387Z'
+updated-on: "2022-03-28T17:36:59.359Z"
+created-on: "2022-01-08T00:50:29.055Z"
+published-on: "2022-03-28T17:37:31.387Z"
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241f2180adb06fe57528fe1_content_25.jpeg
@@ -18,8 +18,8 @@ f_gallery-images:
 f_street-address: 409 Travis St
 f_video-tour:
   url: https://www.youtube.com/watch?v=LQZoiif1wx0
-f_zip-code: '77002'
-layout: '[featured-lease-buildings].html'
+f_zip-code: "77002"
+layout: "[featured-lease-buildings].html"
 tags: featured-lease-buildings
 ---
 

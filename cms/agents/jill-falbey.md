@@ -32,7 +32,7 @@ f_bio: >-
   spent with her husband and three children at the Briar Club or at St. Anne’s
   Catholic Church, where they are parishioners. She enjoys volunteering for
   humanitarian causes, furthering her professional knowledge with continuing
-  education courses, reading, and traveling with her family. 
+  education courses, reading, and traveling with her family.
 title: Jill Falbey
 f_facebook-handle: https://m.facebook.com/jillfalbeycrnarealtor/
 f_linkedin-handle: https://www.linkedin.com/in/jill-davis-falbey
@@ -42,11 +42,9 @@ f_headshot:
   url: https://development.nanproperties.com/assets/external/634e3b40e58450d061927081_jill.jpeg
   alt: null
 f_team: cms/teams/the-luanne-marshall-team.md
-updated-on: '2022-10-18T05:36:32.475Z'
-created-on: '2022-10-18T05:36:32.475Z'
-published-on: '2022-10-18T05:41:56.977Z'
-layout: '[agents].html'
+updated-on: "2022-10-18T05:36:32.475Z"
+created-on: "2022-10-18T05:36:32.475Z"
+published-on: "2022-10-18T05:41:56.977Z"
+layout: "[agents].html"
 tags: agents
 ---
-
-

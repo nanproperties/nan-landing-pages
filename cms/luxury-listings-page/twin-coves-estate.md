@@ -6,11 +6,9 @@ slug: twin-coves-estate
 f_image:
   url: https://development.nanproperties.com/assets/external/60a584996a5be617c1207132_03.jpeg
   alt: null
-updated-on: '2021-06-01T00:25:50.011Z'
-created-on: '2021-05-19T21:35:22.072Z'
-published-on: '2021-06-01T00:26:06.671Z'
-layout: '[luxury-listings-page].html'
+updated-on: "2021-06-01T00:25:50.011Z"
+created-on: "2021-05-19T21:35:22.072Z"
+published-on: "2021-06-01T00:26:06.671Z"
+layout: "[luxury-listings-page].html"
 tags: luxury-listings-page
 ---
-
-

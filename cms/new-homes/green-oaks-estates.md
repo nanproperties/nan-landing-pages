@@ -12,10 +12,10 @@ f_featured-image:
   url: https://development.nanproperties.com/assets/external/6398a54309eabeefbc320102_rmm_2199-hdr.jpg
   alt: null
 slug: green-oaks-estates
-f_agent-2: cms/agents/thomas-eureste.md
-updated-on: '2022-12-13T16:16:06.143Z'
-created-on: '2021-07-20T13:55:04.436Z'
-published-on: '2022-12-13T22:30:49.780Z'
+f_agent-2: cms/agents/jose-nieto-2.md
+updated-on: "2023-07-20T17:45:23.722Z"
+created-on: "2021-07-20T13:55:04.436Z"
+published-on: "2023-07-21T22:24:16.481Z"
 f_builder: cms/builders/sbd-investment.md
 f_price-range: Starting in the 350's
 f_description: >
@@ -26,34 +26,35 @@ f_description: >
   these homes are thoughtfully designed and modern finishes all throughout. The
   ideal location of the community offers close proximity to inner city living
   and direct access to the 45 freeway.
-f_coming-soon: true
+f_coming-soon: false
 f_is-this-a-55-community: false
 f_image-gallery:
-  - url: https://development.nanproperties.com/assets/external/62fc0f92ed44b70e229546d8_dji_0053.jpg
+  - url: https://development.nanproperties.com/assets/external/64b9724420dcc2ab5f01139f_rmm_2040-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0f939ed83a242ad179f8_dji_0054.jpg
+  - url: https://development.nanproperties.com/assets/external/64b9724694cd549e6e10714b_rmm_2037-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0f94a1399e2da952ad4e_dji_0055.jpg
+  - url: https://development.nanproperties.com/assets/external/64b97247fd32c1107e5dc9a6_rmm_2025-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0f95be9794d91d4686d8_dji_0058.jpg
+  - url: https://development.nanproperties.com/assets/external/64b9724914944482a0f5433b_rmm_2010-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0f963ff3694265280328_dji_0061.jpg
+  - url: https://development.nanproperties.com/assets/external/64b9724b1d18e13c5cc7ec13_rmm_1971-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0faa898c4132a6f951d0_dji_0063.jpg
+  - url: https://development.nanproperties.com/assets/external/64b97270fb8f192a2ab5a2b8_rmm_2052-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0fac0905672807048548_dji_0064.jpg
+  - url: https://development.nanproperties.com/assets/external/64b972741d18e13c5cc8006a_rmm_2055-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0fad179b175a87bc7eac_dji_0065.jpg
+  - url: https://development.nanproperties.com/assets/external/64b9727514944482a0f56ee1_rmm_2058-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0fae90abf1324ac6cd15_dji_0066.jpg
+  - url: https://development.nanproperties.com/assets/external/64b9727694cd549e6e109c4c_rmm_2070-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0fafed44b75ea5955553_dji_0067.jpg
+  - url: https://development.nanproperties.com/assets/external/64b9727714944482a0f56fa2_rmm_2085-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0fc8090567942e048cb5_dji_0068.jpg
+  - url: https://development.nanproperties.com/assets/external/64b972a9cb64a83b630f9b1d_rmm_2133-hdr.jpg
     alt: null
-f_co-listing-agent: cms/agents/jason-nguyen.md
-layout: '[new-homes].html'
+  - url: https://development.nanproperties.com/assets/external/64b972aa2358acc4a7ef65ac_rmm_2130-hdr-2.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/64b972aae42f8ea9e918f619_rmm_2142-hdr.jpg
+    alt: null
+layout: "[new-homes].html"
 tags: new-homes
 ---
-
-

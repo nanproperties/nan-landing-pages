@@ -2249,18 +2249,6 @@ collections:
             label: Text
             name: 3cfe7c0
             widget: string
-          - hint: 'Original text: CURRENT, key: 6df74959'
-            label: Text
-            name: 6df74959
-            widget: string
-          - hint: "Original text: PAST\_DEVELOPMENTS, key: -495aab9a"
-            label: Text
-            name: '-495aab9a'
-            widget: string
-          - hint: "Original text: SOLD\_OUT, key: -7939ae9e"
-            label: Text
-            name: '-7939ae9e'
-            widget: string
           - hint: >-
               Original text: Find Stunning Properties Around The Globe., key:
               -7731017f
@@ -2303,6 +2291,18 @@ collections:
           - hint: "Original text: VISIT\_WEBSITE, key: 47b97206"
             label: Text
             name: 47b97206
+            widget: string
+          - hint: 'Original text: CURRENT, key: 6df74959'
+            label: Text
+            name: 6df74959
+            widget: string
+          - hint: "Original text: PAST\_DEVELOPMENTS, key: -495aab9a"
+            label: Text
+            name: '-495aab9a'
+            widget: string
+          - hint: "Original text: SOLD\_OUT, key: -7939ae9e"
+            label: Text
+            name: '-7939ae9e'
             widget: string
           - hint: "Original text: Press &\_Media, key: -835d433"
             label: Text
@@ -5979,14 +5979,6 @@ collections:
             label: Link
             name: 580a421f
             widget: string
-          - hint: 'Original link: /new-homes, key: 747771b8'
-            label: Link
-            name: 747771b8
-            widget: string
-          - hint: 'Original link: /new-homes-sold, key: -31cd0837'
-            label: Link
-            name: '-31cd0837'
-            widget: string
           - hint: >-
               Original link:
               https://www.nanproperties.com/global-properties/africa, key:
@@ -5997,6 +5989,14 @@ collections:
           - hint: 'Original link: https://www.christiesrealestate.com, key: -2d417c0f'
             label: Link
             name: '-2d417c0f'
+            widget: string
+          - hint: 'Original link: /new-homes, key: 747771b8'
+            label: Link
+            name: 747771b8
+            widget: string
+          - hint: 'Original link: /new-homes-sold, key: -31cd0837'
+            label: Link
+            name: '-31cd0837'
             widget: string
           - hint: >-
               Original link:
@@ -6315,9 +6315,9 @@ collections:
             label: Link
             name: 13858cdc
             widget: string
-          - hint: 'Original link: /about, key: 55b8e8be'
+          - hint: 'Original link: /about/, key: 61642f31'
             label: Link
-            name: 55b8e8be
+            name: 61642f31
             widget: string
           - hint: 'Original link: /christies, key: -5454f655'
             label: Link
@@ -6569,7 +6569,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 355215c
+            name: 49d35fc5
             widget: object
             fields:
               - name: url
@@ -6699,7 +6699,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-1407bd52'
+            name: df01cf0
             widget: object
             fields:
               - name: url
@@ -7102,7 +7102,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 6d34f1ee
+            name: '-5de73457'
             widget: object
             fields:
               - name: url
@@ -7167,7 +7167,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 317f733b
+            name: '-3cbca8bd'
             widget: object
             fields:
               - name: url
@@ -8479,56 +8479,5 @@ collections:
                 label: Image Alt
                 widget: string
                 required: false
-          - label: Image
-            name: 49d35fc5
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: df01cf0
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-5de73457'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3cbca8bd'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
+local_backend: true
 publish_mode: editorial_workflow

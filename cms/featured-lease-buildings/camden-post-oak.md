@@ -6,20 +6,20 @@ f_background-image:
   url: https://development.nanproperties.com/assets/external/61d8dfd68685b788280b0455_ak3_5935-hdr.jpeg
   alt: null
 f_area: cms/leasing-areas/galleria-river-oaks.md
-updated-on: '2022-03-28T17:33:55.592Z'
-created-on: '2022-01-08T00:50:30.531Z'
-published-on: '2022-03-28T17:37:31.387Z'
+updated-on: "2022-03-28T17:33:55.592Z"
+created-on: "2022-01-08T00:50:30.531Z"
+published-on: "2022-03-28T17:37:31.387Z"
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241f15ee2e397136bee5935_content_ak3_5980-hdr.jpeg
     alt: null
   - url: https://development.nanproperties.com/assets/external/6241f15ffa5c64550991ff91_ak3_6010-hdr.jpeg
     alt: null
-f_street-address: ' 1200 Post Oak Blvd'
+f_street-address: " 1200 Post Oak Blvd"
 f_video-tour:
   url: https://www.youtube.com/watch?v=XrQVOLkHQjI
-f_zip-code: '77056'
-layout: '[featured-lease-buildings].html'
+f_zip-code: "77056"
+layout: "[featured-lease-buildings].html"
 tags: featured-lease-buildings
 ---
 

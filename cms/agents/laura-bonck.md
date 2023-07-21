@@ -17,14 +17,12 @@ f_headshot:
     https://development.nanproperties.com/assets/external/6077c68857ddc4ed2cdac85b_6026050ed0796optimized_2e6090409903a8e2661e9d8644ffb095.jpeg
   alt: null
 slug: laura-bonck
-updated-on: '2022-05-04T23:10:28.012Z'
-created-on: '2021-04-15T04:52:25.102Z'
-published-on: '2022-05-04T23:24:04.510Z'
+updated-on: "2022-05-04T23:10:28.012Z"
+created-on: "2021-04-15T04:52:25.102Z"
+published-on: "2022-05-04T23:24:04.510Z"
 f_title: Realtor Associate
 f_team: cms/teams/the-laura-bonck-homes-team.md
 f_if-team-is-this-person-the-team-s-lead: true
-layout: '[agents].html'
+layout: "[agents].html"
 tags: agents
 ---
-
-

@@ -9,11 +9,9 @@ f_featured-image:
   alt: null
 slug: daria-drive
 f_agent: cms/agents/laura-bonck.md
-updated-on: '2021-04-15T05:09:49.577Z'
-created-on: '2021-04-15T05:09:49.577Z'
-published-on: '2021-04-22T21:13:29.827Z'
-layout: '[agent-featured-listings].html'
+updated-on: "2021-04-15T05:09:49.577Z"
+created-on: "2021-04-15T05:09:49.577Z"
+published-on: "2021-04-22T21:13:29.827Z"
+layout: "[agent-featured-listings].html"
 tags: agent-featured-listings
 ---
-
-

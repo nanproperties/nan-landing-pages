@@ -6,11 +6,9 @@ f_image:
   url: https://development.nanproperties.com/assets/external/60a5823f3bead4099842e25a_img-1.jpeg
   alt: null
 slug: 4718-jason-street
-updated-on: '2021-05-19T21:25:20.071Z'
-created-on: '2021-05-19T21:25:20.071Z'
-published-on: '2021-05-19T22:05:47.033Z'
-layout: '[luxury-listings-page].html'
+updated-on: "2021-05-19T21:25:20.071Z"
+created-on: "2021-05-19T21:25:20.071Z"
+published-on: "2021-05-19T22:05:47.033Z"
+layout: "[luxury-listings-page].html"
 tags: luxury-listings-page
 ---
-
-

@@ -6,9 +6,9 @@ f_background-image:
   alt: null
 slug: the-travis
 f_area: cms/leasing-areas/mid-town-montrose.md
-updated-on: '2022-03-28T17:26:48.615Z'
-created-on: '2022-01-08T00:50:39.272Z'
-published-on: '2022-03-28T17:37:31.387Z'
+updated-on: "2022-03-28T17:26:48.615Z"
+created-on: "2022-01-08T00:50:39.272Z"
+published-on: "2022-03-28T17:37:31.387Z"
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241efd6fa5c641d1891ef51_thetravis0430.jpeg
@@ -18,8 +18,8 @@ f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241efd6eb26666a2c400477_travis-pool-900x600-1.jpeg
     alt: null
 f_street-address: 3300 Main St
-f_zip-code: '77002'
-layout: '[featured-lease-buildings].html'
+f_zip-code: "77002"
+layout: "[featured-lease-buildings].html"
 tags: featured-lease-buildings
 ---
 

@@ -1,13 +1,13 @@
 ---
 f_email: laura.gerardi@nanproperties.com
-f_instagram-handle: '@laura.gerardi.realtormom'
-f_cell-phone: 'C: 832.549.3971'
+f_instagram-handle: "@laura.gerardi.realtormom"
+f_cell-phone: "C: 832.549.3971"
 title: Laura Gerardi
 f_title: Realtor Associate
 slug: laura-gerardi
-updated-on: '2022-10-18T05:40:33.935Z'
-created-on: '2022-01-13T23:43:40.169Z'
-published-on: '2022-10-18T05:41:56.977Z'
+updated-on: "2022-10-18T05:40:33.935Z"
+created-on: "2022-01-13T23:43:40.169Z"
+published-on: "2022-10-18T05:41:56.977Z"
 f_if-team-is-this-person-the-team-s-lead: false
 f_team: cms/teams/the-luanne-marshall-team.md
 f_bio: >-
@@ -33,13 +33,11 @@ f_bio: >-
   neighborhood in Bunker Hill Village. Laura specializes in the Galleria and
   Memorial areas but provides her clients with exceptional service at an
   elevated level all over Houston. For a meticulous, hardworking agent you can
-  trust, call Laura Gerardi today. 
+  trust, call Laura Gerardi today.
 f_headshot:
   url: https://development.nanproperties.com/assets/external/634e3c3f4575180c55dac234_laurag.jpeg
   alt: null
 f_website: https://www.nanproperties.com/agents/88806-laura-gerardi
-layout: '[agents].html'
+layout: "[agents].html"
 tags: agents
 ---
-
-

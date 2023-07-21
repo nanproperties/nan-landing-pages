@@ -35,11 +35,9 @@ slug: ana-salazar
 f_headshot:
   url: https://development.nanproperties.com/assets/external/640646cb2cd2af6e37e3ea9e_ana.webp
   alt: null
-updated-on: '2023-03-06T20:02:21.500Z'
-created-on: '2023-03-06T20:02:21.500Z'
-published-on: '2023-03-06T23:03:12.587Z'
-layout: '[agents].html'
+updated-on: "2023-03-06T20:02:21.500Z"
+created-on: "2023-03-06T20:02:21.500Z"
+published-on: "2023-03-06T23:03:12.587Z"
+layout: "[agents].html"
 tags: agents
 ---
-
-

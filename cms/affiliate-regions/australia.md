@@ -12,12 +12,10 @@ f_featured-image:
     https://development.nanproperties.com/assets/external/6077cec802c7ef0ecdfe86af_602f64f101cbbcontent_global-properties-australia.jpeg
   alt: null
 slug: australia
-updated-on: '2021-06-03T01:55:05.547Z'
-created-on: '2021-04-15T05:27:37.001Z'
-published-on: '2021-06-03T02:16:28.066Z'
+updated-on: "2021-06-03T01:55:05.547Z"
+created-on: "2021-04-15T05:27:37.001Z"
+published-on: "2021-06-03T02:16:28.066Z"
 f_does-this-region-have-affiliates-we-are-featuring: false
-layout: '[affiliate-regions].html'
+layout: "[affiliate-regions].html"
 tags: affiliate-regions
 ---
-
-

@@ -118,11 +118,9 @@ slug: ty-robinson
 f_headshot:
   url: https://development.nanproperties.com/assets/external/6418f5ede20992d5f420c765_img_1766.JPG
   alt: null
-updated-on: '2023-03-21T00:10:25.567Z'
-created-on: '2023-03-21T00:10:25.567Z'
-published-on: '2023-04-03T19:38:08.116Z'
-layout: '[agents].html'
+updated-on: "2023-03-21T00:10:25.567Z"
+created-on: "2023-03-21T00:10:25.567Z"
+published-on: "2023-04-03T19:38:08.116Z"
+layout: "[agents].html"
 tags: agents
 ---
-
-

@@ -4,18 +4,18 @@ f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77027
-f_square-footage: '3,612 '
-f_bathrooms: '3.5'
+f_square-footage: "3,612 "
+f_bathrooms: "3.5"
 f_street-address: 29 River Hollow Ln
 f_city: Houston
 title: 29 River Hollow Ln
-f_bedrooms: '3'
+f_bedrooms: "3"
 slug: 29-river-hollow-ln
 f_agent-2: cms/agents/ty-robinson.md
 f_builder: cms/builders/gilliard-homes.md
-updated-on: '2023-05-22T18:07:03.970Z'
-created-on: '2023-03-21T13:04:39.385Z'
-published-on: '2023-05-22T18:07:52.919Z'
+updated-on: "2023-05-22T18:07:03.970Z"
+created-on: "2023-03-21T13:04:39.385Z"
+published-on: "2023-05-22T18:07:52.919Z"
 f_development-youtube-video-id: https://www.youtube.com/watch?v=ScZv-NU3l_k
 f_matterport-url: https://my.matterport.com/show/?m=t6GTN2Vudfy
 f_featured-image:
@@ -66,8 +66,6 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/642b22683e91c79bb3e5e9b8_dsc00370-hdr.JPG
     alt: null
-layout: '[new-homes].html'
+layout: "[new-homes].html"
 tags: new-homes
 ---
-
-

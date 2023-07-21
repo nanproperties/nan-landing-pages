@@ -17,11 +17,9 @@ slug: highgate-ventures
 f_builder-logo:
   url: https://development.nanproperties.com/assets/external/6113e8baa1a68fc1cef4abec_highgate-ventures-logo-final.png
   alt: null
-updated-on: '2021-08-11T15:11:58.761Z'
-created-on: '2021-08-11T15:11:58.761Z'
-published-on: '2021-08-11T15:11:58.761Z'
-layout: '[builders].html'
+updated-on: "2021-08-11T15:11:58.761Z"
+created-on: "2021-08-11T15:11:58.761Z"
+published-on: "2021-08-11T15:11:58.761Z"
+layout: "[builders].html"
 tags: builders
 ---
-
-

@@ -5,7 +5,7 @@ f_square-footage: 3,530-3,619
 f_bathrooms: 2-4
 f_street-address: 3302 Lockridge Harbor Lane
 f_city: Kingwood
-title: 'Kingwood Royal Brook '
+title: "Kingwood Royal Brook "
 f_bedrooms: 3-4
 f_price-range: 635,000-700,000
 f_description: >-
@@ -46,14 +46,12 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/60e5f5aa5e043b41dc347150_dsc03195a201.jpg
     alt: null
-updated-on: '2021-07-07T19:46:27.905Z'
-created-on: '2021-07-07T18:52:59.372Z'
-published-on: '2021-07-07T19:46:59.054Z'
+updated-on: "2021-07-07T19:46:27.905Z"
+created-on: "2021-07-07T18:52:59.372Z"
+published-on: "2021-07-07T19:46:59.054Z"
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_coming-soon: false
 f_is-this-a-55-community: false
-layout: '[new-homes].html'
+layout: "[new-homes].html"
 tags: new-homes
 ---
-
-
