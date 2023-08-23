@@ -10,7 +10,7 @@ f_country-2: Czech Republic
 slug: svoboda-williams
 f_affiliate-logo-2:
   url: >-
-    https://development.nanproperties.com/assets//external/60b817a078eed0255ef8db7e_6081e58b7418b3d435d6b14c_60785a401a72316c0c8028c6_content_svobodawilliams-jpeg.jpeg
+    https://development.nanproperties.com/assets/external/60b817a078eed0255ef8db7e_6081e58b7418b3d435d6b14c_60785a401a72316c0c8028c6_content_svobodawilliams-jpeg.jpeg
   alt: null
 f_region-2: cms/affiliate-regions/europe.md
 updated-on: '2021-06-02T23:43:29.055Z'

@@ -15,7 +15,7 @@ created-on: '2023-08-23T00:54:48.736Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets//external/64e55a1205ae6690d2947887_new-homes-community-grand-oaks-cove.webp
+    https://development.nanproperties.com/assets/external/64e55a1205ae6690d2947887_new-homes-community-grand-oaks-cove.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

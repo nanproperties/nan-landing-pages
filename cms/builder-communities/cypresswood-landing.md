@@ -15,7 +15,7 @@ created-on: '2023-08-23T00:54:48.276Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets//external/64e558f0e01dccf88be00f60_new-homes-community-winfield-lakes.webp
+    https://development.nanproperties.com/assets/external/64e558f0e01dccf88be00f60_new-homes-community-winfield-lakes.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

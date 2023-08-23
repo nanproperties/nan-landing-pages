@@ -12,32 +12,32 @@ title: Enclave at Dobbins
 f_bedrooms: 3-5
 f_price-range: 200K
 f_featured-image:
-  url: https://development.nanproperties.com/assets//external/6406590cc4a34e0b777c2fdd_2562120aster20trail-72201.jpg
+  url: https://development.nanproperties.com/assets/external/6406590cc4a34e0b777c2fdd_2562120aster20trail-72201.jpg
   alt: null
 f_image-gallery:
-  - url: https://development.nanproperties.com/assets//external/640658e2bf356f47aa27e7e6_994120glenbrook20ln-1201.jpg
+  - url: https://development.nanproperties.com/assets/external/640658e2bf356f47aa27e7e6_994120glenbrook20ln-1201.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/640659153f1a242ba4289e33_995320tammy20ln-1201201.jpg
+  - url: https://development.nanproperties.com/assets/external/640659153f1a242ba4289e33_995320tammy20ln-1201201.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64065918c4a34e38017c4785_995720tammy20ln-1201.jpg
+  - url: https://development.nanproperties.com/assets/external/64065918c4a34e38017c4785_995720tammy20ln-1201.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/640659a67134116e2ff7fe56_995320tammy20ln-63201.jpg
+  - url: https://development.nanproperties.com/assets/external/640659a67134116e2ff7fe56_995320tammy20ln-63201.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/640659a7bb16ac377055f497_2562120aster20trail-69201.jpg
+  - url: https://development.nanproperties.com/assets/external/640659a7bb16ac377055f497_2562120aster20trail-69201.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/640659a9b504511ac61fa615_995320tammy20ln-24201.jpg
+  - url: https://development.nanproperties.com/assets/external/640659a9b504511ac61fa615_995320tammy20ln-24201.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/640659b0359caf4e7ded25e0_994120glenbrook20ln-45201201.jpg
+  - url: https://development.nanproperties.com/assets/external/640659b0359caf4e7ded25e0_994120glenbrook20ln-45201201.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64065a6305913de548c0e8c3_995320tammy20ln-42201.jpg
+  - url: https://development.nanproperties.com/assets/external/64065a6305913de548c0e8c3_995320tammy20ln-42201.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64065a6371341181e3f90500_2562120aster20trail-24201.jpg
+  - url: https://development.nanproperties.com/assets/external/64065a6371341181e3f90500_2562120aster20trail-24201.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64065a647134113100f90619_995320tammy20ln-48201.jpg
+  - url: https://development.nanproperties.com/assets/external/64065a647134113100f90619_995320tammy20ln-48201.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64065a66918cb9939cd02d3f_2562120aster20trail-30201.jpg
+  - url: https://development.nanproperties.com/assets/external/64065a66918cb9939cd02d3f_2562120aster20trail-30201.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64065a67252887883a29323f_995720tammy20ln-70201.jpg
+  - url: https://development.nanproperties.com/assets/external/64065a67252887883a29323f_995720tammy20ln-70201.jpg
     alt: null
 slug: enclave-at-dobbins
 f_builder: cms/builders/saratoga-homes.md

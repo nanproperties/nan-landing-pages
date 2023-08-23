@@ -8,7 +8,7 @@ f_media-outlet-excerpt: >-
 title: Mansion in The Woodlands with Three Story Closet Back on The Market
 f_image-or-screenshot-of-article:
   url: >-
-    https://development.nanproperties.com/assets//external/608085685c773aeb08f72d25_screen_shot_2021-04-21_at_9.03.53_AM.png
+    https://development.nanproperties.com/assets/external/608085685c773aeb08f72d25_screen_shot_2021-04-21_at_9.03.53_AM.png
   alt: null
 slug: mansion-in-the-woodlands-with-three-story-closet-back-on-the-market
 updated-on: '2021-04-21T20:04:56.610Z'

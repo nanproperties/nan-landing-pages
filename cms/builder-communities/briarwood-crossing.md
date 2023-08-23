@@ -15,7 +15,7 @@ created-on: '2023-08-23T00:54:47.874Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets//external/64e55975999442a59d2d5691_new-homes-community-briarwood-crossing.webp
+    https://development.nanproperties.com/assets/external/64e55975999442a59d2d5691_new-homes-community-briarwood-crossing.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

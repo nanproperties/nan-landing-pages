@@ -10,7 +10,7 @@ f_country-2: United States
 f_zip-code-2: '83340'
 f_affiliate-logo-2:
   url: >-
-    https://development.nanproperties.com/assets//external/60b8178e7d4cb1e67906964e_6081e58a265b0971d9866d7f_60785a606b225e19e1cf7318_content_svre_christies_square.png
+    https://development.nanproperties.com/assets/external/60b8178e7d4cb1e67906964e_6081e58a265b0971d9866d7f_60785a606b225e19e1cf7318_content_svre_christies_square.png
   alt: null
 slug: sun-valley-real-estate-llc
 f_region-2: cms/affiliate-regions/north-central-america.md

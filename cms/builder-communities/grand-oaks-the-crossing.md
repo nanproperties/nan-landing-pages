@@ -15,7 +15,7 @@ created-on: '2023-08-23T00:54:48.933Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets//external/64e55a1dc3c8c335efc2a0e6_new-homes-community-grand-oaks-crossing.webp
+    https://development.nanproperties.com/assets/external/64e55a1dc3c8c335efc2a0e6_new-homes-community-grand-oaks-crossing.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

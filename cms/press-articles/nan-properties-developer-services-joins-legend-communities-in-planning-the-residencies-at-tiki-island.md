@@ -17,7 +17,7 @@ slug: >-
   nan-properties-developer-services-joins-legend-communities-in-planning-the-residencies-at-tiki-island
 f_image-or-screenshot-of-article:
   url: >-
-    https://development.nanproperties.com/assets//external/61f4a24029b9f3813e39faa2_screen20shot202022-01-2120at2010.09.05%20AM.png
+    https://development.nanproperties.com/assets/external/61f4a24029b9f3813e39faa2_screen20shot202022-01-2120at2010.09.05%20AM.png
   alt: null
 updated-on: '2022-01-29T02:11:25.261Z'
 created-on: '2022-01-29T02:11:21.007Z'

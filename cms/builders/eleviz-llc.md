@@ -33,65 +33,65 @@ f_builder-description: >-
   my experience, expertise as an engineer, and everything I have learned to
   fulfill this dream.” 
 f_builder-featured-image:
-  url: https://development.nanproperties.com/assets//external/64ad5d29251e637b3f3afece_featured20image.jpeg
+  url: https://development.nanproperties.com/assets/external/64ad5d29251e637b3f3afece_featured20image.jpeg
   alt: null
 f_other-project-1-images:
-  - url: https://development.nanproperties.com/assets//external/64ad5d57b5f31b531b3d416a_134320duberry.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5d57b5f31b531b3d416a_134320duberry.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5d8dbf92be38d7714305_img-21.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5d8dbf92be38d7714305_img-21.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5d8d23f65009ccf38ae0_dube.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5d8d23f65009ccf38ae0_dube.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5d8de750561321cd2589_dub.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5d8de750561321cd2589_dub.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5dcae750561321cd50fa_kilhdbfc.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5dcae750561321cd50fa_kilhdbfc.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5dcae750561321cd510c_office.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5dcae750561321cd510c_office.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5dcae750561321cd50eb_lr.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5dcae750561321cd50eb_lr.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5e196d27119ca2610282_vlanvjf.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5e196d27119ca2610282_vlanvjf.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5e194fde4468bbf3f9c2_duinfrdv.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5e194fde4468bbf3f9c2_duinfrdv.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5e19db501ad5dac4a75d_duberyy.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5e19db501ad5dac4a75d_duberyy.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5e1aff49a85bfb35c8e3_duberyyy.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5e1aff49a85bfb35c8e3_duberyyy.jpeg
     alt: null
 f_other-project-2-images:
-  - url: https://development.nanproperties.com/assets//external/64ad5f7ebe1df5d46ba94d9d_by17.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7ebe1df5d46ba94d9d_by17.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7f85c622c63b1faf92_bye14.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7f85c622c63b1faf92_bye14.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7ed74561e789f19dfa_by13.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7ed74561e789f19dfa_by13.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7ebe1df5d46ba94d8e_byn12.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7ebe1df5d46ba94d8e_byn12.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7ee77dee008f97544b_by12.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7ee77dee008f97544b_by12.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7e7ca57b49e26a0672_by11.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7e7ca57b49e26a0672_by11.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7ec2f2b17282e28468_nyrne10.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7ec2f2b17282e28468_nyrne10.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7ec2f2b17282e28448_byn9.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7ec2f2b17282e28448_byn9.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7ef078ec94d6556f9c_bun8.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7ef078ec94d6556f9c_bun8.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7ee77dee008f97543c_byrn7.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7ee77dee008f97543c_byrn7.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7e585923fae3a8d903_byen6.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7e585923fae3a8d903_byen6.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7ed74561e789f19e1f_byrne5.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7ed74561e789f19e1f_byrne5.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7e585923fae3a8d8e1_byrne204.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7e585923fae3a8d8e1_byrne204.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7e0881a860ba06088b_byrne203.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7e0881a860ba06088b_byrne203.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7ee77dee008f97545a_byrne202.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7ee77dee008f97545a_byrne202.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f7e585923fae3a8d8c1_byrne201.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f7e585923fae3a8d8c1_byrne201.jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/64ad5f84ff08de38f942a9bc_byrne.jpeg
+  - url: https://development.nanproperties.com/assets/external/64ad5f84ff08de38f942a9bc_byrne.jpeg
     alt: null
 f_other-project-2-title: '951 Byrne St '
 layout: '[builders].html'

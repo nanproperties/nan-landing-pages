@@ -10,7 +10,7 @@ f_zip-code-2: '10120'
 slug: richmonts-luxury-real-estate
 f_affiliate-logo-2:
   url: >-
-    https://development.nanproperties.com/assets//external/60b8177362c7ec14b0ff17e5_6081e58507a62de1d85d86d2_60785a515dcdb3cd0893c382_richmont_s___christie_s_logo.jpeg
+    https://development.nanproperties.com/assets/external/60b8177362c7ec14b0ff17e5_6081e58507a62de1d85d86d2_60785a515dcdb3cd0893c382_richmont_s___christie_s_logo.jpeg
   alt: null
 f_region-2: cms/affiliate-regions/asia.md
 updated-on: '2021-06-03T02:16:13.284Z'

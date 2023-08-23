@@ -9,7 +9,7 @@ f_media-outlet-excerpt: >-
 title: Are McMansions Back? Pandemic Spurs Renewed Interest in Big homes
 f_image-or-screenshot-of-article:
   url: >-
-    https://development.nanproperties.com/assets//external/60808570068c6e056e1f1d11_screen_shot_2021-04-21_at_11.07.55_AM.png
+    https://development.nanproperties.com/assets/external/60808570068c6e056e1f1d11_screen_shot_2021-04-21_at_11.07.55_AM.png
   alt: null
 slug: are-mcmansions-back-pandemic-spurs-renewed-interest-in-big-homes
 updated-on: '2021-04-21T20:05:05.462Z'

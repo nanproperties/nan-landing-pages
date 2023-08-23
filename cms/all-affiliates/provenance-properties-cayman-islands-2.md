@@ -10,7 +10,7 @@ f_country-2: Cayman Islands
 f_zip-code-2: KY1-9008
 f_affiliate-logo-2:
   url: >-
-    https://development.nanproperties.com/assets//external/60b81774013d68a756b1e1cf_6077d8557a4adf471f5f6c31_603310d819fa8content_ppci_colour_rgb-1.jpeg
+    https://development.nanproperties.com/assets/external/60b81774013d68a756b1e1cf_6077d8557a4adf471f5f6c31_603310d819fa8content_ppci_colour_rgb-1.jpeg
   alt: null
 slug: provenance-properties-cayman-islands-2
 f_region-2: cms/affiliate-regions/north-central-america.md

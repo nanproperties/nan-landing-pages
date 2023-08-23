@@ -4956,6 +4956,10 @@ a {
   padding: 1rem;
 }
 
+.link-block-2 {
+  padding-bottom: 1rem;
+}
+
 @media screen and (max-width: 991px) {
   .h2.mx-page-h2 {
     text-align: center;

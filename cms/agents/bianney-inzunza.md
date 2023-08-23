@@ -8,7 +8,7 @@ title: Bianney Inzunza
 f_title: Realtor Associate
 slug: bianney-inzunza
 f_headshot:
-  url: https://development.nanproperties.com/assets//external/634e3bf73dc376ee15c6dc12_bianey.jpeg
+  url: https://development.nanproperties.com/assets/external/634e3bf73dc376ee15c6dc12_bianey.jpeg
   alt: null
 f_team: cms/teams/the-luanne-marshall-team.md
 updated-on: '2022-10-18T05:39:27.276Z'

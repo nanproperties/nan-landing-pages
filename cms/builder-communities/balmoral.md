@@ -16,7 +16,7 @@ created-on: '2023-08-23T00:54:47.365Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets//external/64e55916c3c8c335efc19914_new-homes-community-balmoral-humble-tx.webp
+    https://development.nanproperties.com/assets/external/64e55916c3c8c335efc19914_new-homes-community-balmoral-humble-tx.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

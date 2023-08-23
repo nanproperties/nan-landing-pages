@@ -22,17 +22,17 @@ f_description: >-
 slug: chenevert-manor
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets//external/6081e68f1637e7b0062244ad_6077c89dd41ef97f83ee83b6_img-41.jpeg
+    https://development.nanproperties.com/assets/external/6081e68f1637e7b0062244ad_6077c89dd41ef97f83ee83b6_img-41.jpeg
   alt: null
 f_image-gallery:
   - url: >-
-      https://development.nanproperties.com/assets//external/6081e68f1637e70fc22244ab_6077c89dd41ef95c9aee83b7_605b9e281c81fimg-9.jpeg
+      https://development.nanproperties.com/assets/external/6081e68f1637e70fc22244ab_6077c89dd41ef95c9aee83b7_605b9e281c81fimg-9.jpeg
     alt: null
   - url: >-
-      https://development.nanproperties.com/assets//external/6081e68f1637e750532244ac_6077c89dd41ef9b4e3ee83b8_605b9e3c3d621img-1-2.jpeg
+      https://development.nanproperties.com/assets/external/6081e68f1637e750532244ac_6077c89dd41ef9b4e3ee83b8_605b9e3c3d621img-1-2.jpeg
     alt: null
   - url: >-
-      https://development.nanproperties.com/assets//external/6081e6901637e767192244ae_6077c89dd41ef966ceee83b5_605b9e1f151b1img-3-1.jpeg
+      https://development.nanproperties.com/assets/external/6081e6901637e767192244ae_6077c89dd41ef966ceee83b5_605b9e1f151b1img-3-1.jpeg
     alt: null
 f_agent-2: cms/agents/thomas-eureste.md
 updated-on: '2023-02-06T14:10:02.832Z'

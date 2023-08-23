@@ -11,7 +11,7 @@ f_zip-code-2: M4T 1X3
 slug: chestnut-park-real-estate-limited-brokerage-toronto
 f_affiliate-logo-2:
   url: >-
-    https://development.nanproperties.com/assets//external/60b8179c132f4d0b38fc8d5e_6081e5611637e728f9223df1_60785a39067b791c1334f1da_stacked_green__1_.png
+    https://development.nanproperties.com/assets/external/60b8179c132f4d0b38fc8d5e_6081e5611637e728f9223df1_60785a39067b791c1334f1da_stacked_green__1_.png
   alt: null
 f_region-2: cms/affiliate-regions/north-central-america.md
 updated-on: '2021-06-02T23:43:24.154Z'

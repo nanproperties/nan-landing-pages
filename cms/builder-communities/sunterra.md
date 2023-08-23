@@ -14,7 +14,7 @@ updated-on: '2023-08-23T01:01:34.344Z'
 created-on: '2023-08-23T00:54:49.498Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
-  url: https://development.nanproperties.com/assets//external/64e55a6a4b454c5ceae138c0_new-homes-community-sunterra.webp
+  url: https://development.nanproperties.com/assets/external/64e55a6a4b454c5ceae138c0_new-homes-community-sunterra.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

@@ -3,7 +3,7 @@ title: 'Long Lake '
 slug: long-lake
 f_builder-logo:
   url: >-
-    https://development.nanproperties.com/assets//external/649ca17012ae3cd835fd9272_25th20anniversary-long20lake20logo.jpg
+    https://development.nanproperties.com/assets/external/649ca17012ae3cd835fd9272_25th20anniversary-long20lake20logo.jpg
   alt: null
 updated-on: '2023-08-23T02:57:32.177Z'
 created-on: '2023-06-28T21:09:05.918Z'
@@ -21,7 +21,7 @@ f_builder-description: >-
   with your needs and budget.
 f_builder-featured-image:
   url: >-
-    https://development.nanproperties.com/assets//external/64e54ed77843fd352fec5c72_new-homes-houston-tx-long-lake20copy.jpeg
+    https://development.nanproperties.com/assets/external/64e54ed77843fd352fec5c72_new-homes-houston-tx-long-lake20copy.jpeg
   alt: null
 f_builder-slogan: One Step Closer To Home
 f_associated-agent-team: cms/agents/the-omg-team.md

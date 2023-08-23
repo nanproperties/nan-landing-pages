@@ -8,15 +8,15 @@ created-on: '2022-01-17T21:11:24.077Z'
 published-on: '2022-03-28T17:37:31.387Z'
 f_background-image:
   url: >-
-    https://development.nanproperties.com/assets//external/61e5dff1928df1b946c09656_1-camden-highland-village-apartments.jpeg
+    https://development.nanproperties.com/assets/external/61e5dff1928df1b946c09656_1-camden-highland-village-apartments.jpeg
   alt: null
 f_city: Houston
 f_gallery-images:
-  - url: https://development.nanproperties.com/assets//external/6241ee62fa5c64ac5a91eaf7_1-camden-highland-village-.jpg
+  - url: https://development.nanproperties.com/assets/external/6241ee62fa5c64ac5a91eaf7_1-camden-highland-village-.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/6241ee624e06b12e41c58732_3-camden-highland-village-2.jpg
+  - url: https://development.nanproperties.com/assets/external/6241ee624e06b12e41c58732_3-camden-highland-village-2.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets//external/6241ee62fe700a08dec5184b_22-camden-highland-village-3.jpg
+  - url: https://development.nanproperties.com/assets/external/6241ee62fe700a08dec5184b_22-camden-highland-village-3.jpg
     alt: null
 f_street-address: 3939 W Alabama St
 f_zip-code: '77027'

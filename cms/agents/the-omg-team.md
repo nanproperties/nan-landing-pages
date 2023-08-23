@@ -2,7 +2,7 @@
 f_email: olga.garza@nanproperties.com
 f_if-team-is-this-person-the-team-s-lead: true
 f_instagram-handle: theomgrealtor
-f_cell-phone: 346.777.8228
+f_cell-phone: 281.780.8610
 f_bio: >-
 
   As a native Houstonian, Olga Martinez-Garza is a seasoned residential agent
@@ -38,11 +38,11 @@ f_facebook-handle: Olga M. Garza
 f_title: Realtor Associate
 slug: the-omg-team
 f_headshot:
-  url: https://development.nanproperties.com/assets//external/649c9ce5ce683228f70765b6_dsc01987201.jpg
+  url: https://development.nanproperties.com/assets/external/649c9ce5ce683228f70765b6_dsc01987201.jpg
   alt: null
-updated-on: '2023-08-23T03:14:45.287Z'
+updated-on: '2023-08-23T03:33:17.628Z'
 created-on: '2023-06-28T21:07:43.158Z'
-published-on: '2023-08-23T03:17:11.196Z'
+published-on: '2023-08-23T03:33:25.930Z'
 f_shortened-bio: >-
   The O.M.G. Team, led by Olga Martinez-Garza and Eddie Garza, offers expert
   real estate services, specializing in new construction homes. With years of
