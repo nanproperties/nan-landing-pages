@@ -36,7 +36,7 @@ title: Clarissa Woodward
 f_title: Realtor Associate
 f_headshot:
   url: >-
-    https://development.nanproperties.com/assets/external/649afdd0bcb6147daa087602_woodward2c20clarissa_primary202.jpg
+    https://development.nanproperties.com/assets//external/649afdd0bcb6147daa087602_woodward2c20clarissa_primary202.jpg
   alt: null
 slug: clarissa-woodward
 updated-on: '2023-06-27T15:22:37.100Z'

@@ -15,7 +15,7 @@ created-on: '2023-08-23T00:54:47.424Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets/external/64e5594b762a42faec50205e_new-homes-community-bradbury-forest.webp
+    https://development.nanproperties.com/assets//external/64e5594b762a42faec50205e_new-homes-community-bradbury-forest.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

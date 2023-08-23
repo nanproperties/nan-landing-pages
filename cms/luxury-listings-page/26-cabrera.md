@@ -4,7 +4,7 @@ f_url: >-
 f_types: Waterfront
 title: 26 Cabrera
 f_image:
-  url: https://development.nanproperties.com/assets/external/60b57b23ddecb02e5c3a8db5_cropped0.png
+  url: https://development.nanproperties.com/assets//external/60b57b23ddecb02e5c3a8db5_cropped0.png
   alt: null
 slug: 26-cabrera
 updated-on: '2021-06-01T00:11:15.636Z'

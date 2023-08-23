@@ -15,7 +15,7 @@ created-on: '2023-08-23T00:54:48.076Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets/external/64e559aa9605183a5d667ce5_new-homes-community-eagle-landing.webp
+    https://development.nanproperties.com/assets//external/64e559aa9605183a5d667ce5_new-homes-community-eagle-landing.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

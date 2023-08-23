@@ -9,7 +9,7 @@ title: '"Be Different" Campaign Launched by Houston''s Nan and Company Propertie
 slug: be-different-campaign-launched-by-houstons-nan-and-company-properties
 f_image-or-screenshot-of-article:
   url: >-
-    https://development.nanproperties.com/assets/external/608085672000562b48110b41_screen_shot_2021-04-21_at_9.01.08_AM.png
+    https://development.nanproperties.com/assets//external/608085672000562b48110b41_screen_shot_2021-04-21_at_9.01.08_AM.png
   alt: null
 updated-on: '2021-04-21T20:04:55.394Z'
 created-on: '2021-04-21T20:04:55.394Z'

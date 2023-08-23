@@ -15,7 +15,7 @@ created-on: '2023-08-23T00:54:48.381Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets/external/64e559d6c3c8c335efc256e7_new-homes-community-edgewood-village.webp
+    https://development.nanproperties.com/assets//external/64e559d6c3c8c335efc256e7_new-homes-community-edgewood-village.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

@@ -14,7 +14,7 @@ updated-on: '2023-08-23T00:55:33.077Z'
 created-on: '2023-08-23T00:54:49.799Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/64e55901fc2afbe781412e2f_new-homes-community-vanbrooke.webp
+  url: https://development.nanproperties.com/assets//external/64e55901fc2afbe781412e2f_new-homes-community-vanbrooke.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

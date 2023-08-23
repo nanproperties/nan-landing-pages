@@ -196,6 +196,11 @@ collections:
         label: Bio
         widget: text
         required: false
+      - hint: Max 400 characters.
+        name: f_shortened-bio
+        label: Shortened Bio
+        widget: string
+        required: false
       - hint: ''
         name: f_headshot
         label: Headshot
@@ -869,6 +874,19 @@ collections:
             label: alt
             widget: string
             required: false
+      - hint: Only add this if you want to show the agent's name on the builder page
+        name: f_associated-agent-team
+        label: Associated Agent / Team
+        widget: relation
+        required: false
+        collection: agents
+        value_field: cms/agents/{{slug}}.md
+        search_fields:
+          - slug
+          - name
+        display_fields:
+          - title
+        multiple: false
       - label: Tags
         widget: hidden
         name: tags
@@ -2390,6 +2408,10 @@ collections:
             label: Text
             name: 3d503d2b
             widget: string
+          - hint: "Original text: MEET\_THE\_EXPERTS, key: 53710741"
+            label: Text
+            name: '53710741'
+            widget: string
           - hint: 'Original text: CONTACT US ››, key: -41ce341e'
             label: Text
             name: '-41ce341e'
@@ -2918,13 +2940,219 @@ collections:
             label: Text
             name: 643bb855
             widget: string
-          - hint: 'Original text: We Are The , key: 2037314d'
+          - hint: 'Original text: List With The , key: 184a007'
             label: Text
-            name: 2037314d
+            name: 184a007
             widget: string
           - hint: 'Original text: #NanFam, key: -39e1ea06'
             label: Text
             name: '-39e1ea06'
+            widget: string
+          - hint: >-
+              Original text: Selling your home can be one of the biggest
+              decisions you make, and choosing the right team to represent you
+              is very important. In today's in-demand market, there are a
+              plethora of questions and concerns that need to be addressed with
+              your home's sale, and the advice and guidance you receive will
+              make all the difference when you finally close., key: 48ce95f7
+            label: Text
+            name: 48ce95f7
+            widget: text
+          - hint: "Original text: A proper strategy – one that includes marketing &\_advertising, high-quality photography &\_videography, expansive web presence, staging, and a powerful professional network –\_will ultimately lead to a successful sale., key: -5afd4126"
+            label: Text
+            name: '-5afd4126'
+            widget: text
+          - hint: 'Original text: The Proof Is In The , key: -33257481'
+            label: Text
+            name: '-33257481'
+            widget: string
+          - hint: 'Original text: Numbers, key: -1404d9d6'
+            label: Text
+            name: '-1404d9d6'
+            widget: string
+          - hint: 'Original text: $500M, key: 214201c'
+            label: Text
+            name: 214201c
+            widget: string
+          - hint: 'Original text: 2022 Sales Volume In Houston, key: 63057aa3'
+            label: Text
+            name: 63057aa3
+            widget: string
+          - hint: 'Original text: $586B, key: 2143ed3'
+            label: Text
+            name: 2143ed3
+            widget: string
+          - hint: >-
+              Original text: Total Annual Homes Sales Globally Across Our
+              Network, key: 19c33d04
+            label: Text
+            name: 19c33d04
+            widget: string
+          - hint: 'Original text: 200,000+, key: -766eec4b'
+            label: Text
+            name: '-766eec4b'
+            widget: string
+          - hint: >-
+              Original text: Potential Buyers, Prospects, and Partners In Our
+              Database, key: -7ae62bfd
+            label: Text
+            name: '-7ae62bfd'
+            widget: string
+          - hint: 'Original text: World-Class, key: 59a51b3d'
+            label: Text
+            name: 59a51b3d
+            widget: string
+          - hint: 'Original text:  Service, key: -2a5e058b'
+            label: Text
+            name: '-2a5e058b'
+            widget: string
+          - hint: >-
+              Original text: Professional Client Service Confidentiality, key:
+              29aa123f
+            label: Text
+            name: 29aa123f
+            widget: string
+          - hint: >-
+              Original text: Weekend Open Houses to the Public / Broker Open
+              Houses, key: -8f0693a
+            label: Text
+            name: '-8f0693a'
+            widget: string
+          - hint: 'Original text: Virtual Listing Tours, key: -1f671036'
+            label: Text
+            name: '-1f671036'
+            widget: string
+          - hint: 'Original text: Nan and Company Properties Signs, key: -59c5d646'
+            label: Text
+            name: '-59c5d646'
+            widget: string
+          - hint: 'Original text: Professional Photography, key: -56ce32dc'
+            label: Text
+            name: '-56ce32dc'
+            widget: string
+          - hint: >-
+              Original text: Drone Videography and High-Definition Video, key:
+              5d8198ce
+            label: Text
+            name: 5d8198ce
+            widget: string
+          - hint: 'Original text: High-Quality Property Brochures, key: -29610ff0'
+            label: Text
+            name: '-29610ff0'
+            widget: string
+          - hint: >-
+              Original text: Digital and Print Marketing Campaigns for Your
+              Listing, key: -79b61417
+            label: Text
+            name: '-79b61417'
+            widget: string
+          - hint: 'Original text: 3D Renderings of Listings, key: -2fcdbdd2'
+            label: Text
+            name: '-2fcdbdd2'
+            widget: string
+          - hint: 'Original text: Floorplans, key: 1c4f39fe'
+            label: Text
+            name: 1c4f39fe
+            widget: string
+          - hint: 'Original text: GET IN CONTACT, key: 4627a72f'
+            label: Text
+            name: 4627a72f
+            widget: string
+          - hint: 'Original text: Adaptive , key: a45184a'
+            label: Text
+            name: a45184a
+            widget: string
+          - hint: 'Original text: Marketing, key: 3fc9ea06'
+            label: Text
+            name: 3fc9ea06
+            widget: string
+          - hint: >-
+              Original text: Your home will be prominently displayed on our
+              website and, key: -6939c8f4
+            label: Text
+            name: '-6939c8f4'
+            widget: string
+          - hint: >-
+              Original text: include detailed information to highlight its
+              features., key: 66972274
+            label: Text
+            name: '66972274'
+            widget: string
+          - hint: >-
+              Original text: Our Search Engine Optimization (SEO) and digital
+              marketing, key: -44859a50
+            label: Text
+            name: '-44859a50'
+            widget: string
+          - hint: >-
+              Original text: team also ensures that your home is effectively
+              marketed online and distributed to hundreds of other sites., key:
+              50f4f4e1
+            label: Text
+            name: 50f4f4e1
+            widget: text
+          - hint: "Original text: GET\_HOME\_VALUATION, key: 28518e0a"
+            label: Text
+            name: 28518e0a
+            widget: string
+          - hint: 'Original text: Award-Winning , key: -50ffb2c0'
+            label: Text
+            name: '-50ffb2c0'
+            widget: string
+          - hint: "Original text: Photography &\_Videography, key: 2576a629"
+            label: Text
+            name: 2576a629
+            widget: string
+          - hint: >-
+              Original text: Professional photography is essential when
+              attracting buyers to your listing. With award-winning
+              photographers, we ensure your listing is seen in the very best
+              light., key: 6211be03
+            label: Text
+            name: 6211be03
+            widget: text
+          - hint: >-
+              Original text: Our team of expert videographers are available to
+              create your very own walk-through listing video. Created with
+              wide-angle shots and high-definition technology, this two minute
+              video highlights the home and can be shared through multiple
+              social media platforms., key: -347f070a
+            label: Text
+            name: '-347f070a'
+            widget: text
+          - hint: 'Original text: Instant , key: 24f0fa7f'
+            label: Text
+            name: 24f0fa7f
+            widget: string
+          - hint: 'Original text: Home Valuation, key: -371ee000'
+            label: Text
+            name: '-371ee000'
+            widget: string
+          - hint: >-
+              Original text: Why not make your house a competitively priced gem?
+              , key: 7714510e
+            label: Text
+            name: 7714510e
+            widget: string
+          - hint: >-
+              Original text: Ask for a free home evaluation to know how to
+              competitively price your home. With a well-priced home, you're
+              likely to receive competing offers and essentially, drive up your
+              homes final sale value., key: 5464d298
+            label: Text
+            name: 5464d298
+            widget: text
+          - hint: >-
+              Original text: We will take into account the homes recently sold
+              in your area and provide an accurate market analysis that is
+              tailored specifically to what buyers are looking for right now,
+              which could be just the edge you need., key: -66a6f985
+            label: Text
+            name: '-66a6f985'
+            widget: text
+          - hint: 'Original text: We Are The , key: 2037314d'
+            label: Text
+            name: 2037314d
             widget: string
           - hint: >-
               Original text: Founded in 2014, Nan and Company Properties, , key:
@@ -3188,212 +3416,6 @@ collections:
             label: Text
             name: '-659eef41'
             widget: string
-          - hint: 'Original text: List With The , key: 184a007'
-            label: Text
-            name: 184a007
-            widget: string
-          - hint: >-
-              Original text: Selling your home can be one of the biggest
-              decisions you make, and choosing the right team to represent you
-              is very important. In today's in-demand market, there are a
-              plethora of questions and concerns that need to be addressed with
-              your home's sale, and the advice and guidance you receive will
-              make all the difference when you finally close., key: 48ce95f7
-            label: Text
-            name: 48ce95f7
-            widget: text
-          - hint: "Original text: A proper strategy – one that includes marketing &\_advertising, high-quality photography &\_videography, expansive web presence, staging, and a powerful professional network –\_will ultimately lead to a successful sale., key: -5afd4126"
-            label: Text
-            name: '-5afd4126'
-            widget: text
-          - hint: 'Original text: The Proof Is In The , key: -33257481'
-            label: Text
-            name: '-33257481'
-            widget: string
-          - hint: 'Original text: Numbers, key: -1404d9d6'
-            label: Text
-            name: '-1404d9d6'
-            widget: string
-          - hint: 'Original text: $500M, key: 214201c'
-            label: Text
-            name: 214201c
-            widget: string
-          - hint: 'Original text: 2022 Sales Volume In Houston, key: 63057aa3'
-            label: Text
-            name: 63057aa3
-            widget: string
-          - hint: 'Original text: $586B, key: 2143ed3'
-            label: Text
-            name: 2143ed3
-            widget: string
-          - hint: >-
-              Original text: Total Annual Homes Sales Globally Across Our
-              Network, key: 19c33d04
-            label: Text
-            name: 19c33d04
-            widget: string
-          - hint: 'Original text: 200,000+, key: -766eec4b'
-            label: Text
-            name: '-766eec4b'
-            widget: string
-          - hint: >-
-              Original text: Potential Buyers, Prospects, and Partners In Our
-              Database, key: -7ae62bfd
-            label: Text
-            name: '-7ae62bfd'
-            widget: string
-          - hint: 'Original text: World-Class, key: 59a51b3d'
-            label: Text
-            name: 59a51b3d
-            widget: string
-          - hint: 'Original text:  Service, key: -2a5e058b'
-            label: Text
-            name: '-2a5e058b'
-            widget: string
-          - hint: >-
-              Original text: Professional Client Service Confidentiality, key:
-              29aa123f
-            label: Text
-            name: 29aa123f
-            widget: string
-          - hint: >-
-              Original text: Weekend Open Houses to the Public / Broker Open
-              Houses, key: -8f0693a
-            label: Text
-            name: '-8f0693a'
-            widget: string
-          - hint: 'Original text: Virtual Listing Tours, key: -1f671036'
-            label: Text
-            name: '-1f671036'
-            widget: string
-          - hint: 'Original text: Nan and Company Properties Signs, key: -59c5d646'
-            label: Text
-            name: '-59c5d646'
-            widget: string
-          - hint: 'Original text: Professional Photography, key: -56ce32dc'
-            label: Text
-            name: '-56ce32dc'
-            widget: string
-          - hint: >-
-              Original text: Drone Videography and High-Definition Video, key:
-              5d8198ce
-            label: Text
-            name: 5d8198ce
-            widget: string
-          - hint: 'Original text: High-Quality Property Brochures, key: -29610ff0'
-            label: Text
-            name: '-29610ff0'
-            widget: string
-          - hint: >-
-              Original text: Digital and Print Marketing Campaigns for Your
-              Listing, key: -79b61417
-            label: Text
-            name: '-79b61417'
-            widget: string
-          - hint: 'Original text: 3D Renderings of Listings, key: -2fcdbdd2'
-            label: Text
-            name: '-2fcdbdd2'
-            widget: string
-          - hint: 'Original text: Floorplans, key: 1c4f39fe'
-            label: Text
-            name: 1c4f39fe
-            widget: string
-          - hint: 'Original text: GET IN CONTACT, key: 4627a72f'
-            label: Text
-            name: 4627a72f
-            widget: string
-          - hint: 'Original text: Adaptive , key: a45184a'
-            label: Text
-            name: a45184a
-            widget: string
-          - hint: 'Original text: Marketing, key: 3fc9ea06'
-            label: Text
-            name: 3fc9ea06
-            widget: string
-          - hint: >-
-              Original text: Your home will be prominently displayed on our
-              website and, key: -6939c8f4
-            label: Text
-            name: '-6939c8f4'
-            widget: string
-          - hint: >-
-              Original text: include detailed information to highlight its
-              features., key: 66972274
-            label: Text
-            name: '66972274'
-            widget: string
-          - hint: >-
-              Original text: Our Search Engine Optimization (SEO) and digital
-              marketing, key: -44859a50
-            label: Text
-            name: '-44859a50'
-            widget: string
-          - hint: >-
-              Original text: team also ensures that your home is effectively
-              marketed online and distributed to hundreds of other sites., key:
-              50f4f4e1
-            label: Text
-            name: 50f4f4e1
-            widget: text
-          - hint: "Original text: GET\_HOME\_VALUATION, key: 28518e0a"
-            label: Text
-            name: 28518e0a
-            widget: string
-          - hint: 'Original text: Award-Winning , key: -50ffb2c0'
-            label: Text
-            name: '-50ffb2c0'
-            widget: string
-          - hint: "Original text: Photography &\_Videography, key: 2576a629"
-            label: Text
-            name: 2576a629
-            widget: string
-          - hint: >-
-              Original text: Professional photography is essential when
-              attracting buyers to your listing. With award-winning
-              photographers, we ensure your listing is seen in the very best
-              light., key: 6211be03
-            label: Text
-            name: 6211be03
-            widget: text
-          - hint: >-
-              Original text: Our team of expert videographers are available to
-              create your very own walk-through listing video. Created with
-              wide-angle shots and high-definition technology, this two minute
-              video highlights the home and can be shared through multiple
-              social media platforms., key: -347f070a
-            label: Text
-            name: '-347f070a'
-            widget: text
-          - hint: 'Original text: Instant , key: 24f0fa7f'
-            label: Text
-            name: 24f0fa7f
-            widget: string
-          - hint: 'Original text: Home Valuation, key: -371ee000'
-            label: Text
-            name: '-371ee000'
-            widget: string
-          - hint: >-
-              Original text: Why not make your house a competitively priced gem?
-              , key: 7714510e
-            label: Text
-            name: 7714510e
-            widget: string
-          - hint: >-
-              Original text: Ask for a free home evaluation to know how to
-              competitively price your home. With a well-priced home, you're
-              likely to receive competing offers and essentially, drive up your
-              homes final sale value., key: 5464d298
-            label: Text
-            name: 5464d298
-            widget: text
-          - hint: >-
-              Original text: We will take into account the homes recently sold
-              in your area and provide an accurate market analysis that is
-              tailored specifically to what buyers are looking for right now,
-              which could be just the edge you need., key: -66a6f985
-            label: Text
-            name: '-66a6f985'
-            widget: text
           - hint: >-
               Original text: Selling Locally, Marketing Internationally, key:
               48a6545
@@ -4076,38 +4098,6 @@ collections:
             label: Text
             name: '-4b1667e'
             widget: string
-          - hint: 'Original text: Select a Region, key: 400dba37'
-            label: Text
-            name: 400dba37
-            widget: string
-          - hint: 'Original text: Africa, key: 74bdc69a'
-            label: Text
-            name: 74bdc69a
-            widget: string
-          - hint: 'Original text: Asia, key: 1f48ea'
-            label: Text
-            name: 1f48ea
-            widget: string
-          - hint: 'Original text: Australia, key: -50e356a0'
-            label: Text
-            name: '-50e356a0'
-            widget: string
-          - hint: 'Original text: Europe, key: 7c64a1c2'
-            label: Text
-            name: 7c64a1c2
-            widget: string
-          - hint: "Original text: North &\_Central America, key: -3cfc60d2"
-            label: Text
-            name: '-3cfc60d2'
-            widget: string
-          - hint: 'Original text: South America, key: -31849185'
-            label: Text
-            name: '-31849185'
-            widget: string
-          - hint: 'Original text: WEBSITE, key: 73c56c7b'
-            label: Text
-            name: 73c56c7b
-            widget: string
           - hint: 'Original text: Your Home Away From Home, key: -27f7909'
             label: Text
             name: '-27f7909'
@@ -4147,6 +4137,38 @@ collections:
           - hint: 'Original text: View Getaway Listings, key: -1d34f7fa'
             label: Text
             name: '-1d34f7fa'
+            widget: string
+          - hint: 'Original text: Select a Region, key: 400dba37'
+            label: Text
+            name: 400dba37
+            widget: string
+          - hint: 'Original text: Africa, key: 74bdc69a'
+            label: Text
+            name: 74bdc69a
+            widget: string
+          - hint: 'Original text: Asia, key: 1f48ea'
+            label: Text
+            name: 1f48ea
+            widget: string
+          - hint: 'Original text: Australia, key: -50e356a0'
+            label: Text
+            name: '-50e356a0'
+            widget: string
+          - hint: 'Original text: Europe, key: 7c64a1c2'
+            label: Text
+            name: 7c64a1c2
+            widget: string
+          - hint: "Original text: North &\_Central America, key: -3cfc60d2"
+            label: Text
+            name: '-3cfc60d2'
+            widget: string
+          - hint: 'Original text: South America, key: -31849185'
+            label: Text
+            name: '-31849185'
+            widget: string
+          - hint: 'Original text: WEBSITE, key: 73c56c7b'
+            label: Text
+            name: 73c56c7b
             widget: string
           - hint: "Original text: OBTÉN TU\_LISTA\_DE\_CASAS\_››, key: 6f029d96"
             label: Text
@@ -5270,14 +5292,6 @@ collections:
             label: Text
             name: 55fff89d
             widget: string
-          - hint: 'Original text: Thank You., key: 33a94ba5'
-            label: Text
-            name: 33a94ba5
-            widget: string
-          - hint: 'Original text: We will be in contact with you soon., key: 58f68cd2'
-            label: Text
-            name: 58f68cd2
-            widget: string
           - hint: 'Original text: Our Timeline, key: 45ad32d5'
             label: Text
             name: 45ad32d5
@@ -5293,6 +5307,14 @@ collections:
           - hint: 'Original text: 2014, key: 1774e1'
             label: Text
             name: '1774e1'
+            widget: string
+          - hint: 'Original text: Thank You., key: 33a94ba5'
+            label: Text
+            name: 33a94ba5
+            widget: string
+          - hint: 'Original text: We will be in contact with you soon., key: 58f68cd2'
+            label: Text
+            name: 58f68cd2
             widget: string
           - hint: "Original text: CONTACT\_US\_TODAY\_››, key: 4341cc41"
             label: Text
@@ -5488,10 +5510,6 @@ collections:
             label: Text
             name: '-2acb380c'
             widget: string
-          - hint: "Original text: JUMP\_TO\_A\_YEAR:, key: -799c9af5"
-            label: Text
-            name: '-799c9af5'
-            widget: string
           - hint: 'Original text: 3920 Inverness, key: e554999'
             label: Text
             name: e554999
@@ -5620,6 +5638,42 @@ collections:
             label: Text
             name: 2541b238
             widget: string
+          - hint: "Original text: I\_Can Help Find Your Forever Home , key: -5fd7ec56"
+            label: Text
+            name: '-5fd7ec56'
+            widget: string
+          - hint: "Original text: Your Sugar Land &\_Houston Expert, key: -6022df2c"
+            label: Text
+            name: '-6022df2c'
+            widget: string
+          - hint: "Original text: As a repeat Top Producer and 10+\_years in real estate, I\_help my clients leverage our local &\_international network to find beautiful homes that are hard to find on the market., key: 7a502c06"
+            label: Text
+            name: 7a502c06
+            widget: text
+          - hint: 'Original text: Contact ME ››, key: -4d14158'
+            label: Text
+            name: '-4d14158'
+            widget: string
+          - hint: "Original text: HOw\_I\_Help You, key: -14467c79"
+            label: Text
+            name: '-14467c79'
+            widget: string
+          - hint: "Original text: How I\_Help You, key: 49c0f327"
+            label: Text
+            name: 49c0f327
+            widget: string
+          - hint: "Original text:  –\_my team has access to properties and resources that you cannot find with any other brokerage., key: 51810f48"
+            label: Text
+            name: 51810f48
+            widget: text
+          - hint: "Original text: I live and breathe real estate! I\_am proud to be an expert in the most desirable pockets of southwest Harris County, including Sugar Land, Richmond, and Missouri City., key: -179fabb0"
+            label: Text
+            name: '-179fabb0'
+            widget: text
+          - hint: "Original text: Whether you are a first-time buyer or finally purchasing your dream home, I\_can help guide you at every step of the process with my extensive experience in your corner., key: -16bdf71"
+            label: Text
+            name: '-16bdf71'
+            widget: text
           - hint: 'Original text: The Power of Our Brand, key: -54bf020c'
             label: Text
             name: '-54bf020c'
@@ -5672,42 +5726,10 @@ collections:
             label: Text
             name: 676f5477
             widget: text
-          - hint: "Original text: I\_Can Help Find Your Forever Home , key: -5fd7ec56"
+          - hint: "Original text: JUMP\_TO\_A\_YEAR:, key: -799c9af5"
             label: Text
-            name: '-5fd7ec56'
+            name: '-799c9af5'
             widget: string
-          - hint: "Original text: Your Sugar Land &\_Houston Expert, key: -6022df2c"
-            label: Text
-            name: '-6022df2c'
-            widget: string
-          - hint: "Original text: As a repeat Top Producer and 10+\_years in real estate, I\_help my clients leverage our local &\_international network to find beautiful homes that are hard to find on the market., key: 7a502c06"
-            label: Text
-            name: 7a502c06
-            widget: text
-          - hint: 'Original text: Contact ME ››, key: -4d14158'
-            label: Text
-            name: '-4d14158'
-            widget: string
-          - hint: "Original text: HOw\_I\_Help You, key: -14467c79"
-            label: Text
-            name: '-14467c79'
-            widget: string
-          - hint: "Original text: How I\_Help You, key: 49c0f327"
-            label: Text
-            name: 49c0f327
-            widget: string
-          - hint: "Original text:  –\_my team has access to properties and resources that you cannot find with any other brokerage., key: 51810f48"
-            label: Text
-            name: 51810f48
-            widget: text
-          - hint: "Original text: I live and breathe real estate! I\_am proud to be an expert in the most desirable pockets of southwest Harris County, including Sugar Land, Richmond, and Missouri City., key: -179fabb0"
-            label: Text
-            name: '-179fabb0'
-            widget: text
-          - hint: "Original text: Whether you are a first-time buyer or finally purchasing your dream home, I\_can help guide you at every step of the process with my extensive experience in your corner., key: -16bdf71"
-            label: Text
-            name: '-16bdf71'
-            widget: text
           - hint: 'Original text: Thinking of Selling? , key: -1a0463c8'
             label: Text
             name: '-1a0463c8'
@@ -5727,6 +5749,62 @@ collections:
           - hint: "Original text: I\_can help guide you at every step of the process with my extensive experience in your corner. , key: -30ccc86"
             label: Text
             name: '-30ccc86'
+            widget: text
+          - hint: >-
+              Original text: We help you find the right homebuyer program to
+              save you money and buy your first home., key: -44bcd058
+            label: Text
+            name: '-44bcd058'
+            widget: string
+          - hint: >-
+              Original text: Here at Nan and Company Properties, we make the
+              home buying process easy by cultivating a comfortable environment
+              based on honesty and communication. Our agents work around the
+              clock so that you can find the forever home. We believe that our
+              clients should not have to go anywhere else to get the services
+              they need, which is why we are proud to call ourselves a true
+              full-service agency. We strive to have a long-lasting relationship
+              with our clients built on trust and confidence., key: -5193dc34
+            label: Text
+            name: '-5193dc34'
+            widget: text
+          - hint: 'Original text: SPEAK WITH A SPECIALIST, key: 218a4e9c'
+            label: Text
+            name: 218a4e9c
+            widget: string
+          - hint: 'Original text: TOOLS & RESOURCES, key: -5fcc85a'
+            label: Text
+            name: '-5fcc85a'
+            widget: string
+          - hint: >-
+              Original text: Make The Best, Most Informed Decision., key:
+              -1e642382
+            label: Text
+            name: '-1e642382'
+            widget: string
+          - hint: >-
+              Original text: With a suite of tools and resources available to
+              calculate costs, mortgages, and interest rates, you get the most
+              informed decision about your future purchase., key: 5034dabd
+            label: Text
+            name: 5034dabd
+            widget: text
+          - hint: 'Original text: WORLD-CLASS SERVICE, key: 54356cb2'
+            label: Text
+            name: 54356cb2
+            widget: string
+          - hint: >-
+              Original text: A Home Buying Experience Unlike Any Other., key:
+              -32c71472
+            label: Text
+            name: '-32c71472'
+            widget: string
+          - hint: >-
+              Original text: We tap into our extensive home lender database and
+              help you connect with a reputable lender. Speak with one of our
+              specialists to find out how this works., key: 4eded205
+            label: Text
+            name: 4eded205
             widget: text
           - hint: 'Original text: Commercial Experts In Your Corner, key: 40007794'
             label: Text
@@ -5803,62 +5881,6 @@ collections:
               -792b56b3
             label: Text
             name: '-792b56b3'
-            widget: text
-          - hint: >-
-              Original text: We help you find the right homebuyer program to
-              save you money and buy your first home., key: -44bcd058
-            label: Text
-            name: '-44bcd058'
-            widget: string
-          - hint: >-
-              Original text: Here at Nan and Company Properties, we make the
-              home buying process easy by cultivating a comfortable environment
-              based on honesty and communication. Our agents work around the
-              clock so that you can find the forever home. We believe that our
-              clients should not have to go anywhere else to get the services
-              they need, which is why we are proud to call ourselves a true
-              full-service agency. We strive to have a long-lasting relationship
-              with our clients built on trust and confidence., key: -5193dc34
-            label: Text
-            name: '-5193dc34'
-            widget: text
-          - hint: 'Original text: SPEAK WITH A SPECIALIST, key: 218a4e9c'
-            label: Text
-            name: 218a4e9c
-            widget: string
-          - hint: 'Original text: TOOLS & RESOURCES, key: -5fcc85a'
-            label: Text
-            name: '-5fcc85a'
-            widget: string
-          - hint: >-
-              Original text: Make The Best, Most Informed Decision., key:
-              -1e642382
-            label: Text
-            name: '-1e642382'
-            widget: string
-          - hint: >-
-              Original text: With a suite of tools and resources available to
-              calculate costs, mortgages, and interest rates, you get the most
-              informed decision about your future purchase., key: 5034dabd
-            label: Text
-            name: 5034dabd
-            widget: text
-          - hint: 'Original text: WORLD-CLASS SERVICE, key: 54356cb2'
-            label: Text
-            name: 54356cb2
-            widget: string
-          - hint: >-
-              Original text: A Home Buying Experience Unlike Any Other., key:
-              -32c71472
-            label: Text
-            name: '-32c71472'
-            widget: string
-          - hint: >-
-              Original text: We tap into our extensive home lender database and
-              help you connect with a reputable lender. Speak with one of our
-              specialists to find out how this works., key: 4eded205
-            label: Text
-            name: 4eded205
             widget: text
           - hint: >-
               Original text: El Mejor Lugar Para Vivir En Estados Unidos, key:
@@ -6492,6 +6514,13 @@ collections:
             label: Link
             name: '-20eacdb4'
             widget: string
+          - hint: >-
+              Original link:
+              https://www.nanproperties.com/posts/ways-to-stay-productive-when-working-from-home,
+              key: 6f984b9c
+            label: Link
+            name: 6f984b9c
+            widget: string
           - hint: 'Original link: #africa, key: -192d0ba3'
             label: Link
             name: '-192d0ba3'
@@ -6515,13 +6544,6 @@ collections:
           - hint: 'Original link: #south-america, key: 63657ecb'
             label: Link
             name: 63657ecb
-            widget: string
-          - hint: >-
-              Original link:
-              https://www.nanproperties.com/posts/ways-to-stay-productive-when-working-from-home,
-              key: 6f984b9c
-            label: Link
-            name: 6f984b9c
             widget: string
           - hint: >-
               Original link: https://www.nanproperties.com/services#cms-form,
@@ -6597,6 +6619,20 @@ collections:
             label: Link
             name: '-40bb9a72'
             widget: string
+          - hint: 'Original link: #location, key: -49553328'
+            label: Link
+            name: '-49553328'
+            widget: string
+          - hint: >-
+              Original link: https://www.instagram.com/kyesampson, key:
+              -6fae9746
+            label: Link
+            name: '-6fae9746'
+            widget: string
+          - hint: 'Original link: https://www.linkedin.com/kyesampson, key: 6bd96fa2'
+            label: Link
+            name: 6bd96fa2
+            widget: string
           - hint: 'Original link: #year-2022, key: 469023cb'
             label: Link
             name: 469023cb
@@ -6621,20 +6657,6 @@ collections:
             label: Link
             name: 469023b0
             widget: string
-          - hint: 'Original link: #location, key: -49553328'
-            label: Link
-            name: '-49553328'
-            widget: string
-          - hint: >-
-              Original link: https://www.instagram.com/kyesampson, key:
-              -6fae9746
-            label: Link
-            name: '-6fae9746'
-            widget: string
-          - hint: 'Original link: https://www.linkedin.com/kyesampson, key: 6bd96fa2'
-            label: Link
-            name: 6bd96fa2
-            widget: string
           - hint: >-
               Original link: https://seahorsehomestx.com/floor-plans/, key:
               -58beda59
@@ -6647,6 +6669,10 @@ collections:
               key: 726c60e9
             label: Link
             name: 726c60e9
+            widget: string
+          - hint: 'Original link: #form_submission_form, key: -56bd5b01'
+            label: Link
+            name: '-56bd5b01'
             widget: string
       - label: Images
         name: images
@@ -6788,6 +6814,19 @@ collections:
                 required: false
           - label: Image
             name: 5a37530d
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '0'
             widget: object
             fields:
               - name: url
@@ -6969,45 +7008,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-20a2d2ad'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-625fd7b6'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-483b1332'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: 4071fe01
             widget: object
             fields:
@@ -7048,6 +7048,45 @@ collections:
                 required: false
           - label: Image
             name: 7dfde2df
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-20a2d2ad'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-625fd7b6'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-483b1332'
             widget: object
             fields:
               - name: url
@@ -7437,7 +7476,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-37bb36cf'
+            name: '-42899189'
             widget: object
             fields:
               - name: url
@@ -7450,7 +7489,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-42899189'
+            name: '-37bb36cf'
             widget: object
             fields:
               - name: url
@@ -8308,6 +8347,71 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 2dcaa813
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 36c5d81b
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-137c0dad'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 6e3dcfdc
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 6f81f29a
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '-28f44e50'
             widget: object
             fields:
@@ -8399,72 +8503,46 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 2dcaa813
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 36c5d81b
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-137c0dad'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 6e3dcfdc
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 6f81f29a
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: '-6ecbd30e'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 540f2fbf
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-667e1a60'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '63022125'
             widget: object
             fields:
               - name: url
@@ -8517,45 +8595,6 @@ collections:
                 required: false
           - label: Image
             name: 3dcc9315
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 540f2fbf
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-667e1a60'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '63022125'
             widget: object
             fields:
               - name: url

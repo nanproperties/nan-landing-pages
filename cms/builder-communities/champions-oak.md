@@ -15,7 +15,7 @@ created-on: '2023-08-23T00:54:47.893Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets/external/64e5598f8290d271c9f941ad_champions-oak-updated-exterior-shot-for-website.jpeg
+    https://development.nanproperties.com/assets//external/64e5598f8290d271c9f941ad_champions-oak-updated-exterior-shot-for-website.jpeg
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

@@ -33,16 +33,23 @@ f_bio: >-
   clients receive personalized service that is tailored to their unique needs
   and requirements. Olga's clients can trust that she will go above and beyond
   to help them achieve their real estate goals. 
-title: The OMG Team
+title: The O.M.G. Team
 f_facebook-handle: Olga M. Garza
 f_title: Realtor Associate
 slug: the-omg-team
 f_headshot:
-  url: https://development.nanproperties.com/assets/external/649c9ce5ce683228f70765b6_dsc01987201.jpg
+  url: https://development.nanproperties.com/assets//external/649c9ce5ce683228f70765b6_dsc01987201.jpg
   alt: null
-updated-on: '2023-06-28T21:07:43.158Z'
+updated-on: '2023-08-23T03:14:45.287Z'
 created-on: '2023-06-28T21:07:43.158Z'
-published-on: '2023-06-29T20:14:23.538Z'
+published-on: '2023-08-23T03:17:11.196Z'
+f_shortened-bio: >-
+  The O.M.G. Team, led by Olga Martinez-Garza and Eddie Garza, offers expert
+  real estate services, specializing in new construction homes. With years of
+  experience, they ensure transparent communication and trusted advice.
+  Recognized as leaders in client service, they've assisted numerous families in
+  and around Houston. Their dedication earned them the Circle of Excellence -
+  Diamond Award in 2022.
 layout: '[agents].html'
 tags: agents
 ---

@@ -78,7 +78,7 @@ img.developments-image {
                   <div class="builder-listings-item-text-wrapper">
                     <h3 class="h5 builder-listings-item-title">{{ item.data.title }}</h3>
                     <div class="subtitle-2">{{ item.data.f_city }}</div>
-                    <a href="{{ links.-41a1c015 }}" class="builder-listings-item-link">{{ texts.6a0835cf }}</a>
+                    <a href="{{ links.-56bd5b01 }}" class="builder-listings-item-link">{{ texts.6a0835cf }}</a>
                   </div>
                 </div>{%- endfor -%}
               </div>{%- endunless -%}
@@ -179,12 +179,28 @@ img.developments-image {
               </div></template></div>
             </div>
           </div>{%- endif -%}
-          <div class="builder-hero-button-wrapper">
-            <a href="{{ links.23 }}" class="primary-button w-button">{{ texts.-41ce341e }}</a>
-          </div>
         </div>
-        <div class="vertical-divider"></div>
       </header>
+      <section class="section">
+        {%- if f_associated-agent-team -%}<div class="builder-communities-agent-outer-container">
+          <div id="w-node-_9fe016de-ebc1-faff-0ec9-ace1af1da19e-747f63b7" class="w-layout-layout builder-communities-agent-inner-container wf-layout-layout">
+            <div id="w-node-_11930f17-91e2-a3ba-d2f8-56c7a4a89dd7-747f63b7" class="w-layout-cell cell">
+              <div>{%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<img src="{{ agentsOfBuilders.data.f_headshot.url }}" loading="lazy" alt="{{ agentsOfBuilders.data.f_headshot.alt }}"></div>
+            </div>
+            <div id="w-node-_7a763fde-dcde-aae1-9dd5-38068d39f8f8-747f63b7" class="w-layout-cell builder-communities-agent-details-cell">
+              <div class="overline">{{ texts.53710741 }}</div>
+              {%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<h2>{{ agentsOfBuilders.data.title }}</h2>
+              <div class="orange-divider"></div>
+              <p class="paragraph-1">{{ agentsOfBuilders.data.f_shortened-bio }}</p>
+              <a href="{{ links.-56bd5b01 }}" class="primary-button w-button">{{ texts.-41ce341e }}</a>
+            </div>
+          </div>
+        </div>{%- endif -%}
+        {%- unless f_associated-agent-team -%}<div class="builder-hero-button-wrapper">
+          <a href="{{ links.23 }}" class="primary-button w-button">{{ texts.-41ce341e }}</a>
+          <div class="vertical-divider"></div>
+        </div>{%- endunless -%}
+      </section>
       <section class="section builder-listings-section">
         {%- assign collection = collections.new-homes | filter: "f_builder,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="grid builder-list-grid w-dyn-items">

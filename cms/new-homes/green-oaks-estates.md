@@ -9,7 +9,7 @@ f_city: Houston
 title: Green Oaks Estates
 f_bedrooms: 3-4
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/6398a54309eabeefbc320102_rmm_2199-hdr.jpg
+  url: https://development.nanproperties.com/assets//external/6398a54309eabeefbc320102_rmm_2199-hdr.jpg
   alt: null
 slug: green-oaks-estates
 f_agent-2: cms/agents/jose-nieto-2.md
@@ -29,31 +29,31 @@ f_description: >
 f_coming-soon: false
 f_is-this-a-55-community: false
 f_image-gallery:
-  - url: https://development.nanproperties.com/assets/external/64b9724420dcc2ab5f01139f_rmm_2040-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b9724420dcc2ab5f01139f_rmm_2040-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b9724694cd549e6e10714b_rmm_2037-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b9724694cd549e6e10714b_rmm_2037-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b97247fd32c1107e5dc9a6_rmm_2025-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b97247fd32c1107e5dc9a6_rmm_2025-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b9724914944482a0f5433b_rmm_2010-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b9724914944482a0f5433b_rmm_2010-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b9724b1d18e13c5cc7ec13_rmm_1971-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b9724b1d18e13c5cc7ec13_rmm_1971-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b97270fb8f192a2ab5a2b8_rmm_2052-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b97270fb8f192a2ab5a2b8_rmm_2052-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b972741d18e13c5cc8006a_rmm_2055-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b972741d18e13c5cc8006a_rmm_2055-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b9727514944482a0f56ee1_rmm_2058-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b9727514944482a0f56ee1_rmm_2058-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b9727694cd549e6e109c4c_rmm_2070-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b9727694cd549e6e109c4c_rmm_2070-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b9727714944482a0f56fa2_rmm_2085-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b9727714944482a0f56fa2_rmm_2085-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b972a9cb64a83b630f9b1d_rmm_2133-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b972a9cb64a83b630f9b1d_rmm_2133-hdr.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b972aa2358acc4a7ef65ac_rmm_2130-hdr-2.jpg
+  - url: https://development.nanproperties.com/assets//external/64b972aa2358acc4a7ef65ac_rmm_2130-hdr-2.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64b972aae42f8ea9e918f619_rmm_2142-hdr.jpg
+  - url: https://development.nanproperties.com/assets//external/64b972aae42f8ea9e918f619_rmm_2142-hdr.jpg
     alt: null
 layout: '[new-homes].html'
 tags: new-homes

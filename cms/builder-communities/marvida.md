@@ -14,7 +14,7 @@ updated-on: '2023-08-23T01:00:42.708Z'
 created-on: '2023-08-23T00:54:49.160Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/64e55a388290d271c9f9e608_new-homes-community-marvida.webp
+  url: https://development.nanproperties.com/assets//external/64e55a388290d271c9f9e608_new-homes-community-marvida.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

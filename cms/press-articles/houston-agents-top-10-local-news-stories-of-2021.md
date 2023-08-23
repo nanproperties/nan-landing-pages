@@ -12,7 +12,7 @@ f_media-outlet-excerpt: >-
 title: 'Houston Agent’s Top 10 Local News Stories of 2021 '
 f_image-or-screenshot-of-article:
   url: >-
-    https://development.nanproperties.com/assets/external/61f4a1265bc38a4a119a0863_screen20shot202022-01-2120at209.54.00%20AM.png
+    https://development.nanproperties.com/assets//external/61f4a1265bc38a4a119a0863_screen20shot202022-01-2120at209.54.00%20AM.png
   alt: null
 slug: houston-agents-top-10-local-news-stories-of-2021
 updated-on: '2022-01-29T02:06:39.518Z'

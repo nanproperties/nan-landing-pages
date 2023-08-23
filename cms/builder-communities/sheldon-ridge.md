@@ -15,7 +15,7 @@ created-on: '2023-08-23T00:54:49.340Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets/external/64e55a602c5e18cbf296b44c_new-homes-community-sheldon-ridge.webp
+    https://development.nanproperties.com/assets//external/64e55a602c5e18cbf296b44c_new-homes-community-sheldon-ridge.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

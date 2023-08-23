@@ -15,7 +15,7 @@ created-on: '2023-08-23T00:54:49.744Z'
 published-on: '2023-08-23T01:07:15.744Z'
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets/external/64e55a7a81cf69f3b4b74770_new-homes-community-telge-ranch.webp
+    https://development.nanproperties.com/assets//external/64e55a7a81cf69f3b4b74770_new-homes-community-telge-ranch.webp
   alt: null
 layout: '[builder-communities].html'
 tags: builder-communities

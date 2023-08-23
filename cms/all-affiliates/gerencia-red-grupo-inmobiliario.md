@@ -11,7 +11,7 @@ f_zip-code-2: '66254'
 slug: gerencia-red-grupo-inmobiliario
 f_affiliate-logo-2:
   url: >-
-    https://development.nanproperties.com/assets/external/60b817797aa865194c946f3a_6081e56b963baa6c8da1b329_60785a4cc656dc325d63d40e_content_logonuevogris.png
+    https://development.nanproperties.com/assets//external/60b817797aa865194c946f3a_6081e56b963baa6c8da1b329_60785a4cc656dc325d63d40e_content_logonuevogris.png
   alt: null
 f_region-2: cms/affiliate-regions/north-central-america.md
 updated-on: '2021-06-02T23:42:49.644Z'

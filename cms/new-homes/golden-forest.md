@@ -12,16 +12,16 @@ updated-on: '2023-02-09T20:00:35.713Z'
 created-on: '2021-12-30T22:24:51.168Z'
 published-on: '2023-02-09T20:21:10.510Z'
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/61eee6b07f9a110b3389356c_iimg_230.jpg
+  url: https://development.nanproperties.com/assets//external/61eee6b07f9a110b3389356c_iimg_230.jpg
   alt: null
 f_image-gallery:
-  - url: https://development.nanproperties.com/assets/external/61eee6fd4b297873e80fe575_iimg_247.jpg
+  - url: https://development.nanproperties.com/assets//external/61eee6fd4b297873e80fe575_iimg_247.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/61eee6fd437c5b3cb689b3d4_iimg_244.jpg
+  - url: https://development.nanproperties.com/assets//external/61eee6fd437c5b3cb689b3d4_iimg_244.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/61eee65c780f1db7d0d1ddd8_iimg_242.jpg
+  - url: https://development.nanproperties.com/assets//external/61eee65c780f1db7d0d1ddd8_iimg_242.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/61eee66ac5c94545637a8940_iimg_240.jpg
+  - url: https://development.nanproperties.com/assets//external/61eee66ac5c94545637a8940_iimg_240.jpg
     alt: null
 f_bathrooms: '3.5'
 f_bedrooms: 3-4

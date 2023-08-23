@@ -10,7 +10,7 @@ f_country-2: France
 f_zip-code-2: '64500'
 f_affiliate-logo-2:
   url: >-
-    https://development.nanproperties.com/assets/external/60b817a00549a97b227397d3_6081e567408db15fba604138_60785a4538473ce39acd073d_content_unnamed.jpeg
+    https://development.nanproperties.com/assets//external/60b817a00549a97b227397d3_6081e567408db15fba604138_60785a4538473ce39acd073d_content_unnamed.jpeg
   alt: null
 slug: cote-ouest
 f_region-2: cms/affiliate-regions/europe.md

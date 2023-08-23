@@ -6,7 +6,7 @@ updated-on: '2022-05-12T22:15:20.916Z'
 created-on: '2022-05-04T22:46:42.364Z'
 published-on: '2022-05-12T22:15:36.964Z'
 f_secondary-team-image:
-  url: https://development.nanproperties.com/assets/external/6273055d160a55083e307811_bon_0855.jpeg
+  url: https://development.nanproperties.com/assets//external/6273055d160a55083e307811_bon_0855.jpeg
   alt: null
 f_instagram-link: https://www.instagram.com/laura_bonck_homes
 f_featured-video-youtube-id: y-vbFtK-5Mk

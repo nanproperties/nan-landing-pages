@@ -11,7 +11,7 @@ f_zip-code-2: '81435'
 slug: telluride-real-estate-corp-2
 f_affiliate-logo-2:
   url: >-
-    https://development.nanproperties.com/assets/external/60b81787fb6dd06e1ad5aeba_6077d858c3e2468c4c5f7f87_603316297f5abtrec_christie_s_black.jpeg
+    https://development.nanproperties.com/assets//external/60b81787fb6dd06e1ad5aeba_6077d858c3e2468c4c5f7f87_603316297f5abtrec_christie_s_black.jpeg
   alt: null
 f_region-2: cms/affiliate-regions/north-central-america.md
 updated-on: '2021-06-02T23:43:03.356Z'

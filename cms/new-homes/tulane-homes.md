@@ -28,31 +28,31 @@ f_description: >-
   benefits of a community without the added costs. Don't miss out on the chance
   to make this your dream home. Schedule your private showing now.
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/642c5fa65ab7260a38709ce1_22.10.14_1%20-%20Photo%20(1).jpg
+  url: https://development.nanproperties.com/assets//external/642c5fa65ab7260a38709ce1_22.10.14_1%20-%20Photo%20(1).jpg
   alt: null
 f_image-gallery:
-  - url: https://development.nanproperties.com/assets/external/642e2f6a7ac6826e1dcc8b4a_second20floor_2820-20photo.jpg
+  - url: https://development.nanproperties.com/assets//external/642e2f6a7ac6826e1dcc8b4a_second20floor_2820-20photo.jpg
     alt: null
   - url: >-
-      https://development.nanproperties.com/assets/external/642e2f236c4b13b145db472f_22.12.11_11%20-%20Photo%20(1).jpg
+      https://development.nanproperties.com/assets//external/642e2f236c4b13b145db472f_22.12.11_11%20-%20Photo%20(1).jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/642edeb705c209d33a418cda_22.12.11_12%20-%20Photo.jpg
+  - url: https://development.nanproperties.com/assets//external/642edeb705c209d33a418cda_22.12.11_12%20-%20Photo.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/642e2f246c4b13247cdb4861_22.12.11_13%20-%20Photo.jpg
+  - url: https://development.nanproperties.com/assets//external/642e2f246c4b13247cdb4861_22.12.11_13%20-%20Photo.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/642e2f286c4b138d9ddb4cd4_22.12.11_16%20-%20Photo.jpg
+  - url: https://development.nanproperties.com/assets//external/642e2f286c4b138d9ddb4cd4_22.12.11_16%20-%20Photo.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/642edeb6d7b4cd7c6623e028_22.12.11_18%20-%20Photo.jpg
+  - url: https://development.nanproperties.com/assets//external/642edeb6d7b4cd7c6623e028_22.12.11_18%20-%20Photo.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/642e2f4b3756493b0705c2ba_22.12.11_19%20-%20Photo.jpg
+  - url: https://development.nanproperties.com/assets//external/642e2f4b3756493b0705c2ba_22.12.11_19%20-%20Photo.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/642e2f4d7ac68245d3cc62a9_22.12.11_22%20-%20Photo.jpg
+  - url: https://development.nanproperties.com/assets//external/642e2f4d7ac68245d3cc62a9_22.12.11_22%20-%20Photo.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/642e2f4e114790e86e08ac58_first20floor_2520-20photo.jpg
+  - url: https://development.nanproperties.com/assets//external/642e2f4e114790e86e08ac58_first20floor_2520-20photo.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/642e2f653756496c8005e5a4_first20floor_2620-20photo.jpg
+  - url: https://development.nanproperties.com/assets//external/642e2f653756496c8005e5a4_first20floor_2620-20photo.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/642e2f69114790a63408cd74_second20floor_2720-20photo.jpg
+  - url: https://development.nanproperties.com/assets//external/642e2f69114790a63408cd74_second20floor_2720-20photo.jpg
     alt: null
 f_price-range: 428,900-434,900
 f_square-footage: 1,778

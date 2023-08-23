@@ -31,7 +31,7 @@ f_description: >
   embody the ultimate fusion of sophistication and comfort for discerning buyers
   seeking modern living at its finest.
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/64516bdda93357525e259723_front2201201.jpg
+  url: https://development.nanproperties.com/assets//external/64516bdda93357525e259723_front2201201.jpg
   alt: null
 layout: '[new-homes].html'
 tags: new-homes
