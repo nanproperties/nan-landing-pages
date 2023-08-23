@@ -183,11 +183,9 @@ img.developments-image {
       </header>
       <section class="section">
         {%- if f_associated-agent-team -%}<div class="builder-communities-agent-outer-container">
-          <div id="w-node-_9fe016de-ebc1-faff-0ec9-ace1af1da19e-747f63b7" class="w-layout-layout builder-communities-agent-inner-container wf-layout-layout">
-            <div id="w-node-_11930f17-91e2-a3ba-d2f8-56c7a4a89dd7-747f63b7" class="w-layout-cell cell">
-              <div>{%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<img src="{{ agentsOfBuilders.data.f_headshot.url }}" loading="lazy" alt="{{ agentsOfBuilders.data.f_headshot.alt }}"></div>
-            </div>
-            <div id="w-node-_7a763fde-dcde-aae1-9dd5-38068d39f8f8-747f63b7" class="w-layout-cell builder-communities-agent-details-cell">
+          <div class="builder-communities-agent-inner-container">
+            <div>{%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<img src="{{ agentsOfBuilders.data.f_headshot.url }}" loading="lazy" alt="{{ agentsOfBuilders.data.f_headshot.alt }}"></div>
+            <div class="builder-communities-agent-details-cell">
               <div class="overline">{{ texts.53710741 }}</div>
               {%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<h2>{{ agentsOfBuilders.data.title }}</h2>
               <div class="orange-divider"></div>
