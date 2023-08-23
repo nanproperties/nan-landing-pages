@@ -6,9 +6,11 @@ slug: 70-w-broad-oaks-drive
 f_image:
   url: https://development.nanproperties.com/assets/external/60a58237d825400c6b880194_img-1.jpeg
   alt: null
-updated-on: "2021-05-19T21:45:18.933Z"
-created-on: "2021-05-19T21:25:11.324Z"
-published-on: "2021-05-19T22:05:47.033Z"
-layout: "[luxury-listings-page].html"
+updated-on: '2021-05-19T21:45:18.933Z'
+created-on: '2021-05-19T21:25:11.324Z'
+published-on: '2021-05-19T22:05:47.033Z'
+layout: '[luxury-listings-page].html'
 tags: luxury-listings-page
 ---
+
+

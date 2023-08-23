@@ -17,7 +17,7 @@ f_bio: >-
   hospitality found within the city and can be found shopping for new home decor
   or trying out the newest restaurants when not with her clients. Specializing
   in residential real estate, call Nancy Ramos for an honest, reliable and
-  hardworking Realtor.
+  hardworking Realtor. 
 title: Nancy Ramos
 f_title: Realtor Associate
 f_headshot:
@@ -25,10 +25,12 @@ f_headshot:
     https://development.nanproperties.com/assets/external/62150711b59fce062605d265_web20capture_22-2-2022_95342_drive.google.com.jpeg
   alt: null
 slug: nancy-ramos
-updated-on: "2022-02-22T16:01:32.552Z"
-created-on: "2022-02-22T16:01:32.552Z"
-published-on: "2022-03-17T16:40:53.415Z"
+updated-on: '2022-02-22T16:01:32.552Z'
+created-on: '2022-02-22T16:01:32.552Z'
+published-on: '2022-03-17T16:40:53.415Z'
 f_if-team-is-this-person-the-team-s-lead: false
-layout: "[agents].html"
+layout: '[agents].html'
 tags: agents
 ---
+
+

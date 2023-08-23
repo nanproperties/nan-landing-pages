@@ -6,9 +6,9 @@ f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-
 title: Rodeo Palms
 slug: rodeo-palms
 f_agent-2: cms/agents/ana-salazar.md
-updated-on: "2023-03-07T15:59:36.393Z"
-created-on: "2023-03-06T20:02:24.411Z"
-published-on: "2023-03-08T05:05:12.403Z"
+updated-on: '2023-03-07T15:59:36.393Z'
+created-on: '2023-03-06T20:02:24.411Z'
+published-on: '2023-03-08T05:05:12.403Z'
 f_bathrooms: 3.5-4
 f_bedrooms: 4-5
 f_builder: cms/builders/saratoga-homes.md
@@ -61,6 +61,8 @@ f_description: >-
   a serene and picturesque neighborhood, our community offers easy access to
   shopping, dining, and entertainment options, as well as top-rated schools and
   parks. Come discover the perfect place to call home in our new community.
-layout: "[new-homes].html"
+layout: '[new-homes].html'
 tags: new-homes
 ---
+
+

@@ -12,9 +12,11 @@ f_builder-logo:
     https://development.nanproperties.com/assets/external/6081e6c35452d57ed87ae5cf_6077bf42f4fa19df5c95dbeb_6034719323d753503a5100165daaf_9617-w181-h181-b1-p0-.jpeg
   alt: null
 slug: j-patrick
-updated-on: "2021-04-22T21:12:35.863Z"
-created-on: "2021-04-22T21:12:35.863Z"
-published-on: "2021-04-22T21:13:29.827Z"
-layout: "[builders].html"
+updated-on: '2021-04-22T21:12:35.863Z'
+created-on: '2021-04-22T21:12:35.863Z'
+published-on: '2021-04-22T21:13:29.827Z'
+layout: '[builders].html'
 tags: builders
 ---
+
+

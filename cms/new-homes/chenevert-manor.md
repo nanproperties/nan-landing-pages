@@ -1,12 +1,12 @@
 ---
 f_zip-code: 77004
-f_square-footage: "3603"
-f_bathrooms: "4.5"
+f_square-footage: '3603'
+f_bathrooms: '4.5'
 f_development-headline: Contemporary Home in The Museum District
 f_street-address: 5208 Chenevert
 f_city: Houston
 title: Chenevert Manor
-f_bedrooms: "4"
+f_bedrooms: '4'
 f_price-range: $500k - $1MM
 f_description: >-
   Located in the heart of the Museum District, IKLO homes brings you the perfect
@@ -35,14 +35,16 @@ f_image-gallery:
       https://development.nanproperties.com/assets/external/6081e6901637e767192244ae_6077c89dd41ef966ceee83b5_605b9e1f151b1img-3-1.jpeg
     alt: null
 f_agent-2: cms/agents/thomas-eureste.md
-updated-on: "2023-02-06T14:10:02.832Z"
-created-on: "2021-04-22T21:11:44.303Z"
-published-on: "2023-02-07T15:50:21.090Z"
+updated-on: '2023-02-06T14:10:02.832Z'
+created-on: '2021-04-22T21:11:44.303Z'
+published-on: '2023-02-07T15:50:21.090Z'
 f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_builder: cms/builders/iklo-homes.md
 f_coming-soon: false
 f_is-this-a-55-community: false
-layout: "[new-homes].html"
+layout: '[new-homes].html'
 tags: new-homes
 ---
+
+

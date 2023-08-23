@@ -13,9 +13,9 @@ f_featured-image:
   alt: null
 slug: green-oaks-estates
 f_agent-2: cms/agents/jose-nieto-2.md
-updated-on: "2023-07-20T17:45:23.722Z"
-created-on: "2021-07-20T13:55:04.436Z"
-published-on: "2023-07-21T22:24:16.481Z"
+updated-on: '2023-07-20T17:45:23.722Z'
+created-on: '2021-07-20T13:55:04.436Z'
+published-on: '2023-07-21T22:24:16.481Z'
 f_builder: cms/builders/sbd-investment.md
 f_price-range: Starting in the 350's
 f_description: >
@@ -55,6 +55,8 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/64b972aae42f8ea9e918f619_rmm_2142-hdr.jpg
     alt: null
-layout: "[new-homes].html"
+layout: '[new-homes].html'
 tags: new-homes
 ---
+
+

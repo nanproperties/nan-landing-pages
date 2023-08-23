@@ -1,8 +1,8 @@
 ---
 f_affiliate-url-2: https://www.faithwilsongroup.com
 title: Faith Wilson Group
-f_latitude: "39.9824062"
-f_longitude: "-83.0543597"
+f_latitude: '39.9824062'
+f_longitude: '-83.0543597'
 f_street-address-2: 1838 West 1st Avenue­
 f_city-2: Vancouver­
 f_state-addbreviated-2: BC­
@@ -14,9 +14,11 @@ f_affiliate-logo-2:
   alt: null
 slug: faith-wilson-group
 f_region-2: cms/affiliate-regions/north-central-america.md
-updated-on: "2021-06-02T23:43:08.007Z"
-created-on: "2021-06-02T23:43:08.007Z"
-published-on: "2021-06-02T23:48:16.338Z"
-layout: "[all-affiliates].html"
+updated-on: '2021-06-02T23:43:08.007Z'
+created-on: '2021-06-02T23:43:08.007Z'
+published-on: '2021-06-02T23:48:16.338Z'
+layout: '[all-affiliates].html'
 tags: all-affiliates
 ---
+
+

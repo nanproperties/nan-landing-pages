@@ -3,11 +3,11 @@ f_development-video-url:
   url: https://youtu.be/3KvmyG7aUyA
 f_zip-code: 77009
 f_square-footage: 1,758 - 1,931
-f_bathrooms: "2.5"
+f_bathrooms: '2.5'
 f_street-address: 202 Fulton St, Houston, TX 77009
 f_city: Houston
 title: Fulton Station
-f_bedrooms: "3"
+f_bedrooms: '3'
 f_price-range: $200k - $500k
 f_description: >-
   Welcome home to Lennar’s newest and most central urban location, Fulton
@@ -35,14 +35,16 @@ f_image-gallery:
       https://development.nanproperties.com/assets/external/6081e6931f9db9ae877f71ba_6077c89e4baced10cb739a53_605b9d7bc9363content_fulton2.jpeg
     alt: null
 f_agent-2: cms/agents/nan-properties.md
-updated-on: "2023-02-06T14:05:38.480Z"
-created-on: "2021-04-22T21:11:48.069Z"
-published-on: "2023-02-07T15:50:21.090Z"
+updated-on: '2023-02-06T14:05:38.480Z'
+created-on: '2021-04-22T21:11:48.069Z'
+published-on: '2023-02-07T15:50:21.090Z'
 f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_builder: cms/builders/lennar-homes.md
 f_coming-soon: false
 f_is-this-a-55-community: false
-layout: "[new-homes].html"
+layout: '[new-homes].html'
 tags: new-homes
 ---
+
+

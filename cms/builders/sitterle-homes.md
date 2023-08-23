@@ -11,9 +11,11 @@ f_builder-logo:
     https://development.nanproperties.com/assets/external/6081e6c71f9db931c27f7629_6077bf41fcff118bf7a9451a_6034716a5401asitterle-logo2.png
   alt: null
 slug: sitterle-homes
-updated-on: "2021-04-22T21:12:39.747Z"
-created-on: "2021-04-22T21:12:39.747Z"
-published-on: "2021-04-22T21:13:29.827Z"
-layout: "[builders].html"
+updated-on: '2021-04-22T21:12:39.747Z'
+created-on: '2021-04-22T21:12:39.747Z'
+published-on: '2021-04-22T21:13:29.827Z'
+layout: '[builders].html'
 tags: builders
 ---
+
+

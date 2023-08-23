@@ -1,12 +1,12 @@
 ---
 f_zip-code: 77091
-f_square-footage: "1915"
-f_bathrooms: "2.5"
+f_square-footage: '1915'
+f_bathrooms: '2.5'
 f_development-headline: Beautiful new construction home
 f_street-address: 5019 Creekmont Drive
 f_city: Houston
 title: Creekmont Drive
-f_bedrooms: "3"
+f_bedrooms: '3'
 f_price-range: $200k - $500k
 f_description: >-
   This beautiful new construction home will be ready by summer and loaded with
@@ -43,14 +43,16 @@ f_image-gallery:
       https://development.nanproperties.com/assets/external/6081e6903d445a652ee612e4_6077c899b27f2a03347b38b9_604848a742051360aa673487740091bc226fc62e64d29-cc_ft_384.jpeg
     alt: null
 f_agent-2: cms/agents/jason-nguyen.md
-updated-on: "2022-12-13T16:07:39.354Z"
-created-on: "2021-04-22T21:11:45.647Z"
-published-on: "2022-12-13T22:30:49.780Z"
+updated-on: '2022-12-13T16:07:39.354Z'
+created-on: '2021-04-22T21:11:45.647Z'
+published-on: '2022-12-13T22:30:49.780Z'
 f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_builder: cms/builders/spring-w-homes.md
 f_coming-soon: false
 f_is-this-a-55-community: false
-layout: "[new-homes].html"
+layout: '[new-homes].html'
 tags: new-homes
 ---
+
+

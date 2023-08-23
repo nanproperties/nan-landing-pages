@@ -1,7 +1,7 @@
 ---
 f_email: yvonne@nanproperties.com
 f_instagram-handle: yvonnepruneda
-f_cell-phone: "C: 832.374.2708"
+f_cell-phone: 'C: 832.374.2708'
 f_bio: >-
   Yvonne Pruneda joined Nan & Company Properties in 2015, bringing with her a
   wealth of business, investment and sales knowledge and experience. As a native
@@ -26,17 +26,19 @@ f_bio: >-
   keeping fit through running, watching movies, dining out and spending time
   with her Shih Tzu, Paris.
 title: Yvonne Pruneda
-f_title: "Realtor Associate "
+f_title: 'Realtor Associate '
 slug: yvonne-pruneda
-updated-on: "2022-05-26T01:59:50.682Z"
-created-on: "2021-12-30T22:03:06.223Z"
-published-on: "2022-05-26T02:03:32.545Z"
+updated-on: '2022-05-26T01:59:50.682Z'
+created-on: '2021-12-30T22:03:06.223Z'
+published-on: '2022-05-26T02:03:32.545Z'
 f_if-team-is-this-person-the-team-s-lead: true
 f_headshot:
   url: >-
     https://development.nanproperties.com/assets/external/627ee9011115e6e34034abfe_optimized_663d59c5c95b9064e84d75c7e9820e89.jpeg
   alt: null
 f_team: cms/teams/the-yvonne-pruneda-group.md
-layout: "[agents].html"
+layout: '[agents].html'
 tags: agents
 ---
+
+

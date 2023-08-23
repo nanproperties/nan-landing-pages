@@ -1,7 +1,7 @@
 ---
 f_email: lisa.peltier@nanproperties.com
-f_title: "Realtor Associate "
-f_cell-phone: " 832.370.5664"
+f_title: 'Realtor Associate '
+f_cell-phone: ' 832.370.5664'
 f_bio: >-
   Lisa Peltier has been in the real estate industry for over half a decade. Her
   extensive knowledge of the Houston area, coupled with her charisma and love of
@@ -23,13 +23,15 @@ f_bio: >-
   area, call Lisa Peltier for all of your real estate needs
 title: Lisa Peltier
 slug: lisa-peltier
-updated-on: "2021-08-11T16:39:34.977Z"
-created-on: "2021-08-11T14:49:44.749Z"
-published-on: "2021-08-11T16:56:59.101Z"
+updated-on: '2021-08-11T16:39:34.977Z'
+created-on: '2021-08-11T14:49:44.749Z'
+published-on: '2021-08-11T16:56:59.101Z'
 f_headshot:
   url: https://development.nanproperties.com/assets/external/6113e46817a4a479d7ba63f8_image204.jpg
   alt: null
 f_if-team-is-this-person-the-team-s-lead: false
-layout: "[agents].html"
+layout: '[agents].html'
 tags: agents
 ---
+
+

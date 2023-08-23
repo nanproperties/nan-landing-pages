@@ -11,9 +11,11 @@ f_headshot:
     https://development.nanproperties.com/assets/external/627d838c670af56a925c638f_optimized_7f659869d77faed70a7b80c902e929ab.jpeg
   alt: null
 f_team: cms/teams/the-nikki-hohman-team.md
-updated-on: "2022-10-18T05:34:32.335Z"
-created-on: "2022-05-12T22:00:50.618Z"
-published-on: "2022-10-18T05:41:56.977Z"
-layout: "[agents].html"
+updated-on: '2022-10-18T05:34:32.335Z'
+created-on: '2022-05-12T22:00:50.618Z'
+published-on: '2022-10-18T05:41:56.977Z'
+layout: '[agents].html'
 tags: agents
 ---
+
+

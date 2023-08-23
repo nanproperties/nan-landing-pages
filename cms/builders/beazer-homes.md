@@ -12,9 +12,9 @@ f_builder-logo:
   url: https://development.nanproperties.com/assets/external/6077bf3f3f6057fc0459e5cd_603470d20a2c6beazer_logo.png
   alt: null
 slug: beazer-homes
-updated-on: "2021-04-16T02:42:41.197Z"
-created-on: "2021-04-15T04:21:20.034Z"
-published-on: "2021-04-22T21:13:29.827Z"
+updated-on: '2021-04-16T02:42:41.197Z'
+created-on: '2021-04-15T04:21:20.034Z'
+published-on: '2021-04-22T21:13:29.827Z'
 f_builder-video-link-4: https://www.youtube.com/watch?v=ERtKzKYqwzU
 f_builder-website-url: https://www.beazer.com/
 f_builder-youtube-id: ERtKzKYqwzU
@@ -22,6 +22,8 @@ f_builder-featured-image:
   url: >-
     https://development.nanproperties.com/assets/external/6078f98eab5fded85e741edf_rb1b95e64c55570e7e379ec9d09f786e8.jpeg
   alt: null
-layout: "[builders].html"
+layout: '[builders].html'
 tags: builders
 ---
+
+

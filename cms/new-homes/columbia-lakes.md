@@ -5,9 +5,9 @@ f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77486
 f_square-footage: 2,213-2,227
-f_bathrooms: "3"
+f_bathrooms: '3'
 f_street-address: 226 Edgewater Drive
-f_city: "West Columbia "
+f_city: 'West Columbia '
 title: Columbia Lakes
 f_bedrooms: 3-4
 f_description: >-
@@ -57,9 +57,11 @@ f_image-gallery:
     alt: null
 f_builder: cms/builders/lion-homes-llc.md
 f_agent-2: cms/agents/lisa-peltier.md
-updated-on: "2023-05-31T15:07:25.714Z"
-created-on: "2023-05-31T15:07:25.714Z"
-published-on: "2023-06-28T18:44:31.072Z"
-layout: "[new-homes].html"
+updated-on: '2023-05-31T15:07:25.714Z'
+created-on: '2023-05-31T15:07:25.714Z'
+published-on: '2023-06-28T18:44:31.072Z'
+layout: '[new-homes].html'
 tags: new-homes
 ---
+
+

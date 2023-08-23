@@ -6,10 +6,10 @@ f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-
 f_zip-code: 77091
 f_square-footage: 1,562-1,928
 f_bathrooms: 2.5-3.5
-f_street-address: "1102 Paul Quinn St "
+f_street-address: '1102 Paul Quinn St '
 f_city: Houston
 title: Urban Space
-f_bedrooms: "3"
+f_bedrooms: '3'
 slug: urban-space
 f_image-gallery:
   - url: >-
@@ -56,9 +56,9 @@ f_image-gallery:
     alt: null
 f_agent-2: cms/agents/nancy-ramos.md
 f_builder: cms/builders/new-era-living.md
-updated-on: "2022-08-16T21:25:08.982Z"
-created-on: "2022-02-22T16:08:50.874Z"
-published-on: "2022-08-16T22:54:24.163Z"
+updated-on: '2022-08-16T21:25:08.982Z'
+created-on: '2022-02-22T16:08:50.874Z'
+published-on: '2022-08-16T22:54:24.163Z'
 f_description: >-
   Urban Space is a charming new gated community located at 1002 G Paul Quinn St.
   Situated in the highly coveted Tidwell area, Urban Space is comprised of seven
@@ -72,6 +72,8 @@ f_featured-image:
     https://development.nanproperties.com/assets/external/6230ac7cbd3580c6e28c058a_conjunto20paul20quinn20st20view202202201.jpg
   alt: null
 f_price-range: $319,900-364,900
-layout: "[new-homes].html"
+layout: '[new-homes].html'
 tags: new-homes
 ---
+
+

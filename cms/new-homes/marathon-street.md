@@ -1,12 +1,12 @@
 ---
 f_zip-code: 77018
 f_square-footage: 1,461
-f_bathrooms: "2.5"
+f_bathrooms: '2.5'
 f_development-headline: Peaceful Living In Independence Heights
 f_street-address: 204 Marathon Street A
 f_city: Houston
 title: Marathon Street
-f_bedrooms: "3"
+f_bedrooms: '3'
 f_price-range: $200k - $500k
 f_description: >-
   This brand new, never before lived in two story is situated in the highly
@@ -43,14 +43,16 @@ f_image-gallery:
       https://development.nanproperties.com/assets/external/6081e6988e52b76b20107c8b_6077c89764102ed180b82cbe_60348f0538b03img-6-6.jpeg
     alt: null
 f_agent-2: cms/agents/nan-properties.md
-updated-on: "2023-02-06T14:05:18.324Z"
-created-on: "2021-04-22T21:11:52.680Z"
-published-on: "2023-02-07T15:50:21.090Z"
+updated-on: '2023-02-06T14:05:18.324Z'
+created-on: '2021-04-22T21:11:52.680Z'
+published-on: '2023-02-07T15:50:21.090Z'
 f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_builder: cms/builders/vida-group.md
 f_coming-soon: false
 f_is-this-a-55-community: false
-layout: "[new-homes].html"
+layout: '[new-homes].html'
 tags: new-homes
 ---
+
+

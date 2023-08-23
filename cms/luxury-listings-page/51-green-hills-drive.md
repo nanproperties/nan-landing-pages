@@ -7,9 +7,11 @@ slug: 51-green-hills-drive
 f_image:
   url: https://development.nanproperties.com/assets/external/60b57b24a8d960777e9e3bad_cropped5.jpeg
   alt: null
-updated-on: "2021-06-01T00:47:21.009Z"
-created-on: "2021-06-01T00:11:16.240Z"
-published-on: "2021-06-01T00:47:32.731Z"
-layout: "[luxury-listings-page].html"
+updated-on: '2021-06-01T00:47:21.009Z'
+created-on: '2021-06-01T00:11:16.240Z'
+published-on: '2021-06-01T00:47:32.731Z'
+layout: '[luxury-listings-page].html'
 tags: luxury-listings-page
 ---
+
+

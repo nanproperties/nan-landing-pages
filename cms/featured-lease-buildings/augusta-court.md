@@ -7,9 +7,9 @@ f_background-image:
   alt: null
 slug: augusta-court
 f_area: cms/leasing-areas/galleria-river-oaks.md
-updated-on: "2022-03-28T17:04:10.821Z"
-created-on: "2022-03-24T21:00:54.096Z"
-published-on: "2022-03-28T17:17:01.574Z"
+updated-on: '2022-03-28T17:04:10.821Z'
+created-on: '2022-03-24T21:00:54.096Z'
+published-on: '2022-03-28T17:17:01.574Z'
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/623cedc5703a171088df49fa_img_2861201.jpeg
@@ -50,8 +50,8 @@ f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/623cedc50cf2761dbc2d4fc4_ex7.jpeg
     alt: null
 f_street-address: 1819 Augusta Drive
-f_zip-code: "77057"
-layout: "[featured-lease-buildings].html"
+f_zip-code: '77057'
+layout: '[featured-lease-buildings].html'
 tags: featured-lease-buildings
 ---
 

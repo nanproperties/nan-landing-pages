@@ -6,9 +6,9 @@ f_background-image:
   alt: null
 slug: tinsley-on-the-park
 f_area: cms/leasing-areas/mid-town-montrose.md
-updated-on: "2022-03-28T17:29:34.335Z"
-created-on: "2022-01-08T00:50:34.652Z"
-published-on: "2022-03-28T17:37:31.387Z"
+updated-on: '2022-03-28T17:29:34.335Z'
+created-on: '2022-01-08T00:50:34.652Z'
+published-on: '2022-03-28T17:37:31.387Z'
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241f069ca47ef66e316ec00_content_04.jpeg
@@ -18,8 +18,8 @@ f_gallery-images:
 f_street-address: 919 Gillette St
 f_video-tour:
   url: https://www.youtube.com/watch?v=p0zoYG6QqH4
-f_zip-code: "77019"
-layout: "[featured-lease-buildings].html"
+f_zip-code: '77019'
+layout: '[featured-lease-buildings].html'
 tags: featured-lease-buildings
 ---
 

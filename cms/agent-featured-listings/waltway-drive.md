@@ -11,9 +11,11 @@ f_featured-image:
   alt: null
 slug: waltway-drive
 f_agent: cms/agents/andrew-lin.md
-updated-on: "2021-04-15T05:09:50.204Z"
-created-on: "2021-04-15T05:09:50.204Z"
-published-on: "2021-04-22T21:13:29.827Z"
-layout: "[agent-featured-listings].html"
+updated-on: '2021-04-15T05:09:50.204Z'
+created-on: '2021-04-15T05:09:50.204Z'
+published-on: '2021-04-22T21:13:29.827Z'
+layout: '[agent-featured-listings].html'
 tags: agent-featured-listings
 ---
+
+

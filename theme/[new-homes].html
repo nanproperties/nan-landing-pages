@@ -61,7 +61,7 @@ img.developments-image {
 </style>
         </div>
       </div>
-      <div class="section development-content-section wf-section">
+      <div class="section development-content-section">
         <aside id="w-node-c4348008-d97f-5a0a-0a57-cabeac9dd231-327f63b9" class="aside development-aside">
           {% assign ref = f_agent-2 | resolveReference %}{%- unless ref.data.title == "Nan Properties" -%}<div class="aside-headshot-wrapper">{%- assign agentsOfNew-homes = f_agent-2 | resolveReference -%}{% assign ref = f_agent-2 | resolveReference %}{%- unless ref.data.title == "Nan Properties" -%}<img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;24vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ agentsOfNew-homes.data.f_headshot.url }}" alt="{{ agentsOfNew-homes.data.f_headshot.alt }}" class="image-3">{%- endunless -%}</div>{%- endunless -%}
           <div class="aside-name-wrapper">
@@ -150,9 +150,9 @@ img.developments-image {
         </section>
       </div>
       {%- unless f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info == true -%}{%- unless f_look-book-q2-please-enter-pardot-form-url -%}<div>
-        <div id="cms-form" class="section cms-form wf-section"></div>
+        <div id="cms-form" class="section cms-form"></div>
       </div>{%- endunless -%}{%- endunless -%}
-      {%- if f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info == true -%}{%- if f_look-book-q2-please-enter-pardot-form-url -%}<div id="cms-form" class="section cms-form wf-section">
+      {%- if f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info == true -%}{%- if f_look-book-q2-please-enter-pardot-form-url -%}<div id="cms-form" class="section cms-form">
         <h2 class="h3 contact-us-title">{{ texts.4bce573e }}</h2>
         <div class="w-embed w-iframe"><iframe allowtransparency="true" frameborder="0" height="700" src="{{ f_look-book-q2-please-enter-pardot-form-url }}" style="border: 0" type="text/html" width="100%"></iframe></div>
       </div>{%- endif -%}{%- endif -%}

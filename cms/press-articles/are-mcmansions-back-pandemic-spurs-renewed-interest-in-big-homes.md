@@ -12,11 +12,13 @@ f_image-or-screenshot-of-article:
     https://development.nanproperties.com/assets/external/60808570068c6e056e1f1d11_screen_shot_2021-04-21_at_11.07.55_AM.png
   alt: null
 slug: are-mcmansions-back-pandemic-spurs-renewed-interest-in-big-homes
-updated-on: "2021-04-21T20:05:05.462Z"
-created-on: "2021-04-21T20:05:05.462Z"
-published-on: "2021-04-22T21:13:29.827Z"
+updated-on: '2021-04-21T20:05:05.462Z'
+created-on: '2021-04-21T20:05:05.462Z'
+published-on: '2021-04-22T21:13:29.827Z'
 f_is-this-a-featured-article: false
 f_is-this-a-developer-services-press-article: false
-layout: "[press-articles].html"
+layout: '[press-articles].html'
 tags: press-articles
 ---
+
+

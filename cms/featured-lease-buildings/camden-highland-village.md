@@ -3,9 +3,9 @@ f_destination-url: https://www.nanproperties.com/featured-lease-buildings/camden
 title: Camden Highland Village
 slug: camden-highland-village
 f_area: cms/leasing-areas/galleria-river-oaks.md
-updated-on: "2022-03-28T17:21:09.867Z"
-created-on: "2022-01-17T21:11:24.077Z"
-published-on: "2022-03-28T17:37:31.387Z"
+updated-on: '2022-03-28T17:21:09.867Z'
+created-on: '2022-01-17T21:11:24.077Z'
+published-on: '2022-03-28T17:37:31.387Z'
 f_background-image:
   url: >-
     https://development.nanproperties.com/assets/external/61e5dff1928df1b946c09656_1-camden-highland-village-apartments.jpeg
@@ -19,8 +19,8 @@ f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241ee62fe700a08dec5184b_22-camden-highland-village-3.jpg
     alt: null
 f_street-address: 3939 W Alabama St
-f_zip-code: "77027"
-layout: "[featured-lease-buildings].html"
+f_zip-code: '77027'
+layout: '[featured-lease-buildings].html'
 tags: featured-lease-buildings
 ---
 

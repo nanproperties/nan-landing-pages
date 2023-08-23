@@ -9,9 +9,11 @@ f_builder-logo:
 f_builder-featured-image:
   url: https://development.nanproperties.com/assets/external/6077bf4a249474738919feaf_oriole-.jpeg
   alt: null
-updated-on: "2021-04-15T04:21:30.810Z"
-created-on: "2021-04-15T04:21:30.810Z"
-published-on: "2021-04-22T21:13:29.827Z"
-layout: "[builders].html"
+updated-on: '2021-04-15T04:21:30.810Z'
+created-on: '2021-04-15T04:21:30.810Z'
+published-on: '2021-04-22T21:13:29.827Z'
+layout: '[builders].html'
 tags: builders
 ---
+
+

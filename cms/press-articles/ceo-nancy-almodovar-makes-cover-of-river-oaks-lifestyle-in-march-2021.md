@@ -11,11 +11,13 @@ f_image-or-screenshot-of-article:
     https://development.nanproperties.com/assets/external/60808561cee010268a28025e_screen_shot_2021-04-21_at_8.46.15_AM.png
   alt: null
 slug: ceo-nancy-almodovar-makes-cover-of-river-oaks-lifestyle-in-march-2021
-updated-on: "2021-04-21T20:04:50.060Z"
-created-on: "2021-04-21T20:04:50.060Z"
-published-on: "2021-04-22T21:13:29.827Z"
+updated-on: '2021-04-21T20:04:50.060Z'
+created-on: '2021-04-21T20:04:50.060Z'
+published-on: '2021-04-22T21:13:29.827Z'
 f_is-this-a-featured-article: false
 f_is-this-a-developer-services-press-article: false
-layout: "[press-articles].html"
+layout: '[press-articles].html'
 tags: press-articles
 ---
+
+

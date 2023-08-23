@@ -4,8 +4,8 @@ f_sold: false
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77009
-f_square-footage: "4,259 "
-f_bathrooms: "4.5"
+f_square-footage: '4,259 '
+f_bathrooms: '4.5'
 f_street-address: 951 Byrne
 f_city: Houston
 title: 951 Byrne
@@ -26,9 +26,9 @@ f_description: >-
   gym, hobby room, etc. Zoned to prestigious Travis Elementary.
 slug: 951-byrne
 f_agent-2: cms/agents/ana-salazar.md
-updated-on: "2023-07-11T13:59:33.102Z"
-created-on: "2023-07-03T20:26:32.986Z"
-published-on: "2023-07-13T19:12:54.469Z"
+updated-on: '2023-07-11T13:59:33.102Z'
+created-on: '2023-07-03T20:26:32.986Z'
+published-on: '2023-07-13T19:12:54.469Z'
 f_builder: cms/builders/eleviz-llc.md
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/64ad5f84ff08de38f942a9bc_byrne.jpeg
@@ -68,6 +68,8 @@ f_image-gallery:
     alt: null
 f_matterport-url: https://my.matterport.com/show/?m=rhGuNtzjKGy
 f_price-range: 1,830,000
-layout: "[new-homes].html"
+layout: '[new-homes].html'
 tags: new-homes
 ---
+
+

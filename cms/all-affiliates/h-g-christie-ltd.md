@@ -1,8 +1,8 @@
 ---
 f_affiliate-url-2: http://www.hgchristie.com
 title: H G Christie Ltd
-f_latitude: "25.07218"
-f_longitude: "-77.33789"
+f_latitude: '25.07218'
+f_longitude: '-77.33789'
 f_street-address-2: Millar's Court, P.O. Box N-8164­
 f_city-2: Nassau New Providence­
 f_state-addbreviated-2: NP­
@@ -13,9 +13,11 @@ f_affiliate-logo-2:
   alt: null
 slug: h-g-christie-ltd
 f_region-2: cms/affiliate-regions/north-central-america.md
-updated-on: "2021-06-02T23:43:38.430Z"
-created-on: "2021-06-02T23:43:38.430Z"
-published-on: "2021-06-02T23:48:16.338Z"
-layout: "[all-affiliates].html"
+updated-on: '2021-06-02T23:43:38.430Z'
+created-on: '2021-06-02T23:43:38.430Z'
+published-on: '2021-06-02T23:48:16.338Z'
+layout: '[all-affiliates].html'
 tags: all-affiliates
 ---
+
+

@@ -5,12 +5,12 @@ f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 title: Tulane Homes
 slug: tulane-homes
-updated-on: "2023-04-06T15:03:32.041Z"
-created-on: "2023-04-04T17:32:52.980Z"
-published-on: "2023-04-06T21:38:06.971Z"
+updated-on: '2023-04-06T15:03:32.041Z'
+created-on: '2023-04-04T17:32:52.980Z'
+published-on: '2023-04-06T21:38:06.971Z'
 f_agent-2: cms/agents/thalina-garcia.md
-f_bathrooms: "2.5"
-f_bedrooms: "3"
+f_bathrooms: '2.5'
+f_bedrooms: '3'
 f_builder: cms/builders/derive-development.md
 f_city: Houston
 f_description: >-
@@ -58,6 +58,8 @@ f_price-range: 428,900-434,900
 f_square-footage: 1,778
 f_street-address: 303 Blueberry Street
 f_zip-code: 77018
-layout: "[new-homes].html"
+layout: '[new-homes].html'
 tags: new-homes
 ---
+
+

@@ -6,10 +6,12 @@ slug: 46-e-kitty-hawk-street
 f_image:
   url: https://development.nanproperties.com/assets/external/60a58238342f6c23decf33a3_img-1.jpeg
   alt: null
-updated-on: "2021-06-01T00:46:49.352Z"
-created-on: "2021-05-19T21:25:13.092Z"
-published-on: "2021-06-01T00:47:32.731Z"
+updated-on: '2021-06-01T00:46:49.352Z'
+created-on: '2021-05-19T21:25:13.092Z'
+published-on: '2021-06-01T00:47:32.731Z'
 f_types: Getaway
-layout: "[luxury-listings-page].html"
+layout: '[luxury-listings-page].html'
 tags: luxury-listings-page
 ---
+
+

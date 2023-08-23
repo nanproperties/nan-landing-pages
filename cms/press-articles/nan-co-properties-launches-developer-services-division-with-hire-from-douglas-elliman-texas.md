@@ -16,9 +16,11 @@ f_image-or-screenshot-of-article:
   alt: null
 slug: >-
   nan-co-properties-launches-developer-services-division-with-hire-from-douglas-elliman-texas
-updated-on: "2021-06-29T21:29:23.098Z"
-created-on: "2021-06-29T21:28:54.997Z"
-published-on: "2021-06-29T21:32:55.028Z"
-layout: "[press-articles].html"
+updated-on: '2021-06-29T21:29:23.098Z'
+created-on: '2021-06-29T21:28:54.997Z'
+published-on: '2021-06-29T21:32:55.028Z'
+layout: '[press-articles].html'
 tags: press-articles
 ---
+
+

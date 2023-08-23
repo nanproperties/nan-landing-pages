@@ -2,11 +2,11 @@
 f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_square-footage: 2,648-2,984
-f_bathrooms: "3.5"
-f_street-address: "1801 Dunlavy "
+f_bathrooms: '3.5'
+f_street-address: '1801 Dunlavy '
 f_city: Houston
-title: "Square on Dunlavy "
-f_bedrooms: "3"
+title: 'Square on Dunlavy '
+f_bedrooms: '3'
 f_price-range: Mid 700's
 f_description: >-
   Welcome to the gorgeous community of The Sqaure on Dunlavy. This high-end
@@ -17,9 +17,9 @@ f_description: >-
 slug: square-on-dunlavy
 f_agent-2: cms/agents/zoya-hanif.md
 f_builder: cms/builders/iklo-homes.md
-updated-on: "2023-05-22T18:07:24.714Z"
-created-on: "2021-07-12T15:51:14.458Z"
-published-on: "2023-05-22T18:07:52.919Z"
+updated-on: '2023-05-22T18:07:24.714Z'
+created-on: '2021-07-12T15:51:14.458Z'
+published-on: '2023-05-22T18:07:52.919Z'
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/60ec6bb332f1c4c0dcca9042_final20rendering20_20041024_1.jpg
   alt: null
@@ -50,6 +50,8 @@ f_image-gallery:
   - url: https://development.nanproperties.com/assets/external/62fc0bf6bec70462fc913a21_dsc00736-2.jpg
     alt: null
 f_co-listing-agent: cms/agents/nancy-ramos.md
-layout: "[new-homes].html"
+layout: '[new-homes].html'
 tags: new-homes
 ---
+
+

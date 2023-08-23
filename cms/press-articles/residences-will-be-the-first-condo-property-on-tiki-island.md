@@ -9,16 +9,18 @@ f_media-outlet-excerpt: >-
   exclusive listing agent for its 70-unit condominium development, The
   Residences at Tiki Island near Galveston. The mixed-use project will include
   eight villas, a marina with restaurant and boathouse storage for more than
-  200
+  200 
 title: Residences Will be the First Condo Property on Tiki Island
 slug: residences-will-be-the-first-condo-property-on-tiki-island
 f_image-or-screenshot-of-article:
   url: >-
     https://development.nanproperties.com/assets/external/61f4a269363e1f81208c6fbc_screen20shot202022-01-2120at2010.10.09%20AM.png
   alt: null
-updated-on: "2022-01-29T02:11:58.976Z"
-created-on: "2022-01-29T02:11:58.976Z"
-published-on: "2022-01-29T02:19:28.834Z"
-layout: "[press-articles].html"
+updated-on: '2022-01-29T02:11:58.976Z'
+created-on: '2022-01-29T02:11:58.976Z'
+published-on: '2022-01-29T02:19:28.834Z'
+layout: '[press-articles].html'
 tags: press-articles
 ---
+
+
