@@ -71,14 +71,14 @@ img.developments-image {
           <p class="paragraph-2 builders-hero-paragraph">{{ f_builder-description }}</p>
           {%- if f_builder-youtube-id -%}<div class="w-embed w-iframe"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/{{ item.data['builder-youtube-id'] }}" frameborder="0" allowfullscreen=""></iframe></div></div>{%- endif -%}
           <div class="builder-communities-outer-container">
-            {%- assign collection = collections.builder-communities | filter: "f_builder,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
+            {%- assign collection = collections.builder-communities | filter: "f_builder,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
               {%- unless collection.length == 0 -%}<div role="list" class="grid builder-list-grid w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="builder-listings-item-wrapper w-dyn-item">
-                  <a href="{{ links.23 }}" class="builder-listings-item-image-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;50vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ item.data.f_featured-image.url }}" alt="{{ item.data.f_featured-image.alt }}" class="builder-listings-item-image"></a>
+                  
                   <div class="builder-listings-item-text-wrapper">
                     <h3 class="h5 builder-listings-item-title">{{ item.data.title }}</h3>
                     <div class="subtitle-2">{{ item.data.f_city }}</div>
-                    <a href="{{ links.-56bd5b01 }}" class="builder-listings-item-link">{{ texts.6a0835cf }}</a>
+                    
                   </div>
                 </div>{%- endfor -%}
               </div>{%- endunless -%}

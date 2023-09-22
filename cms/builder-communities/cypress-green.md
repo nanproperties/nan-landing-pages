@@ -1,13 +1,8 @@
 ---
-f_matterport-url: null
-f_look-book-q2-please-enter-pardot-form-url: null
 f_coming-soon: false
 f_is-this-a-55-community: false
 f_sold: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
-f_development-youtube-video-id: null
-f_neighborhood-if-different-than-city: null
-f_description: null
 f_zip-code: 77447
 f_square-footage: 1604 - 2817
 f_bathrooms: 2-3.5
