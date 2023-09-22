@@ -57,7 +57,7 @@ text-transform:none;
         {%- assign collection = collections.press-articles | filter: "f_is-this-a-featured-article,eq,true; f_is-this-a-developer-services-press-article,eq,true", "ALL", page.inputPath | sort: "-created-on" -%}<div class="press-featured-grid-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="grid press-featured-grid w-dyn-items">
             {%- for item in collection -%}<div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a95c-9a538fd9" role="listitem" class="press-featured-grid-item developer-services-press-page w-dyn-item">
-              <div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a95d-9a538fd9" class="press-featured-grid-item-image-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;46vw&quot;}]" src="{{ item.data.f_image-or-screenshot-of-article.url }}" alt="{{ item.data.title }}" class="press-featured-grid-item-image"></div>
+              <div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a95d-9a538fd9" class="press-featured-grid-item-image-wrapper"><img alt="{{ item.data.title }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;46vw&quot;}]" src="{{ item.data.f_image-or-screenshot-of-article.url }}" class="press-featured-grid-item-image"></div>
               <div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a95f-9a538fd9" class="press-featured-grid-item-title-wrapper">
                 <div class="overline press-featured-item-overline">{{ item.data.f_media-outlet-name }}</div>
                 <h3 class="h5 press-featured-item-title">{{ item.data.title }}</h3>
@@ -78,7 +78,7 @@ text-transform:none;
         {%- assign collection = collections.press-articles | filter: "f_is-this-a-featured-article,ne,true; f_is-this-a-developer-services-press-article,eq,true", "ALL", page.inputPath | sort: "-created-on" -%}<div class="press-all-grid-wrapper developer-services-press-page w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="grid press-all-grid developer-services-press-page w-dyn-items">
             {%- for item in collection -%}<div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a96e-9a538fd9" role="listitem" class="press-all-grid-item w-dyn-item">
-              <div class="press-all-grid-item-image-wrapper-copy"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;30vw&quot;}]" src="{{ item.data.f_image-or-screenshot-of-article.url }}" alt="{{ item.data.title }}" class="press-all-grid-item-image"></div>
+              <div class="press-all-grid-item-image-wrapper-copy"><img alt="{{ item.data.title }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;30vw&quot;}]" src="{{ item.data.f_image-or-screenshot-of-article.url }}" class="press-all-grid-item-image"></div>
               <div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a971-9a538fd9" class="press-all-grid-item-text-wrapper">
                 <div class="overline press-featured-item-overline">{{ item.data.f_media-outlet-name }}</div>
                 <h3 class="h5 press-all-item-title">{{ item.data.title }}</h3>
@@ -99,11 +99,11 @@ text-transform:none;
         <h2 class="h2 dev-services-redirect-title">{{ texts.-7e0cb60b }}</h2>
         <div class="w-layout-grid dev-services-redirect-grid">
           <a href="{{ links.3c59985 }}" class="dev-services-redirect-grid-item dev-services-builders-item w-inline-block">
-            <div class="dev-services-redirect-grid-item-image-wrapper"><img src="{{ images.-463cd93b.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;73vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;85vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;86vw&quot;}]" sizes="(max-width: 479px) 73vw, (max-width: 767px) 85vw, 86vw" alt="{{ images.-463cd93b.alt | trim | escape }}" class="dev-services-redirect-grid-item-image"></div>
+            <div class="dev-services-redirect-grid-item-image-wrapper"><img class="dev-services-redirect-grid-item-image" src="{{ images.-463cd93b.url }}" alt="{{ images.-463cd93b.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;73vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;85vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;86vw&quot;}]" sizes="(max-width: 479px) 73vw, (max-width: 767px) 85vw, 86vw" loading="lazy"></div>
             <div class="h5 dev-services-redirect-grid-item-text">{{ texts.-15b6939 }}</div>
           </a>
           <a href="{{ links.-c40d32 }}" class="dev-services-redirect-grid-item w-inline-block">
-            <div class="dev-services-redirect-grid-item-image-wrapper"><img src="{{ images.-7ce25bec.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;68vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;325.609375px&quot;}]" sizes="(max-width: 479px) 68vw, 325.609375px" alt="{{ images.-7ce25bec.alt | trim | escape }}" class="dev-services-redirect-grid-item-image"></div>
+            <div class="dev-services-redirect-grid-item-image-wrapper"><img class="dev-services-redirect-grid-item-image" src="{{ images.-7ce25bec.url }}" alt="{{ images.-7ce25bec.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;68vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;325.609375px&quot;}]" sizes="(max-width: 479px) 68vw, 325.609375px" loading="lazy"></div>
             <div class="h5 dev-services-redirect-grid-item-text">{{ texts.290af1 }}</div>
           </a>
           <a href="{{ links.-2e4dfb1 }}" class="dev-services-redirect-grid-item w-inline-block">

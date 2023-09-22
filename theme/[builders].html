@@ -184,7 +184,7 @@ img.developments-image {
       <section class="section">
         {%- if f_associated-agent-team -%}<div class="builder-communities-agent-outer-container">
           <div class="builder-communities-agent-inner-container">
-            <div>{%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<img src="{{ agentsOfBuilders.data.f_headshot.url }}" loading="lazy" alt="{{ agentsOfBuilders.data.f_headshot.alt }}"></div>
+            <div>{%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<img alt="{{ agentsOfBuilders.data.f_headshot.alt }}" loading="lazy" src="{{ agentsOfBuilders.data.f_headshot.url }}"></div>
             <div class="builder-communities-agent-details-cell">
               <div class="overline">{{ texts.53710741 }}</div>
               {%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<h2>{{ agentsOfBuilders.data.title }}</h2>

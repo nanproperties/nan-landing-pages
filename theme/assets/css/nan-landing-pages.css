@@ -962,6 +962,10 @@ a {
   margin-bottom: 40px;
 }
 
+.section.builder-hero-section.builder-community {
+  margin-top: 0;
+}
+
 .section.development-content-section {
   grid-column-gap: 32px;
   grid-row-gap: 32px;
@@ -4962,6 +4966,63 @@ a {
   display: grid;
 }
 
+.builder-community-image-grid-wrapper {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+
+.collection-list-4 {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+
+.builder-community-details-grid-wrapper {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.builder-community-details-list {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+
+.buildre-community-details-item {
+  background-color: #fafafa;
+  padding: 2rem 1rem;
+}
+
+.builder-communities-details---item-detail {
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1rem;
+}
+
+.builder-communities-details---item-stat {
+  color: #f16624;
+  text-align: center;
+  padding-bottom: 1rem;
+  font-family: freight-display-pro, sans-serif;
+  font-size: 2rem;
+  line-height: 2rem;
+}
+
+.builder-communities-map-embed-section {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 @media screen and (max-width: 991px) {
   .h2.mx-page-h2 {
     text-align: center;
@@ -5175,6 +5236,10 @@ a {
 
   .div-block-15.seahorse {
     grid-template-columns: 1fr 1fr;
+  }
+
+  .collection-list-4 {
+    grid-template-columns: 1fr 1fr 1fr;
   }
 }
 
@@ -5684,6 +5749,10 @@ a {
 
   .builder-communities-agent-details-cell, .cell {
     display: block;
+  }
+
+  .collection-list-4 {
+    grid-template-columns: 1fr 1fr 1fr;
   }
 }
 
@@ -6259,7 +6328,7 @@ a {
     display: flex;
   }
 
-  .builder-other-projects-list, .builder-other-projects-item-gallery-list {
+  .builder-other-projects-list, .builder-other-projects-item-gallery-list, .collection-list-4, .builder-community-details-list {
     grid-template-columns: 1fr;
   }
 }
