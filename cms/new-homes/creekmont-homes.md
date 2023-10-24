@@ -1,6 +1,6 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77091
@@ -39,9 +39,9 @@ f_featured-image:
 slug: creekmont-homes
 f_agent-2: cms/agents/geron-fuller.md
 f_builder: cms/builders/spring-w-homes.md
-updated-on: '2023-08-22T18:34:50.374Z'
+updated-on: '2023-10-09T13:44:22.097Z'
 created-on: '2022-06-16T20:25:05.624Z'
-published-on: '2023-08-23T01:07:15.744Z'
+published-on: '2023-10-24T16:30:34.519Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---
