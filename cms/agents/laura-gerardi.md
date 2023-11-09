@@ -35,7 +35,8 @@ f_bio: >-
   elevated level all over Houston. For a meticulous, hardworking agent you can
   trust, call Laura Gerardi today. 
 f_headshot:
-  url: https://development.nanproperties.com/assets/external/634e3c3f4575180c55dac234_laurag.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/634e3c3f4575180c55dac234_laurag.jpeg
   alt: null
 f_website: https://www.nanproperties.com/agents/88806-laura-gerardi
 layout: '[agents].html'

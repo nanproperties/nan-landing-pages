@@ -3,7 +3,8 @@ f_url: https://www.provenanceproperties.com/news/listing-of-the-month-52-calico-
 f_category: International
 title: 52 calico quay
 f_image:
-  url: https://development.nanproperties.com/assets/external/60a584971f9153a13147f26c_01.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60a584971f9153a13147f26c_01.jpeg
   alt: null
 slug: 52-calico-quay
 updated-on: '2021-06-01T00:24:39.970Z'

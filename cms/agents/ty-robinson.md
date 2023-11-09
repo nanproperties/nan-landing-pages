@@ -116,7 +116,8 @@ title: Ty Robinson
 f_title: Realtor Associate
 slug: ty-robinson
 f_headshot:
-  url: https://development.nanproperties.com/assets/external/6418f5ede20992d5f420c765_img_1766.JPG
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6418f5ede20992d5f420c765_IMG_1766.JPG
   alt: null
 updated-on: '2023-03-21T00:10:25.567Z'
 created-on: '2023-03-21T00:10:25.567Z'

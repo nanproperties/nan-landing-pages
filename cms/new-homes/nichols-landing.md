@@ -21,10 +21,12 @@ f_description: >-
   family park.
 slug: nichols-landing
 f_image-gallery:
-  - url: https://development.nanproperties.com/assets/external/628cebddd06191711a47eb7c_nichols20living20view201201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/628cebddd06191711a47eb7c_NICHOLS%20LIVING%20VIEW%20(1)%20(1).jpg
     alt: null
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/628ceb26390be5fb7e680a49_photo-2020-02-25-18-31-02202.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/628ceb26390be5fb7e680a49_PHOTO-2020-02-25-18-31-02%20(2).jpg
   alt: null
 f_builder: cms/builders/urbanlux.md
 f_agent-2: cms/agents/nikki-hohman.md

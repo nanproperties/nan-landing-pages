@@ -4,7 +4,8 @@ f_team-slogan: Local Experts. Global Network.
 title: The Luanne Marshall Team
 slug: the-luanne-marshall-team
 f_secondary-team-image:
-  url: https://development.nanproperties.com/assets/external/634e346a38bd644dcf983717_dsc05742.jpeg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/634e346a38bd644dcf983717_DSC05742.jpeg
   alt: null
 updated-on: '2022-10-18T05:33:42.124Z'
 created-on: '2022-10-18T05:07:35.797Z'

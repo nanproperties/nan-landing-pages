@@ -27,33 +27,42 @@ f_description: >-
   the living room.
 slug: columbia-lakes
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/647761fb55a3d4b07ea12ddf_20230525_113048.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/647761fb55a3d4b07ea12ddf_20230525_113048.jpg
   alt: null
 f_image-gallery:
   - url: >-
-      https://development.nanproperties.com/assets/external/647760c0b9f801c00694cc50_wood20haven20front20elevation201.jpeg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/647760c0b9f801c00694cc50_Wood%20Haven%20Front%20Elevation%20(1).jpeg
     alt: null
   - url: >-
-      https://development.nanproperties.com/assets/external/647760c1b9f801c00694cd3c_forest20park20front20elevation201.jpeg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/647760c1b9f801c00694cd3c_Forest%20Park%20Front%20Elevation%20(1).jpeg
     alt: null
   - url: >-
-      https://development.nanproperties.com/assets/external/647760c697de084490b581a1_twin20lakes20front20elevation201.jpeg
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/647760c697de084490b581a1_Twin%20Lakes%20Front%20Elevation%20(1).jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/647760df2eb31d24269bb6b1_twin20lakes20kitchen1201.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/647760df2eb31d24269bb6b1_Twin%20Lakes%20Kitchen(1)%20(1).jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/647760e090c737ffc08fa03d_forest20park20living202.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/647760e090c737ffc08fa03d_Forest%20Park%20Living%20(2).jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/647760e25c2ebb56952d658d_twin20lakes20primary202.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/647760e25c2ebb56952d658d_Twin%20Lakes%20Primary%20(2).jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/6477616f18b61b6680376fca_amherst20primary20bath201.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6477616f18b61b6680376fca_Amherst%20Primary%20Bath%20(1).jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/6477617065a05339717b28d2_wood20haven20living201.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6477617065a05339717b28d2_Wood%20Haven%20Living%20(1).jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64776172e50338da899d5fdb_amherst20primary201.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64776172e50338da899d5fdb_Amherst%20Primary%20(1).jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/6477617384cdc76ff229897a_amherst20living201.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6477617384cdc76ff229897a_Amherst%20Living%20(1).jpeg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64776174e50338da899d6184_edgewater20living201.jpeg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64776174e50338da899d6184_Edgewater%20Living%20(1).jpeg
     alt: null
 f_builder: cms/builders/lion-homes-llc.md
 f_agent-2: cms/agents/lisa-peltier.md

@@ -11,7 +11,8 @@ published-on: '2022-05-04T23:24:04.510Z'
 f_team: cms/teams/the-laura-bonck-homes-team.md
 f_if-team-is-this-person-the-team-s-lead: false
 f_headshot:
-  url: https://development.nanproperties.com/assets/external/62730a33cf778fa276d50be7_heacock2c20ashley.JPG
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62730a33cf778fa276d50be7_Heacock%2C%20Ashley.JPG
   alt: null
 layout: '[agents].html'
 tags: agents

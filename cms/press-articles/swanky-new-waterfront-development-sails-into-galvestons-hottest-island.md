@@ -12,7 +12,7 @@ title: Swanky new waterfront development sails into Galveston's hottest island
 slug: swanky-new-waterfront-development-sails-into-galvestons-hottest-island
 f_image-or-screenshot-of-article:
   url: >-
-    https://development.nanproperties.com/assets/external/61f4a28b086e35e23e54a4dc_screen20shot202022-01-2120at2010.11.33%20AM.png
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/61f4a28b086e35e23e54a4dc_Screen%20Shot%202022-01-21%20at%2010.11.33%20AM.png
   alt: null
 updated-on: '2022-01-29T02:17:30.989Z'
 created-on: '2022-01-29T02:12:29.974Z'

@@ -21,20 +21,27 @@ f_description: >-
   primary bedroom features a vast ensuite Hollywood-style bath with magnificent
   his & hers countertops and a large mirror for grooming needs.
 f_image-gallery:
-  - url: https://development.nanproperties.com/assets/external/64e4ff0d0a680de75b284d33_dsc01353201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64e4ff0d0a680de75b284d33_DSC01353%20(1).jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64e4ff21c8e0457a3f7c4f65_dsc01368-hdr201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64e4ff21c8e0457a3f7c4f65_DSC01368-HDR%20(1).jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64e4ff3a0a680de75b288346_dsc01377-hdr201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64e4ff3a0a680de75b288346_DSC01377-HDR%20(1).jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64e4ff6883e98ec5c39e204f_dsc01383-hdr201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64e4ff6883e98ec5c39e204f_DSC01383-HDR%20(1).jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64e4ff9e94891b72532b6f74_dsc01392-hdr201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64e4ff9e94891b72532b6f74_DSC01392-HDR%20(1).jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/64e4ffc82535e9922d328b93_dsc01428-hdr201.jpg
+  - url: >-
+      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64e4ffc82535e9922d328b93_DSC01428-HDR%20(1).jpg
     alt: null
 f_featured-image:
-  url: https://development.nanproperties.com/assets/external/63e5330b4a86b7b3d70ae16d_img_408.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/63e5330b4a86b7b3d70ae16d_IMG_408.jpg
   alt: null
 slug: creekmont-homes
 f_agent-2: cms/agents/geron-fuller.md

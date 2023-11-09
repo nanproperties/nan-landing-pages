@@ -10,7 +10,8 @@ updated-on: '2022-06-01T03:58:17.395Z'
 created-on: '2022-06-01T03:57:52.374Z'
 published-on: '2022-06-01T03:59:42.943Z'
 f_headshot:
-  url: https://development.nanproperties.com/assets/external/6296e3d3c40951596c94f68e_clayton20headshot.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6296e3d3c40951596c94f68e_Clayton%20Headshot.jpg
   alt: null
 f_team: cms/teams/the-sara-black-team.md
 layout: '[agents].html'
