@@ -10,7 +10,7 @@ f_country-2: United States
 f_zip-code-2: '32459'
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b8177d0986e6585f389321_60786e0b4cb26966398c2451_blob25201.jpeg
+    https://development.nanproperties.com/assets/external/60b8177d0986e6585f389321_60786e0b4cb26966398c2451_blob25201.jpeg
   alt: null
 slug: go-to-the-beach-2
 f_region-2: cms/affiliate-regions/north-central-america.md

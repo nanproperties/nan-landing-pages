@@ -15,19 +15,19 @@ created-on: '2023-08-23T00:54:49.744Z'
 published-on: '2023-09-22T00:15:44.793Z'
 f_featured-image:
   url: >-
-    /assets/external/64e55a7a81cf69f3b4b74770_new-homes-community-telge-ranch.webp
+    https://development.nanproperties.com/assets/external/64e55a7a81cf69f3b4b74770_new-homes-community-telge-ranch.webp
   alt: null
 f_bathrooms: 2-3
 f_bedrooms: 3-4
 f_image-gallery:
   - url: >-
-      /assets/external/650c96db42e26cc8d2c57089_3-web-or-mls-dsc08839-edit201.jpg
+      https://development.nanproperties.com/assets/external/650c96db42e26cc8d2c57089_3-web-or-mls-dsc08839-edit201.jpg
     alt: null
   - url: >-
-      /assets/external/650c96de3991e44f49f207df_2-web-or-mls-dsc08819-edit201.jpg
+      https://development.nanproperties.com/assets/external/650c96de3991e44f49f207df_2-web-or-mls-dsc08819-edit201.jpg
     alt: null
   - url: >-
-      /assets/external/650c96e1cdea6eaaa5cdcfb9_1-web-or-mls-dsc08799-edit201.jpg
+      https://development.nanproperties.com/assets/external/650c96e1cdea6eaaa5cdcfb9_1-web-or-mls-dsc08799-edit201.jpg
     alt: null
 f_zip-code: 77429
 layout: '[builder-communities].html'

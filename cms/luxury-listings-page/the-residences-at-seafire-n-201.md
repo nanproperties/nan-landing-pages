@@ -3,7 +3,7 @@ f_url: https://www.youtube.com/watch?v=DNqLBV7kU1A
 f_category: International
 title: the residences at seafire n 201
 f_image:
-  url: /assets/external/60a58496a1a7d75a2e14bdd8_06.jpeg
+  url: https://development.nanproperties.com/assets/external/60a58496a1a7d75a2e14bdd8_06.jpeg
   alt: null
 slug: the-residences-at-seafire-n-201
 updated-on: '2021-05-19T21:35:18.812Z'

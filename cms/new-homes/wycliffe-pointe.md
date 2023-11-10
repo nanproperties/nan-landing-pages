@@ -23,7 +23,7 @@ f_description: >-
   truly exceptional living experience.
 slug: wycliffe-pointe
 f_featured-image:
-  url: /assets/external/652405708ecac2db1b2ab7f9_122820wycliffe20front202202.jpg
+  url: https://development.nanproperties.com/assets/external/652405708ecac2db1b2ab7f9_122820wycliffe20front202202.jpg
   alt: null
 f_agent-2: cms/agents/nancy-ramos.md
 updated-on: '2023-10-09T13:57:57.285Z'

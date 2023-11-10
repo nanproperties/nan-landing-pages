@@ -11,11 +11,11 @@ created-on: '2022-01-29T01:29:06.684Z'
 published-on: '2022-01-29T03:24:32.516Z'
 f_development-image:
   url: >-
-    /assets/external/61f49a4b9aab6ad0a40fd56b_tikiislandresidences_aerial_camera1_121621.jpeg
+    https://development.nanproperties.com/assets/external/61f49a4b9aab6ad0a40fd56b_tikiislandresidences_aerial_camera1_121621.jpeg
   alt: null
 f_development-logo:
   url: >-
-    /assets/external/61f499879aab6a3da60fd077_the_residences_at_tiki_island_logo_rgb.png
+    https://development.nanproperties.com/assets/external/61f499879aab6a3da60fd077_the_residences_at_tiki_island_logo_rgb.png
   alt: null
 f_nan-url-link-slug: >-
   https://www.nanproperties.com/developer-services/our-properties/residences-at-tiki-island

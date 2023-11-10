@@ -33,7 +33,7 @@ title: Ana Salazar
 f_title: Broker Associate
 slug: ana-salazar
 f_headshot:
-  url: /assets/external/640646cb2cd2af6e37e3ea9e_ana.webp
+  url: https://development.nanproperties.com/assets/external/640646cb2cd2af6e37e3ea9e_ana.webp
   alt: null
 updated-on: '2023-03-06T20:02:21.500Z'
 created-on: '2023-03-06T20:02:21.500Z'

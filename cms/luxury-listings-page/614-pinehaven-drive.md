@@ -3,7 +3,7 @@ f_url: >-
   https://www.nanproperties.com/real-estate/614-pinehaven-drive-houston-tx-77024/51848786/106644243
 title: 614 Pinehaven Drive
 f_image:
-  url: /assets/external/60a58235033f3f0cf3b225a9_img-1.jpeg
+  url: https://development.nanproperties.com/assets/external/60a58235033f3f0cf3b225a9_img-1.jpeg
   alt: null
 slug: 614-pinehaven-drive
 updated-on: '2021-05-19T21:25:09.979Z'
