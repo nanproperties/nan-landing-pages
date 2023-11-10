@@ -11,7 +11,7 @@ f_zip-code-2: '52031'
 slug: agenzia-romolini-immobiliare-srl
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b817997bb7c9717aad7901_6081e5587418b34dc2d6b03a_60785a48209967f18b5f2071_content_romoini-immobilare-christies-luxury-real-estate-tuscany-italy.jpeg
+   https://development.nanproperties.com/assets/external/60b817997bb7c9717aad7901_6081e5587418b34dc2d6b03a_60785a48209967f18b5f2071_content_romoini-immobilare-christies-luxury-real-estate-tuscany-italy.jpeg
   alt: null
 f_region-2: cms/affiliate-regions/europe.md
 updated-on: '2021-06-02T23:43:22.171Z'

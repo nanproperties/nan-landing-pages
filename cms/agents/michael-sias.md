@@ -12,7 +12,7 @@ f_if-team-is-this-person-the-team-s-lead: false
 f_team: cms/teams/the-yvonne-pruneda-group.md
 f_headshot:
   url: >-
-    /assets/external/628edfd6191fd0e097e3d70e_7ceacc85fa284144b93754a84771ee28.jpeg
+   https://development.nanproperties.com/assets/external/628edfd6191fd0e097e3d70e_7ceacc85fa284144b93754a84771ee28.jpeg
   alt: null
 layout: '[agents].html'
 tags: agents

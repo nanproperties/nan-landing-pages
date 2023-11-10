@@ -22,17 +22,17 @@ f_description: >-
 slug: fulton-station
 f_featured-image:
   url: >-
-    /assets/external/6081e6931f9db96df37f71b3_6077c89e4baced54c8739a54_fulton1.jpeg
+   https://development.nanproperties.com/assets/external/6081e6931f9db96df37f71b3_6077c89e4baced54c8739a54_fulton1.jpeg
   alt: null
 f_image-gallery:
   - url: >-
-      /assets/external/6081e6931f9db91b057f71b2_6077c89e4bacedd31e739a52_605b9d7fc48d4content_fulton4.jpeg
+     https://development.nanproperties.com/assets/external/6081e6931f9db91b057f71b2_6077c89e4bacedd31e739a52_605b9d7fc48d4content_fulton4.jpeg
     alt: null
   - url: >-
-      /assets/external/6081e6931f9db925dc7f71b4_6077c89e4baced0a48739a51_605b9d7dc050ccontent_fulton3.jpeg
+     https://development.nanproperties.com/assets/external/6081e6931f9db925dc7f71b4_6077c89e4baced0a48739a51_605b9d7dc050ccontent_fulton3.jpeg
     alt: null
   - url: >-
-      /assets/external/6081e6931f9db9ae877f71ba_6077c89e4baced10cb739a53_605b9d7bc9363content_fulton2.jpeg
+     https://development.nanproperties.com/assets/external/6081e6931f9db9ae877f71ba_6077c89e4baced10cb739a53_605b9d7bc9363content_fulton2.jpeg
     alt: null
 f_agent-2: cms/agents/nan-properties.md
 updated-on: '2023-02-06T14:05:38.480Z'

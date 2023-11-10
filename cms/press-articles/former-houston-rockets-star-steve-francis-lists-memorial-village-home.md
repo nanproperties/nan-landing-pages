@@ -8,7 +8,7 @@ f_media-outlet-excerpt: >-
 title: Former Houston Rockets Star Steve Francis Lists Memorial Village Home
 f_image-or-screenshot-of-article:
   url: >-
-    /assets/external/60808572c2eb9e4e646a9e4d_screen_shot_2021-04-21_at_11.36.41_AM.png
+   https://development.nanproperties.com/assets/external/60808572c2eb9e4e646a9e4d_screen_shot_2021-04-21_at_11.36.41_AM.png
   alt: null
 slug: former-houston-rockets-star-steve-francis-lists-memorial-village-home
 updated-on: '2021-04-21T20:41:29.511Z'

@@ -10,7 +10,7 @@ f_country-2: United States
 f_zip-code-2: '20151'
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b817899309a191cbf045b0_6081e5781c9d3b63817fa2e8_60785a755dcdb36f5e93c434_content_1_lf_re_cire_box_rev_blue.jpeg
+   https://development.nanproperties.com/assets/external/60b817899309a191cbf045b0_6081e5781c9d3b63817fa2e8_60785a755dcdb36f5e93c434_content_1_lf_re_cire_box_rev_blue.jpeg
   alt: null
 slug: long-foster-real-estate-inc
 f_region-2: cms/affiliate-regions/north-central-america.md

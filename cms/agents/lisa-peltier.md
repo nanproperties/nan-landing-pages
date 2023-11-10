@@ -27,7 +27,7 @@ updated-on: '2021-08-11T16:39:34.977Z'
 created-on: '2021-08-11T14:49:44.749Z'
 published-on: '2021-08-11T16:56:59.101Z'
 f_headshot:
-  url: /assets/external/6113e46817a4a479d7ba63f8_image204.jpg
+  url:https://development.nanproperties.com/assets/external/6113e46817a4a479d7ba63f8_image204.jpg
   alt: null
 f_if-team-is-this-person-the-team-s-lead: false
 layout: '[agents].html'

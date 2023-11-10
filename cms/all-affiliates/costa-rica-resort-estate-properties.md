@@ -11,7 +11,7 @@ f_zip-code-2: '50304'
 slug: costa-rica-resort-estate-properties
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b817a8aa63a70563afac2e_6081e566ee9498651d07ef24_60785a3eaecb6555d7b36fdc_content_unnamed__1_.jpeg
+   https://development.nanproperties.com/assets/external/60b817a8aa63a70563afac2e_6081e566ee9498651d07ef24_60785a3eaecb6555d7b36fdc_content_unnamed__1_.jpeg
   alt: null
 f_region-2: cms/affiliate-regions/north-central-america.md
 updated-on: '2021-06-02T23:43:36.378Z'
