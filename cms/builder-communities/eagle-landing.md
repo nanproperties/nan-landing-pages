@@ -15,55 +15,41 @@ created-on: '2023-08-23T00:54:48.076Z'
 published-on: '2023-09-22T00:15:44.793Z'
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64e559aa9605183a5d667ce5_New-Homes-Community-Eagle-Landing.webp
+    /assets/external/64e559aa9605183a5d667ce5_new-homes-community-eagle-landing.webp
   alt: null
 f_bathrooms: 2-3
 f_bedrooms: 3-4
 f_image-gallery:
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a17cd59416750b2d7c7_1-web-or-mls-DSC03438-Edit.jpg
+  - url: /assets/external/650c7a17cd59416750b2d7c7_1-web-or-mls-dsc03438-edit.jpg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a175b09509be62d79f2_1-web-or-mls-DSC03935-Edit-Edit.jpg
+      /assets/external/650c7a175b09509be62d79f2_1-web-or-mls-dsc03935-edit-edit.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a18cd59416750b2d7e5_1-web-or-mls-DSC03970-Edit.jpg
+  - url: /assets/external/650c7a18cd59416750b2d7e5_1-web-or-mls-dsc03970-edit.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a18cd59416750b2d7d6_2-web-or-mls-DSC03215.jpg
+  - url: /assets/external/650c7a18cd59416750b2d7d6_2-web-or-mls-dsc03215.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a172f72659947907fd6_2-web-or-mls-DSC03540.jpg
+  - url: /assets/external/650c7a172f72659947907fd6_2-web-or-mls-dsc03540.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a173712d30331a23311_2-web-or-mls-DSC03690-Edit.jpg
+  - url: /assets/external/650c7a173712d30331a23311_2-web-or-mls-dsc03690-edit.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a17275212356341c4b6_3-web-or-mls-DSC03230.jpg
+  - url: /assets/external/650c7a17275212356341c4b6_3-web-or-mls-dsc03230.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a17275212356341c4a7_5-web-or-mls-DSC03240.jpg
+  - url: /assets/external/650c7a17275212356341c4a7_5-web-or-mls-dsc03240.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a17cd59416750b2d7b8_7-web-or-mls-DSC03265.jpg
+  - url: /assets/external/650c7a17cd59416750b2d7b8_7-web-or-mls-dsc03265.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a188fb45a5a55aff16d_8-web-or-mls-DSC03748.jpg
+  - url: /assets/external/650c7a188fb45a5a55aff16d_8-web-or-mls-dsc03748.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a178ee6558ccd14670c_9-web-or-mls-DSC03273_VS.jpg
+  - url: /assets/external/650c7a178ee6558ccd14670c_9-web-or-mls-dsc03273_vs.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a18b3380511a05f6fce_10-web-or-mls-DSC03603_VS.jpg
+  - url: /assets/external/650c7a18b3380511a05f6fce_10-web-or-mls-dsc03603_vs.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a1874185c1ad4e51586_11-web-or-mls-DSC03640-Edit.jpg
+  - url: /assets/external/650c7a1874185c1ad4e51586_11-web-or-mls-dsc03640-edit.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a17a07557e9ea02f19e_12-web-or-mls-DSC03300.jpg
+  - url: /assets/external/650c7a17a07557e9ea02f19e_12-web-or-mls-dsc03300.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/650c7a17b3380511a05f6f99_13-web-or-mls-DSC03335.jpg
+  - url: /assets/external/650c7a17b3380511a05f6f99_13-web-or-mls-dsc03335.jpg
     alt: null
 f_zip-code: 77090
 layout: '[builder-communities].html'

@@ -23,33 +23,24 @@ f_description: >-
   Maisons. 
 slug: belle-maisons
 f_featured-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/63e67f7fd6b5f8976f5f937c_FRONT%20VIEW%20CAMPBELL%20(1)%20(1).jpg
+  url: /assets/external/63e67f7fd6b5f8976f5f937c_front20view20campbell201201.jpg
   alt: null
 f_image-gallery:
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/63e67ff531661a6c31dc09ce_Jensen%202802%20IMG%2003_1_1.jpg
+  - url: /assets/external/63e67ff531661a6c31dc09ce_jensen20280220img2003_1_1.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/63e67ff5a095c384dbdc315f_Jensen%202802%20IMG%2006_1_1.jpg
+  - url: /assets/external/63e67ff5a095c384dbdc315f_jensen20280220img2006_1_1.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/63e67ff59c17a60f1b01a144_Jensen%202802%20IMG%2007_1_1.jpg
+  - url: /assets/external/63e67ff59c17a60f1b01a144_jensen20280220img2007_1_1.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/63e67ff5aeba7475dffa879d_Jensen%202802%20IMG%2013_1_1.jpg
+  - url: /assets/external/63e67ff5aeba7475dffa879d_jensen20280220img2013_1_1.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/63e67ff55a17ce0cc0a66e54_Jensen%202802%20IMG%2014_1_1.jpg
+  - url: /assets/external/63e67ff55a17ce0cc0a66e54_jensen20280220img2014_1_1.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/63e67ff55a17ce4daea66dfc_Jensen%202802%20IMG%2015_1_1.jpg
+  - url: /assets/external/63e67ff55a17ce4daea66dfc_jensen20280220img2015_1_1.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/63e67ff5aeba748b2afa879c_Jensen%202802%20IMG%2018_1_1.jpg
+  - url: /assets/external/63e67ff5aeba748b2afa879c_jensen20280220img2018_1_1.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/63e67ff52142d89aa817f66e_Jensen%202802%20IMG%2019_1_1.jpg
+  - url: /assets/external/63e67ff52142d89aa817f66e_jensen20280220img2019_1_1.jpg
     alt: null
 f_builder: cms/builders/abn-homes-llc.md
 f_agent-2: cms/agents/nancy-ramos.md

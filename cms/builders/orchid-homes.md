@@ -1,8 +1,7 @@
 ---
 title: Orchid Homes
 f_builder-logo:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62c5ba40ddcd435972d7d810_Original.png%20logo%20(2).png
+  url: /assets/external/62c5ba40ddcd435972d7d810_original.png%20logo%20(2).png
   alt: null
 slug: orchid-homes
 updated-on: '2022-07-06T16:37:26.394Z'

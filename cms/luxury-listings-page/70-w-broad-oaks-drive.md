@@ -4,8 +4,7 @@ f_url: >-
 title: 70 W Broad Oaks Drive
 slug: 70-w-broad-oaks-drive
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/60a58237d825400c6b880194_img-1.jpeg
+  url: /assets/external/60a58237d825400c6b880194_img-1.jpeg
   alt: null
 updated-on: '2021-05-19T21:45:18.933Z'
 created-on: '2021-05-19T21:25:11.324Z'

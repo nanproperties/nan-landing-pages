@@ -22,35 +22,35 @@ f_description: >-
 slug: patrick-street-landing
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e69c1637e7ae8e2244bd_6077c89a4e8d6bd598eaaf33_6048fe6dea4c1AK3_8405-HDR-1.jpeg
+    /assets/external/6081e69c1637e7ae8e2244bd_6077c89a4e8d6bd598eaaf33_6048fe6dea4c1ak3_8405-hdr-1.jpeg
   alt: null
 f_image-gallery:
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e69c1637e745e32244be_6077c89b4e8d6b5ed2eaaf3b_6048d23d3ebbeAK3_8261-HDR.jpeg
+      /assets/external/6081e69c1637e745e32244be_6077c89b4e8d6b5ed2eaaf3b_6048d23d3ebbeak3_8261-hdr.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e69c1637e7efd82244c1_6077c89b4e8d6bfd6deaaf3a_6048d23ed7915AK3_8264-HDR.jpeg
+      /assets/external/6081e69c1637e7efd82244c1_6077c89b4e8d6bfd6deaaf3a_6048d23ed7915ak3_8264-hdr.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e69c1637e71f042244bf_6077c89a4e8d6b04c2eaaf36_6048d23f99983AK3_8273-HDR.jpeg
+      /assets/external/6081e69c1637e71f042244bf_6077c89a4e8d6b04c2eaaf36_6048d23f99983ak3_8273-hdr.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e69c1637e7472c2244c5_6077c89a4e8d6b6c7ceaaf35_6048d2404e55bAK3_8276-HDR.jpeg
+      /assets/external/6081e69c1637e7472c2244c5_6077c89a4e8d6b6c7ceaaf35_6048d2404e55bak3_8276-hdr.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e69c1637e76e842244c2_6077c89a4e8d6b3b87eaaf34_6048d24127434AK3_8288-HDR.jpeg
+      /assets/external/6081e69c1637e76e842244c2_6077c89a4e8d6b3b87eaaf34_6048d24127434ak3_8288-hdr.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e69c1637e707982244c4_6077c89b4e8d6ba84beaaf39_6048d241ecae1AK3_8306-HDR.jpeg
+      /assets/external/6081e69c1637e707982244c4_6077c89b4e8d6ba84beaaf39_6048d241ecae1ak3_8306-hdr.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e69c1637e7ccc52244c3_6077c89a4e8d6bff44eaaf38_6048d242ea48fAK3_8336-HDR.jpeg
+      /assets/external/6081e69c1637e7ccc52244c3_6077c89a4e8d6bff44eaaf38_6048d242ea48fak3_8336-hdr.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e69c1637e7a2782244c6_6077c89b4e8d6be78beaaf3c_6048d243c405dAK3_8342-HDR.jpeg
+      /assets/external/6081e69c1637e7a2782244c6_6077c89b4e8d6be78beaaf3c_6048d243c405dak3_8342-hdr.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e69c1637e77bfd2244c0_6077c89a4e8d6b73bceaaf37_6048d2449b7e6AK3_8357-HDR.jpeg
+      /assets/external/6081e69c1637e77bfd2244c0_6077c89a4e8d6b73bceaaf37_6048d2449b7e6ak3_8357-hdr.jpeg
     alt: null
 f_agent-2: cms/agents/casey-babin.md
 updated-on: '2023-02-09T20:00:44.874Z'

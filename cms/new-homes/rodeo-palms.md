@@ -14,51 +14,36 @@ f_bedrooms: 4-5
 f_builder: cms/builders/saratoga-homes.md
 f_city: Manvel
 f_featured-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/640648d922089e0af289e0cc_1%20Poppy%20Hills-3%20(1).jpg
+  url: /assets/external/640648d922089e0af289e0cc_120poppy20hills-3201.jpg
   alt: null
 f_image-gallery:
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/640648f2397fb4edaa820a6d_2%20Poppy%20Hills-3%20(1).jpg
+  - url: /assets/external/640648f2397fb4edaa820a6d_220poppy20hills-3201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/640648f4b8f47daa6c9f7175_11%20Palmero%20Way-73%20(1).jpg
+  - url: /assets/external/640648f4b8f47daa6c9f7175_1120palmero20way-73201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/640648f522089ebf648a0c0e_13%20Palmero%20Way-1%20(1).jpg
+  - url: /assets/external/640648f522089ebf648a0c0e_1320palmero20way-1201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/640648fb5c57f9d7728c6949_13%20Palmero%20Way-79%20(1).jpg
+  - url: /assets/external/640648fb5c57f9d7728c6949_1320palmero20way-79201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/640649ac527b60fe2e6978e5_1%20Poppy%20Hills-9%20(1).jpg
+  - url: /assets/external/640649ac527b60fe2e6978e5_120poppy20hills-9201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/640649ad527b60761c69796f_2%20Poppy%20Hills-15%20(1).jpg
+  - url: /assets/external/640649ad527b60761c69796f_220poppy20hills-15201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/640649aeb8f47d11829fd7d8_11%20Palmero%20Way-18%20(1).jpg
+  - url: /assets/external/640649aeb8f47d11829fd7d8_1120palmero20way-18201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/640649af5c57f9c13f8d0d46_13%20Palmero%20Way-21%20(1).jpg
+  - url: /assets/external/640649af5c57f9c13f8d0d46_1320palmero20way-21201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/640649b05c57f9711e8d0e29_13%20Palmero%20Way-39%20(1).jpg
+  - url: /assets/external/640649b05c57f9711e8d0e29_1320palmero20way-39201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64064a304127ac69b77641d2_13%20Palmero%20Way-75%20(1).jpg
+  - url: /assets/external/64064a304127ac69b77641d2_1320palmero20way-75201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64064a314127acad8d7641d3_1%20Poppy%20Hills-72%20(1).jpg
+  - url: /assets/external/64064a314127acad8d7641d3_120poppy20hills-72201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64064a32d1ab984b79760047_2%20Poppy%20Hills-48%20(1).jpg
+  - url: /assets/external/64064a32d1ab984b79760047_220poppy20hills-48201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64064a335957f6fee50e8c6e_11%20Palmero%20Way-3%20(1).jpg
+  - url: /assets/external/64064a335957f6fee50e8c6e_1120palmero20way-3201.jpg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64064a344127ac27fa7642a1_13%20Palmero%20Way-48%20(1).jpg
+  - url: /assets/external/64064a344127ac27fa7642a1_1320palmero20way-48201.jpg
     alt: null
 f_price-range: 500k
 f_square-footage: 3,079-3,913

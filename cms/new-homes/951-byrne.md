@@ -31,57 +31,40 @@ created-on: '2023-07-03T20:26:32.986Z'
 published-on: '2023-07-13T19:12:54.469Z'
 f_builder: cms/builders/eleviz-llc.md
 f_featured-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f84ff08de38f942a9bc_BYRNE.jpeg
+  url: /assets/external/64ad5f84ff08de38f942a9bc_byrne.jpeg
   alt: null
 f_image-gallery:
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7ebe1df5d46ba94d9d_by17.jpeg
+  - url: /assets/external/64ad5f7ebe1df5d46ba94d9d_by17.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7f85c622c63b1faf92_bye14.jpeg
+  - url: /assets/external/64ad5f7f85c622c63b1faf92_bye14.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7ed74561e789f19dfa_by13.jpeg
+  - url: /assets/external/64ad5f7ed74561e789f19dfa_by13.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7ebe1df5d46ba94d8e_byn12.jpeg
+  - url: /assets/external/64ad5f7ebe1df5d46ba94d8e_byn12.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7ee77dee008f97544b_by12.jpeg
+  - url: /assets/external/64ad5f7ee77dee008f97544b_by12.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7e7ca57b49e26a0672_by11.jpeg
+  - url: /assets/external/64ad5f7e7ca57b49e26a0672_by11.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7ec2f2b17282e28468_nyrne10.jpeg
+  - url: /assets/external/64ad5f7ec2f2b17282e28468_nyrne10.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7ec2f2b17282e28448_byn9.jpeg
+  - url: /assets/external/64ad5f7ec2f2b17282e28448_byn9.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7ef078ec94d6556f9c_bun8.jpeg
+  - url: /assets/external/64ad5f7ef078ec94d6556f9c_bun8.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7ee77dee008f97543c_byrn7.jpeg
+  - url: /assets/external/64ad5f7ee77dee008f97543c_byrn7.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7e585923fae3a8d903_byen6.jpeg
+  - url: /assets/external/64ad5f7e585923fae3a8d903_byen6.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7ed74561e789f19e1f_Byrne5.jpeg
+  - url: /assets/external/64ad5f7ed74561e789f19e1f_byrne5.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7e585923fae3a8d8e1_byrne%204.jpeg
+  - url: /assets/external/64ad5f7e585923fae3a8d8e1_byrne204.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7e0881a860ba06088b_byrne%203.jpeg
+  - url: /assets/external/64ad5f7e0881a860ba06088b_byrne203.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7ee77dee008f97545a_byrne%202.jpeg
+  - url: /assets/external/64ad5f7ee77dee008f97545a_byrne202.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64ad5f7e585923fae3a8d8c1_Byrne%201.jpeg
+  - url: /assets/external/64ad5f7e585923fae3a8d8c1_byrne201.jpeg
     alt: null
 f_matterport-url: https://my.matterport.com/show/?m=rhGuNtzjKGy
 f_price-range: 1,830,000

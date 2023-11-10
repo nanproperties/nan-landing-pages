@@ -7,8 +7,7 @@ f_highlights-about-this-listing-max-200-characters: >-
   Purchased Nov. 2020. Beautiful Cul-De-Sac Home with Breakfast Room, Formal
   Dining, Formal Living, & Study
 f_featured-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6077ca9cac4c25cd2628b0a0_6027674a2421cimg-1-4.jpeg
+  url: /assets/external/6077ca9cac4c25cd2628b0a0_6027674a2421cimg-1-4.jpeg
   alt: null
 slug: del-monte
 f_agent: cms/agents/laura-bonck.md

@@ -31,8 +31,7 @@ f_description: >
   embody the ultimate fusion of sophistication and comfort for discerning buyers
   seeking modern living at its finest.
 f_featured-image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/64516bdda93357525e259723_FRONT2%20(1)%20(1).jpg
+  url: /assets/external/64516bdda93357525e259723_front2201201.jpg
   alt: null
 layout: '[new-homes].html'
 tags: new-homes

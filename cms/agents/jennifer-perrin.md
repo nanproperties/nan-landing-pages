@@ -22,7 +22,7 @@ title: Jennifer Perrin
 f_title: Realtor Associate
 f_headshot:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/634e3b9dbcb86ee3f9d49ce9_optimized_2f4400e457e2dce87a4bfb4cb4c416ba.jpeg
+    /assets/external/634e3b9dbcb86ee3f9d49ce9_optimized_2f4400e457e2dce87a4bfb4cb4c416ba.jpeg
   alt: null
 slug: jennifer-perrin
 f_team: cms/teams/the-luanne-marshall-team.md

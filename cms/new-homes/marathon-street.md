@@ -20,27 +20,27 @@ f_description: >-
   stainless steel appliances.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6978e52b730fe107c84_6077c89764102e921cb82cba_60348f0d28549marathon-3.jpeg
+    /assets/external/6081e6978e52b730fe107c84_6077c89764102e921cb82cba_60348f0d28549marathon-3.jpeg
   alt: null
 slug: marathon-street
 f_image-gallery:
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6978e52b730fe107c84_6077c89764102e921cb82cba_60348f0d28549marathon-3.jpeg
+      /assets/external/6081e6978e52b730fe107c84_6077c89764102e921cb82cba_60348f0d28549marathon-3.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6978e52b7547e107c85_6077c89764102e06b0b82cbb_60348f0ba84cdimg-2-3.jpeg
+      /assets/external/6081e6978e52b7547e107c85_6077c89764102e06b0b82cbb_60348f0ba84cdimg-2-3.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6988e52b74e59107c86_6077c89764102e7279b82cbc_60348f09efb1fimg-3-2.jpeg
+      /assets/external/6081e6988e52b74e59107c86_6077c89764102e7279b82cbc_60348f09efb1fimg-3-2.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6988e52b71ae4107c88_6077c89764102e524bb82cbd_60348f086c035img-4-6.jpeg
+      /assets/external/6081e6988e52b71ae4107c88_6077c89764102e524bb82cbd_60348f086c035img-4-6.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6988e52b7d148107c87_6077c89764102e5db3b82cbf_60348f06be7a8img-5-4.jpeg
+      /assets/external/6081e6988e52b7d148107c87_6077c89764102e5db3b82cbf_60348f06be7a8img-5-4.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6988e52b76b20107c8b_6077c89764102ed180b82cbe_60348f0538b03img-6-6.jpeg
+      /assets/external/6081e6988e52b76b20107c8b_6077c89764102ed180b82cbe_60348f0538b03img-6-6.jpeg
     alt: null
 f_agent-2: cms/agents/nan-properties.md
 updated-on: '2023-02-06T14:05:18.324Z'

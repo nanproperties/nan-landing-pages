@@ -5,8 +5,7 @@ updated-on: '2022-07-30T00:12:57.377Z'
 created-on: '2022-07-30T00:11:07.580Z'
 published-on: '2022-07-30T00:13:16.319Z'
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/62e4772fe1a61c9f42dad589_img-1%20(16).jpeg
+  url: /assets/external/62e4772fe1a61c9f42dad589_img-12016.jpeg
   alt: null
 f_types: Luxury
 f_url: >-

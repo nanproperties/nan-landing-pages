@@ -36,7 +36,7 @@ title: Clarissa Woodward
 f_title: Realtor Associate
 f_headshot:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/649afdd0bcb6147daa087602_Woodward%2C%20Clarissa_PRIMARY%20(2).jpg
+    /assets/external/649afdd0bcb6147daa087602_woodward2c20clarissa_primary202.jpg
   alt: null
 slug: clarissa-woodward
 updated-on: '2023-06-27T15:22:37.100Z'

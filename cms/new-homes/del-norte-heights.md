@@ -18,20 +18,20 @@ f_description: >-
   Heights, restaurants, coffee shops, shopping and more.
 f_featured-image:
   url: >-
-    https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6927857bb92038c6de7_6077c8a17735847b90f3d1fb_img-3.jpeg
+    /assets/external/6081e6927857bb92038c6de7_6077c8a17735847b90f3d1fb_img-3.jpeg
   alt: null
 f_image-gallery:
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6927857bb92038c6de7_6077c8a17735847b90f3d1fb_img-3.jpeg
+      /assets/external/6081e6927857bb92038c6de7_6077c8a17735847b90f3d1fb_img-3.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6927857bbb97f8c6de9_6077c8a1773584573ff3d1fc_605b9c534f7beimg-8.jpeg
+      /assets/external/6081e6927857bbb97f8c6de9_6077c8a1773584573ff3d1fc_605b9c534f7beimg-8.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6927857bb91c08c6de8_6077c8a17735841eaff3d1fd_605b9c45557ddimg-1.jpeg
+      /assets/external/6081e6927857bb91c08c6de8_6077c8a17735841eaff3d1fd_605b9c45557ddimg-1.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/607686dcda5167b392aeffe3/6081e6927857bb3f6a8c6dea_6077c8a17735842751f3d1fe_605b9c19eb53aimg-6.jpeg
+      /assets/external/6081e6927857bb3f6a8c6dea_6077c8a17735842751f3d1fe_605b9c19eb53aimg-6.jpeg
     alt: null
 slug: del-norte-heights
 updated-on: '2023-02-06T14:05:33.986Z'
