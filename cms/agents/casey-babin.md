@@ -31,7 +31,7 @@ f_linkedin-handle: https://www.linkedin.com/in/caseyinhouston
 f_title: Realtor Associate
 slug: casey-babin
 f_headshot:
-  url:https://development.nanproperties.com/assets/external/60fadf304d12cdb8b186d0cf_dsc_7012-1a20-20casey20babin.jpg
+  url: /assets/external/60fadf304d12cdb8b186d0cf_dsc_7012-1a20-20casey20babin.jpg
   alt: null
 updated-on: '2021-07-23T15:26:34.907Z'
 created-on: '2021-07-23T15:26:34.907Z'

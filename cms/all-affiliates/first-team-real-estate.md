@@ -10,7 +10,7 @@ f_country-2: United States
 f_zip-code-2: '92618'
 f_affiliate-logo-2:
   url: >-
-   https://development.nanproperties.com/assets/external/60b817819309a154eaf045a4_6081e56a4a52ae7c37ea8f77_60785a537de0dc2e4b409b58_content_ft-cire_clr.png
+    /assets/external/60b817819309a154eaf045a4_6081e56a4a52ae7c37ea8f77_60785a537de0dc2e4b409b58_content_ft-cire_clr.png
   alt: null
 slug: first-team-real-estate
 f_region-2: cms/affiliate-regions/north-central-america.md

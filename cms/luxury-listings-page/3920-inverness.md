@@ -4,7 +4,7 @@ f_types: Luxury
 title: 3920 Inverness
 f_image:
   url: >-
-   https://development.nanproperties.com/assets/external/62e47651204648a41cb4cece_nan-properties-3920-inverness-1.jpeg
+    /assets/external/62e47651204648a41cb4cece_nan-properties-3920-inverness-1.jpeg
   alt: null
 slug: 3920-inverness
 updated-on: '2022-07-30T00:09:22.222Z'

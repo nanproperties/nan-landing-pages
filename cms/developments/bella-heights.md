@@ -5,10 +5,10 @@ title: Bella Heights
 f_location: '829 Yale St '
 slug: bella-heights
 f_development-image:
-  url:https://development.nanproperties.com/assets/external/654a520572dfe6dd15dcd096_1201201.jpg
+  url: /assets/external/654a520572dfe6dd15dcd096_1201201.jpg
   alt: null
 f_development-logo:
-  url:https://development.nanproperties.com/assets/external/654a602098444476ff0fa7e2_bh_logo_c202.png
+  url: /assets/external/654a602098444476ff0fa7e2_bh_logo_c202.png
   alt: null
 updated-on: '2023-11-10T17:22:33.322Z'
 created-on: '2023-11-07T16:22:36.028Z'

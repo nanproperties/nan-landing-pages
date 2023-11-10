@@ -11,7 +11,7 @@ title: Nan & Co Properties Launches New Developer Services Division
 slug: nan-co-properties-launches-new-developer-services-division
 f_image-or-screenshot-of-article:
   url: >-
-   https://development.nanproperties.com/assets/external/60db9096947f4ba59e81a6f0_content_screen_shot_2020-11-12_at_12.31.30_AM.png
+    /assets/external/60db9096947f4ba59e81a6f0_content_screen_shot_2020-11-12_at_12.31.30_AM.png
   alt: null
 updated-on: '2021-06-29T21:29:19.482Z'
 created-on: '2021-06-29T21:28:54.225Z'

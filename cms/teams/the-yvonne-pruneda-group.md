@@ -4,7 +4,7 @@ title: The Yvonne Pruneda Group
 f_team-slogan: We Sell Houston.
 f_featured-video-youtube-id: pXJO0bz6ikQ
 f_secondary-team-image:
-  url:https://development.nanproperties.com/assets/external/62969cddf2da1a63af974532_yvonne202620michael.jpeg
+  url: /assets/external/62969cddf2da1a63af974532_yvonne202620michael.jpeg
   alt: null
 slug: the-yvonne-pruneda-group
 updated-on: '2022-05-31T22:56:20.184Z'

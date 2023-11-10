@@ -5,7 +5,7 @@ title: Jason Nguyen
 f_title: Realtor Associate
 f_headshot:
   url: >-
-   https://development.nanproperties.com/assets/external/6081e656fbae85c476a11d81_6077c68e02c7ef0c22fe684b_60347f14adf5eoptimized_2baa26ed06a1a96d2db4d05dd87c2edb-1.jpeg
+    /assets/external/6081e656fbae85c476a11d81_6077c68e02c7ef0c22fe684b_60347f14adf5eoptimized_2baa26ed06a1a96d2db4d05dd87c2edb-1.jpeg
   alt: null
 slug: jason-nguyen
 updated-on: '2021-04-22T21:10:46.927Z'
