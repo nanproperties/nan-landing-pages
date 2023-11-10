@@ -8,7 +8,7 @@ f_city: Spring
 f_featured-agent: cms/agents/jessica-wahlquist.md
 f_featured-image:
   url: >-
-   https://development.nanproperties.com/assets/external/627ee213b664b5b93b1967a8_19427-champion-forest-dr-spring-tx-19427-champion-forest-dr-1-highdefinition.jpeg
+    /assets/external/627ee213b664b5b93b1967a8_19427-champion-forest-dr-spring-tx-19427-champion-forest-dr-1-highdefinition.jpeg
   alt: null
 f_headline: Welcome to The Office Enclave at Gleannloch!
 f_price: ~$508,000

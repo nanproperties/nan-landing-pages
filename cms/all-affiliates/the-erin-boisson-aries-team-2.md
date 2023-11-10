@@ -9,7 +9,7 @@ f_state-addbreviated-2: NY
 f_country-2: United States
 f_zip-code-2: '10020'
 f_affiliate-logo-2:
-  url:https://development.nanproperties.com/assets/external/60b8179220d066b3d6f01c51_60786d9f46e3871933946428_logo.jpeg
+  url: /assets/external/60b8179220d066b3d6f01c51_60786d9f46e3871933946428_logo.jpeg
   alt: null
 slug: the-erin-boisson-aries-team-2
 f_region-2: cms/affiliate-regions/north-central-america.md

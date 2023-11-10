@@ -10,7 +10,7 @@ f_country-2: South Africa
 f_zip-code-2: '7708'
 f_affiliate-logo-2:
   url: >-
-   https://development.nanproperties.com/assets/external/60b817880549a95ac97397c2_6081e56d84f0d28008c55749_60785a782aca1b1016fde7f9_content_offical_vertical_primary.jpeg
+    /assets/external/60b817880549a95ac97397c2_6081e56d84f0d28008c55749_60785a782aca1b1016fde7f9_content_offical_vertical_primary.jpeg
   alt: null
 slug: greeff-properties
 f_region-2: cms/affiliate-regions/africa.md

@@ -6,7 +6,7 @@ title: 44 Autumn Crescent
 f_highlights-about-this-listing-max-200-characters: Multi-million dollar listing sold within a week of going on the market
 f_featured-image:
   url: >-
-   https://development.nanproperties.com/assets/external/6077ca97cd0f7a41b238ad96_601d041b677ac44_autumn_crest_2.jpeg
+    /assets/external/6077ca97cd0f7a41b238ad96_601d041b677ac44_autumn_crest_2.jpeg
   alt: null
 slug: 44-autumn-crescent
 f_agent: cms/agents/nikki-hohman.md

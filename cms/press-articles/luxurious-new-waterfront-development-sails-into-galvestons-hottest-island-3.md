@@ -12,7 +12,7 @@ title: Luxurious new waterfront development sails into Galveston's hottest islan
 slug: luxurious-new-waterfront-development-sails-into-galvestons-hottest-island-3
 f_image-or-screenshot-of-article:
   url: >-
-   https://development.nanproperties.com/assets/external/61f4a21b55c904b6a080404c_screen20shot202022-01-2120at2010.07.00%20AM.png
+    /assets/external/61f4a21b55c904b6a080404c_screen20shot202022-01-2120at2010.07.00%20AM.png
   alt: null
 updated-on: '2022-01-29T02:10:37.665Z'
 created-on: '2022-01-29T02:10:37.665Z'
