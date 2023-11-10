@@ -38,7 +38,7 @@ f_facebook-handle: https://www.facebook.com/jose.nietogomez
 f_linkedin-handle: https://www.linkedin.com/in/jose-nieto-b43536117/
 f_title: 'Realtor Associate '
 f_headshot:
-  url: /assets/external/64500cc8a039cb3ac2d1cd15_jose20nieto_primary.jpg
+  url:https://development.nanproperties.com/assets/external/64500cc8a039cb3ac2d1cd15_jose20nieto_primary.jpg
   alt: null
 slug: jose-nieto-2
 updated-on: '2023-05-01T19:11:12.450Z'

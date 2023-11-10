@@ -11,7 +11,7 @@ f_zip-code-2: '97034'
 slug: luxe-christies-international-real-estate
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b817a289b3f81b33b8f637_6081e579b83a91635c79506e_60785a689d38ac4740bcd489_content__luxe-cire-boxed-blk-on-wht.png
+   https://development.nanproperties.com/assets/external/60b817a289b3f81b33b8f637_6081e579b83a91635c79506e_60785a689d38ac4740bcd489_content__luxe-cire-boxed-blk-on-wht.png
   alt: null
 f_region-2: cms/affiliate-regions/north-central-america.md
 updated-on: '2021-06-02T23:43:30.966Z'

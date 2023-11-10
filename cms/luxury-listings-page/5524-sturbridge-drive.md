@@ -8,7 +8,7 @@ created-on: '2021-05-19T21:25:19.148Z'
 published-on: '2021-05-19T22:05:47.033Z'
 f_image:
   url: >-
-    /assets/external/60a5832bbc347612c0cee049_webstie_demension_for_photos__1__copy_3.jpeg
+   https://development.nanproperties.com/assets/external/60a5832bbc347612c0cee049_webstie_demension_for_photos__1__copy_3.jpeg
   alt: null
 layout: '[luxury-listings-page].html'
 tags: luxury-listings-page

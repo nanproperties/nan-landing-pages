@@ -7,40 +7,40 @@ f_zip-code: '77021'
 slug: university-oaks
 f_background-image:
   url: >-
-    /assets/external/62aa10c9d708d28691fb8f07_view_driveway_2-1080x1080-040720-opt.jpeg
+   https://development.nanproperties.com/assets/external/62aa10c9d708d28691fb8f07_view_driveway_2-1080x1080-040720-opt.jpeg
   alt: null
 f_gallery-images:
-  - url: /assets/external/62fc1053c7e445f41ce1c7e1_dji_0206.jpg
+  - url:https://development.nanproperties.com/assets/external/62fc1053c7e445f41ce1c7e1_dji_0206.jpg
     alt: null
-  - url: /assets/external/62fc10543ff369b78028039c_dji_0207.jpg
+  - url:https://development.nanproperties.com/assets/external/62fc10543ff369b78028039c_dji_0207.jpg
     alt: null
-  - url: /assets/external/62fc10552a821e06e7df8e51_dji_0209.jpg
+  - url:https://development.nanproperties.com/assets/external/62fc10552a821e06e7df8e51_dji_0209.jpg
     alt: null
-  - url: /assets/external/62fc10562a821e5514df8eeb_dji_0210.jpg
+  - url:https://development.nanproperties.com/assets/external/62fc10562a821e5514df8eeb_dji_0210.jpg
     alt: null
-  - url: /assets/external/62fc10577d86cee322860c91_dji_0211.jpg
+  - url:https://development.nanproperties.com/assets/external/62fc10577d86cee322860c91_dji_0211.jpg
     alt: null
-  - url: /assets/external/62fc10687d86ce82af862cc8_dji_0216.jpg
+  - url:https://development.nanproperties.com/assets/external/62fc10687d86ce82af862cc8_dji_0216.jpg
     alt: null
-  - url: /assets/external/62fc10692a821e30addfa0ad_dji_0215.jpg
+  - url:https://development.nanproperties.com/assets/external/62fc10692a821e30addfa0ad_dji_0215.jpg
     alt: null
-  - url: /assets/external/62fc106abe979486dd4749af_dji_0214.jpg
+  - url:https://development.nanproperties.com/assets/external/62fc106abe979486dd4749af_dji_0214.jpg
     alt: null
-  - url: /assets/external/62fc106bbe9794f51d474ba5_dji_0213.jpg
+  - url:https://development.nanproperties.com/assets/external/62fc106bbe9794f51d474ba5_dji_0213.jpg
     alt: null
-  - url: /assets/external/62fc106c7d86cef5fc86350d_dji_0212.jpg
+  - url:https://development.nanproperties.com/assets/external/62fc106c7d86cef5fc86350d_dji_0212.jpg
     alt: null
-  - url: /assets/external/64516f77459a0e206d8acf58_rmm_3879-hdr201.jpg
+  - url:https://development.nanproperties.com/assets/external/64516f77459a0e206d8acf58_rmm_3879-hdr201.jpg
     alt: null
-  - url: /assets/external/64516fdad624a26a0133f01b_rmm_4212-hdr201.jpg
+  - url:https://development.nanproperties.com/assets/external/64516fdad624a26a0133f01b_rmm_4212-hdr201.jpg
     alt: null
-  - url: /assets/external/64516ff06c2139027c360fb9_rmm_4206-hdr201.jpg
+  - url:https://development.nanproperties.com/assets/external/64516ff06c2139027c360fb9_rmm_4206-hdr201.jpg
     alt: null
-  - url: /assets/external/6451700a6c2139d975362eb8_rmm_4029-hdr.jpg
+  - url:https://development.nanproperties.com/assets/external/6451700a6c2139d975362eb8_rmm_4029-hdr.jpg
     alt: null
-  - url: /assets/external/645170132aabfd518977f92e_rmm_4053-hdr.jpg
+  - url:https://development.nanproperties.com/assets/external/645170132aabfd518977f92e_rmm_4053-hdr.jpg
     alt: null
-  - url: /assets/external/64517017e260f4c26ef1e1c4_rmm_4092-hdr201.jpg
+  - url:https://development.nanproperties.com/assets/external/64517017e260f4c26ef1e1c4_rmm_4092-hdr201.jpg
     alt: null
 f_area: cms/leasing-areas/medical-center.md
 updated-on: '2023-05-02T20:18:59.411Z'

@@ -34,7 +34,7 @@ published-on: '2022-05-26T02:03:32.545Z'
 f_if-team-is-this-person-the-team-s-lead: true
 f_headshot:
   url: >-
-    /assets/external/627ee9011115e6e34034abfe_optimized_663d59c5c95b9064e84d75c7e9820e89.jpeg
+   https://development.nanproperties.com/assets/external/627ee9011115e6e34034abfe_optimized_663d59c5c95b9064e84d75c7e9820e89.jpeg
   alt: null
 f_team: cms/teams/the-yvonne-pruneda-group.md
 layout: '[agents].html'

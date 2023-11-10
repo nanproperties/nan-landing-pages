@@ -11,7 +11,7 @@ published-on: '2022-05-13T23:24:43.089Z'
 f_if-team-is-this-person-the-team-s-lead: false
 f_headshot:
   url: >-
-    /assets/external/627ee8376ce25dc9b10e38b2_17d6cbc4352cd232cf27e5922c8eed83.jpeg
+   https://development.nanproperties.com/assets/external/627ee8376ce25dc9b10e38b2_17d6cbc4352cd232cf27e5922c8eed83.jpeg
   alt: null
 layout: '[agents].html'
 tags: agents

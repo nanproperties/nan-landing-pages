@@ -10,7 +10,7 @@ f_country-2: United States
 f_zip-code-2: '33036'
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b81777aa63a748edafab4f_60785a59cacc7f1cb98fe715_content_americancaribbean.jpeg
+   https://development.nanproperties.com/assets/external/60b81777aa63a748edafab4f_60785a59cacc7f1cb98fe715_content_americancaribbean.jpeg
   alt: null
 slug: american-caribbean-real-estate-2
 f_region-2: cms/affiliate-regions/north-central-america.md

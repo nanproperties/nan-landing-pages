@@ -5,7 +5,7 @@ backend:
     - editor
   branch: master
 media_folder: theme/assets/images
-public_folder: /assets/images
+public_folder:https://development.nanproperties.com/assets/images
 collections:
   - name: pages
     label: Pages

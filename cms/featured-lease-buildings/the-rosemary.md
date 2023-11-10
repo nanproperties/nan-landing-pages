@@ -2,7 +2,7 @@
 f_destination-url: https://www.nanproperties.com//featured-lease-buildings/the-rosemary
 title: The Rosemary
 f_background-image:
-  url: /assets/external/61d8dfe8d4110642427edaed_content_01.jpeg
+  url:https://development.nanproperties.com/assets/external/61d8dfe8d4110642427edaed_content_01.jpeg
   alt: null
 slug: the-rosemary
 f_area: cms/leasing-areas/outer-city-communities.md
@@ -11,11 +11,11 @@ created-on: '2022-01-08T00:50:48.263Z'
 published-on: '2022-03-28T17:37:31.387Z'
 f_city: Conroe
 f_gallery-images:
-  - url: /assets/external/6241eed6fa5c64486491ebdb_68645607.jpeg
+  - url:https://development.nanproperties.com/assets/external/6241eed6fa5c64486491ebdb_68645607.jpeg
     alt: null
-  - url: /assets/external/6241eed616c8a8c2272a42a4_69484215.jpeg
+  - url:https://development.nanproperties.com/assets/external/6241eed616c8a8c2272a42a4_69484215.jpeg
     alt: null
-  - url: /assets/external/6241eed6cd4aa26cb8618292_68645612.jpeg
+  - url:https://development.nanproperties.com/assets/external/6241eed6cd4aa26cb8618292_68645612.jpeg
     alt: null
 f_street-address: 541 FM 1488 Rd
 f_zip-code: '77384'

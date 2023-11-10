@@ -2,7 +2,7 @@
 title: Nan Properties
 slug: nan-properties
 f_headshot:
-  url: /assets/external/631753b52cce7b7f8e4fbca1_nan_logo_2021_screen_gray.jpeg
+  url:https://development.nanproperties.com/assets/external/631753b52cce7b7f8e4fbca1_nan_logo_2021_screen_gray.jpeg
   alt: null
 updated-on: '2022-09-06T14:05:42.300Z'
 created-on: '2021-04-15T04:52:30.347Z'

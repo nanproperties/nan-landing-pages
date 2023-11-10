@@ -10,7 +10,7 @@ f_country-2: Portugal
 f_zip-code-2: 4150-152
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b817ab89b3f80c0bb8f645_6081e5791f9db9ba0b7f69b9_60785a4ffc4084dcb48a8029_unnamed.png
+   https://development.nanproperties.com/assets/external/60b817ab89b3f80c0bb8f645_6081e5791f9db9ba0b7f69b9_60785a4ffc4084dcb48a8029_unnamed.png
   alt: null
 slug: luximos-luxury-real-estate-porto-north-of-portugal-office
 f_region-2: cms/affiliate-regions/europe.md

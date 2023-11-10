@@ -5,7 +5,7 @@ f_city: Houston
 title: 5307 Larkin Street B
 f_highlights-about-this-listing-max-200-characters: Sold in 1 Day in Dec 2020
 f_featured-image:
-  url: /assets/external/6077ca97b0d29a7020aa869b_60218382394a0img-1-1.jpeg
+  url:https://development.nanproperties.com/assets/external/6077ca97b0d29a7020aa869b_60218382394a0img-1-1.jpeg
   alt: null
 slug: 5307-larkin-street-b
 f_agent: cms/agents/laura-bonck.md
