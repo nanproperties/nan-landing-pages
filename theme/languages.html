@@ -23,116 +23,116 @@
       <section>
         <h2 class="h2 center">{{ texts.530abccc }}</h2>
         <div class="w-layout-blockcontainer _6-col-grid w-container">
-          <a id="w-node-_6bf74cb3-5417-d8ed-b88a-1858ffb57695-6e7c7195" href="{{ links.-188bc571 }}" class="languages-flag-wrapper w-inline-block"><img src="{{ images.4af527be.url }}" loading="lazy" alt="{{ images.4af527be.alt | trim | escape }}" class="languages-flag-image"></a>
-          <a id="w-node-ae07e635-081a-f650-40a0-0540e98a1f91-6e7c7195" href="{{ links.419a6cbd }}" class="languages-flag-wrapper w-inline-block"><img src="{{ images.1e53522a.url }}" loading="lazy" alt="{{ images.1e53522a.alt | trim | escape }}" class="languages-flag-image"></a>
-          <a id="w-node-_3bf25626-d2c5-ddb8-2fbc-91776248da16-6e7c7195" href="{{ links.4cdbcf83 }}" class="languages-flag-wrapper w-inline-block"><img src="{{ images.4a5a777.url }}" loading="lazy" alt="{{ images.4a5a777.alt | trim | escape }}" class="languages-flag-image"></a>
-          <a id="w-node-_4a515ce0-8902-7c07-b0a7-23bd07c541e5-6e7c7195" href="{{ links.36ff945c }}" class="languages-flag-wrapper w-inline-block"><img src="{{ images.19fcf9d4.url }}" loading="lazy" alt="{{ images.19fcf9d4.alt | trim | escape }}" class="languages-flag-image"></a>
-          <a id="w-node-_67a92d4f-0f4c-8e48-7907-ead27fc6844d-6e7c7195" href="{{ links.-6f7f0df0 }}" class="languages-flag-wrapper w-inline-block"><img src="{{ images.-3e811aab.url }}" loading="lazy" alt="{{ images.-3e811aab.alt | trim | escape }}" class="languages-flag-image"></a>
-          <a id="w-node-c98ff7ce-f5e1-aa6b-2cce-8229dca43c16-6e7c7195" href="{{ links.-4420f88f }}" class="languages-flag-wrapper w-inline-block"><img src="{{ images.-476169a9.url }}" loading="lazy" alt="{{ images.-476169a9.alt | trim | escape }}" class="languages-flag-image"></a>
-          <a id="w-node-dea4ef49-1fa7-3fb1-d9f0-c962d25cfbc6-6e7c7195" href="{{ links.7a98bba2 }}" class="languages-flag-wrapper w-inline-block"><img src="{{ images.-72607ddf.url }}" loading="lazy" alt="{{ images.-72607ddf.alt | trim | escape }}" class="languages-flag-image"></a>
+          <a href="{{ links.-188bc571 }}" id="w-node-_6bf74cb3-5417-d8ed-b88a-1858ffb57695-6e7c7195" class="languages-flag-wrapper w-inline-block"><img src="{{ images.4af527be.url }}" loading="lazy" alt="{{ images.4af527be.alt | trim | escape }}" class="languages-flag-image"></a>
+          <a href="{{ links.419a6cbd }}" id="w-node-ae07e635-081a-f650-40a0-0540e98a1f91-6e7c7195" class="languages-flag-wrapper w-inline-block"><img src="{{ images.1e53522a.url }}" loading="lazy" alt="{{ images.1e53522a.alt | trim | escape }}" class="languages-flag-image"></a>
+          <a href="{{ links.4cdbcf83 }}" id="w-node-_3bf25626-d2c5-ddb8-2fbc-91776248da16-6e7c7195" class="languages-flag-wrapper w-inline-block"><img src="{{ images.4a5a777.url }}" loading="lazy" alt="{{ images.4a5a777.alt | trim | escape }}" class="languages-flag-image"></a>
+          <a href="{{ links.36ff945c }}" id="w-node-_4a515ce0-8902-7c07-b0a7-23bd07c541e5-6e7c7195" class="languages-flag-wrapper w-inline-block"><img src="{{ images.19fcf9d4.url }}" loading="lazy" alt="{{ images.19fcf9d4.alt | trim | escape }}" class="languages-flag-image"></a>
+          <a href="{{ links.-6f7f0df0 }}" id="w-node-_67a92d4f-0f4c-8e48-7907-ead27fc6844d-6e7c7195" class="languages-flag-wrapper w-inline-block"><img src="{{ images.-3e811aab.url }}" loading="lazy" alt="{{ images.-3e811aab.alt | trim | escape }}" class="languages-flag-image"></a>
+          <a href="{{ links.-4420f88f }}" id="w-node-c98ff7ce-f5e1-aa6b-2cce-8229dca43c16-6e7c7195" class="languages-flag-wrapper w-inline-block"><img src="{{ images.-476169a9.url }}" loading="lazy" alt="{{ images.-476169a9.alt | trim | escape }}" class="languages-flag-image"></a>
+          <a href="{{ links.7a98bba2 }}" id="w-node-dea4ef49-1fa7-3fb1-d9f0-c962d25cfbc6-6e7c7195" class="languages-flag-wrapper w-inline-block"><img src="{{ images.-72607ddf.url }}" loading="lazy" alt="{{ images.-72607ddf.alt | trim | escape }}" class="languages-flag-image"></a>
         </div>
       </section>
       <section id="arabic">
         <h2 class="h2 center">{{ texts.755f0ccc }}</h2>
-        <div class="w-dyn-list">
-          <div role="list" class="_4-col-grid w-dyn-items">
-            <div role="listitem" class="w-dyn-item">
-              <a href="{{ links.23 }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
-                <div class="languages-agent-name"></div>
+        {%- assign collection = collections.agents | filter: "f_language,eq,Arabic", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
+            {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
+                <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
-            </div>
-          </div>
-          <div class="w-dyn-empty">
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="w-dyn-empty">
             <div>{{ texts.4488373f }}</div>
-          </div>
+          </div>{%- endif -%}
         </div>
       </section>
       <section id="greek">
         <h2 class="h2 center">{{ texts.41ddee0 }}</h2>
-        <div class="w-dyn-list">
-          <div role="list" class="_4-col-grid w-dyn-items">
-            <div role="listitem" class="w-dyn-item">
-              <a href="{{ links.23 }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
-                <div class="languages-agent-name"></div>
+        {%- assign collection = collections.agents | filter: "f_language,eq,Greek", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
+            {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
+                <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
-            </div>
-          </div>
-          <div class="w-dyn-empty">
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="w-dyn-empty">
             <div>{{ texts.4488373f }}</div>
-          </div>
+          </div>{%- endif -%}
         </div>
       </section>
       <section id="mandarin">
         <h2 class="h2 center">{{ texts.b5b0680 }}</h2>
-        <div class="w-dyn-list">
-          <div role="list" class="_4-col-grid w-dyn-items">
-            <div role="listitem" class="w-dyn-item">
-              <a href="{{ links.23 }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
-                <div class="languages-agent-name"></div>
+        {%- assign collection = collections.agents | filter: "f_language,eq,Mandarin", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
+            {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
+                <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
-            </div>
-          </div>
-          <div class="w-dyn-empty">
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="w-dyn-empty">
             <div>{{ texts.4488373f }}</div>
-          </div>
+          </div>{%- endif -%}
         </div>
       </section>
       <section id="romanian">
         <h2 class="h2 center">{{ texts.-a8134a7 }}</h2>
-        <div class="w-dyn-list">
-          <div role="list" class="_4-col-grid w-dyn-items">
-            <div role="listitem" class="w-dyn-item">
-              <a href="{{ links.23 }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
-                <div class="languages-agent-name"></div>
+        {%- assign collection = collections.agents | filter: "f_language,eq,Romanian", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
+            {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
+                <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
-            </div>
-          </div>
-          <div class="w-dyn-empty">
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="w-dyn-empty">
             <div>{{ texts.4488373f }}</div>
-          </div>
+          </div>{%- endif -%}
         </div>
       </section>
       <section id="russian">
         <h2 class="h2 center">{{ texts.-400f988d }}</h2>
-        <div class="w-dyn-list">
-          <div role="list" class="_4-col-grid w-dyn-items">
-            <div role="listitem" class="w-dyn-item">
-              <a href="{{ links.23 }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
-                <div class="languages-agent-name"></div>
+        {%- assign collection = collections.agents | filter: "f_language,eq,Russian", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
+            {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
+                <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
-            </div>
-          </div>
-          <div class="empty-state-15 w-dyn-empty"></div>
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="empty-state-15 w-dyn-empty"></div>{%- endif -%}
         </div>
       </section>
       <section id="spanish">
         <h2 class="h2 center">{{ texts.-14b1832c }}</h2>
-        <div class="w-dyn-list">
-          <div role="list" class="_4-col-grid w-dyn-items">
-            <div role="listitem" class="w-dyn-item">
-              <a href="{{ links.23 }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
-                <div class="languages-agent-name"></div>
+        {%- assign collection = collections.agents | filter: "f_language,eq,Spanish", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
+            {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
+                <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
-            </div>
-          </div>
-          <div class="w-dyn-empty">
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="w-dyn-empty">
             <div>{{ texts.4488373f }}</div>
-          </div>
+          </div>{%- endif -%}
         </div>
       </section>
       <section id="vietnamese">
         <h2 class="h2 center">{{ texts.-69d9d8a1 }}</h2>
-        <div class="w-dyn-list">
-          <div role="list" class="_4-col-grid w-dyn-items">
-            <div role="listitem" class="w-dyn-item">
-              <a href="{{ links.23 }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
-                <div class="languages-agent-name"></div>
+        {%- assign collection = collections.agents | filter: "f_language,eq,Vietnamese", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
+            {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
+                <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
-            </div>
-          </div>
-          <div class="w-dyn-empty">
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="w-dyn-empty">
             <div>{{ texts.4488373f }}</div>
-          </div>
+          </div>{%- endif -%}
         </div>
       </section>
     </div>
