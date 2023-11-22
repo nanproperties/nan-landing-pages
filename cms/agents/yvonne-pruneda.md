@@ -28,15 +28,16 @@ f_bio: >-
 title: Yvonne Pruneda
 f_title: 'Realtor Associate '
 slug: yvonne-pruneda
-updated-on: '2022-05-26T01:59:50.682Z'
+updated-on: '2023-11-22T19:32:45.811Z'
 created-on: '2021-12-30T22:03:06.223Z'
-published-on: '2022-05-26T02:03:32.545Z'
+published-on: '2023-11-22T19:33:05.256Z'
 f_if-team-is-this-person-the-team-s-lead: true
 f_headshot:
   url: >-
-    https://development.nanproperties.com/assets/external/627ee9011115e6e34034abfe_optimized_663d59c5c95b9064e84d75c7e9820e89.jpeg
+    https://development.nanproperties.com/assets/external/655e5743c1bb445f6cf434c5_a827ab4d44c127de1c15f1bc8f3d9e25.webp
   alt: null
 f_team: cms/teams/the-yvonne-pruneda-group.md
+f_language: Spanish
 layout: '[agents].html'
 tags: agents
 ---

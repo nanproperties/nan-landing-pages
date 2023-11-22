@@ -94,7 +94,7 @@ text-transform:none;
             {%- for item in collection -%}<div role="listitem" class="developments-content-item w-dyn-item">
               <div id="Developments-Image-Wrapper" class="developments-image-wrapper w-node-_6d2d4d7e-aecf-0793-5dab-faa2a825874a-5599300b">
                 {%- if item.data.f_sold == true -%}<div class="sold-tag">{{ texts.26ecd4 }}</div>{%- endif -%}
-                {%- if item.data.f_coming-soon == true -%}<div class="coming-soon-tag">{{ texts.32939fba }}</div>{%- endif -%}<img alt="{{ item.data.f_featured-image.alt }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;97vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;48vw&quot;}]" src="{{ item.data.f_featured-image.url }}" class="developments-image">
+                {%- if item.data.f_coming-soon == true -%}<div class="coming-soon-tag">{{ texts.32939fba }}</div>{%- endif -%}<img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;97vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;48vw&quot;}]" src="{{ item.data.f_featured-image.url }}" alt="{{ item.data.f_featured-image.alt }}" class="developments-image">
               </div>
               <div class="developments-text-wrapper developments-text-wrapper-alternate">
                 <div class="developments-text-wrapper-inner">

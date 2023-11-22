@@ -15,13 +15,15 @@ title: Andrew Lin
 f_title: Realtor Associate
 f_headshot:
   url: >-
-    https://development.nanproperties.com/assets/external/6077c685703f551487a5e640_602605164909doptimized_c26ebf5403db1854cf6dde320deafcc7-1.jpeg
+    https://development.nanproperties.com/assets/external/655e4a79576c6f67e92cae22_a4f14b6bef768fe5de75558e48a40a50.webp
   alt: null
 slug: andrew-lin
-updated-on: '2021-04-15T04:53:41.560Z'
+updated-on: '2023-11-22T18:37:57.063Z'
 created-on: '2021-04-15T04:52:21.387Z'
-published-on: '2021-04-22T21:13:29.827Z'
+published-on: '2023-11-22T19:28:45.132Z'
 f_if-team-is-this-person-the-team-s-lead: false
+f_language: Mandarin
+f_link-to-agent-bio-page-on-nan-website: https://www.nanproperties.com/agents/62761-andrew-lin
 layout: '[agents].html'
 tags: agents
 ---
