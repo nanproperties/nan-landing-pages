@@ -9,6 +9,7 @@ functions = "functions"
   status = 200
   force = true
 
+[[redirects]]
   from = "/assets/css/nan-landing-pages.css"
   to = "/assets/css/nan-landing-pages.webflow.css"
   status = 301
