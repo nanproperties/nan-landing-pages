@@ -22,22 +22,6 @@
   display: block;
 }
 
-.w-embed-youtubevideo {
-  width: 100%;
-  background-image: var(--image-708b924);
-  background-position: 50%;
-  background-size: cover;
-  padding-bottom: 0;
-  padding-left: 0;
-  padding-right: 0;
-  position: relative;
-}
-
-.w-embed-youtubevideo:empty {
-  min-height: 75px;
-  padding-bottom: 56.25%;
-}
-
 @media screen and (max-width: 991px) {
   .w-layout-blockcontainer {
     max-width: 728px;
@@ -1156,12 +1140,14 @@ a {
 }
 
 .section.section-hero.section-whitehall-hero {
+  width: 100%;
   min-height: 80vh;
   background-image: var(--image-1953ec85);
-  background-position: 50%;
+  background-position: 0 0;
   background-size: cover;
   margin-bottom: 0;
   padding-top: 4rem;
+  position: relative;
 }
 
 .section.leasing-page-grid-section {
@@ -1311,6 +1297,17 @@ a {
 .section.whitehall-gallery, .section.whitehall-map {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+.section.section-whitehall-hero {
+  width: 100%;
+  min-height: 80vh;
+  background-image: var(--image-1953ec85);
+  background-position: 50%;
+  background-size: cover;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 4rem;
 }
 
 .builder-listings-item-wrapper {
@@ -5311,13 +5308,13 @@ a {
   padding: 2rem;
 }
 
-.image-16 {
+.image-16, .div-block-23 {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
-.div-block-23, .div-block-24 {
+.div-block-24 {
   width: 100%;
   height: 100%;
 }
@@ -5434,6 +5431,11 @@ a {
     background-position: 0 0, 50% 0;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
+  }
+
+  .section.section-whitehall-details {
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .builder-hero-content-wrapper {
@@ -5643,6 +5645,10 @@ a {
 
   .empty-state-15 {
     background-color: var(--white);
+  }
+
+  .div-block-26 {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -6180,7 +6186,7 @@ a {
     font-size: 48px;
   }
 
-  .h2.builders-hero-title, .h2.affiliate-header-title {
+  .h1.whitehall-gallery-title, .h2.builders-hero-title, .h2.affiliate-header-title {
     font-size: 3rem;
   }
 
@@ -6276,6 +6282,17 @@ a {
 
   .section.gatherings-hero-section, .section.landing-hero-section {
     margin-top: 0;
+  }
+
+  .section.section-whitehall-video {
+    margin-top: 2rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+  }
+
+  .section.section-whitehall-details {
+    padding-left: .5rem;
+    padding-right: .5rem;
   }
 
   .builder-listings-item-wrapper {
@@ -6750,6 +6767,20 @@ a {
   .section-4.cms-form {
     padding-left: 15px;
     padding-right: 15px;
+  }
+
+  .whitehall-hero-logo-wrapper {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .div-block-20 {
+    grid-template-columns: 1fr;
+  }
+
+  .div-block-22 {
+    padding-left: .5rem;
+    padding-right: .5rem;
   }
 }
 
@@ -7516,6 +7547,15 @@ a {
   #w-node-f099cc20-b470-4c31-d7b3-4fd2f5439eae-9af43e33 {
     grid-area: 1 / 1 / 2 / 2;
   }
+
+  #w-node-_01550211-e530-8d25-2b8c-50d50dd843ac-498561da {
+    grid-area: 1 / 1 / 2 / 3;
+  }
+
+  #w-node-eb01de3d-6531-fc34-c127-ceef5199441d-498561da {
+    grid-row-start: 2;
+    grid-column-start: 1;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -7689,6 +7729,10 @@ a {
 
   #w-node-_1ddc5a2b-b287-5a94-2546-d39886bd3791-e02a8586 {
     grid-area: 3 / 1 / 4 / 2;
+  }
+
+  #w-node-_01550211-e530-8d25-2b8c-50d50dd843ac-498561da, #w-node-eb01de3d-6531-fc34-c127-ceef5199441d-498561da {
+    grid-area: span 1 / span 1 / span 1 / span 1;
   }
 }
 
