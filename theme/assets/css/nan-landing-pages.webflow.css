@@ -22,6 +22,22 @@
   display: block;
 }
 
+.w-embed-youtubevideo {
+  width: 100%;
+  background-image: var(--image-708b924);
+  background-position: 50%;
+  background-size: cover;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  position: relative;
+}
+
+.w-embed-youtubevideo:empty {
+  min-height: 75px;
+  padding-bottom: 56.25%;
+}
+
 @media screen and (max-width: 991px) {
   .w-layout-blockcontainer {
     max-width: 728px;
@@ -141,11 +157,21 @@ a {
   padding-top: 0;
 }
 
+.page-wrapper.whitehall-page-wrapper {
+  max-width: 2560px;
+  padding-top: 0;
+}
+
 .custom-page {
   background-color: var(--white);
   padding-left: 20px;
   padding-right: 20px;
   position: relative;
+}
+
+.custom-page.whitehall-custom-page {
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .subtitle-2 {
@@ -280,6 +306,15 @@ a {
   font-family: century-gothic, sans-serif;
   font-size: 2.3vw;
   font-style: normal;
+}
+
+.h1.whitehall-details-h1 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font-family: century-gothic, sans-serif;
+  font-size: 2.25em;
+  font-style: normal;
+  font-weight: 500;
 }
 
 .paragraph-1 {
@@ -1120,6 +1155,15 @@ a {
   position: relative;
 }
 
+.section.section-hero.section-whitehall-hero {
+  min-height: 80vh;
+  background-image: var(--image-1953ec85);
+  background-position: 50%;
+  background-size: cover;
+  margin-bottom: 0;
+  padding-top: 4rem;
+}
+
 .section.leasing-page-grid-section {
   margin-top: 0;
   margin-bottom: 0;
@@ -1245,6 +1289,28 @@ a {
 
 .section.the-woodlands-video-intro-section {
   margin-top: 0;
+}
+
+.section.section-whitehall-video {
+  max-width: 80vw;
+  margin-top: -8em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section.whitehall-intro {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.section.section-whitehall-details {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.section.whitehall-gallery, .section.whitehall-map {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .builder-listings-item-wrapper {
@@ -5202,6 +5268,144 @@ a {
   background-color: var(--white);
 }
 
+.whitehall-video-player {
+  border-radius: 1em;
+  overflow: hidden;
+  box-shadow: 0 0 32px -16px rgba(0, 0, 0, .7);
+}
+
+.whitehall-hero-logo-wrapper {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.whitehall-ranch-logo-title {
+  color: #fff;
+  text-align: center;
+  padding-top: 1rem;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.div-block-20 {
+  grid-column-gap: 1rem;
+  grid-row-gap: 1rem;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  margin-bottom: 1rem;
+  display: grid;
+}
+
+.div-block-21 {
+  grid-column-gap: 1rem;
+  grid-row-gap: 1rem;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+
+.div-block-22 {
+  padding: 2rem;
+}
+
+.image-16 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.div-block-23, .div-block-24 {
+  width: 100%;
+  height: 100%;
+}
+
+.image-17, .image-18 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.div-block-25 {
+  text-align: center;
+}
+
+.whitehall-details-subtitle-location {
+  margin-top: 1rem;
+  font-family: freight-big-pro, sans-serif;
+  font-size: 1.25rem;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.whitehall-details-price {
+  margin-top: 1rem;
+  font-size: 1.25rem;
+}
+
+.div-block-26 {
+  grid-column-gap: 3rem;
+  grid-row-gap: 3rem;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 2fr;
+  grid-auto-columns: 1fr;
+  margin-top: 4rem;
+  display: grid;
+}
+
+.div-block-27 {
+  height: 100%;
+  background-color: #f0f0f0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  padding: 3rem 2rem;
+  display: flex;
+}
+
+.text-block-13 {
+  letter-spacing: 2px;
+  font-size: 1.25rem;
+}
+
+.text-block-14 {
+  letter-spacing: 2px;
+  padding-bottom: 1rem;
+  font-size: 1.25rem;
+}
+
+.div-block-28 {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  border-bottom: 1px solid #ccc;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1.125rem;
+  display: grid;
+}
+
+.text-block-15 {
+  text-align: right;
+}
+
+.text-block-16 {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.div-block-29 {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 @media screen and (max-width: 991px) {
   .h2.mx-page-h2 {
     text-align: center;
@@ -7045,6 +7249,22 @@ a {
 }
 
 #w-node-_046a4db7-9918-7ebd-86a2-265443fa167a-fc43d119, #w-node-_1660592b-ed5a-a4ee-a91a-983653e4338b-fc43d119, #w-node-_9fd4b77a-addd-a799-5209-ddc9db6a41eb-fc43d119, #w-node-_526c5b40-3a33-abfa-0bfd-2e677625a4a7-fc43d119, #w-node-_526c5b40-3a33-abfa-0bfd-2e677625a4ab-fc43d119, #w-node-_526c5b40-3a33-abfa-0bfd-2e677625a4b6-fc43d119, #w-node-_526c5b40-3a33-abfa-0bfd-2e677625a4c1-fc43d119, #w-node-_526c5b40-3a33-abfa-0bfd-2e677625a4cc-fc43d119, #w-node-_07db589b-ebcf-eeb0-4640-7d66beede2a4-fc43d119, #w-node-_07db589b-ebcf-eeb0-4640-7d66beede2a5-fc43d119, #w-node-_07db589b-ebcf-eeb0-4640-7d66beede2a2-fc43d119, #w-node-_6bf74cb3-5417-d8ed-b88a-1858ffb57695-6e7c7195, #w-node-ae07e635-081a-f650-40a0-0540e98a1f91-6e7c7195, #w-node-_3bf25626-d2c5-ddb8-2fbc-91776248da16-6e7c7195, #w-node-_4a515ce0-8902-7c07-b0a7-23bd07c541e5-6e7c7195, #w-node-_67a92d4f-0f4c-8e48-7907-ead27fc6844d-6e7c7195, #w-node-c98ff7ce-f5e1-aa6b-2cce-8229dca43c16-6e7c7195, #w-node-dea4ef49-1fa7-3fb1-d9f0-c962d25cfbc6-6e7c7195 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+#w-node-b802416b-13e3-cd1c-ce7e-6f5620f9414b-498561da {
+  align-self: center;
+}
+
+#w-node-fa23edf8-3eb7-7889-55e9-ed66c116c3a8-498561da, #w-node-e9095f33-c54d-ff3d-1f6e-5e4e1eca0d45-498561da, #w-node-_01550211-e530-8d25-2b8c-50d50dd843ac-498561da {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+#w-node-eb01de3d-6531-fc34-c127-ceef5199441d-498561da {
+  grid-area: 1 / 2 / 3 / 3;
+}
+
+#w-node-_37996220-0325-5187-ac9b-80a0846e1476-498561da, #w-node-_497d0b55-239b-1cc4-2fe5-b92cdc4b7c30-498561da, #w-node-_70283d60-0012-c88d-09ab-6c00718ccf22-498561da, #w-node-_12c72ac2-03a1-72da-7fb4-d416c19af5fc-498561da, #w-node-b95e3308-69fc-c9f9-1c62-f8893d332399-498561da, #w-node-_65efc05c-6888-319b-b039-576bd85d5047-498561da, #w-node-d2b286fb-6c8f-1f7a-0f3e-492319184ef6-498561da, #w-node-_09f10733-dc08-0082-7b61-19c4a07bb810-498561da, #w-node-_8caa2c93-304c-8b7a-9af6-d9a4d893d8b5-498561da {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
