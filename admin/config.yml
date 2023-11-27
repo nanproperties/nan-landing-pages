@@ -2606,6 +2606,99 @@ collections:
             label: Text
             name: 58f5266f
             widget: string
+          - hint: 'Original text: Common HTML Tags, key: -3800ec47'
+            label: Text
+            name: '-3800ec47'
+            widget: string
+          - hint: 'Original text: Lorem ipsum dolor sit amet, key: -734fd222'
+            label: Text
+            name: '-734fd222'
+            widget: string
+          - hint: 'Original text: H1, key: 8e9'
+            label: Text
+            name: '8e9'
+            widget: string
+          - hint: 'Original text: H2, key: 8ea'
+            label: Text
+            name: 8ea
+            widget: string
+          - hint: 'Original text: H3, key: 8eb'
+            label: Text
+            name: 8eb
+            widget: string
+          - hint: 'Original text: H4, key: 8ec'
+            label: Text
+            name: 8ec
+            widget: string
+          - hint: 'Original text: H5, key: 8ed'
+            label: Text
+            name: 8ed
+            widget: string
+          - hint: 'Original text: H6, key: 8ee'
+            label: Text
+            name: 8ee
+            widget: string
+          - hint: >-
+              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
+              elit. Suspendisse varius enim in eros elementum tristique., key:
+              6f9475d5
+            label: Text
+            name: 6f9475d5
+            widget: text
+          - hint: >-
+              Original text: Duis cursus, mi quis viverra ornare, eros dolor
+              interdum nulla, ut commodo diam libero vitae erat., key: -594b44b1
+            label: Text
+            name: '-594b44b1'
+            widget: text
+          - hint: 'Original text: Paragraphs, key: -7764bf1b'
+            label: Text
+            name: '-7764bf1b'
+            widget: string
+          - hint: 'Original text: SUBTITLES, key: -392db8c5'
+            label: Text
+            name: '-392db8c5'
+            widget: string
+          - hint: 'Original text: Captions, key: de076d'
+            label: Text
+            name: de076d
+            widget: string
+          - hint: 'Original text: OVERLINE, key: 4e3a52c8'
+            label: Text
+            name: 4e3a52c8
+            widget: string
+          - hint: 'Original text: Block Quote, key: 3f3470e9'
+            label: Text
+            name: 3f3470e9
+            widget: string
+          - hint: 'Original text: Lorem ipsum, key: -1b542585'
+            label: Text
+            name: '-1b542585'
+            widget: string
+          - hint: 'Original text: Text Link, key: 3610230d'
+            label: Text
+            name: 3610230d
+            widget: string
+          - hint: 'Original text: Dolor sit, key: -7e4e627e'
+            label: Text
+            name: '-7e4e627e'
+            widget: string
+          - hint: 'Original text: Amet consectetur, key: 1cb93d2c'
+            label: Text
+            name: 1cb93d2c
+            widget: string
+          - hint: 'Original text: ordered List & List items, key: 7320a947'
+            label: Text
+            name: 7320a947
+            widget: string
+          - hint: 'Original text: Unordered List & List items, key: 466cf0ae'
+            label: Text
+            name: 466cf0ae
+            widget: string
+          - hint: 'Original text: Image, key: 437b93b'
+            label: Text
+            name: 437b93b
+            widget: string
           - hint: 'Original text: OUR DEVELOPER SERVICES TEAM, key: -a97860b'
             label: Text
             name: '-a97860b'
@@ -2793,99 +2886,6 @@ collections:
           - hint: 'Original text: Contact Us, key: 7f2746de'
             label: Text
             name: 7f2746de
-            widget: string
-          - hint: 'Original text: Common HTML Tags, key: -3800ec47'
-            label: Text
-            name: '-3800ec47'
-            widget: string
-          - hint: 'Original text: Lorem ipsum dolor sit amet, key: -734fd222'
-            label: Text
-            name: '-734fd222'
-            widget: string
-          - hint: 'Original text: H1, key: 8e9'
-            label: Text
-            name: '8e9'
-            widget: string
-          - hint: 'Original text: H2, key: 8ea'
-            label: Text
-            name: 8ea
-            widget: string
-          - hint: 'Original text: H3, key: 8eb'
-            label: Text
-            name: 8eb
-            widget: string
-          - hint: 'Original text: H4, key: 8ec'
-            label: Text
-            name: 8ec
-            widget: string
-          - hint: 'Original text: H5, key: 8ed'
-            label: Text
-            name: 8ed
-            widget: string
-          - hint: 'Original text: H6, key: 8ee'
-            label: Text
-            name: 8ee
-            widget: string
-          - hint: >-
-              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit. Suspendisse varius enim in eros elementum tristique., key:
-              6f9475d5
-            label: Text
-            name: 6f9475d5
-            widget: text
-          - hint: >-
-              Original text: Duis cursus, mi quis viverra ornare, eros dolor
-              interdum nulla, ut commodo diam libero vitae erat., key: -594b44b1
-            label: Text
-            name: '-594b44b1'
-            widget: text
-          - hint: 'Original text: Paragraphs, key: -7764bf1b'
-            label: Text
-            name: '-7764bf1b'
-            widget: string
-          - hint: 'Original text: SUBTITLES, key: -392db8c5'
-            label: Text
-            name: '-392db8c5'
-            widget: string
-          - hint: 'Original text: Captions, key: de076d'
-            label: Text
-            name: de076d
-            widget: string
-          - hint: 'Original text: OVERLINE, key: 4e3a52c8'
-            label: Text
-            name: 4e3a52c8
-            widget: string
-          - hint: 'Original text: Block Quote, key: 3f3470e9'
-            label: Text
-            name: 3f3470e9
-            widget: string
-          - hint: 'Original text: Lorem ipsum, key: -1b542585'
-            label: Text
-            name: '-1b542585'
-            widget: string
-          - hint: 'Original text: Text Link, key: 3610230d'
-            label: Text
-            name: 3610230d
-            widget: string
-          - hint: 'Original text: Dolor sit, key: -7e4e627e'
-            label: Text
-            name: '-7e4e627e'
-            widget: string
-          - hint: 'Original text: Amet consectetur, key: 1cb93d2c'
-            label: Text
-            name: 1cb93d2c
-            widget: string
-          - hint: 'Original text: ordered List & List items, key: 7320a947'
-            label: Text
-            name: 7320a947
-            widget: string
-          - hint: 'Original text: Unordered List & List items, key: 466cf0ae'
-            label: Text
-            name: 466cf0ae
-            widget: string
-          - hint: 'Original text: Image, key: 437b93b'
-            label: Text
-            name: 437b93b
             widget: string
           - hint: >-
               Original text: Nan and Company Properties is the industry leader
@@ -6361,241 +6361,6 @@ collections:
             label: Text
             name: 7635fb4f
             widget: string
-          - hint: 'Original text: Join Houston''s, key: 162aaf84'
-            label: Text
-            name: 162aaf84
-            widget: string
-          - hint: 'Original text:  Top-Rated , key: 5ed230f4'
-            label: Text
-            name: 5ed230f4
-            widget: string
-          - hint: 'Original text: Real Estate Brokerage, key: 2a35c0d4'
-            label: Text
-            name: 2a35c0d4
-            widget: string
-          - hint: >-
-              Original text: Elevate your real estate career and take advantage
-              of all the resources Nan has to offer: In-house marketing &
-              production teams, access to real-estate networks across the world,
-              data-entry coordinators, and so much more!, key: 5a1481ee
-            label: Text
-            name: 5a1481ee
-            widget: text
-          - hint: 'Original text: Awards & Recognition, key: 62cbcdd3'
-            label: Text
-            name: 62cbcdd3
-            widget: string
-          - hint: >-
-              Original text: Nan Unveils New Sports & Entertainment Division,
-              June 2023, key: 7b22ace6
-            label: Text
-            name: 7b22ace6
-            widget: string
-          - hint: >-
-              Original text: 2023 Viddy Platinum Award Winner for Short-Form
-              Content, key: -1e3b5796
-            label: Text
-            name: '-1e3b5796'
-            widget: string
-          - hint: >-
-              Original text: Nan Unveils New Farm & Ranch Division, August 2023,
-              key: 5f5ac978
-            label: Text
-            name: 5f5ac978
-            widget: string
-          - hint: >-
-              Original text: 2023 Recipient of City of Houston Mayor’s Volunteer
-              Community Engagement Appreciation Award, key: e473e07
-            label: Text
-            name: e473e07
-            widget: text
-          - hint: >-
-              Original text: Nancy Almodovar Named Managing Broker of The Year
-              in 2020, 2021, 2022, and 2023 by Houston Agent Magazine, key:
-              -6e4d343b
-            label: Text
-            name: '-6e4d343b'
-            widget: text
-          - hint: >-
-              Original text: Nan Named #1 and #2 in Total Sales& Transactions
-              (Small Teams), 2022 by Houston Business Journal, key: 139dd21e
-            label: Text
-            name: 139dd21e
-            widget: text
-          - hint: >-
-              Original text: Nan New Home Specialist Team was named “Houston’s
-              Best Realtor Team” by The Greater Houston Builder’s Association,
-              key: 32f66d03
-            label: Text
-            name: 32f66d03
-            widget: text
-          - hint: >-
-              Original text: Nan Announces Expansion into the Galveston Market,
-              May 2021, key: -1be30946
-            label: Text
-            name: '-1be30946'
-            widget: string
-          - hint: >-
-              Original text: Nan Named #1 in Total Sales & Transactions(Small
-              Teams), 2021 by HoustonBusiness Journal, key: 5ed26feb
-            label: Text
-            name: 5ed26feb
-            widget: string
-          - hint: 'Original text: We Are The, key: -49488acd'
-            label: Text
-            name: '-49488acd'
-            widget: string
-          - hint: 'Original text:  #NanFam, key: -3dbc4e26'
-            label: Text
-            name: '-3dbc4e26'
-            widget: string
-          - hint: 'Original text: Christie''s International Real Estate , key: d9eb19f'
-            label: Text
-            name: d9eb19f
-            widget: string
-          - hint: >-
-              Original text: is the industry leader in servicing the Houston
-              real estate market, as well as foreign national clientele., key:
-              -d244d7b
-            label: Text
-            name: '-d244d7b'
-            widget: text
-          - hint: 'Original text: Join our team, key: -29d26b39'
-            label: Text
-            name: '-29d26b39'
-            widget: string
-          - hint: 'Original text: Our, key: 1372c'
-            label: Text
-            name: 1372c
-            widget: string
-          - hint: 'Original text:  Values, key: 3511f162'
-            label: Text
-            name: 3511f162
-            widget: string
-          - hint: 'Original text: Join our #nanFam team, key: -459296b3'
-            label: Text
-            name: '-459296b3'
-            widget: string
-          - hint: 'Original text: The Nan Experience, key: cb6b57e'
-            label: Text
-            name: cb6b57e
-            widget: string
-          - hint: 'Original text: Let’s Elevate Your Game, key: -3f1601b2'
-            label: Text
-            name: '-3f1601b2'
-            widget: string
-          - hint: 'Original text: Diverse Team, key: -16321b13'
-            label: Text
-            name: '-16321b13'
-            widget: string
-          - hint: >-
-              Original text: A diverse and innovative team of agents with
-              extensive backgrounds, key: -23cf5e6d
-            label: Text
-            name: '-23cf5e6d'
-            widget: string
-          - hint: 'Original text: Health Insurance, key: 1749ee16'
-            label: Text
-            name: 1749ee16
-            widget: string
-          - hint: 'Original text: Strategic Result, key: 7d064b1d'
-            label: Text
-            name: 7d064b1d
-            widget: string
-          - hint: 'Original text: Real Estate Access Network, key: -4dda9a3c'
-            label: Text
-            name: '-4dda9a3c'
-            widget: string
-          - hint: 'Original text: Partnership with Builders, key: 43452636'
-            label: Text
-            name: '43452636'
-            widget: string
-          - hint: >-
-              Original text: Partnership with Houston's most noteworthy and
-              reputable builders, key: 73a03095
-            label: Text
-            name: 73a03095
-            widget: string
-          - hint: 'Original text: Full-time Support, key: 46a90bba'
-            label: Text
-            name: 46a90bba
-            widget: string
-          - hint: 'Original text: Training Opportunities, key: -35481e15'
-            label: Text
-            name: '-35481e15'
-            widget: string
-          - hint: 'Original text: the nan teams, key: -7b38ee7e'
-            label: Text
-            name: '-7b38ee7e'
-            widget: string
-          - hint: 'Original text: Work Hard,, key: -181e2d2e'
-            label: Text
-            name: '-181e2d2e'
-            widget: string
-          - hint: 'Original text:  Play Harder, key: -ecae6dc'
-            label: Text
-            name: '-ecae6dc'
-            widget: string
-          - hint: 'Original text: Join The, key: -4fca8f85'
-            label: Text
-            name: '-4fca8f85'
-            widget: string
-          - hint: 'Original text: Are you a top-performing realtor?, key: 3e3107e1'
-            label: Text
-            name: 3e3107e1
-            widget: string
-          - hint: >-
-              Original text: If so, we'd love to have you on our team!, key:
-              1e1689cf
-            label: Text
-            name: 1e1689cf
-            widget: string
-          - hint: 'Original text: @nanproperties, key: -5edec7b2'
-            label: Text
-            name: '-5edec7b2'
-            widget: string
-          - hint: 'Original text: 2023 all rights reserved, key: 5a46aa31'
-            label: Text
-            name: 5a46aa31
-            widget: string
-          - hint: 'Original text: Our Main Office, key: 1674840f'
-            label: Text
-            name: 1674840f
-            widget: string
-          - hint: 'Original text: 725 Yale St.Houston, , key: 31b4d2e'
-            label: Text
-            name: 31b4d2e
-            widget: string
-          - hint: 'Original text: TX 77007, key: 7ec2f2bb'
-            label: Text
-            name: 7ec2f2bb
-            widget: string
-          - hint: 'Original text: Galleria Office, key: 3bd2609d'
-            label: Text
-            name: 3bd2609d
-            widget: string
-          - hint: 'Original text: 2200 Post Oak Blvd, Suite, key: 28b61e5'
-            label: Text
-            name: 28b61e5
-            widget: string
-          - hint: 'Original text: 1475 Houston, TX 77056 713.714.6454, key: -7e9202d2'
-            label: Text
-            name: '-7e9202d2'
-            widget: string
-          - hint: 'Original text: Galveston Office, key: -77875c85'
-            label: Text
-            name: '-77875c85'
-            widget: string
-          - hint: >-
-              Original text: 10327 FM 3005, 2nd Floor Galveston, TX 77554
-              409.206.5800, key: 2fbe8f51
-            label: Text
-            name: 2fbe8f51
-            widget: string
-          - hint: 'Original text: Subscribe to Newsletter, key: 58a1bf28'
-            label: Text
-            name: 58a1bf28
-            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -7106,18 +6871,6 @@ collections:
             label: Link
             name: 7a98bba2
             widget: string
-          - hint: >-
-              Original link: https://www.nanproperties.com/about-christies, key:
-              -7b9b433a
-            label: Link
-            name: '-7b9b433a'
-            widget: string
-          - hint: >-
-              Original link: https://www.tiktok.com/@nanproperties, key:
-              18475a0a
-            label: Link
-            name: 18475a0a
-            widget: string
       - label: Images
         name: images
         file: cms/_data/images.json
@@ -7283,32 +7036,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: e5e63a8
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i2e2b756b
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: 49d35fc5
             widget: object
             fields:
@@ -7323,6 +7050,19 @@ collections:
                 required: false
           - label: Image
             name: '-3601644'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: df01cf0
             widget: object
             fields:
               - name: url
@@ -7427,19 +7167,6 @@ collections:
                 required: false
           - label: Image
             name: 14e950fd
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: df01cf0
             widget: object
             fields:
               - name: url
@@ -9455,318 +9182,6 @@ collections:
                 required: false
           - label: Image
             name: '-cdf5882'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 5c700bc3
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 41c4f7a3
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-767fc865'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-768ddfe6'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-6beb3f37'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-524aedd'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-59b5e95f'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 432802a3
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-1c52966b'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-4923e65d'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3e3f717d'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: c83b5b9
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-503a7c5a'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-7511654b'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-75034dca'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-74f53649'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-74e71ec8'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 7b3d9f24
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 3dccf003
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 67d0c0c3
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-2866e86d'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3583903d'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 41af7c41
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-458f645d'
             widget: object
             fields:
               - name: url

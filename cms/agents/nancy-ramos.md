@@ -21,12 +21,13 @@ f_bio: >-
 title: Nancy Ramos
 f_title: Realtor Associate
 f_headshot:
-  url: https://development.nanproperties.com/assets/external/6564bb12e05e5e95aff9a7c0_nancy20ramos.jpg
+  url: >-
+    https://development.nanproperties.com/assets/external/62150711b59fce062605d265_web20capture_22-2-2022_95342_drive.google.com.jpeg
   alt: null
 slug: nancy-ramos
-updated-on: '2023-11-27T15:57:41.132Z'
+updated-on: '2022-02-22T16:01:32.552Z'
 created-on: '2022-02-22T16:01:32.552Z'
-published-on: '2023-11-27T16:00:12.242Z'
+published-on: '2022-03-17T16:40:53.415Z'
 f_if-team-is-this-person-the-team-s-lead: false
 layout: '[agents].html'
 tags: agents

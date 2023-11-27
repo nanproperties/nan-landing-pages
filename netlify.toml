@@ -10,7 +10,7 @@ functions = "functions"
   force = true
 
 [[redirects]]
-  from = "https://development.nanproperties.com/assets/css/nan-landing-pages.css"
-  to = "https://development.nanproperties.com/assets/css/nan-landing-pages.webflow.css"
+  from = "/assets/css/nan-landing-pages.css"
+  to = "/assets/css/nan-landing-pages.webflow.css"
   status = 301
   force = true
