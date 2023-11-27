@@ -23,11 +23,11 @@ f_bio: >-
   area, call Lisa Peltier for all of your real estate needs
 title: Lisa Peltier
 slug: lisa-peltier
-updated-on: '2023-11-27T15:57:54.454Z'
+updated-on: '2023-11-27T21:50:30.894Z'
 created-on: '2021-08-11T14:49:44.749Z'
-published-on: '2023-11-27T16:00:12.242Z'
+published-on: '2023-11-27T22:08:35.136Z'
 f_headshot:
-  url: https://development.nanproperties.com/assets/external/6564bc0a27611fc9acac9438_peltier20lisa.jpg
+  url: https://development.nanproperties.com/assets/external/65650f1be3427fb43c276595_peltier20lisa1.jpg
   alt: null
 f_if-team-is-this-person-the-team-s-lead: false
 layout: '[agents].html'

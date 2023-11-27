@@ -1319,7 +1319,7 @@ a {
 }
 
 .section.section-whitehall-video {
-  max-width: 80vw;
+  max-width: 50vw;
   margin-top: -8em;
   margin-left: auto;
   margin-right: auto;
@@ -5853,6 +5853,7 @@ a {
   background-image: var(--image-e5e63a8);
   background-position: 50%;
   background-size: cover;
+  background-attachment: scroll;
   background-clip: border-box;
   padding: 140px;
 }
@@ -6012,6 +6013,61 @@ a {
   padding-bottom: .25rem;
 }
 
+.text-field-5 {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0);
+  margin-top: 20px;
+}
+
+.paragraph-8 {
+  color: #f16624;
+  font-size: 26px;
+}
+
+.cell-4 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.text-block-22 {
+  color: #fff;
+  padding-top: 10px;
+}
+
+.text-block-23 {
+  color: #fff;
+  font-size: 20px;
+}
+
+.text-field-6 {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0);
+  margin-top: 20px;
+}
+
+.container-6 {
+  -webkit-text-fill-color: inherit;
+  background-image: var(--image-e5e63a8);
+  background-position: 50%;
+  background-size: cover;
+  background-clip: border-box;
+}
+
+.image-wrapper {
+  background-image: var(--image-e5e63a8);
+  background-position: 0 0;
+  background-size: cover;
+}
+
+.whitehall-gallery-image-wrapper {
+  height: 300px;
+}
+
+.whitehall-gallery-image-wrapper.tall {
+  height: 600px;
+}
+
 @media screen and (max-width: 991px) {
   .h2.mx-page-h2 {
     text-align: center;
@@ -6040,6 +6096,10 @@ a {
     background-position: 0 0, 50% 0;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
+  }
+
+  .section.section-whitehall-video {
+    max-width: 80vw;
   }
 
   .section.section-whitehall-details {
@@ -8021,7 +8081,7 @@ a {
   align-self: center;
 }
 
-#w-node-fa23edf8-3eb7-7889-55e9-ed66c116c3a8-498561da, #w-node-e9095f33-c54d-ff3d-1f6e-5e4e1eca0d45-498561da, #w-node-_62d4fd3e-b26d-f7e1-ed84-c4d41dd32da8-498561da, #w-node-_1144dd5b-d6a7-5432-5b6a-a2facee10545-498561da, #w-node-d0874552-b7de-a51d-8056-189e0a2d11a0-498561da, #w-node-_9055ab6f-a0f5-d2c0-f7da-68350d3f2c9f-498561da, #w-node-e91313b2-7b43-7b50-9036-feeb3facf455-498561da, #w-node-ab32a41f-4a04-f5d0-77ff-25c2eb9d588a-498561da, #w-node-ceab6716-21fe-fe39-5ea1-ab3feeb5506d-498561da, #w-node-_9c2e0bb6-b897-4458-78a8-36acd4838f8c-498561da, #w-node-beedad0d-adb8-4af3-c679-2b7af02b2373-498561da, #w-node-_01550211-e530-8d25-2b8c-50d50dd843ac-498561da {
+#w-node-fa23edf8-3eb7-7889-55e9-ed66c116c3a8-498561da, #w-node-e9095f33-c54d-ff3d-1f6e-5e4e1eca0d45-498561da, #w-node-_62d4fd3e-b26d-f7e1-ed84-c4d41dd32da8-498561da, #w-node-b270c884-5797-db1d-1f28-e8553206d225-498561da, #w-node-_1144dd5b-d6a7-5432-5b6a-a2facee10545-498561da, #w-node-d0874552-b7de-a51d-8056-189e0a2d11a0-498561da, #w-node-_9055ab6f-a0f5-d2c0-f7da-68350d3f2c9f-498561da, #w-node-e91313b2-7b43-7b50-9036-feeb3facf455-498561da, #w-node-ab32a41f-4a04-f5d0-77ff-25c2eb9d588a-498561da, #w-node-ceab6716-21fe-fe39-5ea1-ab3feeb5506d-498561da, #w-node-_9c2e0bb6-b897-4458-78a8-36acd4838f8c-498561da, #w-node-beedad0d-adb8-4af3-c679-2b7af02b2373-498561da, #w-node-_01550211-e530-8d25-2b8c-50d50dd843ac-498561da {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
@@ -8029,7 +8089,7 @@ a {
   grid-area: 1 / 2 / 3 / 3;
 }
 
-#w-node-_37996220-0325-5187-ac9b-80a0846e1476-498561da, #w-node-_497d0b55-239b-1cc4-2fe5-b92cdc4b7c30-498561da, #w-node-_70283d60-0012-c88d-09ab-6c00718ccf22-498561da, #w-node-_12c72ac2-03a1-72da-7fb4-d416c19af5fc-498561da, #w-node-b95e3308-69fc-c9f9-1c62-f8893d332399-498561da, #w-node-_65efc05c-6888-319b-b039-576bd85d5047-498561da, #w-node-d2b286fb-6c8f-1f7a-0f3e-492319184ef6-498561da, #w-node-_09f10733-dc08-0082-7b61-19c4a07bb810-498561da, #w-node-_8caa2c93-304c-8b7a-9af6-d9a4d893d8b5-498561da, #w-node-_08091886-1b78-1613-d449-f1cf0bd745c0-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745c6-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745cc-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745d3-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745d9-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745df-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745e6-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745ec-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745f2-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047caae-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cab6-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cabe-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cac6-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cacf-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cad7-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cadf-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cae7-cea01f63 {
+#w-node-_37996220-0325-5187-ac9b-80a0846e1476-498561da, #w-node-_497d0b55-239b-1cc4-2fe5-b92cdc4b7c30-498561da, #w-node-_70283d60-0012-c88d-09ab-6c00718ccf22-498561da, #w-node-_12c72ac2-03a1-72da-7fb4-d416c19af5fc-498561da, #w-node-_796d2781-d1e7-80c2-4f91-b56907ed5dc1-498561da, #w-node-b95e3308-69fc-c9f9-1c62-f8893d332399-498561da, #w-node-_65efc05c-6888-319b-b039-576bd85d5047-498561da, #w-node-d2b286fb-6c8f-1f7a-0f3e-492319184ef6-498561da, #w-node-_89070f73-cbfd-46fe-d080-3fe202a282c3-498561da, #w-node-_09f10733-dc08-0082-7b61-19c4a07bb810-498561da, #w-node-_8caa2c93-304c-8b7a-9af6-d9a4d893d8b5-498561da, #w-node-c3fcbf67-b4f8-3251-1d9d-a7726a3a722d-498561da, #w-node-_08091886-1b78-1613-d449-f1cf0bd745c0-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745c6-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745cc-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745d3-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745d9-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745df-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745e6-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745ec-cea01f63, #w-node-_08091886-1b78-1613-d449-f1cf0bd745f2-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047caae-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cab6-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cabe-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cac6-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cacf-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cad7-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cadf-cea01f63, #w-node-_80cb6a39-996c-784c-f6a1-19f4d047cae7-cea01f63 {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 

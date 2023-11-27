@@ -2445,38 +2445,6 @@ collections:
             label: Text
             name: 56a75639
             widget: string
-          - hint: 'Original text: CURRENT, key: 6df74959'
-            label: Text
-            name: 6df74959
-            widget: string
-          - hint: "Original text: PAST\_DEVELOPMENTS, key: -495aab9a"
-            label: Text
-            name: '-495aab9a'
-            widget: string
-          - hint: "Original text: SOLD\_OUT, key: -7939ae9e"
-            label: Text
-            name: '-7939ae9e'
-            widget: string
-          - hint: 'Original text: ,, key: 2c'
-            label: Text
-            name: 2c
-            widget: string
-          - hint: "Original text: VIEW\_DETAILS, key: -45adb8d9"
-            label: Text
-            name: '-45adb8d9'
-            widget: string
-          - hint: 'Original text: Beds, key: 1f8832'
-            label: Text
-            name: 1f8832
-            widget: string
-          - hint: 'Original text: Baths, key: 3cfe7c0'
-            label: Text
-            name: 3cfe7c0
-            widget: string
-          - hint: 'Original text: Sq. Ft., key: -15ef51b0'
-            label: Text
-            name: '-15ef51b0'
-            widget: string
           - hint: "Original text: CONTACT\_ME\_››, key: -67d71d58"
             label: Text
             name: '-67d71d58'
@@ -2501,9 +2469,63 @@ collections:
             label: Text
             name: 463c13c5
             widget: string
+          - hint: 'Original text: Sq. Ft., key: -15ef51b0'
+            label: Text
+            name: '-15ef51b0'
+            widget: string
           - hint: 'Original text: Download Now, key: 4bce573e'
             label: Text
             name: 4bce573e
+            widget: string
+          - hint: >-
+              Original text: Select an area below or scroll down to view all new
+              home developments:, key: 3a4c28cb
+            label: Text
+            name: 3a4c28cb
+            widget: string
+          - hint: 'Original text: Houston, key: -5b2ea2d2'
+            label: Text
+            name: '-5b2ea2d2'
+            widget: string
+          - hint: 'Original text: Conroe, key: 78a49d26'
+            label: Text
+            name: 78a49d26
+            widget: string
+          - hint: 'Original text: La Porte, key: 1d4c6199'
+            label: Text
+            name: 1d4c6199
+            widget: string
+          - hint: 'Original text: Kingwood, key: -1d013d1c'
+            label: Text
+            name: '-1d013d1c'
+            widget: string
+          - hint: 'Original text: Spring Branch, key: -38f950eb'
+            label: Text
+            name: '-38f950eb'
+            widget: string
+          - hint: 'Original text: SOLD, key: 26ecd4'
+            label: Text
+            name: 26ecd4
+            widget: string
+          - hint: 'Original text: ,, key: 2c'
+            label: Text
+            name: 2c
+            widget: string
+          - hint: "Original text: VIEW\_DETAILS, key: -45adb8d9"
+            label: Text
+            name: '-45adb8d9'
+            widget: string
+          - hint: 'Original text: Sorry, this development has sold., key: -6d7a86a2'
+            label: Text
+            name: '-6d7a86a2'
+            widget: string
+          - hint: 'Original text: Beds, key: 1f8832'
+            label: Text
+            name: 1f8832
+            widget: string
+          - hint: 'Original text: Baths, key: 3cfe7c0'
+            label: Text
+            name: 3cfe7c0
             widget: string
           - hint: >-
               Original text: Find Stunning Properties Around The Globe., key:
@@ -2547,6 +2569,18 @@ collections:
           - hint: "Original text: VISIT\_WEBSITE, key: 47b97206"
             label: Text
             name: 47b97206
+            widget: string
+          - hint: 'Original text: CURRENT, key: 6df74959'
+            label: Text
+            name: 6df74959
+            widget: string
+          - hint: "Original text: PAST\_DEVELOPMENTS, key: -495aab9a"
+            label: Text
+            name: '-495aab9a'
+            widget: string
+          - hint: "Original text: SOLD\_OUT, key: -7939ae9e"
+            label: Text
+            name: '-7939ae9e'
             widget: string
           - hint: "Original text: Press &\_Media, key: -835d433"
             label: Text
@@ -2759,40 +2793,6 @@ collections:
           - hint: 'Original text: Contact Us, key: 7f2746de'
             label: Text
             name: 7f2746de
-            widget: string
-          - hint: >-
-              Original text: Select an area below or scroll down to view all new
-              home developments:, key: 3a4c28cb
-            label: Text
-            name: 3a4c28cb
-            widget: string
-          - hint: 'Original text: Houston, key: -5b2ea2d2'
-            label: Text
-            name: '-5b2ea2d2'
-            widget: string
-          - hint: 'Original text: Conroe, key: 78a49d26'
-            label: Text
-            name: 78a49d26
-            widget: string
-          - hint: 'Original text: La Porte, key: 1d4c6199'
-            label: Text
-            name: 1d4c6199
-            widget: string
-          - hint: 'Original text: Kingwood, key: -1d013d1c'
-            label: Text
-            name: '-1d013d1c'
-            widget: string
-          - hint: 'Original text: Spring Branch, key: -38f950eb'
-            label: Text
-            name: '-38f950eb'
-            widget: string
-          - hint: 'Original text: SOLD, key: 26ecd4'
-            label: Text
-            name: 26ecd4
-            widget: string
-          - hint: 'Original text: Sorry, this development has sold., key: -6d7a86a2'
-            label: Text
-            name: '-6d7a86a2'
             widget: string
           - hint: 'Original text: Common HTML Tags, key: -3800ec47'
             label: Text
@@ -4085,6 +4085,44 @@ collections:
             label: Text
             name: 5015a10f
             widget: string
+          - hint: 'Original text: Live Life On The Waterfront, key: 22f87c92'
+            label: Text
+            name: 22f87c92
+            widget: string
+          - hint: >-
+              Original text: Waterfront properties make up some of the most
+              beautiful real estate properties in the world. The serene waters,
+              sandy beaches and blue skies transport you to a state of ultimate
+              , key: 24ab6fbb
+            label: Text
+            name: 24ab6fbb
+            widget: text
+          - hint: 'Original text: relaxation, key: -7bdad9b'
+            label: Text
+            name: '-7bdad9b'
+            widget: string
+          - hint: >-
+              Original text: . Waterfront properties are ideal for boating,
+              fishing, and other water recreation. Click , key: -14c651db
+            label: Text
+            name: '-14c651db'
+            widget: string
+          - hint: 'Original text: here, key: 30cff0'
+            label: Text
+            name: 30cff0
+            widget: string
+          - hint: 'Original text:  for more vacation getaways., key: 7b8b4f10'
+            label: Text
+            name: 7b8b4f10
+            widget: string
+          - hint: 'Original text: Waterfront listings, key: -18130c3'
+            label: Text
+            name: '-18130c3'
+            widget: string
+          - hint: 'Original text: View Waterfront Listings, key: -4b1667e'
+            label: Text
+            name: '-4b1667e'
+            widget: string
           - hint: 'Original text: Your Home Away From Home, key: -27f7909'
             label: Text
             name: '-27f7909'
@@ -4157,43 +4195,25 @@ collections:
             label: Text
             name: 73c56c7b
             widget: string
-          - hint: 'Original text: Live Life On The Waterfront, key: 22f87c92'
+          - hint: "Original text: OBTÉN TU\_LISTA\_DE\_CASAS\_››, key: 6f029d96"
             label: Text
-            name: 22f87c92
+            name: 6f029d96
             widget: string
           - hint: >-
-              Original text: Waterfront properties make up some of the most
-              beautiful real estate properties in the world. The serene waters,
-              sandy beaches and blue skies transport you to a state of ultimate
-              , key: 24ab6fbb
+              Original text: Obtén Tu Lista De Casas De Lujo En The Woodlands,
+              key: -65558e22
             label: Text
-            name: 24ab6fbb
-            widget: text
-          - hint: 'Original text: relaxation, key: -7bdad9b'
+            name: '-65558e22'
+            widget: string
+          - hint: "Original text: Asesoría Gratuita Y\_Financiamiento Para Extranjeros, key: 49c89b1b"
             label: Text
-            name: '-7bdad9b'
+            name: 49c89b1b
             widget: string
           - hint: >-
-              Original text: . Waterfront properties are ideal for boating,
-              fishing, and other water recreation. Click , key: -14c651db
+              Original text: Te asesoramos sin costo, te ayudamos a encontrar
+              financiamiento. , key: -60a760ea
             label: Text
-            name: '-14c651db'
-            widget: string
-          - hint: 'Original text: here, key: 30cff0'
-            label: Text
-            name: 30cff0
-            widget: string
-          - hint: 'Original text:  for more vacation getaways., key: 7b8b4f10'
-            label: Text
-            name: 7b8b4f10
-            widget: string
-          - hint: 'Original text: Waterfront listings, key: -18130c3'
-            label: Text
-            name: '-18130c3'
-            widget: string
-          - hint: 'Original text: View Waterfront Listings, key: -4b1667e'
-            label: Text
-            name: '-4b1667e'
+            name: '-60a760ea'
             widget: string
           - hint: "Original text: Local &\_National Media Coverage About our Nan Developer Services, key: 662d6bfd"
             label: Text
@@ -4353,26 +4373,6 @@ collections:
             label: Text
             name: 26dfdf12
             widget: text
-          - hint: "Original text: OBTÉN TU\_LISTA\_DE\_CASAS\_››, key: 6f029d96"
-            label: Text
-            name: 6f029d96
-            widget: string
-          - hint: >-
-              Original text: Obtén Tu Lista De Casas De Lujo En The Woodlands,
-              key: -65558e22
-            label: Text
-            name: '-65558e22'
-            widget: string
-          - hint: "Original text: Asesoría Gratuita Y\_Financiamiento Para Extranjeros, key: 49c89b1b"
-            label: Text
-            name: 49c89b1b
-            widget: string
-          - hint: >-
-              Original text: Te asesoramos sin costo, te ayudamos a encontrar
-              financiamiento. , key: -60a760ea
-            label: Text
-            name: '-60a760ea'
-            widget: string
           - hint: >-
               Original text: Connect with one of our experienced agents today.,
               key: 1abb4f5a
@@ -4578,6 +4578,152 @@ collections:
             label: Text
             name: 2c9fce8
             widget: text
+          - hint: >-
+              Original text: How You Can Find Your Next Home While Streamlining
+              Your Life, key: -20f5ed1c
+            label: Text
+            name: '-20f5ed1c'
+            widget: string
+          - hint: >-
+              Original text: If your family is grown and you still live in the
+              house your children grew up in, you’ve probably given some thought
+              to downsizing. There are many benefits when it comes to downsizing
+              that makes moving into a 55+ or retirement community ideal., key:
+              e44936d
+            label: Text
+            name: e44936d
+            widget: text
+          - hint: 'Original text: 1. , key: bda3'
+            label: Text
+            name: bda3
+            widget: string
+          - hint: 'Original text: Less Maintenance, key: 72e98f0c'
+            label: Text
+            name: 72e98f0c
+            widget: string
+          - hint: >-
+              Original text: As you get older, your household responsibilities
+              can get in the way of your bigger goals, like long-term travel or
+              spontaneous road trips. Less maintenance is a huge draw when it
+              comes to moving into a smaller space. With a smaller home,
+              especially if it’s a new construction home, your routine
+              maintenance will not only be less frequent, but also significantly
+              cheaper. You can spend more time doing things you love with the
+              people you love and less time worrying about your next home
+              repair., key: 63e08ad9
+            label: Text
+            name: 63e08ad9
+            widget: text
+          - hint: 'Original text: 2. , key: c164'
+            label: Text
+            name: c164
+            widget: string
+          - hint: 'Original text: Expand Your Social Circle, key: -713e104'
+            label: Text
+            name: '-713e104'
+            widget: string
+          - hint: >-
+              Original text: Making new friends is always tricky, especially as
+              you get older. Living at a master planned community ensures that
+              you’re surrounded by people that are in the same stage of life as
+              you. This means no noisy or disruptive neighbors and it allows you
+              to build a community of friends that live right down the road.,
+              key: -35337e1e
+            label: Text
+            name: '-35337e1e'
+            widget: text
+          - hint: 'Original text: 3. , key: c525'
+            label: Text
+            name: c525
+            widget: string
+          - hint: 'Original text: Stay In Shape, key: -2f992d53'
+            label: Text
+            name: '-2f992d53'
+            widget: string
+          - hint: "Original text: Staying active as you age can help you maintain independence and decrease your likelihood of sustaining a serious injury if you fall or get hurt. At most communities, \_you have full access to a state of the art fitness center, dog park, or game room that will keep you staying active and in shape., key: -32a6563a"
+            label: Text
+            name: '-32a6563a'
+            widget: text
+          - hint: >-
+              Original text: These reasons and more are why 55+ and retirement
+              communities are the ideal place to live if you want to live in a
+              community that helps your health, finances and social life
+              flourish., key: 62ba7ce9
+            label: Text
+            name: 62ba7ce9
+            widget: text
+          - hint: "Original text: 55+\_Points of Interest, key: 76c4990b"
+            label: Text
+            name: 76c4990b
+            widget: string
+          - hint: 'Original text: Available Communities, key: -d250cd0'
+            label: Text
+            name: '-d250cd0'
+            widget: string
+          - hint: >-
+              Original text: In March of 2019, Christie's International Real
+              Estate held their Annual Global Conference in Pal Beach, Florida.
+              This brought together over 138 affiliates from 940 countries.,
+              key: -34b1d757
+            label: Text
+            name: '-34b1d757'
+            widget: text
+          - hint: >-
+              Original text: Nan and Company Properties was recognized for their
+              continual growth and contribution to the Christie's International
+              Real Estate network and was awarded the highly prestigious
+              "Affiliate of The Year" award. , key: -23d2dbb1
+            label: Text
+            name: '-23d2dbb1'
+            widget: text
+          - hint: >-
+              Original text: CEO and COO Nancy and Jose Almodovar were there to
+              accept the award and stated, “Our Nan Family is incredibly
+              thankful for this award and it is an honor to be recognized for
+              our hard work and dedication to selling luxury real estate.” The
+              company closed with over $250,000.000 in 2019 and has not slowed
+              down since. Closing each month better than the year prior, Nan and
+              Company Properties is truly an industry leader in the Houston real
+              estate market., key: -7d9e9949
+            label: Text
+            name: '-7d9e9949'
+            widget: text
+          - hint: >-
+              Original text: Nan Properties Developer Services provides
+              developers a comprehensive and a strategic approach to program
+              development, launch, and to sustaining sales for a project. We
+              position each development directly to the consumer as an
+              independent brand and its product offering is leveraged by Nan
+              Properties and our Christies International Real Estate
+              affiliation. Ultimately, we maximize our expertise and platforms
+              within the company to drive as many qualified buyers, both locally
+              and internationally, directly to the project., key: -2253de7a
+            label: Text
+            name: '-2253de7a'
+            widget: text
+          - hint: >-
+              Original text: We pride ourselves on being strategic partners,
+              working closely as a team from conception to completion. We
+              provide developers with highly effective services, including
+              concept development, building design, programming, and sales and
+              marketing. Our in-depth market research allows us to deliver
+              programs that entice the target buyer to act., key: 9d033f
+            label: Text
+            name: 9d033f
+            widget: text
+          - hint: >-
+              Original text: With a dedicated core team of experts, we fully
+              support the project brand, the developer and their goals. Our team
+              is comprised of highly experienced real estate professionals who
+              are highly trained on the fundamentals of branding. They have a
+              close pulse on the industry and the competition. The team
+              collaborates with the architects to ensure the product offering
+              matches that of the designated target market and oversees and
+              orchestrates the marketing programs and operational needs of the
+              project., key: 16e6eb1a
+            label: Text
+            name: 16e6eb1a
+            widget: text
           - hint: "Original text: SCOPE\_OF\_SERVICES, key: -7d1a9365"
             label: Text
             name: '-7d1a9365'
@@ -4768,116 +4914,6 @@ collections:
             label: Text
             name: 33726f4
             widget: string
-          - hint: >-
-              Original text: In March of 2019, Christie's International Real
-              Estate held their Annual Global Conference in Pal Beach, Florida.
-              This brought together over 138 affiliates from 940 countries.,
-              key: -34b1d757
-            label: Text
-            name: '-34b1d757'
-            widget: text
-          - hint: >-
-              Original text: Nan and Company Properties was recognized for their
-              continual growth and contribution to the Christie's International
-              Real Estate network and was awarded the highly prestigious
-              "Affiliate of The Year" award. , key: -23d2dbb1
-            label: Text
-            name: '-23d2dbb1'
-            widget: text
-          - hint: >-
-              Original text: CEO and COO Nancy and Jose Almodovar were there to
-              accept the award and stated, “Our Nan Family is incredibly
-              thankful for this award and it is an honor to be recognized for
-              our hard work and dedication to selling luxury real estate.” The
-              company closed with over $250,000.000 in 2019 and has not slowed
-              down since. Closing each month better than the year prior, Nan and
-              Company Properties is truly an industry leader in the Houston real
-              estate market., key: -7d9e9949
-            label: Text
-            name: '-7d9e9949'
-            widget: text
-          - hint: >-
-              Original text: How You Can Find Your Next Home While Streamlining
-              Your Life, key: -20f5ed1c
-            label: Text
-            name: '-20f5ed1c'
-            widget: string
-          - hint: >-
-              Original text: If your family is grown and you still live in the
-              house your children grew up in, you’ve probably given some thought
-              to downsizing. There are many benefits when it comes to downsizing
-              that makes moving into a 55+ or retirement community ideal., key:
-              e44936d
-            label: Text
-            name: e44936d
-            widget: text
-          - hint: 'Original text: 1. , key: bda3'
-            label: Text
-            name: bda3
-            widget: string
-          - hint: 'Original text: Less Maintenance, key: 72e98f0c'
-            label: Text
-            name: 72e98f0c
-            widget: string
-          - hint: >-
-              Original text: As you get older, your household responsibilities
-              can get in the way of your bigger goals, like long-term travel or
-              spontaneous road trips. Less maintenance is a huge draw when it
-              comes to moving into a smaller space. With a smaller home,
-              especially if it’s a new construction home, your routine
-              maintenance will not only be less frequent, but also significantly
-              cheaper. You can spend more time doing things you love with the
-              people you love and less time worrying about your next home
-              repair., key: 63e08ad9
-            label: Text
-            name: 63e08ad9
-            widget: text
-          - hint: 'Original text: 2. , key: c164'
-            label: Text
-            name: c164
-            widget: string
-          - hint: 'Original text: Expand Your Social Circle, key: -713e104'
-            label: Text
-            name: '-713e104'
-            widget: string
-          - hint: >-
-              Original text: Making new friends is always tricky, especially as
-              you get older. Living at a master planned community ensures that
-              you’re surrounded by people that are in the same stage of life as
-              you. This means no noisy or disruptive neighbors and it allows you
-              to build a community of friends that live right down the road.,
-              key: -35337e1e
-            label: Text
-            name: '-35337e1e'
-            widget: text
-          - hint: 'Original text: 3. , key: c525'
-            label: Text
-            name: c525
-            widget: string
-          - hint: 'Original text: Stay In Shape, key: -2f992d53'
-            label: Text
-            name: '-2f992d53'
-            widget: string
-          - hint: "Original text: Staying active as you age can help you maintain independence and decrease your likelihood of sustaining a serious injury if you fall or get hurt. At most communities, \_you have full access to a state of the art fitness center, dog park, or game room that will keep you staying active and in shape., key: -32a6563a"
-            label: Text
-            name: '-32a6563a'
-            widget: text
-          - hint: >-
-              Original text: These reasons and more are why 55+ and retirement
-              communities are the ideal place to live if you want to live in a
-              community that helps your health, finances and social life
-              flourish., key: 62ba7ce9
-            label: Text
-            name: 62ba7ce9
-            widget: text
-          - hint: "Original text: 55+\_Points of Interest, key: 76c4990b"
-            label: Text
-            name: 76c4990b
-            widget: string
-          - hint: 'Original text: Available Communities, key: -d250cd0'
-            label: Text
-            name: '-d250cd0'
-            widget: string
           - hint: 'Original text: Name, key: 24eeab'
             label: Text
             name: 24eeab
@@ -4946,42 +4982,6 @@ collections:
             label: Text
             name: 6d7d58c1
             widget: string
-          - hint: >-
-              Original text: Nan Properties Developer Services provides
-              developers a comprehensive and a strategic approach to program
-              development, launch, and to sustaining sales for a project. We
-              position each development directly to the consumer as an
-              independent brand and its product offering is leveraged by Nan
-              Properties and our Christies International Real Estate
-              affiliation. Ultimately, we maximize our expertise and platforms
-              within the company to drive as many qualified buyers, both locally
-              and internationally, directly to the project., key: -2253de7a
-            label: Text
-            name: '-2253de7a'
-            widget: text
-          - hint: >-
-              Original text: We pride ourselves on being strategic partners,
-              working closely as a team from conception to completion. We
-              provide developers with highly effective services, including
-              concept development, building design, programming, and sales and
-              marketing. Our in-depth market research allows us to deliver
-              programs that entice the target buyer to act., key: 9d033f
-            label: Text
-            name: 9d033f
-            widget: text
-          - hint: >-
-              Original text: With a dedicated core team of experts, we fully
-              support the project brand, the developer and their goals. Our team
-              is comprised of highly experienced real estate professionals who
-              are highly trained on the fundamentals of branding. They have a
-              close pulse on the industry and the competition. The team
-              collaborates with the architects to ensure the product offering
-              matches that of the designated target market and oversees and
-              orchestrates the marketing programs and operational needs of the
-              project., key: 16e6eb1a
-            label: Text
-            name: 16e6eb1a
-            widget: text
           - hint: "Original text: Click DOWNLOAD\_NOW\_to view this Look Book now!, key: -4f4ba6dd"
             label: Text
             name: '-4f4ba6dd'
@@ -5539,6 +5539,134 @@ collections:
             label: Text
             name: '-799c9af5'
             widget: string
+          - hint: 'Original text: 3920 Inverness, key: e554999'
+            label: Text
+            name: e554999
+            widget: string
+          - hint: >-
+              Original text: 3920 Inverness Dr, Houston, TX 77019, key:
+              -6a9a4dab
+            label: Text
+            name: '-6a9a4dab'
+            widget: string
+          - hint: 'Original text: $17,000,000, key: -5893c9ae'
+            label: Text
+            name: '-5893c9ae'
+            widget: string
+          - hint: 'Original text: Property Details, key: -5d735d09'
+            label: Text
+            name: '-5d735d09'
+            widget: string
+          - hint: 'Original text: 6, key: 36'
+            label: Text
+            name: '36'
+            widget: string
+          - hint: 'Original text: Full Baths, key: -12196cf1'
+            label: Text
+            name: '-12196cf1'
+            widget: string
+          - hint: 'Original text: 7, key: 37'
+            label: Text
+            name: '37'
+            widget: string
+          - hint: 'Original text: Half baths, key: 57e55d3'
+            label: Text
+            name: 57e55d3
+            widget: string
+          - hint: 'Original text: 3, key: 33'
+            label: Text
+            name: '33'
+            widget: string
+          - hint: 'Original text: Building sq. ft, key: -449987d6'
+            label: Text
+            name: '-449987d6'
+            widget: string
+          - hint: 'Original text: 11,248, key: 5664b8aa'
+            label: Text
+            name: 5664b8aa
+            widget: string
+          - hint: 'Original text: acre lot, key: -667d297a'
+            label: Text
+            name: '-667d297a'
+            widget: string
+          - hint: 'Original text: 1.7, key: bdba'
+            label: Text
+            name: bdba
+            widget: string
+          - hint: 'Original text: Overview, key: 23735199'
+            label: Text
+            name: '23735199'
+            widget: string
+          - hint: >-
+              Original text: This stunning custom estate of rare elegance is
+              located in the exclusive area of River Oaks known as Tall Timbers,
+              which can be unequivocally described as one of Houston’s most
+              premier addresses. The French style manor is set upon 1.7 acres
+              and features meticulously manicured and wooded grounds. The home
+              is approached by way of imposing gates and a long circular
+              driveway before reaching the dramatic entrance. The foyer features
+              a two-story rotunda with a domed ceiling, and is drenched in
+              natural light., key: 1211cb
+            label: Text
+            name: 1211cb
+            widget: text
+          - hint: >-
+              Original text: As you wander inside you will find the lavish manor
+              to feature a Chef’s Kitchen plus a Caterer’s Kitchen equipped to
+              entertain, 6 luxuriously appointed ensuite bedrooms with the
+              primary conveniently located on the first level, formal living and
+              dining spaces, stately appointed library, and separate living
+              quarters are just a few of the interior features., key: 3b5113bc
+            label: Text
+            name: 3b5113bc
+            widget: text
+          - hint: >-
+              Original text: A series of arched French Doors, just a few of the
+              home’s architecturally captivating details, reveal the grand rear
+              garden and its rare opulence. Outdoor events or private family
+              enjoyment can be had here underneath the covered pavilion with
+              expansive limestone decking flanking the sparkling pool which is
+              found appointed with delicate water features. The pool house is
+              outfitted to deliver ease of use, and pleasure of the outside
+              amenities., key: 6d3922f8
+            label: Text
+            name: 6d3922f8
+            widget: text
+          - hint: >-
+              Original text: Come and experience the luxurious exclusivity of
+              this magnificent estate! A private tour awaits you., key:
+              -74eb3c06
+            label: Text
+            name: '-74eb3c06'
+            widget: text
+          - hint: 'Original text: Location, key: 752a03d5'
+            label: Text
+            name: 752a03d5
+            widget: string
+          - hint: "Original text: Listing\_Agent, key: 5b06ada9"
+            label: Text
+            name: 5b06ada9
+            widget: string
+          - hint: "Original text: CEO\_&\_Broker, key: 24fdd4c6"
+            label: Text
+            name: 24fdd4c6
+            widget: string
+          - hint: 'Original text: nancy@nanproperties.com, key: 4ef9f472'
+            label: Text
+            name: 4ef9f472
+            widget: string
+          - hint: 'Original text: C: 713.963.9554, key: -65b6e42f'
+            label: Text
+            name: '-65b6e42f'
+            widget: string
+          - hint: 'Original text: O: 713.714.6454, key: -5fbf365'
+            label: Text
+            name: '-5fbf365'
+            widget: string
+          - hint: "Original text: CONTACT\_ME, key: 2541b238"
+            label: Text
+            name: 2541b238
+            widget: string
           - hint: 'Original text: The Power of Our Brand, key: -54bf020c'
             label: Text
             name: '-54bf020c'
@@ -5779,134 +5907,6 @@ collections:
             label: Text
             name: '-792b56b3'
             widget: text
-          - hint: 'Original text: 3920 Inverness, key: e554999'
-            label: Text
-            name: e554999
-            widget: string
-          - hint: >-
-              Original text: 3920 Inverness Dr, Houston, TX 77019, key:
-              -6a9a4dab
-            label: Text
-            name: '-6a9a4dab'
-            widget: string
-          - hint: 'Original text: $17,000,000, key: -5893c9ae'
-            label: Text
-            name: '-5893c9ae'
-            widget: string
-          - hint: 'Original text: Property Details, key: -5d735d09'
-            label: Text
-            name: '-5d735d09'
-            widget: string
-          - hint: 'Original text: 6, key: 36'
-            label: Text
-            name: '36'
-            widget: string
-          - hint: 'Original text: Full Baths, key: -12196cf1'
-            label: Text
-            name: '-12196cf1'
-            widget: string
-          - hint: 'Original text: 7, key: 37'
-            label: Text
-            name: '37'
-            widget: string
-          - hint: 'Original text: Half baths, key: 57e55d3'
-            label: Text
-            name: 57e55d3
-            widget: string
-          - hint: 'Original text: 3, key: 33'
-            label: Text
-            name: '33'
-            widget: string
-          - hint: 'Original text: Building sq. ft, key: -449987d6'
-            label: Text
-            name: '-449987d6'
-            widget: string
-          - hint: 'Original text: 11,248, key: 5664b8aa'
-            label: Text
-            name: 5664b8aa
-            widget: string
-          - hint: 'Original text: acre lot, key: -667d297a'
-            label: Text
-            name: '-667d297a'
-            widget: string
-          - hint: 'Original text: 1.7, key: bdba'
-            label: Text
-            name: bdba
-            widget: string
-          - hint: 'Original text: Overview, key: 23735199'
-            label: Text
-            name: '23735199'
-            widget: string
-          - hint: >-
-              Original text: This stunning custom estate of rare elegance is
-              located in the exclusive area of River Oaks known as Tall Timbers,
-              which can be unequivocally described as one of Houston’s most
-              premier addresses. The French style manor is set upon 1.7 acres
-              and features meticulously manicured and wooded grounds. The home
-              is approached by way of imposing gates and a long circular
-              driveway before reaching the dramatic entrance. The foyer features
-              a two-story rotunda with a domed ceiling, and is drenched in
-              natural light., key: 1211cb
-            label: Text
-            name: 1211cb
-            widget: text
-          - hint: >-
-              Original text: As you wander inside you will find the lavish manor
-              to feature a Chef’s Kitchen plus a Caterer’s Kitchen equipped to
-              entertain, 6 luxuriously appointed ensuite bedrooms with the
-              primary conveniently located on the first level, formal living and
-              dining spaces, stately appointed library, and separate living
-              quarters are just a few of the interior features., key: 3b5113bc
-            label: Text
-            name: 3b5113bc
-            widget: text
-          - hint: >-
-              Original text: A series of arched French Doors, just a few of the
-              home’s architecturally captivating details, reveal the grand rear
-              garden and its rare opulence. Outdoor events or private family
-              enjoyment can be had here underneath the covered pavilion with
-              expansive limestone decking flanking the sparkling pool which is
-              found appointed with delicate water features. The pool house is
-              outfitted to deliver ease of use, and pleasure of the outside
-              amenities., key: 6d3922f8
-            label: Text
-            name: 6d3922f8
-            widget: text
-          - hint: >-
-              Original text: Come and experience the luxurious exclusivity of
-              this magnificent estate! A private tour awaits you., key:
-              -74eb3c06
-            label: Text
-            name: '-74eb3c06'
-            widget: text
-          - hint: 'Original text: Location, key: 752a03d5'
-            label: Text
-            name: 752a03d5
-            widget: string
-          - hint: "Original text: Listing\_Agent, key: 5b06ada9"
-            label: Text
-            name: 5b06ada9
-            widget: string
-          - hint: "Original text: CEO\_&\_Broker, key: 24fdd4c6"
-            label: Text
-            name: 24fdd4c6
-            widget: string
-          - hint: 'Original text: nancy@nanproperties.com, key: 4ef9f472'
-            label: Text
-            name: 4ef9f472
-            widget: string
-          - hint: 'Original text: C: 713.963.9554, key: -65b6e42f'
-            label: Text
-            name: '-65b6e42f'
-            widget: string
-          - hint: 'Original text: O: 713.714.6454, key: -5fbf365'
-            label: Text
-            name: '-5fbf365'
-            widget: string
-          - hint: "Original text: CONTACT\_ME, key: 2541b238"
-            label: Text
-            name: 2541b238
-            widget: string
           - hint: >-
               Original text: El Mejor Lugar Para Vivir En Estados Unidos, key:
               229021c3
@@ -6289,9 +6289,9 @@ collections:
             label: Text
             name: 353f55b9
             widget: string
-          - hint: 'Original text: $45,000,000, key: 5bbfabad'
+          - hint: 'Original text: $42,000,000, key: -610da156'
             label: Text
-            name: 5bbfabad
+            name: '-610da156'
             widget: string
           - hint: 'Original text: HIGHLIGHTS, key: 3235f63f'
             label: Text
@@ -6402,6 +6402,30 @@ collections:
               5ecbb078
             label: Text
             name: 5ecbb078
+            widget: string
+          - hint: 'Original text: 30 mins to College Station, key: -62e51ade'
+            label: Text
+            name: '-62e51ade'
+            widget: string
+          - hint: 'Original text: Easy Access, key: 76f82742'
+            label: Text
+            name: 76f82742
+            widget: string
+          - hint: 'Original text: Tollroad 249 (Aggie Expressway), key: -583d3b53'
+            label: Text
+            name: '-583d3b53'
+            widget: string
+          - hint: 'Original text: Navasota Private Airport, key: -7bb520ab'
+            label: Text
+            name: '-7bb520ab'
+            widget: string
+          - hint: 'Original text: College Station Regional Airport, key: 739fe7df'
+            label: Text
+            name: 739fe7df
+            widget: string
+          - hint: 'Original text: George Bush International Airport, key: 58f9cda2'
+            label: Text
+            name: 58f9cda2
             widget: string
           - hint: "Original text: Size &\_Layout, key: 5d6e3a23"
             label: Text
@@ -6858,17 +6882,29 @@ collections:
             label: Link
             name: '23'
             widget: string
-          - hint: 'Original link: /new-homes, key: 747771b8'
-            label: Link
-            name: 747771b8
-            widget: string
-          - hint: 'Original link: /new-homes-sold, key: -31cd0837'
-            label: Link
-            name: '-31cd0837'
-            widget: string
           - hint: 'Original link: #cms-form, key: -41a1c015'
             label: Link
             name: '-41a1c015'
+            widget: string
+          - hint: 'Original link: #Houston, key: -27658055'
+            label: Link
+            name: '-27658055'
+            widget: string
+          - hint: 'Original link: #Conroe, key: -4be148f7'
+            label: Link
+            name: '-4be148f7'
+            widget: string
+          - hint: 'Original link: #La-Porte, key: 78d68ecf'
+            label: Link
+            name: 78d68ecf
+            widget: string
+          - hint: 'Original link: #Kingwood, key: 2859f007'
+            label: Link
+            name: 2859f007
+            widget: string
+          - hint: 'Original link: #Spring-Branch, key: 580a421f'
+            label: Link
+            name: 580a421f
             widget: string
           - hint: >-
               Original link:
@@ -6880,6 +6916,14 @@ collections:
           - hint: 'Original link: https://www.christiesrealestate.com, key: -2d417c0f'
             label: Link
             name: '-2d417c0f'
+            widget: string
+          - hint: 'Original link: /new-homes, key: 747771b8'
+            label: Link
+            name: 747771b8
+            widget: string
+          - hint: 'Original link: /new-homes-sold, key: -31cd0837'
+            label: Link
+            name: '-31cd0837'
             widget: string
           - hint: >-
               Original link:
@@ -6920,26 +6964,6 @@ collections:
               2f004efe
             label: Link
             name: 2f004efe
-            widget: string
-          - hint: 'Original link: #Houston, key: -27658055'
-            label: Link
-            name: '-27658055'
-            widget: string
-          - hint: 'Original link: #Conroe, key: -4be148f7'
-            label: Link
-            name: '-4be148f7'
-            widget: string
-          - hint: 'Original link: #La-Porte, key: 78d68ecf'
-            label: Link
-            name: 78d68ecf
-            widget: string
-          - hint: 'Original link: #Kingwood, key: 2859f007'
-            label: Link
-            name: 2859f007
-            widget: string
-          - hint: 'Original link: #Spring-Branch, key: 580a421f'
-            label: Link
-            name: 580a421f
             widget: string
           - hint: >-
               Original link: https://www.nanproperties.com/christies, key:
@@ -7153,6 +7177,19 @@ collections:
             widget: string
           - hint: >-
               Original link:
+              https://www.nanproperties.com/posts/your-guide-to-relaxing-at-home,
+              key: 657cd195
+            label: Link
+            name: 657cd195
+            widget: string
+          - hint: >-
+              Original link: https://www.nanproperties.com/getaway-listings,
+              key: -20eacdb4
+            label: Link
+            name: '-20eacdb4'
+            widget: string
+          - hint: >-
+              Original link:
               https://www.nanproperties.com/posts/ways-to-stay-productive-when-working-from-home,
               key: 6f984b9c
             label: Link
@@ -7181,19 +7218,6 @@ collections:
           - hint: 'Original link: #south-america, key: 63657ecb'
             label: Link
             name: 63657ecb
-            widget: string
-          - hint: >-
-              Original link:
-              https://www.nanproperties.com/posts/your-guide-to-relaxing-at-home,
-              key: 657cd195
-            label: Link
-            name: 657cd195
-            widget: string
-          - hint: >-
-              Original link: https://www.nanproperties.com/getaway-listings,
-              key: -20eacdb4
-            label: Link
-            name: '-20eacdb4'
             widget: string
           - hint: >-
               Original link: https://www.nanproperties.com/services#cms-form,
@@ -7293,6 +7317,10 @@ collections:
             label: Link
             name: 469023b0
             widget: string
+          - hint: 'Original link: #location, key: -49553328'
+            label: Link
+            name: '-49553328'
+            widget: string
           - hint: >-
               Original link: https://www.instagram.com/kyesampson, key:
               -6fae9746
@@ -7302,10 +7330,6 @@ collections:
           - hint: 'Original link: https://www.linkedin.com/kyesampson, key: 6bd96fa2'
             label: Link
             name: 6bd96fa2
-            widget: string
-          - hint: 'Original link: #location, key: -49553328'
-            label: Link
-            name: '-49553328'
             widget: string
           - hint: >-
               Original link: https://seahorsehomestx.com/floor-plans/, key:
@@ -8175,6 +8199,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: '-4e9d9613'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '-42899189'
             widget: object
             fields:
@@ -8189,19 +8226,6 @@ collections:
                 required: false
           - label: Image
             name: '-37bb36cf'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-4e9d9613'
             widget: object
             fields:
               - name: url
@@ -8500,6 +8524,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 10939fef
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '-19085adb'
             widget: object
             fields:
@@ -8514,19 +8551,6 @@ collections:
                 required: false
           - label: Image
             name: '-4314e610'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 10939fef
             widget: object
             fields:
               - name: url
@@ -8968,6 +8992,97 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 5f6a0118
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-64697ae4'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-6ea68e9e'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-6cf1b5ff'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-661e5383'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 663d6394
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 6f6559b8
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '-28f44e50'
             widget: object
             fields:
@@ -9216,97 +9331,6 @@ collections:
                 required: false
           - label: Image
             name: 3dcc9315
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 5f6a0118
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-64697ae4'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-6ea68e9e'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-6cf1b5ff'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-661e5383'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 663d6394
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 6f6559b8
             widget: object
             fields:
               - name: url
@@ -9579,7 +9603,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-20d86cbc'
+            name: '-59fe52ed'
             widget: object
             fields:
               - name: url
@@ -9592,7 +9616,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-d50148a'
+            name: 6c086213
             widget: object
             fields:
               - name: url
@@ -9605,7 +9629,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '7265e412'
+            name: 3bc38be8
             widget: object
             fields:
               - name: url
@@ -9618,7 +9642,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 573cf86b
+            name: 3716795e
             widget: object
             fields:
               - name: url
@@ -9631,7 +9655,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-ebe77a4'
+            name: '-74256395'
             widget: object
             fields:
               - name: url
@@ -9644,7 +9668,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-edaa6a6'
+            name: '-762a3ea2'
             widget: object
             fields:
               - name: url
@@ -9657,7 +9681,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-3f9a2166'
+            name: '-445bfd00'
             widget: object
             fields:
               - name: url
@@ -9670,7 +9694,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-b9b3beb'
+            name: '-7c40de53'
             widget: object
             fields:
               - name: url
@@ -9683,7 +9707,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-36d76bca'
+            name: 26dba809
             widget: object
             fields:
               - name: url
@@ -9696,7 +9720,46 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-cdf5882'
+            name: '-96d67a7'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-646f0df'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-38436e5a'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-251b973d'
             widget: object
             fields:
               - name: url
