@@ -5869,7 +5869,11 @@ a {
 }
 
 .instagram-carousel {
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
   margin-top: 20px;
+  display: flex;
 }
 
 .text-block-9 {
@@ -6212,7 +6216,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-top: 100px;
+  padding-top: 0;
 }
 
 .text-block-24 {
@@ -6232,6 +6236,26 @@ a {
   background-size: cover;
   background-clip: border-box;
   padding: 140px;
+}
+
+.div-block-30 {
+  background-image: var(--image-e5e63a8);
+  background-position: 0 0;
+  background-size: cover;
+}
+
+.stackfooter {
+  grid-column-gap: 15rem;
+  grid-row-gap: 15rem;
+  aspect-ratio: auto;
+  order: 0;
+  align-self: center;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.formcontainer {
+  display: inline-block;
 }
 
 @media screen and (max-width: 991px) {
