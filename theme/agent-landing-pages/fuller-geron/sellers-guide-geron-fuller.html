@@ -70,7 +70,7 @@ text-transform:none;
           {%- assign collection = collections.agents | filter: "title,eq,Geron Fuller", "ALL", page.inputPath | limit: 1 | sort: "-created-on" -%}<div class="w-dyn-list">
             {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
               {%- for item in collection -%}<div role="listitem" class="agent-lander-contact-box-agent-item w-dyn-item">
-                <div class="agent-lander-contact-box-image-wrapper"><img alt="{{ item.data.title }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_headshot.url }}" class="agent-lander-contact-box-image"></div>
+                <div class="agent-lander-contact-box-image-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_headshot.url }}" alt="{{ item.data.title }}" class="agent-lander-contact-box-image"></div>
                 <div class="agent-lander-contact-box-details-wrapper">
                   <div id="w-node-_46bf53b1-5690-7242-8f92-9c482ba255c8-e575987c" class="agent-lander-contact-box-name padding-1">{{ item.data.title }}</div>
                   <div class="agent-lander-contact-box-title padding-2">{{ item.data.f_title }}</div>
