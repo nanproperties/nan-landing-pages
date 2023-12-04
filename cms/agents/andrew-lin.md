@@ -20,7 +20,7 @@ f_headshot:
 slug: andrew-lin
 updated-on: '2023-11-22T18:37:57.063Z'
 created-on: '2021-04-15T04:52:21.387Z'
-published-on: '2023-11-22T19:28:45.132Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_if-team-is-this-person-the-team-s-lead: false
 f_language: Mandarin
 f_link-to-agent-bio-page-on-nan-website: https://www.nanproperties.com/agents/62761-andrew-lin

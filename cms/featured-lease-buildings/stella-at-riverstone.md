@@ -9,7 +9,7 @@ f_background-image:
 f_area: cms/leasing-areas/outer-city-communities.md
 updated-on: '2022-03-28T17:25:40.327Z'
 created-on: '2022-01-08T00:50:47.257Z'
-published-on: '2022-03-28T17:37:31.387Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_city: Sugar Land
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241ef822e888e802b2692c8_stella-at-riverstone-3.jpeg

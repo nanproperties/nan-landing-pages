@@ -19,7 +19,7 @@ f_headshot:
 slug: laura-bonck
 updated-on: '2022-05-04T23:10:28.012Z'
 created-on: '2021-04-15T04:52:25.102Z'
-published-on: '2022-05-04T23:24:04.510Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_title: Realtor Associate
 f_team: cms/teams/the-laura-bonck-homes-team.md
 f_if-team-is-this-person-the-team-s-lead: true

@@ -15,7 +15,7 @@ slug: >-
   houstons-60m-palace-booming-burbs-and-luxe-galveston-condos-list-among-2022s-top-real-estate-stories
 updated-on: '2023-11-15T17:58:56.612Z'
 created-on: '2023-11-15T16:58:20.941Z'
-published-on: '2023-11-15T18:03:28.742Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[press-articles].html'
 tags: press-articles
 ---

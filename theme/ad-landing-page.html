@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-page="6564c7383fc6d8becea01f63" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
+<html data-wf-page="656908cf99ee27e19153fc5b" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
   <meta charset="utf-8">
   
   
@@ -18,25 +18,45 @@
             aspect-ratio: 16 / 9;
         }</style></head>
 <body class="body">
-  <div class="page-wrapper">
-    <div class="custom-css-wrapper">
-      <div class="w-embed">
-        <link rel="stylesheet" href="https://use.typekit.net/qys7muq.css">
-        <link href="https://development.nanproperties.com/assets/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
-        <style>
-/* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
-.stackfooter: vertical-align: middle;
-.containerstack: vertical-align: middle;
-.formcontainer: vertical-align: middle;
+  <div class="w-embed">
+    <link rel="stylesheet" href="https://use.typekit.net/qys7muq.css">
+    <link href="https://development.nanproperties.com/assets/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+    <style>
+.form-block {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+}
+.w-form-done {
+    display: none;
+    padding: 20px;
+    text-align: center;
+    background-color: #dddddd;
+}
+.w-form-fail {
+    display: none;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #ffdede;
+}
+.form {
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    display: flex;
+}
 </style>
-      </div>
-    </div>
+  </div>
+  <div class="page-wrapper">
     <div class="custom-page">
       <section id="Home" class="header">
         <h1 class="heading"><span class="text-span">{{ texts.162aaf84 }}</span>{{ texts.5ed230f4 }}<br>{{ texts.2a35c0d4 }}</h1>
         <p class="paragraph">{{ texts.5a1481ee }}</p>
-        <div class="form-block w-form">
-          <form id="email-form" name="email-form" data-name="email" method="get" class="form" data-wf-page-id="6564c7383fc6d8becea01f63" data-wf-element-id="dfdf6dd0-b3c9-696e-597c-8445b9b1cbab" data-netlify="true" data-ajax="true" data-content-type="application/x-www-form-urlencoded"><input type="text" class="text-field-2 w-input" maxlength="256" name="name" data-name="Name" placeholder="Full Name" id="name" required=""><input type="email" class="text-field-2 w-input" maxlength="256" name="email" data-name="Email" placeholder="Email" id="email" required=""><input type="submit" value="Submit" data-wait="Please wait..." class="submit-button w-button"></form>
+        <div class="form-block form w-form">
+          <form id="email-form" name="email-form" data-name="email" method="get" class="container" data-wf-page-id="656908cf99ee27e19153fc5b" data-wf-element-id="9d9db173-a247-6cf4-ed48-dc305ee491ac" data-netlify="true" data-ajax="true" data-content-type="application/x-www-form-urlencoded"><input type="text" class="text-field-2 w-input" maxlength="256" name="name-2" data-name="Name 2" placeholder="Full Name" id="name-2" required=""><input type="email" class="text-field-2 w-input" maxlength="256" name="email-3" data-name="Email 3" placeholder="Email" id="email-3" required=""><input type="submit" value="Submit" data-wait="Please wait..." class="submit-button w-button"></form>
           <div class="w-form-done">
             <div>{{ texts.5a0ea5a1 }}</div>
           </div>
@@ -52,21 +72,21 @@
         <div class="container-2">
           <h2 class="centered-heading">{{ texts.62cbcdd3 }}</h2>
           <div class="awards-recognition-grid-two">
-            <div id="w-node-_08091886-1b78-1613-d449-f1cf0bd745c0-cea01f63" class="testimonial-card-two">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee491bd-9153fc5b" class="testimonial-card-two">
               <div class="testimonial-info-three"><img src="{{ images.5c700bc3.url }}" loading="lazy" alt="{{ images.5c700bc3.alt | trim | escape }}" class="testimonial-image">
                 <div>
                   <div class="text-block-11">{{ texts.7b22ace6 }}</div>
                 </div>
               </div>
             </div>
-            <div id="w-node-_08091886-1b78-1613-d449-f1cf0bd745c6-cea01f63" class="testimonial-card-two">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee491c3-9153fc5b" class="testimonial-card-two">
               <div class="testimonial-info-three"><img src="{{ images.5c700bc3.url }}" loading="lazy" alt="{{ images.5c700bc3.alt | trim | escape }}" class="testimonial-image">
                 <div>
                   <div class="text-block-11">{{ texts.-1e3b5796 }}</div>
                 </div>
               </div>
             </div>
-            <div id="w-node-_08091886-1b78-1613-d449-f1cf0bd745cc-cea01f63" class="testimonial-card-two">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee491c9-9153fc5b" class="testimonial-card-two">
               <div class="testimonial-info-three"><img src="{{ images.41c4f7a3.url }}" loading="lazy" alt="{{ images.41c4f7a3.alt | trim | escape }}" class="testimonial-image">
                 <div>
                   <div class="text-block-11">{{ texts.5f5ac978 }}</div>
@@ -75,21 +95,21 @@
             </div>
           </div>
           <div class="awards-recognition-grid-two">
-            <div id="w-node-_08091886-1b78-1613-d449-f1cf0bd745d3-cea01f63" class="testimonial-card-two">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee491d0-9153fc5b" class="testimonial-card-two">
               <div class="testimonial-info-three"><img src="{{ images.5c700bc3.url }}" loading="lazy" alt="{{ images.5c700bc3.alt | trim | escape }}" class="testimonial-image">
                 <div>
                   <div class="text-block-11">{{ texts.e473e07 }}</div>
                 </div>
               </div>
             </div>
-            <div id="w-node-_08091886-1b78-1613-d449-f1cf0bd745d9-cea01f63" class="testimonial-card-two">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee491d6-9153fc5b" class="testimonial-card-two">
               <div class="testimonial-info-three"><img src="{{ images.5c700bc3.url }}" loading="lazy" alt="{{ images.5c700bc3.alt | trim | escape }}" class="testimonial-image">
                 <div>
                   <div class="text-block-11">{{ texts.-6e4d343b }}</div>
                 </div>
               </div>
             </div>
-            <div id="w-node-_08091886-1b78-1613-d449-f1cf0bd745df-cea01f63" class="testimonial-card-two">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee491dc-9153fc5b" class="testimonial-card-two">
               <div class="testimonial-info-three"><img src="{{ images.41c4f7a3.url }}" loading="lazy" alt="{{ images.41c4f7a3.alt | trim | escape }}" class="testimonial-image">
                 <div>
                   <div class="text-block-11">{{ texts.139dd21e }}</div>
@@ -98,21 +118,21 @@
             </div>
           </div>
           <div class="awards-recognition-grid-two">
-            <div id="w-node-_08091886-1b78-1613-d449-f1cf0bd745e6-cea01f63" class="testimonial-card-two">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee491e3-9153fc5b" class="testimonial-card-two">
               <div class="testimonial-info-three"><img src="{{ images.41c4f7a3.url }}" loading="lazy" alt="{{ images.41c4f7a3.alt | trim | escape }}" class="testimonial-image">
                 <div>
                   <div class="text-block-11">{{ texts.32f66d03 }}</div>
                 </div>
               </div>
             </div>
-            <div id="w-node-_08091886-1b78-1613-d449-f1cf0bd745ec-cea01f63" class="testimonial-card-two">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee491e9-9153fc5b" class="testimonial-card-two">
               <div class="testimonial-info-three"><img src="{{ images.41c4f7a3.url }}" loading="lazy" alt="{{ images.41c4f7a3.alt | trim | escape }}" class="testimonial-image">
                 <div>
                   <div class="text-block-11">{{ texts.-1be30946 }}</div>
                 </div>
               </div>
             </div>
-            <div id="w-node-_08091886-1b78-1613-d449-f1cf0bd745f2-cea01f63" class="testimonial-card-two">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee491ef-9153fc5b" class="testimonial-card-two">
               <div class="testimonial-info-three"><img src="{{ images.41c4f7a3.url }}" loading="lazy" alt="{{ images.41c4f7a3.alt | trim | escape }}" class="testimonial-image">
                 <div>
                   <div class="text-block-11">{{ texts.5ed26feb }}</div>
@@ -152,7 +172,7 @@
         <div class="container-3">
           <h2 class="centered-heading-2">{{ texts.-3f1601b2 }}</h2>
           <div class="testimonial-grid-two">
-            <div id="w-node-_80cb6a39-996c-784c-f6a1-19f4d047caae-cea01f63" class="testimonial-card-two-2">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee49223-9153fc5b" class="testimonial-card-two-2">
               <div class="testimonial-info-three-2"><img src="{{ images.-524aedd.url }}" loading="lazy" alt="{{ images.-524aedd.alt | trim | escape }}" class="testimonial-image-2">
                 <div>
                   <h3 class="testimonial-main-heading-2">{{ texts.-16321b13 }}</h3>
@@ -160,7 +180,7 @@
                 </div>
               </div>
             </div>
-            <div id="w-node-_80cb6a39-996c-784c-f6a1-19f4d047cab6-cea01f63" class="testimonial-card-two-2">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee4922b-9153fc5b" class="testimonial-card-two-2">
               <div class="testimonial-info-three-2"><img src="{{ images.-59b5e95f.url }}" loading="lazy" alt="{{ images.-59b5e95f.alt | trim | escape }}" class="testimonial-image-2">
                 <div>
                   <h3 class="testimonial-main-heading-2">{{ texts.1749ee16 }}</h3>
@@ -168,7 +188,7 @@
                 </div>
               </div>
             </div>
-            <div id="w-node-_80cb6a39-996c-784c-f6a1-19f4d047cabe-cea01f63" class="testimonial-card-two-2">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee49233-9153fc5b" class="testimonial-card-two-2">
               <div class="testimonial-info-three-2"><img src="{{ images.432802a3.url }}" loading="lazy" alt="{{ images.432802a3.alt | trim | escape }}" class="testimonial-image-2">
                 <div>
                   <h3 class="testimonial-main-heading-2">{{ texts.7d064b1d }}</h3>
@@ -176,7 +196,7 @@
                 </div>
               </div>
             </div>
-            <div id="w-node-_80cb6a39-996c-784c-f6a1-19f4d047cac6-cea01f63" class="testimonial-card-two-2">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee4923b-9153fc5b" class="testimonial-card-two-2">
               <div class="testimonial-info-three-2"><img src="{{ images.-1c52966b.url }}" loading="lazy" alt="{{ images.-1c52966b.alt | trim | escape }}" class="testimonial-image-2">
                 <div>
                   <h3 class="testimonial-main-heading-2">{{ texts.-4dda9a3c }}</h3>
@@ -186,7 +206,7 @@
             </div>
           </div>
           <div class="testimonial-grid-two">
-            <div id="w-node-_80cb6a39-996c-784c-f6a1-19f4d047cacf-cea01f63" class="testimonial-card-two-2">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee49244-9153fc5b" class="testimonial-card-two-2">
               <div class="testimonial-info-three-2"><img src="{{ images.-4923e65d.url }}" loading="lazy" alt="{{ images.-4923e65d.alt | trim | escape }}" class="testimonial-image-2">
                 <div>
                   <h3 class="testimonial-main-heading-2">{{ texts.43452636 }}</h3>
@@ -194,7 +214,7 @@
                 </div>
               </div>
             </div>
-            <div id="w-node-_80cb6a39-996c-784c-f6a1-19f4d047cad7-cea01f63" class="testimonial-card-two-2">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee4924c-9153fc5b" class="testimonial-card-two-2">
               <div class="testimonial-info-three-2"><img src="{{ images.-3e3f717d.url }}" loading="lazy" alt="{{ images.-3e3f717d.alt | trim | escape }}" class="testimonial-image-2">
                 <div>
                   <h3 class="testimonial-main-heading-2">{{ texts.46a90bba }}</h3>
@@ -202,7 +222,7 @@
                 </div>
               </div>
             </div>
-            <div id="w-node-_80cb6a39-996c-784c-f6a1-19f4d047cadf-cea01f63" class="testimonial-card-two-2">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee49254-9153fc5b" class="testimonial-card-two-2">
               <div class="testimonial-info-three-2"><img src="{{ images.c83b5b9.url }}" loading="lazy" alt="{{ images.c83b5b9.alt | trim | escape }}" class="testimonial-image-2">
                 <div>
                   <h3 class="testimonial-main-heading-2">{{ texts.3eb4f971 }}</h3>
@@ -210,7 +230,7 @@
                 </div>
               </div>
             </div>
-            <div id="w-node-_80cb6a39-996c-784c-f6a1-19f4d047cae7-cea01f63" class="testimonial-card-two-2">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee4925c-9153fc5b" class="testimonial-card-two-2">
               <div class="testimonial-info-three-2"><img src="{{ images.-1c52966b.url }}" loading="lazy" alt="{{ images.-1c52966b.alt | trim | escape }}" class="testimonial-image-2">
                 <div>
                   <h3 class="testimonial-main-heading-2">{{ texts.-35481e15 }}</h3>
@@ -229,16 +249,16 @@
           </div>
         </div>
       </section>
-      <div class="div-block-30">
+      <div class="imgwrapper">
         <section class="section-8">
-          <div class="w-layout-blockcontainer formcontainer w-container">
-            <div id="w-node-f5d08b1a-433f-502c-5db7-165eca7457aa-cea01f63" class="w-layout-layout quick-stack-6 wf-layout-layout">
+          <div class="w-layout-blockcontainer container form-block w-container">
+            <div id="w-node-_9d9db173-a247-6cf4-ed48-dc305ee49270-9153fc5b" class="w-layout-layout formstack wf-layout-layout">
               <div class="w-layout-cell cell-5">
                 <p class="paragraph-9"><span class="text-span-5">{{ texts.-4fca8f85 }}</span>{{ texts.-3dbc4e26 }}</p>
               </div>
               <div class="w-layout-cell">
                 <div class="w-form">
-                  <form id="email-form-2" name="email-form-2" data-name="email_2" method="get" data-wf-page-id="6564c7383fc6d8becea01f63" data-wf-element-id="f5d08b1a-433f-502c-5db7-165eca7457b2" data-netlify="true" data-ajax="true" data-content-type="application/x-www-form-urlencoded">
+                  <form id="email-form-2" name="email-form-2" data-name="email_2" method="get" data-wf-page-id="656908cf99ee27e19153fc5b" data-wf-element-id="9d9db173-a247-6cf4-ed48-dc305ee49278" data-netlify="true" data-ajax="true" data-content-type="application/x-www-form-urlencoded">
                     <div class="text-block-25">{{ texts.3e3107e1 }}</div>
                     <div class="text-block-24">{{ texts.1e1689cf }}</div><input type="text" class="text-field-6 w-input" maxlength="256" name="Fullname-3" data-name="Fullname 3" placeholder="Your Fullname" id="Fullname-3" required=""><input type="email" class="text-field-6 w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="Your Email" id="email-2" required=""><input type="submit" value="Submit" data-wait="Please wait..." class="submit-button w-button">
                   </form>
@@ -256,11 +276,13 @@
       </div>
       <section class="instagram-carousel">
         <div class="text-block-9">{{ texts.-5edec7b2 }}</div>
-        <div id="w-node-_79958ddc-51c3-4eab-eb16-996b470bbe82-cea01f63" class="w-layout-layout stackfooter wf-layout-layout">
-          <div id="w-node-_79958ddc-51c3-4eab-eb16-996b470bbe83-cea01f63" class="w-layout-cell"><img src="{{ images.-7511654b.url }}" loading="lazy" alt="{{ images.-7511654b.alt | trim | escape }}"></div>
-          <div id="w-node-_79958ddc-51c3-4eab-eb16-996b470bbe85-cea01f63" class="w-layout-cell"><img src="{{ images.-75034dca.url }}" loading="lazy" alt="{{ images.-75034dca.alt | trim | escape }}"></div>
-          <div id="w-node-_79958ddc-51c3-4eab-eb16-996b470bbe87-cea01f63" class="w-layout-cell"><img src="{{ images.-74f53649.url }}" loading="lazy" alt="{{ images.-74f53649.alt | trim | escape }}"></div>
-          <div id="w-node-_79958ddc-51c3-4eab-eb16-996b470bbe89-cea01f63" class="w-layout-cell"><img src="{{ images.-74e71ec8.url }}" loading="lazy" alt="{{ images.-74e71ec8.alt | trim | escape }}"></div>
+        <div class="container-8">
+          <div class="features-wrapper">
+            <div class="features-block"><img src="{{ images.-7511654b.url }}" loading="lazy" width="256" alt="{{ images.-7511654b.alt | trim | escape }}"></div>
+            <div class="features-block"><img src="{{ images.20604fc3.url }}" loading="lazy" width="253" sizes="(max-width: 479px) 100vw, (max-width: 767px) 46vw, (max-width: 991px) 22vw, 222.125px" alt="{{ images.20604fc3.alt | trim | escape }}"></div>
+            <div class="features-block"><img src="{{ images.b8703c9.url }}" loading="lazy" width="254" sizes="(max-width: 479px) 100vw, (max-width: 767px) 46vw, (max-width: 991px) 23vw, 223px" alt="{{ images.b8703c9.alt | trim | escape }}"></div>
+            <div class="features-block"><img src="{{ images.-4f8a1083.url }}" loading="lazy" width="254" sizes="(max-width: 479px) 100vw, (max-width: 767px) 46vw, (max-width: 991px) 22vw, 222.125px" alt="{{ images.-4f8a1083.alt | trim | escape }}"></div>
+          </div>
         </div>
       </section>
     </div>

@@ -28,7 +28,7 @@ slug: jennifer-perrin
 f_team: cms/teams/the-luanne-marshall-team.md
 updated-on: '2022-10-18T05:37:58.864Z'
 created-on: '2022-10-18T05:37:58.864Z'
-published-on: '2022-10-18T05:41:56.977Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[agents].html'
 tags: agents
 ---

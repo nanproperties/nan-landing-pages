@@ -12,7 +12,7 @@ f_headshot:
   alt: null
 updated-on: '2022-12-15T08:25:07.420Z'
 created-on: '2022-12-13T16:28:18.880Z'
-published-on: '2023-02-01T04:27:02.308Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[agents].html'
 tags: agents
 ---

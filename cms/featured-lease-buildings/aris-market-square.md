@@ -8,7 +8,7 @@ f_background-image:
 f_area: cms/leasing-areas/downtown.md
 updated-on: '2022-03-28T17:36:59.359Z'
 created-on: '2022-01-08T00:50:29.055Z'
-published-on: '2022-03-28T17:37:31.387Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241f2180adb06fe57528fe1_content_25.jpeg

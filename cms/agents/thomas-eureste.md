@@ -10,7 +10,7 @@ f_headshot:
 slug: thomas-eureste
 updated-on: '2021-04-22T21:10:52.366Z'
 created-on: '2021-04-22T21:10:52.366Z'
-published-on: '2021-04-22T21:13:29.827Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_if-team-is-this-person-the-team-s-lead: false
 layout: '[agents].html'
 tags: agents

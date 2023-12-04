@@ -7,7 +7,7 @@ f_title: Realtor Associate
 slug: chrissy-jones
 updated-on: '2022-01-14T17:52:24.612Z'
 created-on: '2022-01-13T23:43:37.821Z'
-published-on: '2022-01-14T17:52:34.225Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_headshot:
   url: https://development.nanproperties.com/assets/external/61e0b965aca0994a144e9f1c_jones2c20chrissy.jpg
   alt: null

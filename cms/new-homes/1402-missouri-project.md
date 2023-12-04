@@ -72,7 +72,7 @@ f_image-gallery:
     alt: null
 updated-on: '2022-12-13T16:08:54.843Z'
 created-on: '2021-08-11T15:34:02.879Z'
-published-on: '2022-12-13T22:30:49.780Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_is-this-a-55-community: false
 layout: '[new-homes].html'
 tags: new-homes

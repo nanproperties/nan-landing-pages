@@ -11,7 +11,7 @@ f_featured-image:
 slug: 6050-college-st
 updated-on: '2022-05-13T23:11:18.288Z'
 created-on: '2022-05-13T23:03:06.427Z'
-published-on: '2022-05-13T23:24:43.089Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_featured-agent: cms/agents/kelsey-swindel.md
 layout: '[commercial-listings].html'
 tags: commercial-listings

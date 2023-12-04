@@ -3,7 +3,7 @@ title: Houston
 slug: houston
 updated-on: '2023-02-09T19:59:52.721Z'
 created-on: '2021-07-02T21:42:22.710Z'
-published-on: '2023-02-09T20:21:10.510Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_developments:
   - cms/new-homes/chenevert-manor.md
   - cms/new-homes/creekmont-drive.md

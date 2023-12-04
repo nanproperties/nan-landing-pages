@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-page="62e4b50ff3efc7631947fe90" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
+<html data-wf-page="656908cf99ee27e19153fd32" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
   <meta charset="utf-8">
   
   
@@ -26,9 +26,41 @@
           <link href="https://development.nanproperties.com/assets/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
           <style>
 /* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
-.stackfooter: vertical-align: middle;
-.containerstack: vertical-align: middle;
-.formcontainer: vertical-align: middle;
+#cms-content img {
+    height: inherit !important;
+  margin: inherit;
+}
+p {
+    margin-bottom: 40px !important;
+}
+.developments-content-item #developments-image-wrapper img.developments-image {
+height:100%!important
+}
+.builder-hero-logo {
+		margin:0!important;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .body-title, #rprAvmWidget_1 {
+text-transform:none;
+}
+img.landing-page-hero-social-media-item {
+    max-width: 40px !important;
+}
+.floating-gray-background::before {
+    content: '';
+    top: 60px;
+    left: 0;
+    position: absolute;
+    background-color: var(--light-gray);
+    width: 100%;
+    height: 95%;
+    z-index: -1;
+}
+.image-15.seahorse-image {
+    height: 100% !important;
+}
+img.developments-image {
+	height: 100% !important;
+}
 </style>
         </div>
       </div>
@@ -59,7 +91,7 @@
           </div>
         </div>
         <div class="luxury-intro-row">
-          <div id="w-node-e101f465-18cf-5e14-fb39-a324c081e1bb-1947fe90" class="luxury-intro-row-column-1"><img class="luxury-intro-image" src="{{ images.-76a7dc92.url }}" alt="{{ images.-76a7dc92.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;43vw&quot;}]" sizes="(max-width: 479px) 67vw, (max-width: 767px) 42vw, 43vw" loading="lazy"></div>
+          <div id="w-node-e101f465-18cf-5e14-fb39-a324c081e1bb-9153fd32" class="luxury-intro-row-column-1"><img class="luxury-intro-image" src="{{ images.-76a7dc92.url }}" alt="{{ images.-76a7dc92.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;43vw&quot;}]" sizes="(max-width: 479px) 67vw, (max-width: 767px) 42vw, 43vw" loading="lazy"></div>
           <div class="luxury-intro-row-column-s">
             <h2 class="h3 luxury-intro-title">{{ texts.-5b8081dc }}</h2>
             <p class="paragraph-2 luxury-intro-paragraph">{{ texts.-29299b6e }}<br></p>

@@ -8,7 +8,7 @@ f_location: 700 Tiki Drive, Villages of Tiki Island
 slug: residences-at-tiki-island
 updated-on: '2022-01-29T03:24:06.661Z'
 created-on: '2022-01-29T01:29:06.684Z'
-published-on: '2022-01-29T03:24:32.516Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_development-image:
   url: >-
     https://development.nanproperties.com/assets/external/61f49a4b9aab6ad0a40fd56b_tikiislandresidences_aerial_camera1_121621.jpeg

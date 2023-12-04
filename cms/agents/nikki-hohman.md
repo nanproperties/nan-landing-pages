@@ -18,7 +18,7 @@ f_headshot:
   alt: null
 updated-on: '2022-05-12T18:07:30.171Z'
 created-on: '2021-04-15T04:52:27.038Z'
-published-on: '2022-05-12T21:56:30.889Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_if-team-is-this-person-the-team-s-lead: true
 f_team: cms/teams/the-nikki-hohman-team.md
 layout: '[agents].html'

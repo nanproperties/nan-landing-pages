@@ -27,7 +27,7 @@ title: Fund Raising for Huricane Harvey benefiting Texas Children's Hospital
 slug: fund-raising-for-huricane-harvey-benefiting-texas-childrens-hospital
 updated-on: '2022-05-27T22:06:31.985Z'
 created-on: '2022-05-27T22:06:31.985Z'
-published-on: '2022-05-27T22:30:55.822Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[nan-cares-item].html'
 tags: nan-cares-item
 ---

@@ -5,7 +5,7 @@ title: Galveston
 slug: galveston
 updated-on: '2021-05-25T18:06:14.828Z'
 created-on: '2021-05-25T18:06:14.828Z'
-published-on: '2021-05-27T21:33:42.184Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[nan-offices].html'
 tags: nan-offices
 ---

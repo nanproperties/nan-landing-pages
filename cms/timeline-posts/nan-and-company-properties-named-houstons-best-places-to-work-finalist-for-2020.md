@@ -11,7 +11,7 @@ slug: >-
   nan-and-company-properties-named-houstons-best-places-to-work-finalist-for-2020
 updated-on: '2022-03-25T22:47:07.289Z'
 created-on: '2022-03-25T22:47:07.289Z'
-published-on: '2022-03-25T23:04:37.538Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[timeline-posts].html'
 tags: timeline-posts
 ---

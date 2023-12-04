@@ -19,7 +19,7 @@ f_agent-2: cms/agents/zoya-hanif.md
 f_builder: cms/builders/iklo-homes.md
 updated-on: '2023-05-22T18:07:24.714Z'
 created-on: '2021-07-12T15:51:14.458Z'
-published-on: '2023-05-22T18:07:52.919Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/60ec6bb332f1c4c0dcca9042_final20rendering20_20041024_1.jpg
   alt: null

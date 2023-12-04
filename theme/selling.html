@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-page="60a6951d79b4ed607cfc2154" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
+<html data-wf-page="656908cf99ee27e19153fdb6" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
   <meta charset="utf-8">
   
   
@@ -25,9 +25,41 @@
         <link href="https://development.nanproperties.com/assets/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
         <style>
 /* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
-.stackfooter: vertical-align: middle;
-.containerstack: vertical-align: middle;
-.formcontainer: vertical-align: middle;
+#cms-content img {
+    height: inherit !important;
+  margin: inherit;
+}
+p {
+    margin-bottom: 40px !important;
+}
+.developments-content-item #developments-image-wrapper img.developments-image {
+height:100%!important
+}
+.builder-hero-logo {
+		margin:0!important;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .body-title, #rprAvmWidget_1 {
+text-transform:none;
+}
+img.landing-page-hero-social-media-item {
+    max-width: 40px !important;
+}
+.floating-gray-background::before {
+    content: '';
+    top: 60px;
+    left: 0;
+    position: absolute;
+    background-color: var(--light-gray);
+    width: 100%;
+    height: 95%;
+    z-index: -1;
+}
+.image-15.seahorse-image {
+    height: 100% !important;
+}
+img.developments-image {
+	height: 100% !important;
+}
 </style>
       </div>
     </div>
@@ -48,15 +80,15 @@
             <div class="content-row-column-text-wrapper padding-left-0">
               <h2 class="h2 section-title margin-bottom-2">{{ texts.-33257481 }}<span class="span-orange">{{ texts.-1404d9d6 }}</span></h2>
               <div class="_3-col-grid">
-                <div id="w-node-a6aaafbd-9008-5b3f-cc6d-fd63e9df9ecd-7cfc2154" class="proof-is-in-the-numbers-item">
+                <div id="w-node-a6aaafbd-9008-5b3f-cc6d-fd63e9df9ecd-9153fdb6" class="proof-is-in-the-numbers-item">
                   <div class="proof-is-in-the-numbers-stat margin-bottom-1">{{ texts.214201c }}</div>
                   <div class="proof-is-in-the-numbers-description">{{ texts.63057aa3 }}</div>
                 </div>
-                <div id="w-node-_4ef45536-afb0-9721-9e0a-7feb0764b070-7cfc2154" class="proof-is-in-the-numbers-item">
+                <div id="w-node-_4ef45536-afb0-9721-9e0a-7feb0764b070-9153fdb6" class="proof-is-in-the-numbers-item">
                   <div class="proof-is-in-the-numbers-stat margin-bottom-1">{{ texts.2143ed3 }}</div>
                   <div class="proof-is-in-the-numbers-description">{{ texts.19c33d04 }}</div>
                 </div>
-                <div id="w-node-_55f02519-4102-d263-14d9-e3a6e1729926-7cfc2154" class="proof-is-in-the-numbers-item">
+                <div id="w-node-_55f02519-4102-d263-14d9-e3a6e1729926-9153fdb6" class="proof-is-in-the-numbers-item">
                   <div class="proof-is-in-the-numbers-stat margin-bottom-1">{{ texts.-766eec4b }}</div>
                   <div class="proof-is-in-the-numbers-description">{{ texts.-7ae62bfd }}</div>
                 </div>

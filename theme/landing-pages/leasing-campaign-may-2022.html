@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-page="62829abb53ef4ee0bce8935f" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
+<html data-wf-page="656908cf99ee27e19153fd07" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
   <meta charset="utf-8">
   
   
@@ -26,70 +26,102 @@
           <link href="https://development.nanproperties.com/assets/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
           <style>
 /* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
-.stackfooter: vertical-align: middle;
-.containerstack: vertical-align: middle;
-.formcontainer: vertical-align: middle;
+#cms-content img {
+    height: inherit !important;
+  margin: inherit;
+}
+p {
+    margin-bottom: 40px !important;
+}
+.developments-content-item #developments-image-wrapper img.developments-image {
+height:100%!important
+}
+.builder-hero-logo {
+		margin:0!important;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .body-title, #rprAvmWidget_1 {
+text-transform:none;
+}
+img.landing-page-hero-social-media-item {
+    max-width: 40px !important;
+}
+.floating-gray-background::before {
+    content: '';
+    top: 60px;
+    left: 0;
+    position: absolute;
+    background-color: var(--light-gray);
+    width: 100%;
+    height: 95%;
+    z-index: -1;
+}
+.image-15.seahorse-image {
+    height: 100% !important;
+}
+img.developments-image {
+	height: 100% !important;
+}
 </style>
         </div>
       </div>
       <section class="section landing-page-hero">
-        <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be12b-bce8935f" class="content-wrapper _2-column-wrapper">
-          <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be12c-bce8935f" class="content-column">
-            <h1 id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be12e-bce8935f" class="landing-page-hero-h1 leasing-incentive-hero-h1">{{ texts.5b02e873 }}<span class="orange-span"><em>{{ texts.67875be5 }}</em></span></h1>
+        <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be12b-9153fd07" class="content-wrapper _2-column-wrapper">
+          <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be12c-9153fd07" class="content-column">
+            <h1 id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be12e-9153fd07" class="landing-page-hero-h1 leasing-incentive-hero-h1">{{ texts.5b02e873 }}<span class="orange-span"><em>{{ texts.67875be5 }}</em></span></h1>
             <div class="landing-page-hero-paragraph"><strong><em>{{ texts.-3fb98c9a }}</em></strong>{{ texts.397de178 }}<em>{{ texts.7454b353 }}</em><br><br>{{ texts.-1965101c }}</div>
             <div class="_2-button-row">
-              <a id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be137-bce8935f" href="{{ links.-41a1c015 }}" class="primary-button landing-page-hero-button leasing-incentives-hero-button w-button">{{ texts.-2ed013d3 }}</a>
+              <a id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be137-9153fd07" href="{{ links.-41a1c015 }}" class="primary-button landing-page-hero-button leasing-incentives-hero-button w-button">{{ texts.-2ed013d3 }}</a>
               <a href="{{ links.-40bb9a72 }}" class="primary-button outline w-button">{{ texts.633085e6 }}</a>
             </div>
           </div>
-          <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be13b-bce8935f" class="image-column"><img class="image-12" src="{{ images.b13351d.url }}" alt="{{ images.b13351d.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;96vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;46vw&quot;}]" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, 46vw" loading="lazy"></div>
+          <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be13b-9153fd07" class="image-column"><img class="image-12" src="{{ images.b13351d.url }}" alt="{{ images.b13351d.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;96vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;46vw&quot;}]" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, 46vw" loading="lazy"></div>
         </div>
       </section>
       <section id="leasing-deals" class="section">
         <h2 class="center">{{ texts.496bf35c }}</h2>
         <div class="w-layout-grid leasing-incentives-grid">
-          <a id="w-node-cc56244c-40c6-4aac-d754-e669b1f53c1d-bce8935f" href="{{ links.-41a1c015 }}" class="w-inline-block">
-            <div id="w-node-f24dcdbb-7e67-4196-5972-c05e4605c3de-bce8935f" class="leasing-incentives-item-wrapper">
+          <a id="w-node-cc56244c-40c6-4aac-d754-e669b1f53c1d-9153fd07" href="{{ links.-41a1c015 }}" class="w-inline-block">
+            <div id="w-node-f24dcdbb-7e67-4196-5972-c05e4605c3de-9153fd07" class="leasing-incentives-item-wrapper">
               <div class="leasing-incentives-item-wrapper-inner"><img class="leasing-incentives-image" src="{{ images.-482ad701.url }}" alt="{{ images.-482ad701.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;67vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;300px&quot;}]" sizes="(max-width: 479px) 67vw, 300px" loading="lazy"></div>
               <div class="leasing-incentives-callout-wrapper">
                 <div class="center white">{{ texts.4d5172ae }}</div>
               </div>
             </div>
           </a>
-          <a id="w-node-d30c7297-143d-791e-f774-5c080a39c5ef-bce8935f" href="{{ links.-41a1c015 }}" class="w-inline-block">
-            <div id="w-node-_726ca57e-5db8-901e-c30a-917d096c72a1-bce8935f" class="leasing-incentives-item-wrapper">
+          <a id="w-node-d30c7297-143d-791e-f774-5c080a39c5ef-9153fd07" href="{{ links.-41a1c015 }}" class="w-inline-block">
+            <div id="w-node-_726ca57e-5db8-901e-c30a-917d096c72a1-9153fd07" class="leasing-incentives-item-wrapper">
               <div class="leasing-incentives-item-wrapper-inner"><img class="leasing-incentives-image" src="{{ images.518a7ad9.url }}" alt="{{ images.518a7ad9.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;67vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;300.0625px&quot;}]" sizes="(max-width: 479px) 67vw, 300.0625px" loading="lazy"></div>
               <div class="leasing-incentives-callout-wrapper">
                 <div class="center white">{{ texts.256d0bf6 }}</div>
               </div>
             </div>
           </a>
-          <a id="w-node-_9f137afb-abf9-0b3f-0ded-072a0a503820-bce8935f" href="{{ links.-41a1c015 }}" class="w-inline-block">
-            <div id="w-node-fc7362fe-9a2f-4190-df3b-281002917903-bce8935f" class="leasing-incentives-item-wrapper">
+          <a id="w-node-_9f137afb-abf9-0b3f-0ded-072a0a503820-9153fd07" href="{{ links.-41a1c015 }}" class="w-inline-block">
+            <div id="w-node-fc7362fe-9a2f-4190-df3b-281002917903-9153fd07" class="leasing-incentives-item-wrapper">
               <div class="leasing-incentives-item-wrapper-inner"><img class="leasing-incentives-image" src="{{ images.37cd8e5f.url }}" alt="{{ images.37cd8e5f.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;76vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;364.4375px&quot;}]" sizes="(max-width: 479px) 76vw, 364.4375px" loading="lazy"></div>
               <div class="leasing-incentives-callout-wrapper">
                 <div class="center white">{{ texts.5c57eac }}</div>
               </div>
             </div>
           </a>
-          <a id="w-node-_27c633a2-c528-94b7-dce2-5bb3f8627522-bce8935f" href="{{ links.-41a1c015 }}" class="w-inline-block">
-            <div id="w-node-_101f9ceb-aca6-0224-918b-c7b7985f7729-bce8935f" class="leasing-incentives-item-wrapper">
+          <a id="w-node-_27c633a2-c528-94b7-dce2-5bb3f8627522-9153fd07" href="{{ links.-41a1c015 }}" class="w-inline-block">
+            <div id="w-node-_101f9ceb-aca6-0224-918b-c7b7985f7729-9153fd07" class="leasing-incentives-item-wrapper">
               <div class="leasing-incentives-item-wrapper-inner"><img class="leasing-incentives-image" src="{{ images.-64ad7331.url }}" alt="{{ images.-64ad7331.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;67vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;300px&quot;}]" sizes="(max-width: 479px) 67vw, 300px" loading="lazy"></div>
               <div class="leasing-incentives-callout-wrapper">
                 <div class="center white">{{ texts.f821aa7 }}</div>
               </div>
             </div>
           </a>
-          <a id="w-node-aba60dbd-1ad0-8cca-2459-bfa1888439f7-bce8935f" href="{{ links.-41a1c015 }}" class="w-inline-block">
-            <div id="w-node-_0946651b-1335-a6dc-b0a3-54f36ceaade4-bce8935f" class="leasing-incentives-item-wrapper">
+          <a id="w-node-aba60dbd-1ad0-8cca-2459-bfa1888439f7-9153fd07" href="{{ links.-41a1c015 }}" class="w-inline-block">
+            <div id="w-node-_0946651b-1335-a6dc-b0a3-54f36ceaade4-9153fd07" class="leasing-incentives-item-wrapper">
               <div class="leasing-incentives-item-wrapper-inner"><img class="leasing-incentives-image" src="{{ images.-ed6a7e3.url }}" alt="{{ images.-ed6a7e3.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;67vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;290.546875px&quot;}]" sizes="(max-width: 479px) 67vw, 290.546875px" loading="lazy"></div>
               <div class="leasing-incentives-callout-wrapper">
                 <div class="center white">{{ texts.4bb964a8 }}</div>
               </div>
             </div>
           </a>
-          <a id="w-node-_21326040-96e2-a4cf-efe5-08cf2c7d477d-bce8935f" href="{{ links.-41a1c015 }}" class="w-inline-block">
-            <div id="w-node-_9dfd715d-5af4-aaa6-76c9-d42ea8408b4c-bce8935f" class="leasing-incentives-item-wrapper">
+          <a id="w-node-_21326040-96e2-a4cf-efe5-08cf2c7d477d-9153fd07" href="{{ links.-41a1c015 }}" class="w-inline-block">
+            <div id="w-node-_9dfd715d-5af4-aaa6-76c9-d42ea8408b4c-9153fd07" class="leasing-incentives-item-wrapper">
               <div class="leasing-incentives-item-wrapper-inner"><img class="leasing-incentives-image" src="{{ images.228781f2.url }}" alt="{{ images.228781f2.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;76vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;364.4375px&quot;}]" sizes="(max-width: 479px) 76vw, 364.4375px" loading="lazy"></div>
               <div class="leasing-incentives-callout-wrapper">
                 <div class="center white">{{ texts.16999aa1 }}</div>
@@ -103,15 +135,15 @@
         <h2 class="center">{{ texts.5c9c5563 }}</h2>
         <div class="orange-divider center"></div>
         <div class="w-layout-grid landing-page-3-col-grid leasing-incentives-3-col-grid">
-          <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be15f-bce8935f" class="content-wrapper vertical-align-center"><img src="{{ images.80d930e.url }}" loading="lazy" alt="{{ images.80d930e.alt | trim | escape }}" class="icon-medium">
+          <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be15f-9153fd07" class="content-wrapper vertical-align-center"><img src="{{ images.80d930e.url }}" loading="lazy" alt="{{ images.80d930e.alt | trim | escape }}" class="icon-medium">
             <h3 class="center">{{ texts.7ee57b90 }}</h3>
             <div class="center">{{ texts.-50c9666c }}</div>
           </div>
-          <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be165-bce8935f" class="content-wrapper vertical-align-center"><img src="{{ images.-1614a353.url }}" loading="lazy" alt="{{ images.-1614a353.alt | trim | escape }}" class="icon-medium">
+          <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be165-9153fd07" class="content-wrapper vertical-align-center"><img src="{{ images.-1614a353.url }}" loading="lazy" alt="{{ images.-1614a353.alt | trim | escape }}" class="icon-medium">
             <h3 class="center">{{ texts.-4dec2afc }}</h3>
             <div class="center">{{ texts.2b3725d7 }}</div>
           </div>
-          <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be151-bce8935f" class="content-wrapper vertical-align-center"><img src="{{ images.-3436d9b4.url }}" loading="lazy" alt="{{ images.-3436d9b4.alt | trim | escape }}" class="icon-medium">
+          <div id="w-node-_2d385177-33b7-e44d-ef7e-fede2d8be151-9153fd07" class="content-wrapper vertical-align-center"><img src="{{ images.-3436d9b4.url }}" loading="lazy" alt="{{ images.-3436d9b4.alt | trim | escape }}" class="icon-medium">
             <h3 class="center">{{ texts.-34226072 }}</h3>
             <div class="center">{{ texts.7a5442e1 }}</div>
           </div>
@@ -119,19 +151,19 @@
       </section>
       <div>
         <div class="w-layout-grid landing-page-2-col-grid">
-          <div id="w-node-_3ddea5f7-aae2-c433-6606-ef37e1e9900e-bce8935f" class="content-wrapper">
+          <div id="w-node-_3ddea5f7-aae2-c433-6606-ef37e1e9900e-9153fd07" class="content-wrapper">
             <h2 class="h1 center">{{ texts.-3ab1842a }}<span class="orange-span">{{ texts.-4044ab22 }}</span></h2>
           </div>
-          <div id="w-node-dd3c64df-0eea-091c-453e-4152cb42b836-bce8935f" class="content-wrapper">
+          <div id="w-node-dd3c64df-0eea-091c-453e-4152cb42b836-9153fd07" class="content-wrapper">
             <ul role="list" class="checklist w-list-unstyled">
-              <li class="checklist-item"><img class="checklist-item-check-image" src="{{ images.-60b74482.url }}" alt="{{ images.-60b74482.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;15vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;16vw&quot;}]" sizes="(max-width: 767px) 15vw, 16vw" id="w-node-_214be49b-a297-09d2-b8a2-c8ba4a7db1f5-bce8935f" loading="lazy">
-                <div id="w-node-_464af761-ba33-129c-96c9-34ab911a3a7b-bce8935f" class="h3 checklist-item-check-text">{{ texts.7c09a9fc }}</div>
+              <li class="checklist-item"><img class="checklist-item-check-image" src="{{ images.-60b74482.url }}" alt="{{ images.-60b74482.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;15vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;16vw&quot;}]" sizes="(max-width: 767px) 15vw, 16vw" id="w-node-_214be49b-a297-09d2-b8a2-c8ba4a7db1f5-9153fd07" loading="lazy">
+                <div id="w-node-_464af761-ba33-129c-96c9-34ab911a3a7b-9153fd07" class="h3 checklist-item-check-text">{{ texts.7c09a9fc }}</div>
               </li>
-              <li class="checklist-item"><img class="checklist-item-check-image" src="{{ images.-60b74482.url }}" alt="{{ images.-60b74482.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;15vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;16vw&quot;}]" sizes="(max-width: 767px) 15vw, 16vw" id="w-node-f3441ca5-aec7-9374-1639-f3755c20da7b-bce8935f" loading="lazy">
-                <div id="w-node-f3441ca5-aec7-9374-1639-f3755c20da7c-bce8935f" class="h3 checklist-item-check-text">{{ texts.-3eed0438 }}</div>
+              <li class="checklist-item"><img class="checklist-item-check-image" src="{{ images.-60b74482.url }}" alt="{{ images.-60b74482.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;15vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;16vw&quot;}]" sizes="(max-width: 767px) 15vw, 16vw" id="w-node-f3441ca5-aec7-9374-1639-f3755c20da7b-9153fd07" loading="lazy">
+                <div id="w-node-f3441ca5-aec7-9374-1639-f3755c20da7c-9153fd07" class="h3 checklist-item-check-text">{{ texts.-3eed0438 }}</div>
               </li>
-              <li class="checklist-item"><img class="checklist-item-check-image" src="{{ images.-60b74482.url }}" alt="{{ images.-60b74482.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;15vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;16vw&quot;}]" sizes="(max-width: 767px) 15vw, 16vw" id="w-node-_29b1050e-cfdb-e241-5f6a-03851a9d7515-bce8935f" loading="lazy">
-                <div id="w-node-_29b1050e-cfdb-e241-5f6a-03851a9d7516-bce8935f" class="h3 checklist-item-check-text">{{ texts.-2acb380c }}</div>
+              <li class="checklist-item"><img class="checklist-item-check-image" src="{{ images.-60b74482.url }}" alt="{{ images.-60b74482.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;15vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;16vw&quot;}]" sizes="(max-width: 767px) 15vw, 16vw" id="w-node-_29b1050e-cfdb-e241-5f6a-03851a9d7515-9153fd07" loading="lazy">
+                <div id="w-node-_29b1050e-cfdb-e241-5f6a-03851a9d7516-9153fd07" class="h3 checklist-item-check-text">{{ texts.-2acb380c }}</div>
               </li>
             </ul>
           </div>

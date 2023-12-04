@@ -59,7 +59,7 @@ f_builder: cms/builders/lion-homes-llc.md
 f_agent-2: cms/agents/lisa-peltier.md
 updated-on: '2023-05-31T15:07:25.714Z'
 created-on: '2023-05-31T15:07:25.714Z'
-published-on: '2023-06-28T18:44:31.072Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---

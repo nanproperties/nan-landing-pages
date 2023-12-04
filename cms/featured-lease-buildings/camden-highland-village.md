@@ -5,7 +5,7 @@ slug: camden-highland-village
 f_area: cms/leasing-areas/galleria-river-oaks.md
 updated-on: '2022-03-28T17:21:09.867Z'
 created-on: '2022-01-17T21:11:24.077Z'
-published-on: '2022-03-28T17:37:31.387Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_background-image:
   url: >-
     https://development.nanproperties.com/assets/external/61e5dff1928df1b946c09656_1-camden-highland-village-apartments.jpeg

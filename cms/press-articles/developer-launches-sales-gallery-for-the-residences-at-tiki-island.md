@@ -15,7 +15,7 @@ f_image-or-screenshot-of-article:
 slug: developer-launches-sales-gallery-for-the-residences-at-tiki-island
 updated-on: '2023-11-15T17:54:08.102Z'
 created-on: '2023-11-15T17:54:08.102Z'
-published-on: '2023-11-15T18:03:28.742Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[press-articles].html'
 tags: press-articles
 ---

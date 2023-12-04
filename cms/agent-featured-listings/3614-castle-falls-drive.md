@@ -11,7 +11,7 @@ slug: 3614-castle-falls-drive
 f_agent: cms/agents/laura-bonck.md
 updated-on: '2021-04-15T05:09:45.179Z'
 created-on: '2021-04-15T05:09:45.179Z'
-published-on: '2021-04-22T21:13:29.827Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[agent-featured-listings].html'
 tags: agent-featured-listings
 ---

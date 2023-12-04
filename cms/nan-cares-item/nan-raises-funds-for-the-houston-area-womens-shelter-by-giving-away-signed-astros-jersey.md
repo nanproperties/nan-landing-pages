@@ -14,7 +14,7 @@ slug: >-
   nan-raises-funds-for-the-houston-area-womens-shelter-by-giving-away-signed-astros-jersey
 updated-on: '2022-05-27T22:06:28.963Z'
 created-on: '2022-05-27T22:06:28.963Z'
-published-on: '2022-05-27T22:30:55.822Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[nan-cares-item].html'
 tags: nan-cares-item
 ---

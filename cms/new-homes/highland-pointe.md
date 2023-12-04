@@ -8,7 +8,7 @@ slug: highland-pointe
 f_agent-2: cms/agents/nancy-ramos.md
 updated-on: '2023-05-22T18:07:11.529Z'
 created-on: '2022-07-06T16:35:45.136Z'
-published-on: '2023-05-22T18:07:52.919Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_bathrooms: '2.5'
 f_bedrooms: 3-4
 f_builder: cms/builders/orchid-homes.md

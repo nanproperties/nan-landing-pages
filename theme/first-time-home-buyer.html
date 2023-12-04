@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-page="63df4a2511b873095ea7de35" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
+<html data-wf-page="656908cf99ee27e19153fcdd" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
   <meta charset="utf-8">
   
   
@@ -25,9 +25,41 @@
         <link href="https://development.nanproperties.com/assets/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
         <style>
 /* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
-.stackfooter: vertical-align: middle;
-.containerstack: vertical-align: middle;
-.formcontainer: vertical-align: middle;
+#cms-content img {
+    height: inherit !important;
+  margin: inherit;
+}
+p {
+    margin-bottom: 40px !important;
+}
+.developments-content-item #developments-image-wrapper img.developments-image {
+height:100%!important
+}
+.builder-hero-logo {
+		margin:0!important;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .body-title, #rprAvmWidget_1 {
+text-transform:none;
+}
+img.landing-page-hero-social-media-item {
+    max-width: 40px !important;
+}
+.floating-gray-background::before {
+    content: '';
+    top: 60px;
+    left: 0;
+    position: absolute;
+    background-color: var(--light-gray);
+    width: 100%;
+    height: 95%;
+    z-index: -1;
+}
+.image-15.seahorse-image {
+    height: 100% !important;
+}
+img.developments-image {
+	height: 100% !important;
+}
 </style>
       </div>
     </div>
@@ -39,7 +71,7 @@
         </div>
       </section>
       <section class="section _2-col-grid">
-        <div id="w-node-_21d725c2-69f8-725b-fcfb-e1b53d3c3297-5ea7de35" class="services-intro-content">
+        <div id="w-node-_21d725c2-69f8-725b-fcfb-e1b53d3c3297-9153fcdd" class="services-intro-content">
           <h3 class="h3 services-section-title">{{ texts.-7607f701 }}</h3>
           <div class="orange-divider"></div>
           <div class="paragraph-1 margin-bottom-2">{{ texts.-5193dc34 }}<a href="{{ links.-2bc3dba7 }}"><strong><br></strong></a>
@@ -51,10 +83,10 @@
         </div>
       </section>
       <section class="section _2-col-grid floating-gray-background">
-        <div id="w-node-c21b8145-1887-6eec-abf7-249a04cd2d14-5ea7de35" class="services-buying-image">
+        <div id="w-node-c21b8145-1887-6eec-abf7-249a04cd2d14-9153fcdd" class="services-buying-image">
           <div class="services-buying-image-box"><img class="services-image" src="{{ images.-667e1a60.url }}" alt="{{ images.-667e1a60.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;45vw&quot;}]" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, 45vw" loading="lazy"></div>
         </div>
-        <div id="w-node-a7a4fc1c-b311-b712-345e-10bf33616847-5ea7de35" class="column-vertical-center">
+        <div id="w-node-a7a4fc1c-b311-b712-345e-10bf33616847-9153fcdd" class="column-vertical-center">
           <div class="overline"><strong>{{ texts.-5fcc85a }}</strong></div>
           <h3 class="h3 services-section-title">{{ texts.-1e642382 }}</h3>
           <div class="paragraph-1 services-buying-paragraph">{{ texts.5034dabd }}<a href="{{ links.-2bc3dba7 }}"><strong><br></strong></a>
@@ -63,14 +95,14 @@
         </div>
       </section>
       <section class="section _2-col-grid floating-gray-background">
-        <div id="w-node-d64dca7f-82fa-12ce-5f77-fd00cd00aa06-5ea7de35" class="column-vertical-center">
+        <div id="w-node-d64dca7f-82fa-12ce-5f77-fd00cd00aa06-9153fcdd" class="column-vertical-center">
           <div class="overline"><strong>{{ texts.54356cb2 }}</strong></div>
           <h3 class="h3 services-section-title">{{ texts.-32c71472 }}<br></h3>
           <div class="paragraph-1 services-buying-paragraph">{{ texts.4eded205 }}<a href="{{ links.-2bc3dba7 }}"><strong><br></strong></a>
           </div>
           <a href="{{ links.-41a1c015 }}" class="primary-button w-button"><strong>{{ texts.218a4e9c }}</strong></a>
         </div>
-        <div id="w-node-d64dca7f-82fa-12ce-5f77-fd00cd00aa03-5ea7de35" class="services-buying-image">
+        <div id="w-node-d64dca7f-82fa-12ce-5f77-fd00cd00aa03-9153fcdd" class="services-buying-image">
           <div class="services-buying-image-box"><img class="services-image" src="{{ images.63022125.url }}" alt="{{ images.63022125.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;45vw&quot;}]" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, 45vw" loading="lazy"></div>
         </div>
       </section>

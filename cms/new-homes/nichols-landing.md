@@ -30,7 +30,7 @@ f_builder: cms/builders/urbanlux.md
 f_agent-2: cms/agents/nikki-hohman.md
 updated-on: '2023-04-06T01:55:14.960Z'
 created-on: '2022-05-24T14:29:53.477Z'
-published-on: '2023-04-06T21:38:06.971Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---

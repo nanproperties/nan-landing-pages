@@ -12,7 +12,7 @@ title: Nan Sponsored The 2021 Latin Womens Initiative Fashion Show and Luncheon
 slug: nan-sponsored-the-2021-latin-womens-initiative-fashion-show-and-luncheon
 updated-on: '2022-05-27T22:06:29.218Z'
 created-on: '2022-05-27T22:06:29.218Z'
-published-on: '2022-05-27T22:30:55.822Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[nan-cares-item].html'
 tags: nan-cares-item
 ---

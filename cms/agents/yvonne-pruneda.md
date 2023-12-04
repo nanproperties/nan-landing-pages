@@ -30,7 +30,7 @@ f_title: 'Realtor Associate '
 slug: yvonne-pruneda
 updated-on: '2023-11-22T19:32:45.811Z'
 created-on: '2021-12-30T22:03:06.223Z'
-published-on: '2023-11-22T19:33:05.256Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_if-team-is-this-person-the-team-s-lead: true
 f_headshot:
   url: >-

@@ -3,7 +3,7 @@ title: River Oaks Blvd
 slug: river-oaks-blvd
 updated-on: '2022-07-30T00:12:57.377Z'
 created-on: '2022-07-30T00:11:07.580Z'
-published-on: '2022-07-30T00:13:16.319Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_image:
   url: https://development.nanproperties.com/assets/external/62e4772fe1a61c9f42dad589_img-12016.jpeg
   alt: null

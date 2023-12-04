@@ -8,7 +8,7 @@ f_image:
 slug: 1000-uptown-park-73-83
 updated-on: '2021-05-19T21:25:13.649Z'
 created-on: '2021-05-19T21:25:13.649Z'
-published-on: '2021-05-19T22:05:47.033Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[luxury-listings-page].html'
 tags: luxury-listings-page
 ---

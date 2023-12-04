@@ -15,7 +15,7 @@ title: Nan Sponsors 2022 Nancy OWENS Foundation Fashion for a Cure
 slug: nan-sponsors-2022-nancy-owens-foundation-fashion-for-a-cure
 updated-on: '2022-05-27T22:09:13.093Z'
 created-on: '2022-05-27T22:09:13.093Z'
-published-on: '2022-05-27T22:30:55.822Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[nan-cares-item].html'
 tags: nan-cares-item
 ---

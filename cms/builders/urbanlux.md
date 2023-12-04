@@ -6,7 +6,7 @@ f_builder-logo:
 slug: urbanlux
 updated-on: '2022-05-10T19:50:13.532Z'
 created-on: '2022-05-10T19:50:13.532Z'
-published-on: '2022-05-12T21:56:30.889Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[builders].html'
 tags: builders
 ---

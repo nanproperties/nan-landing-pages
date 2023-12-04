@@ -41,7 +41,7 @@ f_agent-2: cms/agents/geron-fuller.md
 f_builder: cms/builders/spring-w-homes.md
 updated-on: '2023-10-09T13:44:22.097Z'
 created-on: '2022-06-16T20:25:05.624Z'
-published-on: '2023-10-24T16:30:34.519Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---

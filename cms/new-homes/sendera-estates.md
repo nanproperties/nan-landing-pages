@@ -18,7 +18,7 @@ slug: sendera-estates
 f_builder: cms/builders/sendera-estates.md
 updated-on: '2022-05-26T14:27:27.313Z'
 created-on: '2022-05-26T14:27:27.313Z'
-published-on: '2022-05-27T19:12:23.873Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---

@@ -8,7 +8,7 @@ title: Nan Wins 2022 Best Brokerage Website by Houston Agent Magazine
 slug: nan-wins-2022-best-brokerage-website-by-houston-agent-magazine
 updated-on: '2022-09-28T21:51:18.248Z'
 created-on: '2022-09-28T21:51:18.248Z'
-published-on: '2022-09-28T21:53:06.150Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[timeline-posts].html'
 tags: timeline-posts
 ---

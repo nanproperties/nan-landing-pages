@@ -8,7 +8,7 @@ slug: the-travis
 f_area: cms/leasing-areas/mid-town-montrose.md
 updated-on: '2022-03-28T17:26:48.615Z'
 created-on: '2022-01-08T00:50:39.272Z'
-published-on: '2022-03-28T17:37:31.387Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241efd6fa5c641d1891ef51_thetravis0430.jpeg

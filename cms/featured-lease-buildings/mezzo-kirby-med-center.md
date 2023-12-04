@@ -8,7 +8,7 @@ f_background-image:
 f_area: cms/leasing-areas/medical-center.md
 updated-on: '2022-03-28T17:32:35.564Z'
 created-on: '2022-01-08T00:50:32.613Z'
-published-on: '2022-03-28T17:37:31.387Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241f113151cce7c042064b2_68746243.jpeg

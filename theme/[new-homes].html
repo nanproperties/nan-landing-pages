@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-page="6081e4971f9db931327f63b9" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
+<html data-wf-page="656908cf99ee27e19153fccf" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
   <meta charset="utf-8">
   
   <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -24,14 +24,46 @@
           <link href="https://development.nanproperties.com/assets/css/nan-landing-pages.webflow.css" rel="stylesheet" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
           <style>
 /* A couple of rules to override Boston Logic's cSS rules that are interfering w/ Webflow */
-.stackfooter: vertical-align: middle;
-.containerstack: vertical-align: middle;
-.formcontainer: vertical-align: middle;
+#cms-content img {
+    height: inherit !important;
+  margin: inherit;
+}
+p {
+    margin-bottom: 40px !important;
+}
+.developments-content-item #developments-image-wrapper img.developments-image {
+height:100%!important
+}
+.builder-hero-logo {
+		margin:0!important;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .body-title, #rprAvmWidget_1 {
+text-transform:none;
+}
+img.landing-page-hero-social-media-item {
+    max-width: 40px !important;
+}
+.floating-gray-background::before {
+    content: '';
+    top: 60px;
+    left: 0;
+    position: absolute;
+    background-color: var(--light-gray);
+    width: 100%;
+    height: 95%;
+    z-index: -1;
+}
+.image-15.seahorse-image {
+    height: 100% !important;
+}
+img.developments-image {
+	height: 100% !important;
+}
 </style>
         </div>
       </div>
       <div class="section development-content-section">
-        <aside id="w-node-c4348008-d97f-5a0a-0a57-cabeac9dd231-327f63b9" class="aside development-aside">
+        <aside id="w-node-c4348008-d97f-5a0a-0a57-cabeac9dd231-9153fccf" class="aside development-aside">
           {% assign ref = f_agent-2 | resolveReference %}{%- unless ref.data.title == "Nan Properties" -%}<div class="aside-headshot-wrapper">{%- assign agentsOfNew-homes = f_agent-2 | resolveReference -%}{% assign ref = f_agent-2 | resolveReference %}{%- unless ref.data.title == "Nan Properties" -%}<img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;24vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ agentsOfNew-homes.data.f_headshot.url }}" alt="{{ agentsOfNew-homes.data.f_headshot.alt }}" class="image-3">{%- endunless -%}</div>{%- endunless -%}
           <div class="aside-name-wrapper">
             {%- assign agentsOfNew-homes = f_agent-2 | resolveReference -%}<div class="aside-agent-name">{{ agentsOfNew-homes.data.title }}</div>
@@ -58,7 +90,7 @@
               <div class="development-details-welcome">{{ title }}</div>
             </div>
             {%- if f_development-youtube-video-id -%}<div class="development-featured-video-embed w-embed w-iframe"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/{{ f_development-youtube-video-id }}" frameborder="0" allowfullscreen=""></iframe></div></div>{%- endif -%}
-            {%- unless f_development-youtube-video-id -%}<div id="w-node-_5e8153d8-26e9-4761-2c04-9f321073058c-327f63b9" class="development-featured-image-wrapper">
+            {%- unless f_development-youtube-video-id -%}<div id="w-node-_5e8153d8-26e9-4761-2c04-9f321073058c-9153fccf" class="development-featured-image-wrapper">
               {%- if f_coming-soon == true -%}<div class="development-page-coming-soon-block">
                 <div class="development-page-coming-soon-text">{{ texts.32939fba }}</div>
               </div>{%- endif -%}{%- unless f_development-video-url -%}<img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;70vw&quot;}]" loading="lazy" src="{{ f_featured-image.url }}" id="development-featured-image" alt="{{ f_featured-image.alt }}" class="development-featured-image">{%- endunless -%}
@@ -81,34 +113,34 @@
           </div>
           <div class="development-details-wrapper">
             <div class="development-details-info-wrapper">
-              <div id="w-node-_384824ad-e405-a1e6-b88e-497a7be7fca0-327f63b9" class="development-details-info-title-wrapper desktop">
+              <div id="w-node-_384824ad-e405-a1e6-b88e-497a7be7fca0-9153fccf" class="development-details-info-title-wrapper desktop">
                 <div class="development-details-welcome desktop">{{ texts.-706a8fc7 }}</div>
                 <div class="development-details-welcome">{{ title }}</div>
               </div>
               <div class="development-details-info-specs-wrapper">
-                <div id="w-node-_08919e79-afd1-47a3-02fb-fefbe193d3d0-327f63b9" class="development-details-info-spec">
+                <div id="w-node-_08919e79-afd1-47a3-02fb-fefbe193d3d0-9153fccf" class="development-details-info-spec">
                   <div class="info-spec-number">{{ f_bedrooms }}</div>
                   <div class="info-spec-text">{{ texts.58022b37 }}</div>
                 </div>
-                <div id="w-node-_8d9c8522-5f0d-3772-46b8-7ab2c5e16a8a-327f63b9" class="development-details-info-spec">
+                <div id="w-node-_8d9c8522-5f0d-3772-46b8-7ab2c5e16a8a-9153fccf" class="development-details-info-spec">
                   <div class="info-spec-number">{{ f_bathrooms }}</div>
                   <div class="info-spec-text">{{ texts.463c13c5 }}</div>
                 </div>
-                <div id="w-node-_4bbe9c56-f0c8-af0f-de5b-b1335d06972f-327f63b9" class="development-details-info-spec">
+                <div id="w-node-_4bbe9c56-f0c8-af0f-de5b-b1335d06972f-9153fccf" class="development-details-info-spec">
                   <div class="info-spec-number">{{ f_square-footage }}</div>
                   <div class="info-spec-text">{{ texts.-15ef51b0 }}</div>
                 </div>
               </div>
               <div class="development-details-info-locations-wrapper">
-                <div id="w-node-c293aa2b-59ab-52af-a21c-780a820e214a-327f63b9" class="development-details-info-location-icon-wrapper">
+                <div id="w-node-c293aa2b-59ab-52af-a21c-780a820e214a-9153fccf" class="development-details-info-location-icon-wrapper">
                   <div class="w-embed"><img src="{{ images.49d35fc5.url }}" loading="lazy" sizes="50px" alt="{{ images.49d35fc5.alt | trim | escape }}" class="image-4"></div>
                 </div>
-                <div id="w-node-_2395cdc5-9507-dce7-7d51-c504613bf263-327f63b9" class="development-details-info-location-city-wrapper">
+                <div id="w-node-_2395cdc5-9507-dce7-7d51-c504613bf263-9153fccf" class="development-details-info-location-city-wrapper">
                   <div class="text-block-7">{{ f_city }}</div>
                 </div>
               </div>
             </div>
-            <div id="w-node-f8500d87-b18a-de10-7eb7-9f698edfcf48-327f63b9" class="development-details-map-wrapper">
+            <div id="w-node-f8500d87-b18a-de10-7eb7-9f698edfcf48-9153fccf" class="development-details-map-wrapper">
               <div class="w-embed w-iframe"><iframe allowfullscreen="" frameborder="0" height="300" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBqJ_tTRZkle-Wnn9N7I7ahuz9DhLfeZag&amp;q={{ f_street-address }},+{{ f_city }}" style="border:0" width="100%"></iframe></div>
             </div>
           </div>

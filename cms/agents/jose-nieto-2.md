@@ -43,7 +43,7 @@ f_headshot:
 slug: jose-nieto-2
 updated-on: '2023-05-01T19:11:12.450Z'
 created-on: '2023-05-01T19:11:12.450Z'
-published-on: '2023-05-02T23:19:07.752Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[agents].html'
 tags: agents
 ---

@@ -7,7 +7,7 @@ title: Tulane Homes
 slug: tulane-homes
 updated-on: '2023-04-06T15:03:32.041Z'
 created-on: '2023-04-04T17:32:52.980Z'
-published-on: '2023-04-06T21:38:06.971Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_agent-2: cms/agents/thalina-garcia.md
 f_bathrooms: '2.5'
 f_bedrooms: '3'

@@ -11,7 +11,7 @@ f_headshot:
 slug: yvonne-campos
 updated-on: '2023-11-22T18:43:00.673Z'
 created-on: '2023-11-22T18:43:00.673Z'
-published-on: '2023-11-22T19:28:45.132Z'
+published-on: '2023-11-30T22:40:33.987Z'
 layout: '[agents].html'
 tags: agents
 ---

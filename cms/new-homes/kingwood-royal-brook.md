@@ -48,7 +48,7 @@ f_image-gallery:
     alt: null
 updated-on: '2021-07-07T19:46:27.905Z'
 created-on: '2021-07-07T18:52:59.372Z'
-published-on: '2021-07-07T19:46:59.054Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_coming-soon: false
 f_is-this-a-55-community: false

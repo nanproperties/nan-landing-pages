@@ -7,7 +7,7 @@ title: Vivian Owo
 slug: vivian-owo
 updated-on: '2022-05-04T22:40:38.059Z'
 created-on: '2022-05-04T22:40:38.059Z'
-published-on: '2022-05-04T23:24:04.510Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_if-team-is-this-person-the-team-s-lead: false
 layout: '[agents].html'
 tags: agents

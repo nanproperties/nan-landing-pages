@@ -12,7 +12,7 @@ f_agent-2: cms/agents/the-omg-team.md
 f_builder: cms/builders/long-lake.md
 updated-on: '2023-09-21T19:17:57.721Z'
 created-on: '2023-08-23T00:54:49.744Z'
-published-on: '2023-09-22T00:15:44.793Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_featured-image:
   url: >-
     https://development.nanproperties.com/assets/external/64e55a7a81cf69f3b4b74770_new-homes-community-telge-ranch.webp

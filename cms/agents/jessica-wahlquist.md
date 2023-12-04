@@ -7,7 +7,7 @@ f_title: Realtor Associate
 slug: jessica-wahlquist
 updated-on: '2022-05-13T23:22:33.922Z'
 created-on: '2022-01-13T23:43:39.665Z'
-published-on: '2022-05-13T23:24:43.089Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_if-team-is-this-person-the-team-s-lead: false
 f_headshot:
   url: >-

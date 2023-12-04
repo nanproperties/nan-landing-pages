@@ -8,7 +8,7 @@ slug: the-rosemary
 f_area: cms/leasing-areas/outer-city-communities.md
 updated-on: '2022-03-28T17:23:18.081Z'
 created-on: '2022-01-08T00:50:48.263Z'
-published-on: '2022-03-28T17:37:31.387Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_city: Conroe
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241eed6fa5c64486491ebdb_68645607.jpeg

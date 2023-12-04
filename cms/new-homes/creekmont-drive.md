@@ -45,7 +45,7 @@ f_image-gallery:
 f_agent-2: cms/agents/jason-nguyen.md
 updated-on: '2022-12-13T16:07:39.354Z'
 created-on: '2021-04-22T21:11:45.647Z'
-published-on: '2022-12-13T22:30:49.780Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_builder: cms/builders/spring-w-homes.md

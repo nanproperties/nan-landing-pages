@@ -10,7 +10,7 @@ f_headshot:
 slug: jason-nguyen
 updated-on: '2023-11-22T18:43:13.603Z'
 created-on: '2021-04-22T21:10:46.927Z'
-published-on: '2023-11-22T19:28:45.132Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_if-team-is-this-person-the-team-s-lead: false
 f_language: Vietnamese
 layout: '[agents].html'

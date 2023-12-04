@@ -7,7 +7,7 @@ f_title: Realtor Associate
 slug: ashley-alonzo
 updated-on: '2022-05-12T22:01:01.093Z'
 created-on: '2022-01-13T23:43:37.227Z'
-published-on: '2022-05-12T22:07:00.817Z'
+published-on: '2023-11-30T22:40:33.987Z'
 f_if-team-is-this-person-the-team-s-lead: false
 f_team: cms/teams/the-nikki-hohman-team.md
 f_headshot:
