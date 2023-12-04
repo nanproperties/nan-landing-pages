@@ -7956,7 +7956,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-7511654b'
+            name: 132c67fe
             widget: object
             fields:
               - name: url
