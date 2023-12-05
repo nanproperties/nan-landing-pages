@@ -39,7 +39,7 @@ f_linkedin-handle: https://www.linkedin.com/in/jill-davis-falbey
 f_title: Realtor Associate
 slug: jill-falbey
 f_headshot:
-  url: /assets/external/634e3b40e58450d061927081_jill.jpeg
+  url: https://development.nanproperties.com/assets/external/634e3b40e58450d061927081_jill.jpeg
   alt: null
 f_team: cms/teams/the-luanne-marshall-team.md
 updated-on: '2022-10-18T05:36:32.475Z'

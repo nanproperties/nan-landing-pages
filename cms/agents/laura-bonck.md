@@ -14,7 +14,7 @@ f_bio: >-
 title: Laura Bonck
 f_headshot:
   url: >-
-    /assets/external/6077c68857ddc4ed2cdac85b_6026050ed0796optimized_2e6090409903a8e2661e9d8644ffb095.jpeg
+    https://development.nanproperties.com/assets/external/6077c68857ddc4ed2cdac85b_6026050ed0796optimized_2e6090409903a8e2661e9d8644ffb095.jpeg
   alt: null
 slug: laura-bonck
 updated-on: '2022-05-04T23:10:28.012Z'

@@ -11,7 +11,7 @@ f_zip-code-2: '6437'
 slug: page-taft-real-estate
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b8179473786a6d8de0c8cf_6081e57d0fef3e3946d322b5_60785a589498d24c20f14f14_page_taft_christies_logo_square_gold717__1_.png
+    https://development.nanproperties.com/assets/external/60b8179473786a6d8de0c8cf_6081e57d0fef3e3946d322b5_60785a589498d24c20f14f14_page_taft_christies_logo_square_gold717__1_.png
   alt: null
 f_region-2: cms/affiliate-regions/north-central-america.md
 updated-on: '2021-06-02T23:43:16.407Z'

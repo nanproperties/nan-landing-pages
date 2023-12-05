@@ -15,7 +15,7 @@ title: Andrew Lin
 f_title: Realtor Associate
 f_headshot:
   url: >-
-    /assets/external/655e4a79576c6f67e92cae22_a4f14b6bef768fe5de75558e48a40a50.webp
+    https://development.nanproperties.com/assets/external/655e4a79576c6f67e92cae22_a4f14b6bef768fe5de75558e48a40a50.webp
   alt: null
 slug: andrew-lin
 updated-on: '2023-11-22T18:37:57.063Z'

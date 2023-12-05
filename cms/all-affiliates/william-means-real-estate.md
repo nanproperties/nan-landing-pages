@@ -10,7 +10,7 @@ f_country-2: United States
 f_zip-code-2: '29401'
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b8179120d0668a69f01c4d_6081e58e12b52f52e609808b_60785a72fc408476fd8a8113_content_wmre_2011_logo_long_green-blk__1_.jpeg
+    https://development.nanproperties.com/assets/external/60b8179120d0668a69f01c4d_6081e58e12b52f52e609808b_60785a72fc408476fd8a8113_content_wmre_2011_logo_long_green-blk__1_.jpeg
   alt: null
 slug: william-means-real-estate
 f_region-2: cms/affiliate-regions/north-central-america.md

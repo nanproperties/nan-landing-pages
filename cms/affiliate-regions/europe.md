@@ -11,7 +11,7 @@ f_continent-description: >-
 title: Europe
 f_featured-image:
   url: >-
-    /assets/external/6077cec92494748d931a4279_602f64ef85bf9content_global-properties-europe.jpeg
+    https://development.nanproperties.com/assets/external/6077cec92494748d931a4279_602f64ef85bf9content_global-properties-europe.jpeg
   alt: null
 slug: europe
 updated-on: '2021-06-03T01:55:01.603Z'

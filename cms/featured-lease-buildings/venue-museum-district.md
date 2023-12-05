@@ -13,23 +13,23 @@ f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/623cf5e16fe4b964a4b02d41_62269337efb134.42036244423.jpg
     alt: null
-  - url: /assets/external/623cf5e1119861cfbe918afe_622695b1c965e4.31300526378.jpg
+  - url: https://development.nanproperties.com/assets/external/623cf5e1119861cfbe918afe_622695b1c965e4.31300526378.jpg
     alt: null
-  - url: /assets/external/623cf5e01740de6e5f8b6198_622694ed5cb843.70989138321.jpg
+  - url: https://development.nanproperties.com/assets/external/623cf5e01740de6e5f8b6198_622694ed5cb843.70989138321.jpg
     alt: null
-  - url: /assets/external/623cf5e09afed10f082ba93e_622694d66d5201.24825051727.jpg
+  - url: https://development.nanproperties.com/assets/external/623cf5e09afed10f082ba93e_622694d66d5201.24825051727.jpg
     alt: null
-  - url: /assets/external/623cf5e19afed1567d2ba93f_622694bb1581e3.02056400130.jpg
+  - url: https://development.nanproperties.com/assets/external/623cf5e19afed1567d2ba93f_622694bb1581e3.02056400130.jpg
     alt: null
-  - url: /assets/external/623cf5e0eb49042a408881aa_6226948f5d9201.07870182284.jpg
+  - url: https://development.nanproperties.com/assets/external/623cf5e0eb49042a408881aa_6226948f5d9201.07870182284.jpg
     alt: null
-  - url: /assets/external/623cf5dfa2d3c7cb7cf0d10f_62269435945aa6.06694832783.jpg
+  - url: https://development.nanproperties.com/assets/external/623cf5dfa2d3c7cb7cf0d10f_62269435945aa6.06694832783.jpg
     alt: null
-  - url: /assets/external/623cf5e02d6a84413aacc72c_622693ed1afd53.73130008138.jpg
+  - url: https://development.nanproperties.com/assets/external/623cf5e02d6a84413aacc72c_622693ed1afd53.73130008138.jpg
     alt: null
-  - url: /assets/external/623cf5e15eb0037aa000a757_6226938fa24eb0.46900870464.jpg
+  - url: https://development.nanproperties.com/assets/external/623cf5e15eb0037aa000a757_6226938fa24eb0.46900870464.jpg
     alt: null
-  - url: /assets/external/623cf5dfb1a21e62e36485f5_62269379477926.95795338143.jpg
+  - url: https://development.nanproperties.com/assets/external/623cf5dfb1a21e62e36485f5_62269379477926.95795338143.jpg
     alt: null
 f_street-address: 5353 Fannin St
 f_zip-code: '77004'

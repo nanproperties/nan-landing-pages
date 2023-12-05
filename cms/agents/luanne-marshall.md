@@ -11,7 +11,7 @@ published-on: '2023-11-30T22:40:33.987Z'
 f_if-team-is-this-person-the-team-s-lead: true
 f_team: cms/teams/the-luanne-marshall-team.md
 f_headshot:
-  url: /assets/external/634e3c82c0d353872dd91201_luanne.jpeg
+  url: https://development.nanproperties.com/assets/external/634e3c82c0d353872dd91201_luanne.jpeg
   alt: null
 layout: '[agents].html'
 tags: agents

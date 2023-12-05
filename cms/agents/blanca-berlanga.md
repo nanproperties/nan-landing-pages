@@ -9,7 +9,7 @@ updated-on: '2022-05-04T23:08:42.153Z'
 created-on: '2022-05-04T22:40:26.801Z'
 published-on: '2023-11-30T22:40:33.987Z'
 f_headshot:
-  url: /assets/external/6273031ecf778f4c23d4f12a_berlanga_blanca.jpg
+  url: https://development.nanproperties.com/assets/external/6273031ecf778f4c23d4f12a_berlanga_blanca.jpg
   alt: null
 f_team: cms/teams/the-laura-bonck-homes-team.md
 f_if-team-is-this-person-the-team-s-lead: false

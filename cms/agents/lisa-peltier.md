@@ -27,7 +27,7 @@ updated-on: '2023-11-27T21:50:30.894Z'
 created-on: '2021-08-11T14:49:44.749Z'
 published-on: '2023-11-30T22:40:33.987Z'
 f_headshot:
-  url: /assets/external/65650f1be3427fb43c276595_peltier20lisa1.jpg
+  url: https://development.nanproperties.com/assets/external/65650f1be3427fb43c276595_peltier20lisa1.jpg
   alt: null
 f_if-team-is-this-person-the-team-s-lead: false
 layout: '[agents].html'

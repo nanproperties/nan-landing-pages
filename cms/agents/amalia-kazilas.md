@@ -10,7 +10,7 @@ created-on: '2023-11-22T18:38:52.786Z'
 published-on: '2023-11-30T22:40:33.987Z'
 f_headshot:
   url: >-
-    /assets/external/655e557d2637ef4cc5b6bd45_ad5f5a59114eaa29cd94d3df28483aa4.webp
+    https://development.nanproperties.com/assets/external/655e557d2637ef4cc5b6bd45_ad5f5a59114eaa29cd94d3df28483aa4.webp
   alt: null
 layout: '[agents].html'
 tags: agents

@@ -10,7 +10,7 @@ f_country-2: Canada
 f_zip-code-2: V6J 1G5
 f_affiliate-logo-2:
   url: >-
-    /assets/external/60b8178be876e01db458669c_6081e56a5452d5b8577ae114_60785a38403c709434e48480_content_signature_center.png
+    https://development.nanproperties.com/assets/external/60b8178be876e01db458669c_6081e56a5452d5b8577ae114_60785a38403c709434e48480_content_signature_center.png
   alt: null
 slug: faith-wilson-group
 f_region-2: cms/affiliate-regions/north-central-america.md

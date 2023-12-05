@@ -28,7 +28,7 @@ f_shortened-bio: >-
   mantra that anything can be accomplished through hard work.
 f_headshot:
   url: >-
-    /assets/external/655e4a3760836c380eae5d36_7f228c17fa463ef5f5dba1beb2608e44.webp
+    https://development.nanproperties.com/assets/external/655e4a3760836c380eae5d36_7f228c17fa463ef5f5dba1beb2608e44.webp
   alt: null
 slug: nadia-jubran
 updated-on: '2023-11-22T18:36:47.051Z'
