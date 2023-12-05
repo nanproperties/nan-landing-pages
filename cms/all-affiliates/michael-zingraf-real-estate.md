@@ -11,7 +11,7 @@ f_zip-code-2: '6400'
 slug: michael-zingraf-real-estate
 f_affiliate-logo-2:
   url: >-
-    https://development.nanproperties.com/assets/external/60b8179afb6dd01d62d5af60_6081e57b77bb75188bd40cd0_60785a427528093c694bd1ea_content_unnamed.png
+    /assets/external/60b8179afb6dd01d62d5af60_6081e57b77bb75188bd40cd0_60785a427528093c694bd1ea_content_unnamed.png
   alt: null
 f_region-2: cms/affiliate-regions/europe.md
 updated-on: '2021-06-02T23:43:22.818Z'

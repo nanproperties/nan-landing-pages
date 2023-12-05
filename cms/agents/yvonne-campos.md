@@ -6,7 +6,7 @@ f_title: Realtor Associate
 title: Yvonne Campos
 f_headshot:
   url: >-
-    https://development.nanproperties.com/assets/external/655e4bb2f914238062da02ae_52cafdf8bc8c9863719b42fb44c388cc.webp
+    /assets/external/655e4bb2f914238062da02ae_52cafdf8bc8c9863719b42fb44c388cc.webp
   alt: null
 slug: yvonne-campos
 updated-on: '2023-11-22T18:43:00.673Z'

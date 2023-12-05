@@ -12,7 +12,7 @@ f_if-team-is-this-person-the-team-s-lead: false
 f_language: Spanish
 f_headshot:
   url: >-
-    https://development.nanproperties.com/assets/external/655e56462a587375d624ce6c_cd165d644338ce6fdb56b2f46c3af522.webp
+    /assets/external/655e56462a587375d624ce6c_cd165d644338ce6fdb56b2f46c3af522.webp
   alt: null
 layout: '[agents].html'
 tags: agents

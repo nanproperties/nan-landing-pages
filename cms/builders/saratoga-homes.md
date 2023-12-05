@@ -9,7 +9,7 @@ f_builder-description: >-
 title: 'Saratoga Homes '
 slug: saratoga-homes
 f_builder-logo:
-  url: https://development.nanproperties.com/assets/external/640642a4b880662a5033a1a5_saratoga20houston20s20logo202.png
+  url: /assets/external/640642a4b880662a5033a1a5_saratoga20houston20s20logo202.png
   alt: null
 updated-on: '2023-03-06T19:49:38.827Z'
 created-on: '2023-03-06T19:45:31.363Z'

@@ -11,7 +11,7 @@ published-on: '2023-11-30T22:40:33.987Z'
 f_if-team-is-this-person-the-team-s-lead: true
 f_team: cms/teams/the-sara-black-team.md
 f_headshot:
-  url: https://development.nanproperties.com/assets/external/6296e4056519c031e6b135c5_sara20black20headshot.jpg
+  url: /assets/external/6296e4056519c031e6b135c5_sara20black20headshot.jpg
   alt: null
 layout: '[agents].html'
 tags: agents

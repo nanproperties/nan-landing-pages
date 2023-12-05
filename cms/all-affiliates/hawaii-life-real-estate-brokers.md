@@ -10,7 +10,7 @@ f_country-2: United States
 f_zip-code-2: '96722'
 f_affiliate-logo-2:
   url: >-
-    https://development.nanproperties.com/assets/external/60b817778a466f1c10f90458_6081e5703dfd574db12e7dbc_60785a5f75280933884bd215_content_hl-logo5.png
+    /assets/external/60b817778a466f1c10f90458_6081e5703dfd574db12e7dbc_60785a5f75280933884bd215_content_hl-logo5.png
   alt: null
 slug: hawaii-life-real-estate-brokers
 f_region-2: cms/affiliate-regions/north-central-america.md

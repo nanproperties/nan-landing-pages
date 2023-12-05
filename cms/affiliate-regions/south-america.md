@@ -8,7 +8,7 @@ f_continent-description: >-
 title: South America
 f_featured-image:
   url: >-
-    https://development.nanproperties.com/assets/external/6077cecb9d13c273ae2558d8_602f64ec479aacontent_global-properties-south-america.jpeg
+    /assets/external/6077cecb9d13c273ae2558d8_602f64ec479aacontent_global-properties-south-america.jpeg
   alt: null
 slug: south-america
 updated-on: '2021-06-03T01:57:28.900Z'

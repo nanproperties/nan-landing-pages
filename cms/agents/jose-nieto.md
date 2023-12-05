@@ -36,7 +36,7 @@ title: Jose Nieto
 f_title: Realtor Associate
 slug: jose-nieto
 f_headshot:
-  url: https://development.nanproperties.com/assets/external/64500cc8a039cb3ac2d1cd15_jose20nieto_primary.jpg
+  url: /assets/external/64500cc8a039cb3ac2d1cd15_jose20nieto_primary.jpg
   alt: null
 updated-on: '2023-05-01T19:03:01.199Z'
 created-on: '2023-05-01T19:03:01.199Z'

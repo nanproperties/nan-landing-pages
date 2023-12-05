@@ -38,7 +38,7 @@ f_facebook-handle: Olga M. Garza
 f_title: Realtor Associate
 slug: the-omg-team
 f_headshot:
-  url: https://development.nanproperties.com/assets/external/649c9ce5ce683228f70765b6_dsc01987201.jpg
+  url: /assets/external/649c9ce5ce683228f70765b6_dsc01987201.jpg
   alt: null
 updated-on: '2023-08-23T03:33:17.628Z'
 created-on: '2023-06-28T21:07:43.158Z'
