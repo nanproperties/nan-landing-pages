@@ -13,7 +13,7 @@ f_featured-image:
 slug: south-america
 updated-on: '2021-06-03T01:57:28.900Z'
 created-on: '2021-04-15T05:27:40.179Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_does-this-region-have-affiliates-we-are-featuring: false
 layout: '[affiliate-regions].html'
 tags: affiliate-regions

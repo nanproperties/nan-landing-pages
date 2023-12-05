@@ -12,7 +12,7 @@ f_development-logo:
   alt: null
 updated-on: '2023-11-14T14:55:11.082Z'
 created-on: '2023-11-07T16:22:36.028Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_nan-url-link-slug: https://bella-heights.com/
 layout: '[developments].html'
 tags: developments

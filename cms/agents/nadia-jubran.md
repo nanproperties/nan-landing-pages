@@ -33,7 +33,7 @@ f_headshot:
 slug: nadia-jubran
 updated-on: '2023-11-22T18:36:47.051Z'
 created-on: '2023-11-22T18:36:47.051Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[agents].html'
 tags: agents
 ---

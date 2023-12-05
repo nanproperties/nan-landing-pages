@@ -8,7 +8,7 @@ slug: rodeo-palms
 f_agent-2: cms/agents/ana-salazar.md
 updated-on: '2023-03-07T15:59:36.393Z'
 created-on: '2023-03-06T20:02:24.411Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_bathrooms: 3.5-4
 f_bedrooms: 4-5
 f_builder: cms/builders/saratoga-homes.md

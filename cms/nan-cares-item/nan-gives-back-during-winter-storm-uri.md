@@ -11,7 +11,7 @@ title: Nan Gives Back During Winter Storm Uri
 slug: nan-gives-back-during-winter-storm-uri
 updated-on: '2022-05-27T22:06:29.733Z'
 created-on: '2022-05-27T22:06:29.733Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[nan-cares-item].html'
 tags: nan-cares-item
 ---

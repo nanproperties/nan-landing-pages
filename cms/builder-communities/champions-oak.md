@@ -12,7 +12,7 @@ f_agent-2: cms/agents/the-omg-team.md
 f_builder: cms/builders/long-lake.md
 updated-on: '2023-08-23T00:57:53.885Z'
 created-on: '2023-08-23T00:54:47.893Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_featured-image:
   url: >-
     https://development.nanproperties.com/assets/external/64e5598f8290d271c9f941ad_champions-oak-updated-exterior-shot-for-website.jpeg

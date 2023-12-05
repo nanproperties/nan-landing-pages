@@ -37,7 +37,7 @@ f_image-gallery:
 f_agent-2: cms/agents/nan-properties.md
 updated-on: '2023-02-06T14:05:38.480Z'
 created-on: '2021-04-22T21:11:48.069Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_builder: cms/builders/lennar-homes.md

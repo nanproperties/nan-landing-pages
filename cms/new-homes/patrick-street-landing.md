@@ -55,7 +55,7 @@ f_image-gallery:
 f_agent-2: cms/agents/casey-babin.md
 updated-on: '2023-02-09T20:00:44.874Z'
 created-on: '2021-04-22T21:11:57.539Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_builder: cms/builders/vida-group.md

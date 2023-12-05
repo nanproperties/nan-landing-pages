@@ -11,7 +11,7 @@ title: Nancy and Jose supply lunches to medical staff during Covid
 slug: nancy-and-jose-supply-lunches-to-medical-staff-during-covid
 updated-on: '2022-05-27T22:06:30.923Z'
 created-on: '2022-05-27T22:06:30.923Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[nan-cares-item].html'
 tags: nan-cares-item
 ---

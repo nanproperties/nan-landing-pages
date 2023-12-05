@@ -8,7 +8,7 @@ f_background-image:
 f_area: cms/leasing-areas/galleria-river-oaks.md
 updated-on: '2022-03-28T17:33:55.592Z'
 created-on: '2022-01-08T00:50:30.531Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/6241f15ee2e397136bee5935_content_ak3_5980-hdr.jpeg

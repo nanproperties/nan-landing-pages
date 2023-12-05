@@ -13,7 +13,7 @@ f_headshot:
 f_team: cms/teams/the-luanne-marshall-team.md
 updated-on: '2022-10-18T05:39:27.276Z'
 created-on: '2022-10-18T05:39:27.276Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[agents].html'
 tags: agents
 ---

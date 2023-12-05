@@ -8,7 +8,7 @@ slug: venue-museum-district
 f_area: cms/leasing-areas/mid-town-montrose.md
 updated-on: '2022-03-25T17:48:31.354Z'
 created-on: '2022-01-08T00:50:38.075Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_city: Houston
 f_gallery-images:
   - url: https://development.nanproperties.com/assets/external/623cf5e16fe4b964a4b02d41_62269337efb134.42036244423.jpg

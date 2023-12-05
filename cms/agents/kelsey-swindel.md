@@ -10,7 +10,7 @@ f_headshot:
 slug: kelsey-swindel
 updated-on: '2022-05-13T23:11:07.097Z'
 created-on: '2022-05-13T23:11:07.097Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[agents].html'
 tags: agents
 ---

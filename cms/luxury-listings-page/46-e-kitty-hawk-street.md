@@ -8,7 +8,7 @@ f_image:
   alt: null
 updated-on: '2021-06-01T00:46:49.352Z'
 created-on: '2021-05-19T21:25:13.092Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_types: Getaway
 layout: '[luxury-listings-page].html'
 tags: luxury-listings-page

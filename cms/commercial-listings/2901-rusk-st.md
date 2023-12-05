@@ -7,7 +7,7 @@ f_state: TX
 slug: 2901-rusk-st
 updated-on: '2022-05-13T23:11:26.229Z'
 created-on: '2022-05-13T22:59:49.268Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_featured-agent: cms/agents/yvonne-pruneda.md
 f_featured-image:
   url: >-

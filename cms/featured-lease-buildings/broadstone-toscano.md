@@ -9,7 +9,7 @@ f_background-image:
 f_area: cms/leasing-areas/west-university.md
 updated-on: '2022-03-24T23:02:19.000Z'
 created-on: '2022-03-24T20:52:33.755Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_city: Houston
 f_gallery-images:
   - url: >-

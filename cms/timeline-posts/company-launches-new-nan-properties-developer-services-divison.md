@@ -7,7 +7,7 @@ title: Company launches new Nan Properties Developer Services divison.
 slug: company-launches-new-nan-properties-developer-services-divison
 updated-on: '2022-03-25T22:47:06.571Z'
 created-on: '2022-03-25T22:47:06.571Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[timeline-posts].html'
 tags: timeline-posts
 ---

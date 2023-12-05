@@ -12,7 +12,7 @@ f_agent-2: cms/agents/the-omg-team.md
 f_builder: cms/builders/long-lake.md
 updated-on: '2023-09-21T17:19:40.358Z'
 created-on: '2023-08-23T00:54:48.076Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_featured-image:
   url: >-
     https://development.nanproperties.com/assets/external/64e559aa9605183a5d667ce5_new-homes-community-eagle-landing.webp

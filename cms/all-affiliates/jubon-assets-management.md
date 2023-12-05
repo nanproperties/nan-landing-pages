@@ -12,7 +12,7 @@ slug: jubon-assets-management
 f_region-2: cms/affiliate-regions/asia.md
 updated-on: '2021-06-02T23:43:38.750Z'
 created-on: '2021-06-02T23:43:38.750Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[all-affiliates].html'
 tags: all-affiliates
 ---

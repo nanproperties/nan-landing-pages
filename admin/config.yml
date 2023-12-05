@@ -7383,19 +7383,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: e5e63a8
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: iade6bd2
             widget: object
             fields:
@@ -7488,6 +7475,19 @@ collections:
                 required: false
           - label: Image
             name: 5a37530d
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: e5e63a8
             widget: object
             fields:
               - name: url
@@ -7799,7 +7799,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 1e332c48
+            name: '-767fc865'
             widget: object
             fields:
               - name: url
@@ -7981,7 +7981,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: b8703c9
+            name: '-4f8a1083'
             widget: object
             fields:
               - name: url
@@ -7994,7 +7994,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-4f8a1083'
+            name: b8703c9
             widget: object
             fields:
               - name: url

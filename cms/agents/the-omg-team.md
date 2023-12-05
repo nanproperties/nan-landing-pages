@@ -42,7 +42,7 @@ f_headshot:
   alt: null
 updated-on: '2023-08-23T03:33:17.628Z'
 created-on: '2023-06-28T21:07:43.158Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_shortened-bio: >-
   The O.M.G. Team, led by Olga Martinez-Garza and Eddie Garza, offers expert
   real estate services, specializing in new construction homes. With years of

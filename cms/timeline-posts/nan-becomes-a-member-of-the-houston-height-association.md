@@ -8,7 +8,7 @@ title: Nan Becomes a Member of the Houston Height Association
 slug: nan-becomes-a-member-of-the-houston-height-association
 updated-on: '2022-03-25T22:47:05.087Z'
 created-on: '2022-03-25T22:47:05.087Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[timeline-posts].html'
 tags: timeline-posts
 ---

@@ -8,7 +8,7 @@ title: Awarded Best Brokerage Website for 2020 by Houston Agent Magazine
 slug: awarded-best-brokerage-website-for-2020-by-houston-agent-magazine
 updated-on: '2022-03-25T22:47:06.311Z'
 created-on: '2022-03-25T22:47:06.311Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[timeline-posts].html'
 tags: timeline-posts
 ---

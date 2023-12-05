@@ -16,7 +16,7 @@ f_featured-image:
 slug: europe
 updated-on: '2021-06-03T01:55:01.603Z'
 created-on: '2021-04-15T05:27:37.871Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_does-this-region-have-affiliates-we-are-featuring: false
 layout: '[affiliate-regions].html'
 tags: affiliate-regions

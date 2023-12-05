@@ -6,7 +6,7 @@ f_builder-logo:
 slug: new-elite-homes-llc
 updated-on: '2021-12-30T22:06:25.345Z'
 created-on: '2021-12-30T22:06:25.345Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[builders].html'
 tags: builders
 ---

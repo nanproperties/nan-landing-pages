@@ -7,7 +7,7 @@ f_builder-logo:
 slug: lion-homes-llc
 updated-on: '2022-04-12T19:53:54.687Z'
 created-on: '2022-04-12T19:53:49.051Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[builders].html'
 tags: builders
 ---

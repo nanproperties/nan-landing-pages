@@ -8,7 +8,7 @@ f_title: Realtor Associate
 slug: clayton-simms
 updated-on: '2022-06-01T03:58:17.395Z'
 created-on: '2022-06-01T03:57:52.374Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_headshot:
   url: https://development.nanproperties.com/assets/external/6296e3d3c40951596c94f68e_clayton20headshot.jpg
   alt: null

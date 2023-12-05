@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-page="656908cf99ee27e19153fc58" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
+<html data-wf-page="656f665ea9e51799006e382d" data-wf-site="60768515da5167820baefabe"><head>{%- seo seo -%}
   <meta charset="utf-8">
   
   
@@ -92,7 +92,7 @@ text-transform:none;
         {%- assign collection = collections.new-homes | filter: "f_is-this-a-55-community,eq,true", "ALL", page.inputPath | sort: "title" -%}<div class="developments-content-list-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="developments-content-list w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="developments-content-item w-dyn-item">
-              <div id="Developments-Image-Wrapper" class="developments-image-wrapper w-node-_6d2d4d7e-aecf-0793-5dab-faa2a825874a-9153fc58">
+              <div id="Developments-Image-Wrapper" class="developments-image-wrapper w-node-_6d2d4d7e-aecf-0793-5dab-faa2a825874a-006e382d">
                 {%- if item.data.f_sold == true -%}<div class="sold-tag">{{ texts.26ecd4 }}</div>{%- endif -%}
                 {%- if item.data.f_coming-soon == true -%}<div class="coming-soon-tag">{{ texts.32939fba }}</div>{%- endif -%}<img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;97vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;48vw&quot;}]" src="{{ item.data.f_featured-image.url }}" alt="{{ item.data.f_featured-image.alt }}" class="developments-image">
               </div>

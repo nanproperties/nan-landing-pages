@@ -15,7 +15,7 @@ f_affiliate-logo-2:
 f_region-2: cms/affiliate-regions/asia.md
 updated-on: '2021-06-03T02:16:13.284Z'
 created-on: '2021-06-02T23:42:43.624Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[all-affiliates].html'
 tags: all-affiliates
 ---

@@ -3,7 +3,7 @@ title: 19427 Champion Forest Drive, Suite D
 slug: 19427-champion-forest-drive-suite-d
 updated-on: '2022-05-13T23:21:12.237Z'
 created-on: '2022-05-13T22:52:05.128Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_city: Spring
 f_featured-agent: cms/agents/jessica-wahlquist.md
 f_featured-image:

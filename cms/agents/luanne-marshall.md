@@ -7,7 +7,7 @@ f_title: Broker Associate
 slug: luanne-marshall
 updated-on: '2022-10-18T05:41:23.714Z'
 created-on: '2022-01-13T23:43:40.687Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_if-team-is-this-person-the-team-s-lead: true
 f_team: cms/teams/the-luanne-marshall-team.md
 f_headshot:

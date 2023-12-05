@@ -6,7 +6,7 @@ f_builder-logo:
 slug: gilliard-homes
 updated-on: '2023-03-10T03:48:57.329Z'
 created-on: '2023-03-08T15:50:04.664Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_other-project-1-images:
   - url: https://development.nanproperties.com/assets/external/640aa81494c46d392586153c_dsc04579.jpg
     alt: null

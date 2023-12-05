@@ -45,7 +45,7 @@ f_gallery-images:
 f_area: cms/leasing-areas/medical-center.md
 updated-on: '2023-05-02T20:18:59.411Z'
 created-on: '2022-06-15T17:08:13.862Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[featured-lease-buildings].html'
 tags: featured-lease-buildings
 ---

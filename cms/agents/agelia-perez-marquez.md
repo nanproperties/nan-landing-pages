@@ -7,7 +7,7 @@ title: Agelia Pérez Márquez
 slug: agelia-perez-marquez
 updated-on: '2023-11-22T19:27:52.181Z'
 created-on: '2022-05-04T22:40:22.857Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_if-team-is-this-person-the-team-s-lead: false
 f_language: Spanish
 f_headshot:

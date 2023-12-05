@@ -7,7 +7,7 @@ title: The Galleria
 slug: the-galleria
 updated-on: '2021-05-25T18:05:26.280Z'
 created-on: '2021-05-25T18:05:26.280Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[nan-offices].html'
 tags: nan-offices
 ---

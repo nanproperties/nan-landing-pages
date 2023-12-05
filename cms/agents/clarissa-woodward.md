@@ -41,7 +41,7 @@ f_headshot:
 slug: clarissa-woodward
 updated-on: '2023-06-27T15:22:37.100Z'
 created-on: '2023-06-27T15:22:37.100Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[agents].html'
 tags: agents
 ---

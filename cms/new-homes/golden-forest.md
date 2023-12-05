@@ -10,7 +10,7 @@ f_builder: cms/builders/new-elite-homes-llc.md
 f_agent-2: cms/agents/yvonne-pruneda.md
 updated-on: '2023-02-09T20:00:35.713Z'
 created-on: '2021-12-30T22:24:51.168Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/61eee6b07f9a110b3389356c_iimg_230.jpg
   alt: null

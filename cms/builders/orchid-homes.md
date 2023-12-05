@@ -6,7 +6,7 @@ f_builder-logo:
 slug: orchid-homes
 updated-on: '2022-07-06T16:37:26.394Z'
 created-on: '2022-07-06T16:37:26.394Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[builders].html'
 tags: builders
 ---

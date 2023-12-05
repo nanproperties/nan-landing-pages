@@ -120,7 +120,7 @@ f_headshot:
   alt: null
 updated-on: '2023-03-21T00:10:25.567Z'
 created-on: '2023-03-21T00:10:25.567Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[agents].html'
 tags: agents
 ---

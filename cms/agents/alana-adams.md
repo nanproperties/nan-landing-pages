@@ -7,7 +7,7 @@ title: Alana Adams
 slug: alana-adams
 updated-on: '2022-05-12T21:59:26.555Z'
 created-on: '2022-05-04T22:40:23.157Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_if-team-is-this-person-the-team-s-lead: false
 f_team: cms/teams/the-nikki-hohman-team.md
 f_headshot:

@@ -28,7 +28,7 @@ f_featured-image:
 f_agent-2: cms/agents/nancy-ramos.md
 updated-on: '2023-10-09T13:57:57.285Z'
 created-on: '2023-10-09T13:57:57.285Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---

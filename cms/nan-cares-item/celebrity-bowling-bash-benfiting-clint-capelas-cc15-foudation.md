@@ -13,7 +13,7 @@ title: Celebrity Bowling Bash benfiting Clint Capela's CC15 Foudation
 slug: celebrity-bowling-bash-benfiting-clint-capelas-cc15-foudation
 updated-on: '2022-05-27T22:06:31.477Z'
 created-on: '2022-05-27T22:06:31.477Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[nan-cares-item].html'
 tags: nan-cares-item
 ---

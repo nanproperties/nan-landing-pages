@@ -8,7 +8,7 @@ title: Nan Joins Fort Bend Chamber of Commerce
 slug: nan-joins-fort-bend-chamber-of-commerce
 updated-on: '2022-03-25T22:47:02.928Z'
 created-on: '2022-03-25T22:47:02.928Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[timeline-posts].html'
 tags: timeline-posts
 ---

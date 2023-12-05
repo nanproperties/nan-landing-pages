@@ -7,7 +7,7 @@ title: Blanca Berlanga
 slug: blanca-berlanga
 updated-on: '2022-05-04T23:08:42.153Z'
 created-on: '2022-05-04T22:40:26.801Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_headshot:
   url: https://development.nanproperties.com/assets/external/6273031ecf778f4c23d4f12a_berlanga_blanca.jpg
   alt: null

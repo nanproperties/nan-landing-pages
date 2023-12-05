@@ -16,7 +16,7 @@ f_image-or-screenshot-of-article:
 slug: legend-developers-selects-contractor-for-tiki-island-condos
 updated-on: '2023-11-15T17:50:07.502Z'
 created-on: '2023-11-15T17:50:07.502Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[press-articles].html'
 tags: press-articles
 ---

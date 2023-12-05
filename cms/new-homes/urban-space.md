@@ -58,7 +58,7 @@ f_agent-2: cms/agents/nancy-ramos.md
 f_builder: cms/builders/new-era-living.md
 updated-on: '2022-08-16T21:25:08.982Z'
 created-on: '2022-02-22T16:08:50.874Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_description: >-
   Urban Space is a charming new gated community located at 1002 G Paul Quinn St.
   Situated in the highly coveted Tidwell area, Urban Space is comprised of seven

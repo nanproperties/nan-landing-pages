@@ -7,7 +7,7 @@ title: Cypress Green
 slug: long-lake
 updated-on: '2023-07-31T15:25:18.126Z'
 created-on: '2023-06-28T19:10:11.179Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_bathrooms: 2-3.5
 f_bedrooms: 2-4
 f_city: Hockley

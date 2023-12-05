@@ -25,7 +25,7 @@ title: Lisa Peltier
 slug: lisa-peltier
 updated-on: '2023-11-27T21:50:30.894Z'
 created-on: '2021-08-11T14:49:44.749Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_headshot:
   url: https://development.nanproperties.com/assets/external/65650f1be3427fb43c276595_peltier20lisa1.jpg
   alt: null

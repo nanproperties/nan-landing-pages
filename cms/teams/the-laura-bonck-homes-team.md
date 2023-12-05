@@ -4,7 +4,7 @@ title: The Laura Bonck Homes Team
 slug: the-laura-bonck-homes-team
 updated-on: '2022-05-12T22:15:20.916Z'
 created-on: '2022-05-04T22:46:42.364Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_secondary-team-image:
   url: https://development.nanproperties.com/assets/external/6273055d160a55083e307811_bon_0855.jpeg
   alt: null

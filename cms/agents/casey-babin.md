@@ -35,7 +35,7 @@ f_headshot:
   alt: null
 updated-on: '2021-07-23T15:26:34.907Z'
 created-on: '2021-07-23T15:26:34.907Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_if-team-is-this-person-the-team-s-lead: false
 layout: '[agents].html'
 tags: agents

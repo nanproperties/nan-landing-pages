@@ -7,7 +7,7 @@ f_title: Realtor Associate
 slug: thalina-garcia
 updated-on: '2023-11-22T19:28:08.741Z'
 created-on: '2022-01-13T23:43:44.006Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_if-team-is-this-person-the-team-s-lead: false
 f_language: Spanish
 f_headshot:

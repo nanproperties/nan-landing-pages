@@ -9,7 +9,7 @@ f_image:
 slug: 3920-inverness
 updated-on: '2022-07-30T00:09:22.222Z'
 created-on: '2022-07-30T00:09:22.222Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[luxury-listings-page].html'
 tags: luxury-listings-page
 ---

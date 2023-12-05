@@ -8,7 +8,7 @@ f_image:
 slug: the-residences-at-seafire-n-201
 updated-on: '2021-05-19T21:35:18.812Z'
 created-on: '2021-05-19T21:35:18.812Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[luxury-listings-page].html'
 tags: luxury-listings-page
 ---

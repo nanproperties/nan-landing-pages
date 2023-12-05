@@ -15,7 +15,7 @@ slug: green-oaks-estates
 f_agent-2: cms/agents/jose-nieto-2.md
 updated-on: '2023-07-20T17:45:23.722Z'
 created-on: '2021-07-20T13:55:04.436Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_builder: cms/builders/sbd-investment.md
 f_price-range: Starting in the 350's
 f_description: >

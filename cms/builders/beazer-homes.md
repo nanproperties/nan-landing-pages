@@ -14,7 +14,7 @@ f_builder-logo:
 slug: beazer-homes
 updated-on: '2021-04-16T02:42:41.197Z'
 created-on: '2021-04-15T04:21:20.034Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_builder-video-link-4: https://www.youtube.com/watch?v=ERtKzKYqwzU
 f_builder-website-url: https://www.beazer.com/
 f_builder-youtube-id: ERtKzKYqwzU

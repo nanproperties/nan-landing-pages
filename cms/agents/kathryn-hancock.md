@@ -6,7 +6,7 @@ title: Kathryn Hancock
 slug: kathryn-hancock
 updated-on: '2022-05-04T23:09:27.891Z'
 created-on: '2022-05-04T22:40:30.601Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_headshot:
   url: https://development.nanproperties.com/assets/external/6273028b160a553d2f30675d_hancock2c20kathryn.jpeg
   alt: null

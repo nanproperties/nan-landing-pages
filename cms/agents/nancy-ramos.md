@@ -26,7 +26,7 @@ f_headshot:
 slug: nancy-ramos
 updated-on: '2023-11-27T15:57:41.132Z'
 created-on: '2022-02-22T16:01:32.552Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_if-team-is-this-person-the-team-s-lead: false
 layout: '[agents].html'
 tags: agents

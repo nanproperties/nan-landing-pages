@@ -12,7 +12,7 @@ f_agent-2: cms/agents/the-omg-team.md
 f_builder: cms/builders/long-lake.md
 updated-on: '2023-09-21T19:12:48.353Z'
 created-on: '2023-08-23T00:54:49.340Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 f_featured-image:
   url: >-
     https://development.nanproperties.com/assets/external/64e55a602c5e18cbf296b44c_new-homes-community-sheldon-ridge.webp

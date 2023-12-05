@@ -10,7 +10,7 @@ slug: >-
   national-womens-business-enterprise-certification-by-womens-business-enterprise-national-council-2021
 updated-on: '2022-03-25T22:47:11.114Z'
 created-on: '2022-03-25T22:47:11.114Z'
-published-on: '2023-11-30T22:40:33.987Z'
+published-on: '2023-12-05T18:21:52.835Z'
 layout: '[timeline-posts].html'
 tags: timeline-posts
 ---
