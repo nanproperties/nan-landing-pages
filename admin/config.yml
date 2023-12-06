@@ -6806,6 +6806,80 @@ collections:
             label: Text
             name: '-69fd15c5'
             widget: text
+          - hint: 'Original text: Water Street Residences, key: -14897c7f'
+            label: Text
+            name: '-14897c7f'
+            widget: string
+          - hint: >-
+              Original text: Discover the beauty of coastal living at Water
+              Street Residences, Dickinson's newest community. Our builder
+              buy-down rate program offers , key: 3a7016c1
+            label: Text
+            name: 3a7016c1
+            widget: text
+          - hint: 'Original text: unbeatable rates as low as 5.75%, key: -2b8e48ea'
+            label: Text
+            name: '-2b8e48ea'
+            widget: string
+          - hint: >-
+              Original text:  for all move-in ready homes with an accepted
+              contract and loan approval application., key: 7b444700
+            label: Text
+            name: 7b444700
+            widget: string
+          - hint: 'Original text: PROPERTY OVERVIEW, key: 256aaf64'
+            label: Text
+            name: 256aaf64
+            widget: string
+          - hint: >-
+              Original text: Relax in style with flexible and functional floor
+              plans designed for coastal living. Water Street Residences is an
+              Airbnb-friendly community situated along Dickinson Bayou,
+              providing boat access all the way to Galveston Bay! Choose from
+              two seaside-inspired floor plans with fresh elevations, each
+              featuring balconies on every floor overlooking the picturesque
+              Dickinson Bayou. Enjoy open-concept living and kitchen areas with
+              Shaker-style cabinets, quartz countertops, and walk-in pantries.
+              Select from 3-4 bedroom options with 3 bathrooms, and enjoy quick
+              access from Highway 45., key: -e14cdff
+            label: Text
+            name: '-e14cdff'
+            widget: text
+          - hint: 'Original text: BUILD YOUR DREAM HOME, key: 53009337'
+            label: Text
+            name: '53009337'
+            widget: string
+          - hint: >-
+              Original text: Water Street also offers lots ready for your dream
+              home. Bring your own builder and design your waterfront haven.
+              Don't miss the opportunity to build your own boathouse along the
+              community boat dock., key: 43053c95
+            label: Text
+            name: 43053c95
+            widget: text
+          - hint: 'Original text: Explore the Water Street Residences, key: -dbdbf5b'
+            label: Text
+            name: '-dbdbf5b'
+            widget: string
+          - hint: >-
+              Original text:  and secure your dream home by the bay., key:
+              -22ae2f8b
+            label: Text
+            name: '-22ae2f8b'
+            widget: string
+          - hint: >-
+              Original text: 5.75% APR(5.812%) interest rate available on select
+              move-in ready homes in Dickinson on fully executed purchase
+              agreements. Rates are subject to change, and buyers must meet all
+              lender requirements and conditions from the preferred lender
+              partner. Certain rates and incentives can affect the loan amount.
+              Required financing through the preferred lender partner for rate
+              buy-down. 5.75% APR(5.812%) rate is not guaranteed and is based on
+              current market conditions and approved loan application., key:
+              784f4900
+            label: Text
+            name: 784f4900
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -9932,6 +10006,201 @@ collections:
                 required: false
           - label: Image
             name: '-251b973d'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 7d274aa8
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2910c3b7'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 3f1b1e11
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 2af5996b
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-36ee1461'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1af78879'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-6b0b8f6a'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3694a2ed'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '44e82211'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-6633d2cd'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2de4d08d'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 689b185f
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-576eebdd'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1ff2c7c1'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-65d2fd9'
             widget: object
             fields:
               - name: url

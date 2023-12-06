@@ -311,8 +311,8 @@ a {
 .h1.whitehall-details-h1 {
   letter-spacing: 5px;
   text-transform: uppercase;
-  font-family: century-gothic, sans-serif;
-  font-size: 2.25em;
+  font-family: freight-display-pro, sans-serif;
+  font-size: 3em;
   font-style: normal;
   font-weight: 500;
 }
@@ -5319,8 +5319,13 @@ a {
 .div-block-20 {
   grid-column-gap: 1rem;
   grid-row-gap: 1rem;
-  grid-template-rows: auto;
-  grid-template-columns: 1fr 1fr;
+  grid-template: ". ."
+                 ". ."
+                 ". ."
+                 "Area-3 ."
+                 ". ."
+                 "Area Area-2"
+                 / 1fr 1fr 1fr;
   grid-auto-columns: 1fr;
   margin-bottom: 1rem;
   display: grid;
@@ -5368,9 +5373,11 @@ a {
   font-weight: 500;
 }
 
-.whitehall-details-price {
+.intro {
+  text-align: left;
   margin-top: 1rem;
-  font-size: 1.25rem;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
 }
 
 .div-block-26 {
@@ -5429,6 +5436,7 @@ a {
 
 .div-block-29 {
   max-width: 1400px;
+  text-align: center;
   margin-left: auto;
   margin-right: auto;
   padding-left: 1rem;
@@ -6096,6 +6104,23 @@ a {
 .features-title-small {
   font-size: 24px;
   line-height: 32px;
+}
+
+.heading-6 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.italic-text {
+  color: #f16624;
+}
+
+.text-block-24 {
+  font-size: 12px;
+}
+
+.italic-text-2 {
+  font-size: 13px;
 }
 
 @media screen and (max-width: 991px) {
@@ -8177,6 +8202,39 @@ a {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
+#w-node-_1970e67a-0663-dda0-7ac2-59b246bc28af-87572604 {
+  align-self: center;
+}
+
+#w-node-_1970e67a-0663-dda0-7ac2-59b246bc28b0-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc28cb-87572604 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+#w-node-_5abb14d2-0474-5009-574d-941ac561937f-87572604 {
+  align-self: center;
+}
+
+#w-node-_5abb14d2-0474-5009-574d-941ac5619380-87572604 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+#w-node-_5abb14d2-0474-5009-574d-941ac5619382-87572604 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+  align-self: center;
+}
+
+#w-node-_1970e67a-0663-dda0-7ac2-59b246bc2985-87572604 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+#w-node-_1970e67a-0663-dda0-7ac2-59b246bc298b-87572604 {
+  grid-area: 1 / 2 / 3 / 3;
+}
+
+#w-node-_1970e67a-0663-dda0-7ac2-59b246bc298d-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc298f-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2991-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2993-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2995-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2997-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2999-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc299b-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc299d-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc299f-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc29a1-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc29a3-87572604, #w-node-e02afb36-e076-670b-5389-f77b1fcfd3dc-87572604 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
 @media screen and (max-width: 991px) {
   #w-node-_1ddc5a2b-b287-5a94-2546-d39886bd374f-006e3833 {
     grid-area: 2 / 1 / 3 / 2;
@@ -8442,6 +8500,15 @@ a {
     grid-row-start: 2;
     grid-column-start: 1;
   }
+
+  #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2985-87572604 {
+    grid-area: 1 / 1 / 2 / 3;
+  }
+
+  #w-node-_1970e67a-0663-dda0-7ac2-59b246bc298b-87572604 {
+    grid-row-start: 2;
+    grid-column-start: 1;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -8617,7 +8684,7 @@ a {
     order: -9999;
   }
 
-  #w-node-_01550211-e530-8d25-2b8c-50d50dd843ac-006e3927, #w-node-eb01de3d-6531-fc34-c127-ceef5199441d-006e3927 {
+  #w-node-_01550211-e530-8d25-2b8c-50d50dd843ac-006e3927, #w-node-eb01de3d-6531-fc34-c127-ceef5199441d-006e3927, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2985-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc298b-87572604 {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
 }
