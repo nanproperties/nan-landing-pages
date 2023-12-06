@@ -26,9 +26,9 @@ f_description: >-
   gym, hobby room, etc. Zoned to prestigious Travis Elementary.
 slug: 951-byrne
 f_agent-2: cms/agents/ana-salazar.md
-updated-on: '2023-07-11T13:59:33.102Z'
+updated-on: '2023-12-06T16:07:44.886Z'
 created-on: '2023-07-03T20:26:32.986Z'
-published-on: '2023-12-05T18:21:52.835Z'
+published-on: '2023-12-06T16:47:05.634Z'
 f_builder: cms/builders/eleviz-llc.md
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/64ad5f84ff08de38f942a9bc_byrne.jpeg
@@ -67,7 +67,7 @@ f_image-gallery:
   - url: https://development.nanproperties.com/assets/external/64ad5f7e585923fae3a8d8c1_byrne201.jpeg
     alt: null
 f_matterport-url: https://my.matterport.com/show/?m=rhGuNtzjKGy
-f_price-range: 1,830,000
+f_price-range: $1,599,000.00
 layout: '[new-homes].html'
 tags: new-homes
 ---

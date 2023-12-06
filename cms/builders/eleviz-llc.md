@@ -3,9 +3,9 @@ f_builder-slogan: Dream - Believe - Create
 f_other-project-1-title: 1343 Du Barry Lane
 title: ELEVIZ LLC
 slug: eleviz-llc
-updated-on: '2023-10-24T13:13:06.572Z'
+updated-on: '2023-12-06T16:44:14.992Z'
 created-on: '2023-07-10T19:01:01.128Z'
-published-on: '2023-12-05T18:21:52.835Z'
+published-on: '2023-12-06T16:47:05.634Z'
 f_builder-description: >-
   Corina’s personal and professional motto is “Dream, Believe, Create”. She
   operates her life and company from the core of dreaming boldly, believing in
@@ -93,10 +93,33 @@ f_other-project-2-images:
     alt: null
   - url: https://development.nanproperties.com/assets/external/64ad5f84ff08de38f942a9bc_byrne.jpeg
     alt: null
-f_other-project-2-title: '951 Byrne St '
+f_other-project-2-title: 951 Byrne St $1,599,000.00
 f_builder-logo:
   url: https://development.nanproperties.com/assets/external/6537c2dd9c517fed270661cb_dsc04687201.jpg
   alt: null
+f_other-project-3-images:
+  - url: https://development.nanproperties.com/assets/external/656f9a3e31f7ca79d345e248_render20exterior20rev201201.jpg
+    alt: null
+  - url: >-
+      https://development.nanproperties.com/assets/external/656f9a3e4321aa51f061697e_render20exterior20220rev201201.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/656f9a3fdc6a2153201d16af_7-20outdoor20swimming20pool.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/656f9a3fc50dc60c37e1adfd_8-pergola.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/656f9a3f4321aa51f0616a67_6-master20bedroom.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/656f9a3e22576510543121e6_5-master20bedroom.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/656f9a3fb3458b6d0cd4fc66_4-dining20area.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/656f9a3eb3458b6d0cd4fc55_2-kitchen.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/656f9a3e2257651054312206_3-dinning20area.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/656f9a3e0314c826ec2e22b0_1-living20room201.jpg
+    alt: null
+f_other-project-3-title: 1338 Candle Light $1,875,000.00
 layout: '[builders].html'
 tags: builders
 ---
