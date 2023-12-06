@@ -317,6 +317,13 @@ a {
   font-weight: 500;
 }
 
+.h1.whitehall-gallery-title {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
 .h1.whitehall-property-features-h1 {
   letter-spacing: 5px;
   text-transform: uppercase;
@@ -5325,7 +5332,7 @@ a {
                  "Area-3 ."
                  ". ."
                  "Area Area-2"
-                 / 1fr 1fr 1fr;
+                 / 1fr 1fr;
   grid-auto-columns: 1fr;
   margin-bottom: 1rem;
   display: grid;
@@ -5341,7 +5348,11 @@ a {
 }
 
 .div-block-22 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
   padding: 2rem;
+  display: flex;
 }
 
 .image-16, .div-block-23 {
@@ -6123,6 +6134,123 @@ a {
   font-size: 13px;
 }
 
+.gallery-overview {
+  background-color: #f5f7fa;
+  border-bottom: 1px solid #e4ebf3;
+  padding: 80px 30px;
+  position: relative;
+}
+
+.container-8 {
+  width: 100%;
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.gallery-wrapper {
+  grid-column-gap: 40px;
+  grid-row-gap: 40px;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  align-items: start;
+  display: grid;
+}
+
+.gallery-block {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.gallery-features-block {
+  margin-top: 16px;
+  margin-bottom: 24px;
+}
+
+.gallery-feature {
+  background-image: var(--image-5c2f0f5c);
+  background-position: 0%;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  margin-bottom: 8px;
+  padding-left: 30px;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.button-primary {
+  color: #fff;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background-color: #1a1b1f;
+  padding: 12px 25px;
+  font-size: 12px;
+  line-height: 20px;
+  transition: all .2s;
+}
+
+.button-primary:hover {
+  color: #fff;
+  background-color: #32343a;
+}
+
+.button-primary:active {
+  background-color: #43464d;
+}
+
+.gallery-grid {
+  grid-row-gap: 40px;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+
+.gallery-image {
+  width: 100%;
+}
+
+.features-metrics-2 {
+  background-color: #f5f7fa;
+  border-bottom: 1px solid #e4ebf3;
+  padding: 60px 30px;
+  position: relative;
+}
+
+.features-wrapper-2 {
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+}
+
+.features-block-2 {
+  text-align: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+}
+
+.features-title-2 {
+  margin-bottom: 8px;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48px;
+}
+
+.features-title-small-2 {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.grid-4 {
+  grid-template-rows: auto auto auto auto auto auto;
+  align-content: stretch;
+}
+
 @media screen and (max-width: 991px) {
   .h2.mx-page-h2 {
     text-align: center;
@@ -6424,6 +6552,18 @@ a {
   }
 
   .features-wrapper {
+    justify-content: space-between;
+  }
+
+  .container-8 {
+    max-width: 728px;
+  }
+
+  .gallery-wrapper {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .features-wrapper-2 {
     justify-content: space-between;
   }
 }
@@ -7005,6 +7145,20 @@ a {
   }
 
   .features-block {
+    width: 50%;
+    margin-bottom: 40px;
+  }
+
+  .gallery-overview, .features-metrics-2 {
+    padding: 60px 15px;
+  }
+
+  .features-wrapper-2 {
+    flex-wrap: wrap;
+    margin-bottom: -40px;
+  }
+
+  .features-block-2 {
     width: 50%;
     margin-bottom: 40px;
   }
@@ -7654,8 +7808,12 @@ a {
     display: grid;
   }
 
-  .container-7 {
+  .container-7, .container-8 {
     max-width: none;
+  }
+
+  .gallery-wrapper {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -8223,15 +8381,7 @@ a {
   align-self: center;
 }
 
-#w-node-_1970e67a-0663-dda0-7ac2-59b246bc2985-87572604 {
-  grid-area: span 1 / span 1 / span 1 / span 1;
-}
-
-#w-node-_1970e67a-0663-dda0-7ac2-59b246bc298b-87572604 {
-  grid-area: 1 / 2 / 3 / 3;
-}
-
-#w-node-_1970e67a-0663-dda0-7ac2-59b246bc298d-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc298f-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2991-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2993-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2995-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2997-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2999-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc299b-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc299d-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc299f-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc29a1-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc29a3-87572604, #w-node-e02afb36-e076-670b-5389-f77b1fcfd3dc-87572604 {
+#w-node-_60609efe-4e9b-17fc-453f-9e6df31b62e1-87572604, #w-node-c25a17e8-1cdd-3c1c-1122-bf22adb68e67-87572604, #w-node-_0e351d0a-4e2a-42d6-9b47-5ae237e9dd6b-87572604, #w-node-_28d726cc-6a2b-5072-f5c0-7825dc53dfcc-87572604 {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
@@ -8500,15 +8650,6 @@ a {
     grid-row-start: 2;
     grid-column-start: 1;
   }
-
-  #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2985-87572604 {
-    grid-area: 1 / 1 / 2 / 3;
-  }
-
-  #w-node-_1970e67a-0663-dda0-7ac2-59b246bc298b-87572604 {
-    grid-row-start: 2;
-    grid-column-start: 1;
-  }
 }
 
 @media screen and (max-width: 479px) {
@@ -8684,7 +8825,7 @@ a {
     order: -9999;
   }
 
-  #w-node-_01550211-e530-8d25-2b8c-50d50dd843ac-006e3927, #w-node-eb01de3d-6531-fc34-c127-ceef5199441d-006e3927, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc2985-87572604, #w-node-_1970e67a-0663-dda0-7ac2-59b246bc298b-87572604 {
+  #w-node-_01550211-e530-8d25-2b8c-50d50dd843ac-006e3927, #w-node-eb01de3d-6531-fc34-c127-ceef5199441d-006e3927 {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
 }
