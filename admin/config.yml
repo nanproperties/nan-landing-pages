@@ -6880,6 +6880,148 @@ collections:
             label: Text
             name: 784f4900
             widget: text
+          - hint: >-
+              Original text: Partnering With Nan And Company Properties, key:
+              518b0c58
+            label: Text
+            name: 518b0c58
+            widget: string
+          - hint: >-
+              Original text: We provide builders with a wide range of services
+              to help them push their homes to the front-end of the real estate
+              market and increase homebuyer visibility. With our innovative
+              services, we can effectively showcase all the amazing things your
+              homes have to offer buyers., key: -7343f769
+            label: Text
+            name: '-7343f769'
+            widget: text
+          - hint: >-
+              Original text: The Power Of Christies International Real Estate,
+              key: -555e2909
+            label: Text
+            name: '-555e2909'
+            widget: string
+          - hint: >-
+              Original text: Reach the worlds most affluent collectors of fine
+              art & exclusive properties, key: 293efd9e
+            label: Text
+            name: 293efd9e
+            widget: string
+          - hint: >-
+              Original text: Exclusive local and international eventsLocal
+              expertise, tailored service, credibility, key: 3f81d444
+            label: Text
+            name: 3f81d444
+            widget: string
+          - hint: 'Original text: Connection to , key: fe4f8e3'
+            label: Text
+            name: fe4f8e3
+            widget: string
+          - hint: >-
+              Original text:  international affiliated brokerages, , key:
+              62a979f8
+            label: Text
+            name: 62a979f8
+            widget: string
+          - hint: 'Original text: 1,200, key: 2c741b7'
+            label: Text
+            name: 2c741b7
+            widget: string
+          - hint: 'Original text:  offices, , key: 31d50cb'
+            label: Text
+            name: 31d50cb
+            widget: string
+          - hint: 'Original text: 32,000, key: 59dc7963'
+            label: Text
+            name: 59dc7963
+            widget: string
+          - hint: 'Original text:  agents and , key: -75552825'
+            label: Text
+            name: '-75552825'
+            widget: string
+          - hint: 'Original text: 46, key: 682'
+            label: Text
+            name: '682'
+            widget: string
+          - hint: 'Original text:  countries, key: -2632416c'
+            label: Text
+            name: '-2632416c'
+            widget: string
+          - hint: >-
+              Original text: Professional Video Production And Photography, key:
+              -c17cf15
+            label: Text
+            name: '-c17cf15'
+            widget: string
+          - hint: 'Original text: Marketing Efforts, key: 5fedf4cd'
+            label: Text
+            name: 5fedf4cd
+            widget: string
+          - hint: 'Original text: FEATURED ON, key: 69e21711'
+            label: Text
+            name: '69e21711'
+            widget: string
+          - hint: >-
+              Original text: We feature our builders on Nan and Company
+              Properties website, HAR, Zillow, Trulia and hundreds of other
+              websites., key: -1eb3ba68
+            label: Text
+            name: '-1eb3ba68'
+            widget: text
+          - hint: 'Original text: LANDING PAGE, key: 1fc8a718'
+            label: Text
+            name: 1fc8a718
+            widget: string
+          - hint: >-
+              Original text: Each builder page is fully customized with high
+              resolution photography, logos, featured properties, custom videos
+              and more., key: -73035e67
+            label: Text
+            name: '-73035e67'
+            widget: text
+          - hint: 'Original text: BRANDING, key: 2d22bafb'
+            label: Text
+            name: 2d22bafb
+            widget: string
+          - hint: >-
+              Original text: Not only do we brand ourselves, we also brand our
+              builders by including them on all of our marketing collateral.,
+              key: -104a547
+            label: Text
+            name: '-104a547'
+            widget: text
+          - hint: 'Original text: RENDERINGS, key: 641fd767'
+            label: Text
+            name: 641fd767
+            widget: string
+          - hint: >-
+              Original text: We display professional quality renderings to give
+              clients a high-definition visual of what the properties will look
+              like upon completion., key: 5ba6cee5
+            label: Text
+            name: 5ba6cee5
+            widget: text
+          - hint: 'Original text: Full Name, key: ff41d7c'
+            label: Text
+            name: ff41d7c
+            widget: string
+          - hint: >-
+              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
+              elit., key: 5cb58f10
+            label: Text
+            name: 5cb58f10
+            widget: string
+          - hint: 'Original text: REPORTING, key: -6ef729f2'
+            label: Text
+            name: '-6ef729f2'
+            widget: string
+          - hint: >-
+              Original text: Detailed reporting is provided on all traffic and
+              leads on the properties, which allows clients to view the online
+              exposure from all of our marketing efforts., key: -6814a8c6
+            label: Text
+            name: '-6814a8c6'
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -10188,6 +10330,45 @@ collections:
                 required: false
           - label: Image
             name: '-1ff2c7c1'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 32c3a7e2
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 33775b43
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2509427f'
             widget: object
             fields:
               - name: url
