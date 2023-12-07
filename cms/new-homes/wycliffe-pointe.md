@@ -26,9 +26,9 @@ f_featured-image:
   url: https://development.nanproperties.com/assets/external/652405708ecac2db1b2ab7f9_122820wycliffe20front202202.jpg
   alt: null
 f_agent-2: cms/agents/nancy-ramos.md
-updated-on: '2023-10-09T13:57:57.285Z'
+updated-on: '2023-12-07T16:04:13.146Z'
 created-on: '2023-10-09T13:57:57.285Z'
-published-on: '2023-12-05T18:21:52.835Z'
+published-on: '2023-12-07T16:45:11.163Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---
