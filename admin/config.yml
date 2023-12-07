@@ -7001,16 +7001,6 @@ collections:
             label: Text
             name: 5ba6cee5
             widget: text
-          - hint: 'Original text: Full Name, key: ff41d7c'
-            label: Text
-            name: ff41d7c
-            widget: string
-          - hint: >-
-              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit., key: 5cb58f10
-            label: Text
-            name: 5cb58f10
-            widget: string
           - hint: 'Original text: REPORTING, key: -6ef729f2'
             label: Text
             name: '-6ef729f2'
@@ -7022,6 +7012,97 @@ collections:
             label: Text
             name: '-6814a8c6'
             widget: text
+          - hint: 'Original text: PRINT, key: 48dba8d'
+            label: Text
+            name: 48dba8d
+            widget: string
+          - hint: >-
+              Original text: Print marketing efforts include the Christie's
+              International Real Estate magazine, brochures, flyers, postcards,
+              feature sheets and partnered sponsored print pieces., key:
+              -224211ce
+            label: Text
+            name: '-224211ce'
+            widget: text
+          - hint: 'Original text: MODEL STAGING, key: 3bee2a04'
+            label: Text
+            name: 3bee2a04
+            widget: string
+          - hint: >-
+              Original text: Home staging is critical for any new development.
+              Professional staging contacts are provided and enhances a
+              property's strengths and minimizes its weak points., key: 3e8ef67c
+            label: Text
+            name: 3e8ef67c
+            widget: text
+          - hint: 'Original text: DIGITAL, key: -723b8608'
+            label: Text
+            name: '-723b8608'
+            widget: string
+          - hint: >-
+              Original text: Digital marketing efforts include email blasts,
+              social media posts, internal digital ads and partner sponsored ads
+              reaching thousands of different viewers on all platforms., key:
+              -5485917a
+            label: Text
+            name: '-5485917a'
+            widget: text
+          - hint: 'Original text: Our Success Story, key: 48feac64'
+            label: Text
+            name: 48feac64
+            widget: string
+          - hint: 'Original text: Over $1,000,000, key: -2fbdfebf'
+            label: Text
+            name: '-2fbdfebf'
+            widget: string
+          - hint: 'Original text: Al Ross Luxury Homes, key: -77bb4e31'
+            label: Text
+            name: '-77bb4e31'
+            widget: string
+          - hint: 'Original text: Blackstone Builders, key: -3fa420ae'
+            label: Text
+            name: '-3fa420ae'
+            widget: string
+          - hint: 'Original text: Montage Builders, key: 5a1de161'
+            label: Text
+            name: 5a1de161
+            widget: string
+          - hint: 'Original text: Carnegie Custom Homes, key: 40f189ad'
+            label: Text
+            name: 40f189ad
+            widget: string
+          - hint: 'Original text: $300,000 - $1,000,000, key: 4e716595'
+            label: Text
+            name: '4e716595'
+            widget: string
+          - hint: 'Original text: Chateau at The Bastrop, key: 3bbc82b6'
+            label: Text
+            name: 3bbc82b6
+            widget: string
+          - hint: 'Original text: Chapel Heights, key: -724b7bf9'
+            label: Text
+            name: '-724b7bf9'
+            widget: string
+          - hint: 'Original text: Upland Preserve, key: -284229da'
+            label: Text
+            name: '-284229da'
+            widget: string
+          - hint: 'Original text: Fulton Station, key: aa3d1ca'
+            label: Text
+            name: aa3d1ca
+            widget: string
+          - hint: 'Original text: 7twenty Berry, key: 549cddbe'
+            label: Text
+            name: 549cddbe
+            widget: string
+          - hint: 'Original text: Beyond Metronome, key: 1e408ae1'
+            label: Text
+            name: 1e408ae1
+            widget: string
+          - hint: 'Original text: Del Norte Heights, key: -60c158a7'
+            label: Text
+            name: '-60c158a7'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -7537,6 +7618,12 @@ collections:
               key: -20eacdb4
             label: Link
             name: '-20eacdb4'
+            widget: string
+          - hint: >-
+              Original link: https://www.nanproperties.com/luxury, key:
+              -2d40887f
+            label: Link
+            name: '-2d40887f'
             widget: string
       - label: Images
         name: images
@@ -10355,7 +10442,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 33775b43
+            name: '-a4a883d'
             widget: object
             fields:
               - name: url
@@ -10368,7 +10455,46 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-2509427f'
+            name: 7851e41e
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 6dbb25c7
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3d83ef41'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-5a56bd0'
             widget: object
             fields:
               - name: url
