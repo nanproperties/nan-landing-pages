@@ -2677,126 +2677,6 @@ collections:
             label: Text
             name: '-6d7a86a2'
             widget: string
-          - hint: >-
-              Original text: Selling Locally, Marketing Internationally, key:
-              48a6545
-            label: Text
-            name: 48a6545
-            widget: string
-          - hint: >-
-              Original text: Christie's International Real Estate connects
-              buyers and sellers of the world's most important properties. Our
-              real estate company is driven by the global span and expertise of
-              our Affiliate network, which extends to more than 138 affiliates
-              across 940 offices in 48 countries and a combined annual sales
-              volume of approximately $115 billion in 2016. Our unique
-              international perspective on the worlds of art and luxury,
-              together with our unparalleled service, has made Christie's
-              International Real Estate the global authority in the marketing of
-              distinctive properties., key: 90d89df
-            label: Text
-            name: 90d89df
-            widget: text
-          - hint: >-
-              Original text: Christie's International Global Network, key:
-              -57b094c2
-            label: Text
-            name: '-57b094c2'
-            widget: string
-          - hint: 'Original text: The Power of a Global Network, key: -458c6751'
-            label: Text
-            name: '-458c6751'
-            widget: string
-          - hint: >-
-              Original text: The World's Leading Luxury Real Estate Brand, key:
-              6fd2814d
-            label: Text
-            name: 6fd2814d
-            widget: string
-          - hint: >-
-              Original text: Supported by the esteemed art business, Christie's
-              International Real Estate is a global network offering exclusive
-              home and luxury real estate services to buyers and sellers
-              worldwide., key: -23090c8
-            label: Text
-            name: '-23090c8'
-            widget: text
-          - hint: 'Original text: Unprecedented Global Reach, key: -2b3bcafc'
-            label: Text
-            name: '-2b3bcafc'
-            widget: string
-          - hint: >-
-              Original text: Our real estate company is driven by the global
-              span and expertise of our Affiliate network, which extends to more
-              than 138 Affiliated brokerages in 46 countries., key: -7f7c308c
-            label: Text
-            name: '-7f7c308c'
-            widget: text
-          - hint: 'Original text: Exclusively Luxury, key: 43d36062'
-            label: Text
-            name: 43d36062
-            widget: string
-          - hint: >-
-              Original text: The Christie's International Real Estate network
-              receives more than 70 million online visits each year from
-              discerning homebuyers worldwide., key: -6e69c292
-            label: Text
-            name: '-6e69c292'
-            widget: text
-          - hint: >-
-              Original text: Local Connections, International Recognition, key:
-              -3b4e71ef
-            label: Text
-            name: '-3b4e71ef'
-            widget: string
-          - hint: >-
-              Original text: Admittance to our network is by invitation only to
-              real estate brokerages that demonstrate a proven record of success
-              in luxury property sales., key: 2111d5c7
-            label: Text
-            name: 2111d5c7
-            widget: text
-          - hint: >-
-              Original text: Client Service, Integrity, Expertise, Discreet,
-              key: 2ab0c24f
-            label: Text
-            name: 2ab0c24f
-            widget: string
-          - hint: >-
-              Original text: More than US $115 billion of residential real
-              estate was sold by Affiliated brokerages in 2016., key: 4d468b25
-            label: Text
-            name: 4d468b25
-            widget: text
-          - hint: 'Original text: Proven Record of Residential Success, key: 3194dbf'
-            label: Text
-            name: 3194dbf
-            widget: string
-          - hint: >-
-              Original text: Tailored for real estate priced at US $1 million
-              and above, our finely tuned suite of programs provide a
-              world-class showcase for distinguished homes., key: 6eaa141a
-            label: Text
-            name: 6eaa141a
-            widget: text
-          - hint: 'Original text: Our Christie''s Network, key: -4b0c3ff9'
-            label: Text
-            name: '-4b0c3ff9'
-            widget: string
-          - hint: >-
-              Original text: Click here to browse a full list of our worldwide
-              affiliate network., key: 2c0f26f2
-            label: Text
-            name: 2c0f26f2
-            widget: string
-          - hint: "Original text: VIEW\_ALL\_AFFILIATES, key: -37600760"
-            label: Text
-            name: '-37600760'
-            widget: string
-          - hint: 'Original text: Apply Below, key: -659eef41'
-            label: Text
-            name: '-659eef41'
-            widget: string
           - hint: 'Original text: We Are The , key: 2037314d'
             label: Text
             name: 2037314d
@@ -2893,6 +2773,10 @@ collections:
           - hint: 'Original text: Our global network, key: -6f2705db'
             label: Text
             name: '-6f2705db'
+            widget: string
+          - hint: 'Original text: The Power of a Global Network, key: -458c6751'
+            label: Text
+            name: '-458c6751'
             widget: string
           - hint: >-
               Original text: We leverage the power of two exclusive
@@ -3064,6 +2948,122 @@ collections:
           - hint: 'Original text: Social Media, key: 3eb4f971'
             label: Text
             name: 3eb4f971
+            widget: string
+          - hint: 'Original text: Apply Below, key: -659eef41'
+            label: Text
+            name: '-659eef41'
+            widget: string
+          - hint: >-
+              Original text: Selling Locally, Marketing Internationally, key:
+              48a6545
+            label: Text
+            name: 48a6545
+            widget: string
+          - hint: >-
+              Original text: Christie's International Real Estate connects
+              buyers and sellers of the world's most important properties. Our
+              real estate company is driven by the global span and expertise of
+              our Affiliate network, which extends to more than 138 affiliates
+              across 940 offices in 48 countries and a combined annual sales
+              volume of approximately $115 billion in 2016. Our unique
+              international perspective on the worlds of art and luxury,
+              together with our unparalleled service, has made Christie's
+              International Real Estate the global authority in the marketing of
+              distinctive properties., key: 90d89df
+            label: Text
+            name: 90d89df
+            widget: text
+          - hint: >-
+              Original text: Christie's International Global Network, key:
+              -57b094c2
+            label: Text
+            name: '-57b094c2'
+            widget: string
+          - hint: >-
+              Original text: The World's Leading Luxury Real Estate Brand, key:
+              6fd2814d
+            label: Text
+            name: 6fd2814d
+            widget: string
+          - hint: >-
+              Original text: Supported by the esteemed art business, Christie's
+              International Real Estate is a global network offering exclusive
+              home and luxury real estate services to buyers and sellers
+              worldwide., key: -23090c8
+            label: Text
+            name: '-23090c8'
+            widget: text
+          - hint: 'Original text: Unprecedented Global Reach, key: -2b3bcafc'
+            label: Text
+            name: '-2b3bcafc'
+            widget: string
+          - hint: >-
+              Original text: Our real estate company is driven by the global
+              span and expertise of our Affiliate network, which extends to more
+              than 138 Affiliated brokerages in 46 countries., key: -7f7c308c
+            label: Text
+            name: '-7f7c308c'
+            widget: text
+          - hint: 'Original text: Exclusively Luxury, key: 43d36062'
+            label: Text
+            name: 43d36062
+            widget: string
+          - hint: >-
+              Original text: The Christie's International Real Estate network
+              receives more than 70 million online visits each year from
+              discerning homebuyers worldwide., key: -6e69c292
+            label: Text
+            name: '-6e69c292'
+            widget: text
+          - hint: >-
+              Original text: Local Connections, International Recognition, key:
+              -3b4e71ef
+            label: Text
+            name: '-3b4e71ef'
+            widget: string
+          - hint: >-
+              Original text: Admittance to our network is by invitation only to
+              real estate brokerages that demonstrate a proven record of success
+              in luxury property sales., key: 2111d5c7
+            label: Text
+            name: 2111d5c7
+            widget: text
+          - hint: >-
+              Original text: Client Service, Integrity, Expertise, Discreet,
+              key: 2ab0c24f
+            label: Text
+            name: 2ab0c24f
+            widget: string
+          - hint: >-
+              Original text: More than US $115 billion of residential real
+              estate was sold by Affiliated brokerages in 2016., key: 4d468b25
+            label: Text
+            name: 4d468b25
+            widget: text
+          - hint: 'Original text: Proven Record of Residential Success, key: 3194dbf'
+            label: Text
+            name: 3194dbf
+            widget: string
+          - hint: >-
+              Original text: Tailored for real estate priced at US $1 million
+              and above, our finely tuned suite of programs provide a
+              world-class showcase for distinguished homes., key: 6eaa141a
+            label: Text
+            name: 6eaa141a
+            widget: text
+          - hint: 'Original text: Our Christie''s Network, key: -4b0c3ff9'
+            label: Text
+            name: '-4b0c3ff9'
+            widget: string
+          - hint: >-
+              Original text: Click here to browse a full list of our worldwide
+              affiliate network., key: 2c0f26f2
+            label: Text
+            name: 2c0f26f2
+            widget: string
+          - hint: "Original text: VIEW\_ALL\_AFFILIATES, key: -37600760"
+            label: Text
+            name: '-37600760'
             widget: string
           - hint: 'Original text: Join Houston''s, key: 162aaf84'
             label: Text
@@ -7152,12 +7152,6 @@ collections:
             name: '-41a1c015'
             widget: string
           - hint: >-
-              Original link: https://www.nanproperties.com/affiliates, key:
-              -137530c6
-            label: Link
-            name: '-137530c6'
-            widget: string
-          - hint: >-
               Original link: https://www.nanproperties.com/aboutchristies, key:
               22be2081
             label: Link
@@ -7224,6 +7218,12 @@ collections:
               650240ca
             label: Link
             name: 650240ca
+            widget: string
+          - hint: >-
+              Original link: https://www.nanproperties.com/affiliates, key:
+              -137530c6
+            label: Link
+            name: '-137530c6'
             widget: string
           - hint: >-
               Original link: https://www.nanproperties.com/about-christies, key:
@@ -7978,6 +7978,45 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: '-20a2d2ad'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-625fd7b6'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-483b1332'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: 790d30af
             widget: object
             fields:
@@ -8083,45 +8122,6 @@ collections:
                 required: false
           - label: Image
             name: '-368011d7'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-20a2d2ad'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-625fd7b6'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-483b1332'
             widget: object
             fields:
               - name: url
