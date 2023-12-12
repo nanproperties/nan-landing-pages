@@ -12,53 +12,41 @@ title: Urban Space
 f_bedrooms: '3'
 slug: urban-space
 f_image-gallery:
-  - url: >-
-      https://development.nanproperties.com/assets/external/6230ac9885778405fa2f8056_conjunto20paul20quinn204201201.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b30caa606c8a25604d7_dsc00717-2.jpg
     alt: null
-  - url: >-
-      https://development.nanproperties.com/assets/external/6230acce074fdde6a2f43d56_110620j20paul20quinn20st204201201201202.jpg
+  - url: https://development.nanproperties.com/assets/external/65788ca57611234fe0b3e57b_dsc00716-2.jpg
     alt: null
-  - url: >-
-      https://development.nanproperties.com/assets/external/6230ad2b1ba0583c096754fc_110620h20paul20quinn20st204201201201202.jpg
+  - url: https://development.nanproperties.com/assets/external/65788ca7ea278a154aeb5969_dji_0099.jpg
     alt: null
-  - url: >-
-      https://development.nanproperties.com/assets/external/6230ad7a059c24821b2ce2ab_110620g20paul20quinn20st204201202.jpg
-    alt: null
-  - url: >-
-      https://development.nanproperties.com/assets/external/6230addd4e5584493eb9c9d2_110620f20paul20quinn20st204201201201201.jpg
-    alt: null
-  - url: >-
-      https://development.nanproperties.com/assets/external/6230ae1b1ba05812dc67c42e_110220i2020paul20quinn20st204201201201202.jpg
-    alt: null
-  - url: >-
-      https://development.nanproperties.com/assets/external/6230ae430113033f6ceb5dc0_110220h20paul20quinn20st204201201201201.jpg
-    alt: null
-  - url: >-
-      https://development.nanproperties.com/assets/external/6230ae664e55842a82ba364f_110220g20paul20quinn20st204201201201201.jpg
-    alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0b003f2ebfd4933c46b2_dji_0085.jpg
-    alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0b0080d53a57cbdb8775_dji_0089.jpg
-    alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0b013fcff271b0170164_dji_0090.jpg
-    alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0b03c43441d78b1fbc48_dji_0091.jpg
-    alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0b0486fa67f30336d4bc_dji_0093.jpg
+  - url: https://development.nanproperties.com/assets/external/65788ca70612fc318d67fadc_dji_0098.jpg
     alt: null
   - url: https://development.nanproperties.com/assets/external/62fc0b2b3f2ebf4a443c7bb4_dji_0097.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0b2e80d53a3c66db91c9_dsc00714-2.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b0486fa67f30336d4bc_dji_0093.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0b2fbd311bb7ce48b8e4_dsc00715-2.jpg
+  - url: https://development.nanproperties.com/assets/external/62fc0b03c43441d78b1fbc48_dji_0091.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/62fc0b30caa606c8a25604d7_dsc00717-2.jpg
+  - url: https://development.nanproperties.com/assets/external/65788ca51ab5c861ed9c522a_dji_0088.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/65788ca588b2f9d743a473fd_dji_0086.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/65788ca5457f22016781b0f3_dji_0087.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/62fc0b003f2ebfd4933c46b2_dji_0085.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/65788ca6e4192d9e514a6e49_dji_0084.jpg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/65788c9f8d2607ba15c71072_3845.jpeg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/65788c9f242d2889d3840f4f_3857.jpeg
+    alt: null
+  - url: https://development.nanproperties.com/assets/external/65788c9f7997c58751b2edb8_3849.jpeg
     alt: null
 f_agent-2: cms/agents/nancy-ramos.md
 f_builder: cms/builders/new-era-living.md
-updated-on: '2022-08-16T21:25:08.982Z'
+updated-on: '2023-12-12T16:40:05.187Z'
 created-on: '2022-02-22T16:08:50.874Z'
-published-on: '2023-12-05T18:21:52.835Z'
+published-on: '2023-12-12T16:40:15.338Z'
 f_description: >-
   Urban Space is a charming new gated community located at 1002 G Paul Quinn St.
   Situated in the highly coveted Tidwell area, Urban Space is comprised of seven
