@@ -76,6 +76,13 @@ collections:
             name: twitter:creator
             widget: string
             required: false
+          - label: Twitter Image
+            name: twitter:image
+            widget: image
+            required: false
+            media_library:
+              config:
+                multiple: false
           - label: Additional HTML tags
             name: additional_tags
             widget: text
@@ -2949,10 +2956,6 @@ collections:
             label: Text
             name: 3eb4f971
             widget: string
-          - hint: 'Original text: Apply Below, key: -659eef41'
-            label: Text
-            name: '-659eef41'
-            widget: string
           - hint: >-
               Original text: Selling Locally, Marketing Internationally, key:
               48a6545
@@ -3064,6 +3067,10 @@ collections:
           - hint: "Original text: VIEW\_ALL\_AFFILIATES, key: -37600760"
             label: Text
             name: '-37600760'
+            widget: string
+          - hint: 'Original text: Apply Below, key: -659eef41'
+            label: Text
+            name: '-659eef41'
             widget: string
           - hint: 'Original text: Join Houston''s, key: 162aaf84'
             label: Text
@@ -6887,9 +6894,9 @@ collections:
             label: Text
             name: '-16cd7e5a'
             widget: string
-          - hint: 'Original text: $495,000, key: -414dd3d0'
+          - hint: 'Original text: $505,000, key: -1bc33626'
             label: Text
-            name: '-414dd3d0'
+            name: '-1bc33626'
             widget: string
           - hint: >-
               Original text: 5.75% APR(5.812%) interest rate available on select
@@ -9811,7 +9818,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: bbed1c1
+            name: '-346130ee'
             widget: object
             fields:
               - name: url
@@ -9824,7 +9831,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-740405f5'
+            name: '-344501ec'
             widget: object
             fields:
               - name: url
@@ -9837,7 +9844,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-48d2fae3'
+            name: '-3453196d'
             widget: object
             fields:
               - name: url
@@ -9850,7 +9857,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-1bbf576e'
+            name: '-3436ea6b'
             widget: object
             fields:
               - name: url
@@ -10436,6 +10443,45 @@ collections:
                 required: false
           - label: Image
             name: 7851e41e
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 110dc502
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 388576ee
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1c4e69bc'
             widget: object
             fields:
               - name: url
