@@ -8,9 +8,9 @@ title: Lucky Lane Parkview
 slug: lucky-lane-parkview
 f_agent-2: cms/agents/geron-fuller.md
 f_builder: cms/builders/rami-reichman.md
-updated-on: '2023-12-21T16:48:51.732Z'
+updated-on: '2023-12-22T16:05:16.718Z'
 created-on: '2023-12-06T18:04:51.544Z'
-published-on: '2023-12-21T16:49:00.879Z'
+published-on: '2023-12-22T16:07:28.106Z'
 f_bathrooms: '2'
 f_bedrooms: '3'
 f_city: 'Houston '
