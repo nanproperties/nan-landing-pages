@@ -7456,6 +7456,20 @@ a {
   margin-bottom: 24px;
 }
 
+.columns-4, .columns-5, .columns-6, .columns-7 {
+  margin-top: 20px;
+}
+
+.heading-13 {
+  text-align: center;
+  font-family: century-gothic, sans-serif;
+}
+
+.text-block-31 {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
 @media screen and (min-width: 1440px) {
   .h3.section-title.left {
     font-family: century-gothic, sans-serif;
@@ -10372,7 +10386,7 @@ a {
     order: 9999;
   }
 
-  #w-node-c21b8145-1887-6eec-abf7-249a04cd2d14-006e391e, #w-node-d64dca7f-82fa-12ce-5f77-fd00cd00aa03-006e391e, #w-node-_046ac842-27ce-43cc-e8f4-69a973aff1cc-006e391e {
+  #w-node-c21b8145-1887-6eec-abf7-249a04cd2d14-006e391e {
     order: -9999;
   }
 
