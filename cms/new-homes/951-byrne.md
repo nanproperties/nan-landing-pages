@@ -1,6 +1,6 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77009
@@ -26,9 +26,9 @@ f_description: >-
   gym, hobby room, etc. Zoned to prestigious Travis Elementary.
 slug: 951-byrne
 f_agent-2: cms/agents/ana-salazar.md
-updated-on: '2023-12-06T19:08:11.131Z'
+updated-on: '2024-01-05T15:30:52.045Z'
 created-on: '2023-07-03T20:26:32.986Z'
-published-on: '2023-12-06T19:17:29.519Z'
+published-on: '2024-01-05T15:40:22.686Z'
 f_builder: cms/builders/eleviz-llc.md
 f_featured-image:
   url: https://development.nanproperties.com/assets/external/64ad5f84ff08de38f942a9bc_byrne.jpeg

@@ -1,6 +1,6 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77018
@@ -40,9 +40,9 @@ f_image-gallery:
   - url: https://development.nanproperties.com/assets/external/656f9a3e31f7ca79d345e248_render20exterior20rev201201.jpg
     alt: null
 f_agent-2: cms/agents/ana-salazar.md
-updated-on: '2023-12-06T19:13:26.497Z'
+updated-on: '2024-01-05T15:30:33.491Z'
 created-on: '2023-12-06T18:13:46.943Z'
-published-on: '2023-12-06T19:17:29.519Z'
+published-on: '2024-01-05T15:40:22.686Z'
 f_builder: cms/builders/eleviz-llc.md
 layout: '[new-homes].html'
 tags: new-homes
