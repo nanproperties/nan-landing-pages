@@ -46,7 +46,7 @@ text-transform:none;
       </div>
       <div class="section development-content-section">
         <aside id="w-node-c0dd8de1-28c2-2c6a-d80a-5af282d04e57-006e3873" class="aside development-aside">
-          <div class="aside-headshot-wrapper">{%- assign agentsOfCommercial-listings = f_featured-agent | resolveReference -%}<img src="{{ agentsOfCommercial-listings.data.f_headshot.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;24vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" alt="{{ agentsOfCommercial-listings.data.title }}" class="image-3"></div>
+          <div class="aside-headshot-wrapper">{%- assign agentsOfCommercial-listings = f_featured-agent | resolveReference -%}<img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;24vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" alt="{{ agentsOfCommercial-listings.data.title }}" src="{{ agentsOfCommercial-listings.data.f_headshot.url }}" class="image-3"></div>
           <div class="aside-name-wrapper">
             {%- assign agentsOfCommercial-listings = f_featured-agent | resolveReference -%}<div class="aside-agent-name">{{ agentsOfCommercial-listings.data.title }}</div>
             <div class="aside-agent-title">{{ agentsOfCommercial-listings.data.f_title }}</div>
@@ -65,7 +65,7 @@ text-transform:none;
               {%- unless f_headline -%}<h6 class="development-price">{{ f_price }}</h6>{%- endunless -%}
               {%- unless f_headline -%}<h2 class="h4 development-description-title">{{ title }}</h2>{%- endunless -%}
             </div>
-            <div class="w-richtext">{{ content | markdown }}</div>
+            <div class="w-richtext"></div>
           </div>
           <div id="w-node-c0dd8de1-28c2-2c6a-d80a-5af282d04e96-006e3873" class="development-details-map-wrapper">
             <div class="w-embed w-iframe"><iframe allowfullscreen="" frameborder="0" height="300" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBqJ_tTRZkle-Wnn9N7I7ahuz9DhLfeZag&amp;q={{ title }},+{{ f_city }}" style="border:0" width="100%"></iframe></div>

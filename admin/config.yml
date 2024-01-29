@@ -14,10 +14,10 @@ collections:
     create: false
     delete: false
     slug: '{{slug}}'
-    editor:
+    editor: &ref_0
       preview: false
     folder: cms/pages
-    fields:
+    fields: &ref_1
       - label: Title
         name: title
         widget: string
@@ -28,7 +28,7 @@ collections:
         widget: hidden
         name: layout
         default: '{{slug}}.html'
-      - &ref_0
+      - &ref_2
         label: Seo
         name: seo
         widget: object
@@ -87,6 +87,66 @@ collections:
             name: additional_tags
             widget: text
             required: false
+  - name: pages-landing-pages
+    label: Pages landing-pages
+    identifier_field: title
+    extension: md
+    create: false
+    delete: false
+    slug: '{{slug}}'
+    editor: *ref_0
+    folder: cms/pages/landing-pages
+    fields: *ref_1
+  - name: pages-careers
+    label: Pages careers
+    identifier_field: title
+    extension: md
+    create: false
+    delete: false
+    slug: '{{slug}}'
+    editor: *ref_0
+    folder: cms/pages/careers
+    fields: *ref_1
+  - name: pages-contests
+    label: Pages contests
+    identifier_field: title
+    extension: md
+    create: false
+    delete: false
+    slug: '{{slug}}'
+    editor: *ref_0
+    folder: cms/pages/contests
+    fields: *ref_1
+  - name: pages-pardot-landing-pages
+    label: Pages pardot-landing-pages
+    identifier_field: title
+    extension: md
+    create: false
+    delete: false
+    slug: '{{slug}}'
+    editor: *ref_0
+    folder: cms/pages/pardot-landing-pages
+    fields: *ref_1
+  - name: pages-developer-services
+    label: Pages developer-services
+    identifier_field: title
+    extension: md
+    create: false
+    delete: false
+    slug: '{{slug}}'
+    editor: *ref_0
+    folder: cms/pages/developer-services
+    fields: *ref_1
+  - name: pages-new-homes-folder
+    label: Pages new-homes-folder
+    identifier_field: title
+    extension: md
+    create: false
+    delete: false
+    slug: '{{slug}}'
+    editor: *ref_0
+    folder: cms/pages/new-homes-folder
+    fields: *ref_1
   - name: affiliate_regions
     label: Affiliate Regions
     folder: cms/affiliate-regions
@@ -154,7 +214,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: agents
     label: Agents
     folder: cms/agents
@@ -307,7 +367,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: agent_featured_listings
     label: Agent Featured Listings
     folder: cms/agent-featured-listings
@@ -408,7 +468,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: agent_landing_pages_pardot
     label: Agent Landing Pages (Pardot)s
     folder: cms/agent-landing-pages-pardot
@@ -596,7 +656,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: all_affiliates
     label: All Affiliates
     folder: cms/all-affiliates
@@ -706,7 +766,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: builders
     label: Builders
     folder: cms/builders
@@ -930,7 +990,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: builder_communities
     label: Builder Communities
     folder: cms/builder-communities
@@ -1157,7 +1217,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: city
     label: Cities
     folder: cms/city
@@ -1216,7 +1276,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: commercial_listings
     label: Commercial Listings
     folder: cms/commercial-listings
@@ -1315,7 +1375,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: developments
     label: Developments
     folder: cms/developments
@@ -1423,7 +1483,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: leasing_areas
     label: Leasing Areas
     folder: cms/leasing-areas
@@ -1481,7 +1541,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: featured_lease_buildings
     label: Leasing Buildings
     folder: cms/featured-lease-buildings
@@ -1605,7 +1665,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: luxury_listings_page
     label: Luxury Listings Pages
     folder: cms/luxury-listings-page
@@ -1687,7 +1747,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: market_areas
     label: Market Areas
     folder: cms/market-areas
@@ -1744,7 +1804,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: nan_cares_item
     label: Nan Cares Items
     folder: cms/nan-cares-item
@@ -1804,7 +1864,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: nan_offices
     label: Nan Offices
     folder: cms/nan-offices
@@ -1864,7 +1924,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: new_homes
     label: New Homes aka Developments
     folder: cms/new-homes
@@ -2091,7 +2151,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: press_articles
     label: Press Articles
     folder: cms/press-articles
@@ -2175,7 +2235,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: teams
     label: Teams
     folder: cms/teams
@@ -2266,7 +2326,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - name: timeline_posts
     label: Timeline Posts
     folder: cms/timeline-posts
@@ -2331,7 +2391,7 @@ collections:
       - label: Publish Date
         name: date
         widget: datetime
-      - *ref_0
+      - *ref_2
   - label: Theme Settings
     name: settings
     identifier_field: title
