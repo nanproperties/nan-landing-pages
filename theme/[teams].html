@@ -77,7 +77,7 @@ img.developments-image {
           <div id="w-node-bd6a93ad-298b-4f68-7642-1a75f215f19d-006e387d" class="content-row-column full-width teams-column">
             <div class="content-row-column-text-wrapper teams-column">
               <h2 class="teams-h2">{{ f_team-slogan }}</h2>
-              <div class="w-richtext"></div>
+              <div class="w-richtext">{{ content | markdown }}</div>
               <div>
                 <a href="{{ links.-41a1c015 }}" class="primary-button teams-button w-button">{{ texts.4341cc41 }}</a>
               </div>
@@ -116,7 +116,7 @@ img.developments-image {
             {%- assign collection = collections.teams | filter: "slug,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
               {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-                  <div id="custom-block-1-text" class="landing-page-custom-block-1 w-richtext"></div>
+                  <div id="custom-block-1-text" class="landing-page-custom-block-1 w-richtext">{{ item.data.f_custom-block-1 | markdown }}</div>
                 </div>{%- endfor -%}
               </div>{%- endunless -%}
               {%- if collection.length == 0 -%}<div class="empty-state-10 w-dyn-empty">
@@ -128,7 +128,7 @@ img.developments-image {
             {%- assign collection = collections.teams | filter: "slug,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
               {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-                  <div class="landing-page-custom-block-2 w-richtext"></div>
+                  <div class="landing-page-custom-block-2 w-richtext">{{ item.data.f_custom-block-2 | markdown }}</div>
                 </div>{%- endfor -%}
               </div>{%- endunless -%}
               {%- if collection.length == 0 -%}<div class="empty-state-11 w-dyn-empty">
