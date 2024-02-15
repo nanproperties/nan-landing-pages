@@ -48,7 +48,7 @@ text-transform:none;
         <div class="lease-building_container w-container">
           <div class="w-layout-grid lease-building_layout-2-columns">
             <div id="w-node-fcd76519-b5a1-37dd-ae78-2bf4c86fadc9-006e3875" class="lease-building_featured-images-wrapper">
-              {%- if f_video-tour -%}<div class="lease-building_featured-video w-video w-embed">{%- embedVideo f_video-tour -%}</div>{%- endif -%}<img loading="lazy" alt="{{ images.0.alt | trim | escape }}" src="{{ images.0.url }}" class="lease-building_image">
+              {%- if f_video-tour -%}<div class="lease-building_featured-video w-video w-embed">{%- embedVideo f_video-tour -%}</div>{%- endif -%}<img loading="lazy" alt="{{ f_background-image.alt }}" src="{{ f_background-image.url }}" class="lease-building_image">
             </div>
             <div id="w-node-_0c666dab-cbfc-4931-6872-6bb39e1902e2-006e3875" class="lease-building_content-wrapper">
               {%- assign leasing-areasOfFeatured-lease-buildings = f_area | resolveReference -%}<div class="lease-building_area-tag">{{ leasing-areasOfFeatured-lease-buildings.data.title }}</div>

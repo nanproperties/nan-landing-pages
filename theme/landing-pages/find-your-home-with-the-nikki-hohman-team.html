@@ -94,7 +94,7 @@ text-transform:none;
         {%- assign collection = collections.agents | filter: "f_team,eq,cms/teams/the-nikki-hohman-team", "ALL", page.inputPath | sort: "-f_if-team-is-this-person-the-team-s-lead" -%}<div class="teams-grid-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="teams-grid-list w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="teams-grid-item w-dyn-item">
-              <div class="team-member-image-wrapper"><img loading="lazy" alt="{{ images.0.alt | trim | escape }}" src="{{ images.0.url }}" class="team-member-image"></div>
+              <div class="team-member-image-wrapper"><img alt="{{ item.data.title }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="team-member-image"></div>
               <div class="team-member-name-wrapper">
                 <div class="team-member-name">{{ item.data.title }}</div>
                 <div class="team-member-title">{{ item.data.f_title }}</div>

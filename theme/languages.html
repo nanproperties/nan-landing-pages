@@ -81,7 +81,7 @@ img.developments-image {
         {%- assign collection = collections.agents | filter: "f_language,eq,Arabic", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
                 <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
             </div>{%- endfor -%}
@@ -96,7 +96,7 @@ img.developments-image {
         {%- assign collection = collections.agents | filter: "f_language,eq,Greek", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
                 <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
             </div>{%- endfor -%}
@@ -111,7 +111,7 @@ img.developments-image {
         {%- assign collection = collections.agents | filter: "f_language,eq,Mandarin", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
                 <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
             </div>{%- endfor -%}
@@ -126,7 +126,7 @@ img.developments-image {
         {%- assign collection = collections.agents | filter: "f_language,eq,Romanian", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
                 <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
             </div>{%- endfor -%}
@@ -141,7 +141,7 @@ img.developments-image {
         {%- assign collection = collections.agents | filter: "f_language,eq,Russian", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
                 <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
             </div>{%- endfor -%}
@@ -154,7 +154,7 @@ img.developments-image {
         {%- assign collection = collections.agents | filter: "f_language,eq,Spanish", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
                 <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
             </div>{%- endfor -%}
@@ -169,7 +169,7 @@ img.developments-image {
         {%- assign collection = collections.agents | filter: "f_language,eq,Vietnamese", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="_4-col-grid w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ images.0.alt | trim | escape }}" loading="lazy" src="{{ images.0.url }}" class="languages-agent-image">
+              <a href="{{ item.data.f_link-to-agent-bio-page-on-nan-website }}" class="languages-agent-link-block w-inline-block"><img alt="{{ item.data.f_headshot.alt }}" loading="lazy" src="{{ item.data.f_headshot.url }}" class="languages-agent-image">
                 <div class="languages-agent-name">{{ item.data.title }}</div>
               </a>
             </div>{%- endfor -%}
