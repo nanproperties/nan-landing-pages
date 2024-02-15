@@ -88,7 +88,7 @@ img.developments-image {
           </div>
           <div id="w-node-_893965eb-979e-cbf6-2151-779dd2c06611-006e387d" class="content-row-column full-width teams-column">
             <div class="content-row-image-wrapper teams-column">
-              {%- if f_mini-feature-video-youtube-id -%}<div class="w-embed w-iframe"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/{{ f_mini-feature-video-youtube-id }}" frameborder="0" allowfullscreen=""></iframe></div></div>{%- endif -%}{%- unless f_mini-feature-video-youtube-id -%}<img alt="{{ f_secondary-team-image.alt }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ f_secondary-team-image.url }}">{%- endunless -%}
+              {%- if f_mini-feature-video-youtube-id -%}<div class="w-embed w-iframe"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/{{ f_mini-feature-video-youtube-id }}" frameborder="0" allowfullscreen=""></iframe></div></div>{%- endif -%}{%- unless f_mini-feature-video-youtube-id -%}<img class="" src="{{ f_secondary-team-image.url }}" alt="" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy">{%- endunless -%}
             </div>
           </div>
         </div>
@@ -143,7 +143,7 @@ img.developments-image {
         {%- assign collection = collections.agents | filter: "f_team,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "-f_if-team-is-this-person-the-team-s-lead, title" -%}<div class="teams-grid-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="teams-grid-list w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="teams-grid-item w-dyn-item">
-              <div class="team-member-image-wrapper"><img alt="{{ item.data.title }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_headshot.url }}" class="team-member-image"></div>
+              <div class="team-member-image-wrapper"><img class="team-member-image" src="{{ item.data.f_headshot.url }}" alt="" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy"></div>
               <div class="team-member-name-wrapper">
                 <div class="team-member-name">{{ item.data.title }}</div>
                 <div class="team-member-title">{{ item.data.f_title }}</div>

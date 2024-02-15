@@ -60,12 +60,13 @@ f_image-gallery:
   - url: https://development.nanproperties.com/assets/external/65ca4be525346d79c6340399_livingroom20239.jpg
     alt: null
 slug: caterina-court
-f_agent-2: cms/agents/lisa-peltier.md
-updated-on: '2024-02-12T20:04:03.365Z'
+f_agent-2: cms/agents/jose-nieto.md
+updated-on: '2024-02-15T20:22:34.457Z'
 created-on: '2021-08-25T16:22:51.756Z'
-published-on: '2024-02-12T21:42:00.689Z'
+published-on: '2024-02-15T20:36:53.553Z'
 f_builder: cms/builders/highgate-ventures.md
 f_is-this-a-55-community: false
+f_co-listing-agent: cms/agents/ashley-shears.md
 layout: '[new-homes].html'
 tags: new-homes
 ---

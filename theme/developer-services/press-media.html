@@ -58,7 +58,7 @@ text-transform:none;
         {%- assign collection = collections.press-articles | filter: "f_is-this-a-featured-article,eq,true; f_is-this-a-developer-services-press-article,eq,true", "ALL", page.inputPath | sort: "-created-on" -%}<div class="press-featured-grid-wrapper w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="grid press-featured-grid w-dyn-items">
             {%- for item in collection -%}<div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a95c-006e3901" role="listitem" class="press-featured-grid-item developer-services-press-page w-dyn-item">
-              <div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a95d-006e3901" class="press-featured-grid-item-image-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;46vw&quot;}]" src="{{ item.data.f_image-or-screenshot-of-article.url }}" alt="{{ item.data.title }}" class="press-featured-grid-item-image"></div>
+              <div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a95d-006e3901" class="press-featured-grid-item-image-wrapper"><img alt="" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;46vw&quot;}]" src="{{ item.data.f_image-or-screenshot-of-article.url }}" class="press-featured-grid-item-image"></div>
               <div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a95f-006e3901" class="press-featured-grid-item-title-wrapper">
                 <div class="overline press-featured-item-overline">{{ item.data.f_media-outlet-name }}</div>
                 <h3 class="h5 press-featured-item-title">{{ item.data.title }}</h3>
@@ -79,7 +79,7 @@ text-transform:none;
         {%- assign collection = collections.press-articles | filter: "f_is-this-a-featured-article,ne,true; f_is-this-a-developer-services-press-article,eq,true", "ALL", page.inputPath | sort: "-created-on" -%}<div class="press-all-grid-wrapper developer-services-press-page w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="grid press-all-grid developer-services-press-page w-dyn-items">
             {%- for item in collection -%}<div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a96e-006e3901" role="listitem" class="press-all-grid-item w-dyn-item">
-              <div class="press-all-grid-item-image-wrapper-copy"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;30vw&quot;}]" src="{{ item.data.f_image-or-screenshot-of-article.url }}" alt="{{ item.data.title }}" class="press-all-grid-item-image"></div>
+              <div class="press-all-grid-item-image-wrapper-copy"><img alt="" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;30vw&quot;}]" src="{{ item.data.f_image-or-screenshot-of-article.url }}" class="press-all-grid-item-image"></div>
               <div id="w-node-_29feeca2-ce9d-f096-0754-fa24b6b7a971-006e3901" class="press-all-grid-item-text-wrapper">
                 <div class="overline press-featured-item-overline">{{ item.data.f_media-outlet-name }}</div>
                 <h3 class="h5 press-all-item-title">{{ item.data.title }}</h3>

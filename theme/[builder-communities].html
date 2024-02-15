@@ -63,7 +63,7 @@ img.developments-image {
     </div>
     <main class="custom-page">
       {%- if f_featured-image -%}<header class="section builder-hero-section builder-community">
-        <div class="builder-hero-image-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="{{ f_featured-image.alt }}" src="{{ f_featured-image.url }}" class="builder-hero-image"></div>
+        <div class="builder-hero-image-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" src="{{ f_featured-image.url }}" class="builder-hero-image"></div>
         <div class="builder-community-details-grid-wrapper">
           <div class="builder-community-details-list">
             {%- if f_bedrooms -%}<div class="buildre-community-details-item">
@@ -110,7 +110,7 @@ img.developments-image {
       {%- if f_agent-2 -%}<section class="section">
         <div class="builder-communities-agent-outer-container">
           <div class="builder-communities-agent-inner-container">
-            <div>{%- assign agentsOfBuilder-communities = f_agent-2 | resolveReference -%}<img src="{{ agentsOfBuilder-communities.data.f_headshot.url }}" loading="lazy" alt="{{ agentsOfBuilder-communities.data.f_headshot.alt }}"></div>
+            <div><img src="{{ f_agent-2.headshot.url }}" loading="lazy" alt="" class=""></div>
             <div class="builder-communities-agent-details-cell">
               <div class="overline">{{ texts.53710741 }}</div>
               {%- assign agentsOfBuilder-communities = f_agent-2 | resolveReference -%}<h2>{{ agentsOfBuilder-communities.data.title }}</h2>
