@@ -2628,16 +2628,6 @@ collections:
             label: Text
             name: 2541b238
             widget: string
-          - hint: 'Original text: Page Not Found, key: -40b0787c'
-            label: Text
-            name: '-40b0787c'
-            widget: string
-          - hint: >-
-              Original text: The page you are looking for doesn't exist or has
-              been moved, key: 556d64d8
-            label: Text
-            name: 556d64d8
-            widget: string
           - hint: >-
               Original text: How You Can Find Your Next Home While Streamlining
               Your Life, key: -20f5ed1c
@@ -2743,6 +2733,16 @@ collections:
           - hint: 'Original text: Sorry, this development has sold., key: -6d7a86a2'
             label: Text
             name: '-6d7a86a2'
+            widget: string
+          - hint: 'Original text: Page Not Found, key: -40b0787c'
+            label: Text
+            name: '-40b0787c'
+            widget: string
+          - hint: >-
+              Original text: The page you are looking for doesn't exist or has
+              been moved, key: 556d64d8
+            label: Text
+            name: 556d64d8
             widget: string
           - hint: 'Original text: We Are The , key: 2037314d'
             label: Text
@@ -4356,10 +4356,6 @@ collections:
             label: Text
             name: 56a75639
             widget: string
-          - hint: "Original text: CONTACT\_ME\_››, key: -67d71d58"
-            label: Text
-            name: '-67d71d58'
-            widget: string
           - hint: 'Original text: Condominiums, key: -40f81ce9'
             label: Text
             name: '-40f81ce9'
@@ -4419,6 +4415,10 @@ collections:
           - hint: "Original text: Maps &\_Directions, key: 9dec077"
             label: Text
             name: 9dec077
+            widget: string
+          - hint: "Original text: CONTACT\_ME\_››, key: -67d71d58"
+            label: Text
+            name: '-67d71d58'
             widget: string
           - hint: "Original text: CONTACT\_US\_››, key: -6760041e"
             label: Text
@@ -4521,6 +4521,30 @@ collections:
             label: Text
             name: '-787bde0b'
             widget: text
+          - hint: 'Original text: Name, key: 24eeab'
+            label: Text
+            name: 24eeab
+            widget: string
+          - hint: 'Original text: Email Address, key: -2b7010d0'
+            label: Text
+            name: '-2b7010d0'
+            widget: string
+          - hint: 'Original text: Select one..., key: 57f3b1cc'
+            label: Text
+            name: 57f3b1cc
+            widget: string
+          - hint: 'Original text: First Choice, key: -491b32af'
+            label: Text
+            name: '-491b32af'
+            widget: string
+          - hint: 'Original text: Second Choice, key: 3c4172cd'
+            label: Text
+            name: 3c4172cd
+            widget: string
+          - hint: 'Original text: Third Choice, key: -1b351146'
+            label: Text
+            name: '-1b351146'
+            widget: string
           - hint: >-
               Original text: We help you find the right homebuyer program to
               save you money and buy your first home., key: -44bcd058
@@ -4581,30 +4605,6 @@ collections:
             label: Text
             name: 4eded205
             widget: text
-          - hint: 'Original text: Name, key: 24eeab'
-            label: Text
-            name: 24eeab
-            widget: string
-          - hint: 'Original text: Email Address, key: -2b7010d0'
-            label: Text
-            name: '-2b7010d0'
-            widget: string
-          - hint: 'Original text: Select one..., key: 57f3b1cc'
-            label: Text
-            name: 57f3b1cc
-            widget: string
-          - hint: 'Original text: First Choice, key: -491b32af'
-            label: Text
-            name: '-491b32af'
-            widget: string
-          - hint: 'Original text: Second Choice, key: 3c4172cd'
-            label: Text
-            name: 3c4172cd
-            widget: string
-          - hint: 'Original text: Third Choice, key: -1b351146'
-            label: Text
-            name: '-1b351146'
-            widget: string
           - hint: 'Original text: We are giving away 3 , key: -3637a815'
             label: Text
             name: '-3637a815'
@@ -4934,6 +4934,22 @@ collections:
             label: Text
             name: 29ef7e88
             widget: text
+          - hint: 'Original text: Featured video, key: -329d81d7'
+            label: Text
+            name: '-329d81d7'
+            widget: string
+          - hint: "Original text: Gorgeous $2.19\_Million Dollar Home in West U, key: 145e827b"
+            label: Text
+            name: 145e827b
+            widget: string
+          - hint: 'Original text: houston-area listings, key: 78ceca63'
+            label: Text
+            name: 78ceca63
+            widget: string
+          - hint: 'Original text: View Luxury Listings In Houston, key: -6a8e6bb4'
+            label: Text
+            name: '-6a8e6bb4'
+            widget: string
           - hint: 'Original text: Find your next great place , key: 5b02e873'
             label: Text
             name: 5b02e873
@@ -5050,22 +5066,6 @@ collections:
           - hint: "Original text: 100%\_Free Service!, key: -2acb380c"
             label: Text
             name: '-2acb380c'
-            widget: string
-          - hint: 'Original text: Featured video, key: -329d81d7'
-            label: Text
-            name: '-329d81d7'
-            widget: string
-          - hint: "Original text: Gorgeous $2.19\_Million Dollar Home in West U, key: 145e827b"
-            label: Text
-            name: 145e827b
-            widget: string
-          - hint: 'Original text: houston-area listings, key: 78ceca63'
-            label: Text
-            name: 78ceca63
-            widget: string
-          - hint: 'Original text: View Luxury Listings In Houston, key: -6a8e6bb4'
-            label: Text
-            name: '-6a8e6bb4'
             widget: string
           - hint: >-
               Original text: Nan Properties Developer Services provides
@@ -5242,10 +5242,6 @@ collections:
             label: Text
             name: '-7939ae9e'
             widget: string
-          - hint: "Original text: Developer\_– , key: 69ff1b23"
-            label: Text
-            name: 69ff1b23
-            widget: string
           - hint: >-
               Original text: People Vs. Computers: What Does This Mean For The
               Real Estate Industry?, key: -203f1dd9
@@ -5292,17 +5288,21 @@ collections:
             label: Text
             name: '-52309de6'
             widget: text
+          - hint: "Original text: Developer\_– , key: 69ff1b23"
+            label: Text
+            name: 69ff1b23
+            widget: string
           - hint: "Original text: Press &\_Media, key: -835d433"
             label: Text
             name: '-835d433'
             widget: string
-          - hint: "Original text: Local &\_National Media Coverage About Nan, key: 1e3661cb"
+          - hint: "Original text: Local &\_National Media Coverage About our Nan Developer Services, key: 662d6bfd"
             label: Text
-            name: 1e3661cb
+            name: 662d6bfd
             widget: string
-          - hint: 'Original text: Featured Articles about Nan, key: -561fa309'
+          - hint: 'Original text: Featured Articles, key: 4eb345ef'
             label: Text
-            name: '-561fa309'
+            name: 4eb345ef
             widget: string
           - hint: 'Original text: ..., key: b26e'
             label: Text
@@ -5316,17 +5316,17 @@ collections:
             label: Text
             name: 58f5266f
             widget: string
-          - hint: "Original text: Local &\_National Media Coverage About our Nan Developer Services, key: 662d6bfd"
-            label: Text
-            name: 662d6bfd
-            widget: string
-          - hint: 'Original text: Featured Articles, key: 4eb345ef'
-            label: Text
-            name: 4eb345ef
-            widget: string
           - hint: 'Original text: Contact Us, key: 7f2746de'
             label: Text
             name: 7f2746de
+            widget: string
+          - hint: "Original text: Local &\_National Media Coverage About Nan, key: 1e3661cb"
+            label: Text
+            name: 1e3661cb
+            widget: string
+          - hint: 'Original text: Featured Articles about Nan, key: -561fa309'
+            label: Text
+            name: '-561fa309'
             widget: string
           - hint: 'Original text: Encuentra Su Nuevo Hogar En Houston, key: -3d3fb8d4'
             label: Text
@@ -5411,10 +5411,6 @@ collections:
             label: Text
             name: 6b5f6a5f
             widget: string
-          - hint: 'Original text: Sign In Below, key: 79084859'
-            label: Text
-            name: '79084859'
-            widget: string
           - hint: 'Original text: We are giving away a , key: -3637a283'
             label: Text
             name: '-3637a283'
@@ -5429,6 +5425,10 @@ collections:
             label: Text
             name: '-43e943e2'
             widget: text
+          - hint: 'Original text: Sign In Below, key: 79084859'
+            label: Text
+            name: '79084859'
+            widget: string
           - hint: >-
               Original text: Build Your Dream Beach House On Texas Gulf Coast's,
               key: 7294855d
@@ -6463,6 +6463,16 @@ collections:
             label: Text
             name: 437b93b
             widget: string
+          - hint: 'Original text: Looking to Buy or Sell This Year?, key: -64acb10d'
+            label: Text
+            name: '-64acb10d'
+            widget: string
+          - hint: >-
+              Original text: Allow me to help! Fill out this contact form and I
+              will be in touch with you ASAP., key: -769e4836
+            label: Text
+            name: '-769e4836'
+            widget: string
           - hint: 'Original text: Live Life On The Waterfront, key: 22f87c92'
             label: Text
             name: 22f87c92
@@ -6500,16 +6510,6 @@ collections:
           - hint: 'Original text: View Waterfront Listings, key: -4b1667e'
             label: Text
             name: '-4b1667e'
-            widget: string
-          - hint: 'Original text: Looking to Buy or Sell This Year?, key: -64acb10d'
-            label: Text
-            name: '-64acb10d'
-            widget: string
-          - hint: >-
-              Original text: Allow me to help! Fill out this contact form and I
-              will be in touch with you ASAP., key: -769e4836
-            label: Text
-            name: '-769e4836'
             widget: string
           - hint: "Original text: WHITEHALL\_RANCH, key: -49de55ba"
             label: Text
@@ -6861,116 +6861,6 @@ collections:
             label: Text
             name: '-69fd15c5'
             widget: text
-          - hint: 'Original text: Water Street Residences, key: -14897c7f'
-            label: Text
-            name: '-14897c7f'
-            widget: string
-          - hint: >-
-              Original text: Discover the beauty of coastal living at Water
-              Street Residences, Dickinson's newest community. Our builder
-              buy-down rate program offers , key: 3a7016c1
-            label: Text
-            name: 3a7016c1
-            widget: text
-          - hint: 'Original text: unbeatable rates as low as 5.75%, key: -2b8e48ea'
-            label: Text
-            name: '-2b8e48ea'
-            widget: string
-          - hint: >-
-              Original text:  for all move-in ready homes with an accepted
-              contract and loan approval application., key: 7b444700
-            label: Text
-            name: 7b444700
-            widget: string
-          - hint: 'Original text: PROPERTY OVERVIEW, key: 256aaf64'
-            label: Text
-            name: 256aaf64
-            widget: string
-          - hint: >-
-              Original text: Relax in style with flexible and functional floor
-              plans designed for coastal living. Water Street Residences is an
-              Airbnb-friendly community situated along Dickinson Bayou,
-              providing boat access all the way to Galveston Bay! Choose from
-              two seaside-inspired floor plans with fresh elevations, each
-              featuring balconies on every floor overlooking the picturesque
-              Dickinson Bayou. Enjoy open-concept living and kitchen areas with
-              Shaker-style cabinets, quartz countertops, and walk-in pantries.
-              Select from 3-4 bedroom options with 3 bathrooms, and enjoy quick
-              access from Highway 45., key: -e14cdff
-            label: Text
-            name: '-e14cdff'
-            widget: text
-          - hint: 'Original text: BUILD YOUR DREAM HOME, key: 53009337'
-            label: Text
-            name: '53009337'
-            widget: string
-          - hint: >-
-              Original text: Water Street also offers lots ready for your dream
-              home. Bring your own builder and design your waterfront haven.
-              Don't miss the opportunity to build your own boathouse along the
-              community boat dock., key: 43053c95
-            label: Text
-            name: 43053c95
-            widget: text
-          - hint: 'Original text: Explore the Water Street Residences, key: -dbdbf5b'
-            label: Text
-            name: '-dbdbf5b'
-            widget: string
-          - hint: >-
-              Original text:  and secure your dream home by the bay., key:
-              -22ae2f8b
-            label: Text
-            name: '-22ae2f8b'
-            widget: string
-          - hint: 'Original text: water street Residences, key: 46e56bc1'
-            label: Text
-            name: 46e56bc1
-            widget: string
-          - hint: 'Original text: View Water Street Listings, key: -7fa03658'
-            label: Text
-            name: '-7fa03658'
-            widget: string
-          - hint: 'Original text: 3849 Water Street, key: 70a9a822'
-            label: Text
-            name: 70a9a822
-            widget: string
-          - hint: 'Original text: Dickinson, TX 77539, key: 1c2349f3'
-            label: Text
-            name: 1c2349f3
-            widget: string
-          - hint: 'Original text: $525,000, key: -185984e8'
-            label: Text
-            name: '-185984e8'
-            widget: string
-          - hint: 'Original text: 3857 Water Street, key: 6c97f25'
-            label: Text
-            name: 6c97f25
-            widget: string
-          - hint: 'Original text: $485,000, key: -4302ac6f'
-            label: Text
-            name: '-4302ac6f'
-            widget: string
-          - hint: 'Original text: 3845 Water Street, key: -16cd7e5a'
-            label: Text
-            name: '-16cd7e5a'
-            widget: string
-          - hint: 'Original text: $505,000, key: -1bc33626'
-            label: Text
-            name: '-1bc33626'
-            widget: string
-          - hint: >-
-              Original text: 5.75% APR(5.812%) interest rate available on select
-              move-in ready homes in Dickinson on fully executed purchase
-              agreements. Rates are subject to change, and buyers must meet all
-              lender requirements and conditions from the preferred lender
-              partner. Certain rates and incentives can affect the loan amount.
-              Required financing through the preferred lender partner for rate
-              buy-down. 5.75% APR(5.812%) rate is not guaranteed and is based on
-              current market conditions and approved loan application., key:
-              784f4900
-            label: Text
-            name: 784f4900
-            widget: text
           - hint: >-
               Original text: Partnering With Nan And Company Properties, key:
               518b0c58
@@ -7194,6 +7084,116 @@ collections:
             label: Text
             name: '-60c158a7'
             widget: string
+          - hint: 'Original text: Water Street Residences, key: -14897c7f'
+            label: Text
+            name: '-14897c7f'
+            widget: string
+          - hint: >-
+              Original text: Discover the beauty of coastal living at Water
+              Street Residences, Dickinson's newest community. Our builder
+              buy-down rate program offers , key: 3a7016c1
+            label: Text
+            name: 3a7016c1
+            widget: text
+          - hint: 'Original text: unbeatable rates as low as 5.75%, key: -2b8e48ea'
+            label: Text
+            name: '-2b8e48ea'
+            widget: string
+          - hint: >-
+              Original text:  for all move-in ready homes with an accepted
+              contract and loan approval application., key: 7b444700
+            label: Text
+            name: 7b444700
+            widget: string
+          - hint: 'Original text: PROPERTY OVERVIEW, key: 256aaf64'
+            label: Text
+            name: 256aaf64
+            widget: string
+          - hint: >-
+              Original text: Relax in style with flexible and functional floor
+              plans designed for coastal living. Water Street Residences is an
+              Airbnb-friendly community situated along Dickinson Bayou,
+              providing boat access all the way to Galveston Bay! Choose from
+              two seaside-inspired floor plans with fresh elevations, each
+              featuring balconies on every floor overlooking the picturesque
+              Dickinson Bayou. Enjoy open-concept living and kitchen areas with
+              Shaker-style cabinets, quartz countertops, and walk-in pantries.
+              Select from 3-4 bedroom options with 3 bathrooms, and enjoy quick
+              access from Highway 45., key: -e14cdff
+            label: Text
+            name: '-e14cdff'
+            widget: text
+          - hint: 'Original text: BUILD YOUR DREAM HOME, key: 53009337'
+            label: Text
+            name: '53009337'
+            widget: string
+          - hint: >-
+              Original text: Water Street also offers lots ready for your dream
+              home. Bring your own builder and design your waterfront haven.
+              Don't miss the opportunity to build your own boathouse along the
+              community boat dock., key: 43053c95
+            label: Text
+            name: 43053c95
+            widget: text
+          - hint: 'Original text: Explore the Water Street Residences, key: -dbdbf5b'
+            label: Text
+            name: '-dbdbf5b'
+            widget: string
+          - hint: >-
+              Original text:  and secure your dream home by the bay., key:
+              -22ae2f8b
+            label: Text
+            name: '-22ae2f8b'
+            widget: string
+          - hint: 'Original text: water street Residences, key: 46e56bc1'
+            label: Text
+            name: 46e56bc1
+            widget: string
+          - hint: 'Original text: View Water Street Listings, key: -7fa03658'
+            label: Text
+            name: '-7fa03658'
+            widget: string
+          - hint: 'Original text: 3849 Water Street, key: 70a9a822'
+            label: Text
+            name: 70a9a822
+            widget: string
+          - hint: 'Original text: Dickinson, TX 77539, key: 1c2349f3'
+            label: Text
+            name: 1c2349f3
+            widget: string
+          - hint: 'Original text: $525,000, key: -185984e8'
+            label: Text
+            name: '-185984e8'
+            widget: string
+          - hint: 'Original text: 3857 Water Street, key: 6c97f25'
+            label: Text
+            name: 6c97f25
+            widget: string
+          - hint: 'Original text: $485,000, key: -4302ac6f'
+            label: Text
+            name: '-4302ac6f'
+            widget: string
+          - hint: 'Original text: 3845 Water Street, key: -16cd7e5a'
+            label: Text
+            name: '-16cd7e5a'
+            widget: string
+          - hint: 'Original text: $505,000, key: -1bc33626'
+            label: Text
+            name: '-1bc33626'
+            widget: string
+          - hint: >-
+              Original text: 5.75% APR(5.812%) interest rate available on select
+              move-in ready homes in Dickinson on fully executed purchase
+              agreements. Rates are subject to change, and buyers must meet all
+              lender requirements and conditions from the preferred lender
+              partner. Certain rates and incentives can affect the loan amount.
+              Required financing through the preferred lender partner for rate
+              buy-down. 5.75% APR(5.812%) rate is not guaranteed and is based on
+              current market conditions and approved loan application., key:
+              784f4900
+            label: Text
+            name: 784f4900
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -7711,6 +7711,12 @@ collections:
             name: '-20eacdb4'
             widget: string
           - hint: >-
+              Original link: https://www.nanproperties.com/luxury, key:
+              -2d40887f
+            label: Link
+            name: '-2d40887f'
+            widget: string
+          - hint: >-
               Original link:
               https://www.nanproperties.com/real-estate/3849-water-street-dickinson-tx-77539/85069911/144365372,
               key: 2487b2b8
@@ -7730,12 +7736,6 @@ collections:
               key: -41e4a481
             label: Link
             name: '-41e4a481'
-            widget: string
-          - hint: >-
-              Original link: https://www.nanproperties.com/luxury, key:
-              -2d40887f
-            label: Link
-            name: '-2d40887f'
             widget: string
       - label: Images
         name: images
@@ -9371,6 +9371,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: '-3e8fd4d0'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: b13351d
             widget: object
             fields:
@@ -9463,19 +9476,6 @@ collections:
                 required: false
           - label: Image
             name: '-60b74482'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3e8fd4d0'
             widget: object
             fields:
               - name: url
@@ -10268,6 +10268,123 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 32c3a7e2
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-a4a883d'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 7851e41e
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 110dc502
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 388576ee
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1c4e69bc'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 6dbb25c7
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3d83ef41'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-5a56bd0'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: 7d274aa8
             widget: object
             fields:
@@ -10464,123 +10581,6 @@ collections:
                 required: false
           - label: Image
             name: '-6039e52a'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 32c3a7e2
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-a4a883d'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 7851e41e
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 110dc502
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 388576ee
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-1c4e69bc'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 6dbb25c7
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3d83ef41'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-5a56bd0'
             widget: object
             fields:
               - name: url
