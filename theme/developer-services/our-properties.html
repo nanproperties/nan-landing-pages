@@ -50,12 +50,12 @@ text-transform:none;
         {%- unless collection.length == 0 -%}<div role="list" class="section services-intro-wrapper-section w-dyn-items">
           {%- for item in collection -%}<div role="listitem" class="section services-intro-section w-dyn-item">
             <div class="services-intro-image">
-              <div class="services-intro-image-box"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;44vw&quot;}]" src="{{ item.data.f_development-logo.url }}" alt="" class="services-intro-image our-properties-page-image"></div>
+              <div class="services-intro-image-box"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;44vw&quot;}]" src="{{ item.data.f_development-logo.url }}" alt="{{ images.0.alt | escape }}" class="services-intro-image our-properties-page-image"></div>
             </div>
             <div id="w-node-a107ea7a-6f1f-ecc7-a8e9-0a788c44a270-006e38fd" class="services-intro-content">
               <h3 class="h3 services-section-title">{{ item.data.title }}</h3>
               <div class="text-collection-injection">
-                <div class="overline featured-projects-overline inline">{{ item.data.f_total-units }}</div>
+                <div class="overline featured-projects-overline inline">{{ item.data.f_total-units | markdown }}</div>
                 <div class="overline featured-projects-overline inline">{{ texts.-40f81ce9 }}</div>
               </div>
               <div class="text-collection-injection">
@@ -63,14 +63,14 @@ text-transform:none;
               </div>
               <div class="text-collection-injection">
                 <div class="overline featured-projects-overline inline">{{ texts.4f0c14a2 }}<br></div>
-                <div class="overline featured-projects-overline inline">{{ item.data.f_estimated-sellout | formatDate: "MMMM d, yyyy" }}</div>
+                <div class="overline featured-projects-overline inline">{{ item.data.f_estimated-sellout | markdown }}</div>
               </div>
               <div class="text-collection-injection">
                 <div class="overline featured-projects-overline inline">{{ texts.69ff1b23 }}<br></div>
                 <div class="overline featured-projects-overline inline">{{ item.data.f_developer }}</div>
               </div>
               <div class="text-collection-injection">
-                <div class="development-paragraph w-richtext">{{ item.data.f_description | markdown }}</div>
+                <div class="development-paragraph w-richtext">{{ item.templateContent | markdown }}</div>
               </div>
               <a href="{{ item.data.f_nan-url-link-slug }}" class="primary-button w-button">{{ texts.5c37c451 }}</a>
             </div>
@@ -84,19 +84,19 @@ text-transform:none;
         <h2 class="h2 dev-services-redirect-title">{{ texts.-7e0cb60b }}</h2>
         <div class="w-layout-grid dev-services-redirect-grid">
           <a href="{{ links.3c59985 }}" class="dev-services-redirect-grid-item dev-services-builders-item w-inline-block">
-            <div class="dev-services-redirect-grid-item-image-wrapper"><img class="dev-services-redirect-grid-item-image" src="{{ images.-463cd93b.url }}" alt="{{ images.-463cd93b.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;73vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;85vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;86vw&quot;}]" sizes="(max-width: 479px) 82vw, (max-width: 767px) 85vw, (max-width: 1439px) 86vw, 934.5750122070312px" loading="lazy"></div>
+            <div class="dev-services-redirect-grid-item-image-wrapper"><img class="dev-services-redirect-grid-item-image" src="{{ images.-463cd93b.url }}" alt="{{ images.-463cd93b.alt | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;73vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;85vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;86vw&quot;}]" sizes="(max-width: 479px) 82vw, (max-width: 767px) 85vw, (max-width: 1439px) 86vw, 934.5750122070312px" loading="lazy"></div>
             <div class="h5 dev-services-redirect-grid-item-text">{{ texts.-15b6939 }}</div>
           </a>
           <a href="{{ links.-c40d32 }}" class="dev-services-redirect-grid-item w-inline-block">
-            <div class="dev-services-redirect-grid-item-image-wrapper"><img class="dev-services-redirect-grid-item-image" src="{{ images.-7ce25bec.url }}" alt="{{ images.-7ce25bec.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;68vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;325.609375px&quot;}]" sizes="(max-width: 479px) 68vw, 325.6125183105469px" loading="lazy"></div>
+            <div class="dev-services-redirect-grid-item-image-wrapper"><img class="dev-services-redirect-grid-item-image" src="{{ images.-7ce25bec.url }}" alt="{{ images.-7ce25bec.alt | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;68vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;325.609375px&quot;}]" sizes="(max-width: 479px) 68vw, 325.6125183105469px" loading="lazy"></div>
             <div class="h5 dev-services-redirect-grid-item-text">{{ texts.290af1 }}</div>
           </a>
           <a href="{{ links.-2e4dfb1 }}" class="dev-services-redirect-grid-item w-inline-block">
-            <div class="dev-services-redirect-grid-item-image-wrapper"><img src="{{ images.59c440ff.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;73vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;83vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;416.65625px&quot;}]" alt="{{ images.59c440ff.alt | trim | escape }}" class="dev-services-redirect-grid-item-image"></div>
+            <div class="dev-services-redirect-grid-item-image-wrapper"><img src="{{ images.59c440ff.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;73vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;83vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;416.65625px&quot;}]" alt="{{ images.59c440ff.alt | escape }}" class="dev-services-redirect-grid-item-image"></div>
             <div class="h5 dev-services-redirect-grid-item-text">{{ texts.13a96ef2 }}</div>
           </a>
           <a href="{{ links.2f004efe }}" class="dev-services-redirect-grid-item w-inline-block">
-            <div class="dev-services-redirect-grid-item-image-wrapper"><img src="{{ images.14e950fd.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;73vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;83vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;416.65625px&quot;}]" alt="{{ images.14e950fd.alt | trim | escape }}" class="dev-services-redirect-grid-item-image"></div>
+            <div class="dev-services-redirect-grid-item-image-wrapper"><img src="{{ images.14e950fd.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;73vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;83vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;416.65625px&quot;}]" alt="{{ images.14e950fd.alt | escape }}" class="dev-services-redirect-grid-item-image"></div>
             <div class="h5 dev-services-redirect-grid-item-text">{{ texts.645efc51 }}</div>
           </a>
         </div>

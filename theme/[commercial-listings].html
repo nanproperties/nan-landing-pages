@@ -46,18 +46,18 @@ text-transform:none;
       </div>
       <div class="section development-content-section">
         <aside id="w-node-c0dd8de1-28c2-2c6a-d80a-5af282d04e57-006e3873" class="aside development-aside">
-          <div class="aside-headshot-wrapper"><img alt="" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;24vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ f_featured-agent.headshot.url }}" class="image-3"></div>
+          <div class="aside-headshot-wrapper">{%- assign agentsOfCommercial-listings = f_featured-agent | resolveReference -%}<img alt="{{ images.0.alt | escape }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;24vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ agentsOfCommercial-listings.data.f_headshot.url }}" class="image-3"></div>
           <div class="aside-name-wrapper">
-            {%- assign agentsOfCommercial-listings = f_featured-agent | resolveReference -%}<div class="aside-agent-name">{{ agentsOfCommercial-listings.data.title }}</div>
-            <div class="aside-agent-title">{{ agentsOfCommercial-listings.data.f_title }}</div>
-            <a href="{{ "tel:" | append: agentsOfCommercial-listings.data.f_cell-phone }}" class="aside-agent-phone-2">{{ agentsOfCommercial-listings.data.f_cell-phone }}</a>
+            {%- assign ref = f_featured-agent | resolveReference -%}<div class="aside-agent-name">{{ ref.data.title }}</div>
+            <div class="aside-agent-title">{{ ref.data.f_title }}</div>
+            {%- assign agentsOfCommercial-listings = f_featured-agent | resolveReference -%}<a href="{{ "tel:" | append: agentsOfCommercial-listings.data.f_cell-phone }}" class="aside-agent-phone-2">{{ agentsOfCommercial-listings.data.f_cell-phone }}</a>
             <a href="{{ "mailto:" | append: agentsOfCommercial-listings.data.f_email }}" class="aside-agent-email-2">{{ agentsOfCommercial-listings.data.f_email }}</a>
             <a href="{{ links.-41a1c015 }}" class="primary-button w-button">{{ texts.-67d71d58 }}</a>
           </div>
         </aside>
         <section class="content-wrapper development-content-wrapper">
           <div class="development-images-wrapper">
-            <div id="w-node-c0dd8de1-28c2-2c6a-d80a-5af282d04e6d-006e3873" class="development-featured-image-wrapper"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;70vw&quot;}]" loading="lazy" id="development-featured-image" src="{{ f_featured-image.url }}" alt="" class="development-featured-image"></div>
+            <div id="w-node-c0dd8de1-28c2-2c6a-d80a-5af282d04e6d-006e3873" class="development-featured-image-wrapper"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;70vw&quot;}]" loading="lazy" id="development-featured-image" src="{{ f_featured-image.url }}" alt="{{ images.0.alt | escape }}" class="development-featured-image"></div>
           </div>
           <div class="development-descripton-wrapper-2">
             {%- if f_headline -%}<h2 class="h4 development-description-title">{{ f_headline }}</h2>{%- endif -%}

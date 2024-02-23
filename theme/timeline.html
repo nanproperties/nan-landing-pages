@@ -77,9 +77,9 @@ img.developments-image {
               {%- unless collection.length == 0 -%}<div role="list" class="timeline-list w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="timeline-list-item w-dyn-item">
                   <div class="timeline-list-item_content-wrapper">
-                    <div class="timeline-category">{{ item.data.f_category }}</div>
+                    <div class="timeline-category">{{ item.data.f_category | markdown }}</div>
                     <div class="timeline-span-separator"><strong>{{ texts.b7 }}</strong></div>
-                    <div class="timeline-date">{{ item.data.f_date-4 | formatDate: "MMM d" }}</div>
+                    <div class="timeline-date">{{ item.data.f_date-4 | markdown }}</div>
                     <div class="timeline-description">{{ item.data.title }}</div>
                     {%- if item.data.f_link -%}<a href="{{ item.data.f_link }}" class="timeline-link">{{ texts.690e201f }}</a>{%- endif -%}
                   </div>
@@ -98,9 +98,9 @@ img.developments-image {
               {%- unless collection.length == 0 -%}<div role="list" class="timeline-list w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="timeline-list-item w-dyn-item">
                   <div class="timeline-list-item_content-wrapper">
-                    <div class="timeline-category">{{ item.data.f_category }}</div>
+                    <div class="timeline-category">{{ item.data.f_category | markdown }}</div>
                     <div class="timeline-span-separator"><strong>{{ texts.b7 }}</strong></div>
-                    <div class="timeline-date">{{ item.data.f_date-4 | formatDate: "MMM d" }}</div>
+                    <div class="timeline-date">{{ item.data.f_date-4 | markdown }}</div>
                     <div class="timeline-description">{{ item.data.title }}</div>
                     <a href="{{ item.data.f_link }}" class="timeline-link">{{ texts.690e201f }}</a>
                   </div>
@@ -119,9 +119,9 @@ img.developments-image {
               {%- unless collection.length == 0 -%}<div role="list" class="timeline-list w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="timeline-list-item w-dyn-item">
                   <div class="timeline-list-item_content-wrapper">
-                    <div class="timeline-category">{{ item.data.f_category }}</div>
+                    <div class="timeline-category">{{ item.data.f_category | markdown }}</div>
                     <div class="timeline-span-separator"><strong>{{ texts.b7 }}</strong></div>
-                    <div class="timeline-date">{{ item.data.f_date-4 | formatDate: "MMM d" }}</div>
+                    <div class="timeline-date">{{ item.data.f_date-4 | markdown }}</div>
                     <div class="timeline-description">{{ item.data.title }}</div>
                     <a href="{{ item.data.f_link }}" class="timeline-link">{{ texts.690e201f }}</a>
                   </div>
@@ -140,9 +140,9 @@ img.developments-image {
               {%- unless collection.length == 0 -%}<div role="list" class="timeline-list w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="timeline-list-item w-dyn-item">
                   <div class="timeline-list-item_content-wrapper">
-                    <div class="timeline-category">{{ item.data.f_category }}</div>
+                    <div class="timeline-category">{{ item.data.f_category | markdown }}</div>
                     <div class="timeline-span-separator"><strong>{{ texts.b7 }}</strong></div>
-                    <div class="timeline-date">{{ item.data.f_date-4 | formatDate: "MMM d" }}</div>
+                    <div class="timeline-date">{{ item.data.f_date-4 | markdown }}</div>
                     <div class="timeline-description">{{ item.data.title }}</div>
                     <a href="{{ item.data.f_link }}" class="timeline-link">{{ texts.690e201f }}</a>
                   </div>
@@ -161,9 +161,9 @@ img.developments-image {
               {%- unless collection.length == 0 -%}<div role="list" class="timeline-list w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="timeline-list-item w-dyn-item">
                   <div class="timeline-list-item_content-wrapper">
-                    <div class="timeline-category">{{ item.data.f_category }}</div>
+                    <div class="timeline-category">{{ item.data.f_category | markdown }}</div>
                     <div class="timeline-span-separator"><strong>{{ texts.b7 }}</strong></div>
-                    <div class="timeline-date">{{ item.data.f_date-4 | formatDate: "MMM d" }}</div>
+                    <div class="timeline-date">{{ item.data.f_date-4 | markdown }}</div>
                     <div class="timeline-description">{{ item.data.title }}</div>
                     <a href="{{ item.data.f_link }}" class="timeline-link">{{ texts.690e201f }}</a>
                   </div>
@@ -182,9 +182,9 @@ img.developments-image {
               {%- unless collection.length == 0 -%}<div role="list" class="timeline-list w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="timeline-list-item w-dyn-item">
                   <div class="timeline-list-item_content-wrapper">
-                    <div class="timeline-category">{{ item.data.f_category }}</div>
+                    <div class="timeline-category">{{ item.data.f_category | markdown }}</div>
                     <div class="timeline-span-separator"><strong>{{ texts.b7 }}</strong></div>
-                    <div class="timeline-date">{{ item.data.f_date-4 | formatDate: "MMM d" }}</div>
+                    <div class="timeline-date">{{ item.data.f_date-4 | markdown }}</div>
                     <div class="timeline-description">{{ item.data.title }}</div>
                     <a href="{{ item.data.f_link }}" class="timeline-link">{{ texts.690e201f }}</a>
                   </div>
@@ -203,9 +203,9 @@ img.developments-image {
               {%- unless collection.length == 0 -%}<div role="list" class="timeline-list w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="timeline-list-item w-dyn-item">
                   <div class="timeline-list-item_content-wrapper">
-                    <div class="timeline-category">{{ item.data.f_category }}</div>
+                    <div class="timeline-category">{{ item.data.f_category | markdown }}</div>
                     <div class="timeline-span-separator"><strong>{{ texts.b7 }}</strong></div>
-                    <div class="timeline-date">{{ item.data.f_date-4 | formatDate: "MMM d" }}</div>
+                    <div class="timeline-date">{{ item.data.f_date-4 | markdown }}</div>
                     <div class="timeline-description">{{ item.data.title }}</div>
                     <a href="{{ item.data.f_link }}" class="timeline-link">{{ texts.690e201f }}</a>
                   </div>
@@ -224,9 +224,9 @@ img.developments-image {
               {%- unless collection.length == 0 -%}<div role="list" class="timeline-list w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="timeline-list-item w-dyn-item">
                   <div class="timeline-list-item_content-wrapper">
-                    <div class="timeline-category">{{ item.data.f_category }}</div>
+                    <div class="timeline-category">{{ item.data.f_category | markdown }}</div>
                     <div class="timeline-span-separator"><strong>{{ texts.b7 }}</strong></div>
-                    <div class="timeline-date">{{ item.data.f_date-4 | formatDate: "MMM d" }}</div>
+                    <div class="timeline-date">{{ item.data.f_date-4 | markdown }}</div>
                     <div class="timeline-description">{{ item.data.title }}</div>
                     <a href="{{ item.data.f_link }}" class="timeline-link">{{ texts.690e201f }}</a>
                   </div>

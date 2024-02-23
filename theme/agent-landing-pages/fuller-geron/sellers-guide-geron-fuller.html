@@ -70,12 +70,12 @@ text-transform:none;
           {%- assign collection = collections.agents | filter: "title,eq,Geron Fuller", "ALL", page.inputPath | limit: 1 | sort: "-created-on" -%}<div class="w-dyn-list">
             {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
               {%- for item in collection -%}<div role="listitem" class="agent-lander-contact-box-agent-item w-dyn-item">
-                <div class="agent-lander-contact-box-image-wrapper"><img alt="" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_headshot.url }}" class="agent-lander-contact-box-image"></div>
+                <div class="agent-lander-contact-box-image-wrapper"><img alt="{{ images.0.alt | escape }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_headshot.url }}" class="agent-lander-contact-box-image"></div>
                 <div class="agent-lander-contact-box-details-wrapper">
                   <div id="w-node-_46bf53b1-5690-7242-8f92-9c482ba255c8-006e391b" class="agent-lander-contact-box-name padding-1">{{ item.data.title }}</div>
                   <div class="agent-lander-contact-box-title padding-2">{{ item.data.f_title }}</div>
-                  <div class="agent-lander-contact-box-contact-detail">{{ item.data.f_cell-phone }}</div>
-                  <div class="agent-lander-contact-box-contact-detail">{{ item.data.f_email }}</div>
+                  <div class="agent-lander-contact-box-contact-detail">{{ item.data.f_cell-phone | markdown }}</div>
+                  <div class="agent-lander-contact-box-contact-detail">{{ item.data.f_email | markdown }}</div>
                 </div>
               </div>{%- endfor -%}
             </div>{%- endunless -%}
@@ -84,12 +84,12 @@ text-transform:none;
             </div>{%- endif -%}
           </div>
           <div class="agent-lander-contact-box-agent-item">
-            <div id="w-node-a015911f-7809-057a-6f79-e78f8f3a9d65-006e391b" class="agent-lander-contact-box-image-wrapper"><img src="{{ images.546e02e.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;29vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" alt="{{ images.546e02e.alt | trim | escape }}"></div>
+            <div id="w-node-a015911f-7809-057a-6f79-e78f8f3a9d65-006e391b" class="agent-lander-contact-box-image-wrapper"><img src="{{ images.546e02e.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;29vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;31vw&quot;}]" alt="{{ images.546e02e.alt | escape }}"></div>
             <div id="w-node-_73342527-66d5-a9b6-abdd-3b08c238d240-006e391b" class="agent-lander-contact-box-details-wrapper">
               <div class="agent-lander-contact-box-name padding-1">{{ texts.-51316ee8 }}</div>
               <div class="agent-lander-contact-box-title padding-1">{{ texts.-1297c954 }}<br>{{ texts.661d0d31 }}</div>
               <div class="agent-lander-contact-box-contact-detail">{{ texts.-34cd6687 }}</div>
-              <div class="agent-lander-contact-box-contact-detail">{{ texts.-3401a32a }}</div><img src="{{ images.-1c21cba4.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;59vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;60vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;460px&quot;}]" alt="{{ images.-1c21cba4.alt | trim | escape }}">
+              <div class="agent-lander-contact-box-contact-detail">{{ texts.-3401a32a }}</div><img src="{{ images.-1c21cba4.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;59vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;60vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;460px&quot;}]" alt="{{ images.-1c21cba4.alt | escape }}">
             </div>
           </div>
           <div id="w-node-d950c04b-c198-d455-3cf2-11fd2f937b30-006e391b" class="agent-lander-form-embed w-embed w-iframe"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdgvTHmJog8AZIxkepwGcVRxc6lpiGXL29UAWaGQ5dCmcvAsw/viewform?embedded=true" width="640" height="915" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>

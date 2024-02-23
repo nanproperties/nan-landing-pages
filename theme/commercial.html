@@ -61,7 +61,7 @@ text-transform:none;
                   <a href="{{ item.url }}" class="primary-button w-button">{{ texts.-45adb8d9 }}</a>
                 </div>
               </div>
-              <div id="Developments-Image-Wrapper" class="developments-image-wrapper w-node-_3140ded5-d1ee-a5a3-b40d-d8b4dd8c3b18-006e3854"><img alt="" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;97vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;48vw&quot;}]" src="{{ item.data.f_featured-image.url }}" class="developments-image"></div>
+              <div id="Developments-Image-Wrapper" class="developments-image-wrapper w-node-_3140ded5-d1ee-a5a3-b40d-d8b4dd8c3b18-006e3854"><img alt="{{ images.0.alt | escape }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;97vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;48vw&quot;}]" src="{{ item.data.f_featured-image.url }}" class="developments-image"></div>
             </div>{%- endfor -%}
           </div>{%- endunless -%}
           {%- if collection.length == 0 -%}<div class="w-dyn-empty">

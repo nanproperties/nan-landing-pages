@@ -63,7 +63,7 @@ img.developments-image {
     </div>
     <main class="custom-page">
       {%- if f_featured-image -%}<header class="section builder-hero-section builder-community">
-        <div class="builder-hero-image-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" src="{{ f_featured-image.url }}" class="builder-hero-image"></div>
+        <div class="builder-hero-image-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="{{ images.0.alt | escape }}" src="{{ f_featured-image.url }}" class="builder-hero-image"></div>
         <div class="builder-community-details-grid-wrapper">
           <div class="builder-community-details-list">
             {%- if f_bedrooms -%}<div class="buildre-community-details-item">
@@ -95,7 +95,7 @@ img.developments-image {
           {%- if setItems.length == 0 -%}<div class="w-dyn-empty">
             <div>{{ texts.3d503d2b }}</div>
           </div>{%- endif -%}
-        <template><div class="w-dyn-list">
+        <template><div class="w-dyn-list" udesly-repeater="true">
           <div role="list" class="collection-list-4 w-dyn-items">
             <div role="listitem" class="w-dyn-item"><img alt="{# setItem.alt #}" loading="lazy" src="{# setItem.url #}"></div>
           </div>
@@ -110,17 +110,17 @@ img.developments-image {
       {%- if f_agent-2 -%}<section class="section">
         <div class="builder-communities-agent-outer-container">
           <div class="builder-communities-agent-inner-container">
-            <div><img src="{{ f_agent-2.headshot.url }}" loading="lazy" alt="" class=""></div>
+            <div>{%- assign agentsOfBuilder-communities = f_agent-2 | resolveReference -%}<img src="{{ agentsOfBuilder-communities.data.f_headshot.url }}" loading="lazy" alt="{{ images.0.alt | escape }}" class=""></div>
             <div class="builder-communities-agent-details-cell">
               <div class="overline">{{ texts.53710741 }}</div>
-              {%- assign agentsOfBuilder-communities = f_agent-2 | resolveReference -%}<h2>{{ agentsOfBuilder-communities.data.title }}</h2>
+              {%- assign ref = f_agent-2 | resolveReference -%}<h2 class="">{{ ref.data.title }}</h2>
               <div class="orange-divider"></div>
-              <p class="paragraph-1">{{ agentsOfBuilder-communities.data.f_shortened-bio }}</p>
+              <p class="paragraph-1">{{ ref.data.f_shortened-bio }}</p>
               <a href="{{ links.23 }}" class="w-inline-block">
-                {%- assign agentsOfBuilder-communities = f_agent-2 | resolveReference -%}<div>{{ agentsOfBuilder-communities.data.f_cell-phone }}</div>
+                {%- assign ref = f_agent-2 | resolveReference -%}<div class="">{{ ref.data.f_cell-phone| markdown }}</div>
               </a>
               <a href="{{ links.23 }}" class="link-block-2 w-inline-block">
-                {%- assign agentsOfBuilder-communities = f_agent-2 | resolveReference -%}<div>{{ agentsOfBuilder-communities.data.f_email }}</div>
+                {%- assign ref = f_agent-2 | resolveReference -%}<div class="">{{ ref.data.f_email| markdown }}</div>
               </a>
               <a href="{{ links.-56bd5b01 }}" class="primary-button w-button">{{ texts.-41ce341e }}</a>
             </div>

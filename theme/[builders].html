@@ -63,9 +63,9 @@ img.developments-image {
     </div>
     <main class="custom-page">
       <header class="section builder-hero-section">
-        {%- if f_builder-featured-image -%}<div class="builder-hero-image-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ f_builder-featured-image.url }}" alt="" class="builder-hero-image"></div>{%- endif -%}
-        {%- if f_builder-logo -%}<div class="builder-hero-logo-wrapper negative-margin"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ f_builder-logo.url }}" alt="" class="builder-hero-logo"></div>{%- endif -%}
-        {%- unless f_builder-featured-image -%}<div class="builder-hero-logo-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;52vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;170px&quot;}]" src="{{ f_builder-logo.url }}" alt="" class="builder-hero-logo"></div>{%- endunless -%}
+        {%- if f_builder-featured-image -%}<div class="builder-hero-image-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ f_builder-featured-image.url }}" alt="{{ images.0.alt | escape }}" class="builder-hero-image"></div>{%- endif -%}
+        {%- if f_builder-logo -%}<div class="builder-hero-logo-wrapper negative-margin"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ f_builder-logo.url }}" alt="{{ images.0.alt | escape }}" class="builder-hero-logo"></div>{%- endif -%}
+        {%- unless f_builder-featured-image -%}<div class="builder-hero-logo-wrapper"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;52vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;170px&quot;}]" src="{{ f_builder-logo.url }}" alt="{{ images.0.alt | escape }}" class="builder-hero-logo"></div>{%- endunless -%}
         <div class="builder-hero-content-wrapper">
           <h1 class="h2 builders-hero-title">{{ title }}</h1>
           <h2 class="h4 builders-hero-subtitle">{{ f_builder-slogan }}</h2>
@@ -75,7 +75,7 @@ img.developments-image {
             {%- assign collection = collections.builder-communities | filter: "f_builder,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "title" -%}<div class="w-dyn-list">
               {%- unless collection.length == 0 -%}<div role="list" class="grid builder-list-grid w-dyn-items">
                 {%- for item in collection -%}<div role="listitem" class="builder-listings-item-wrapper w-dyn-item">
-                  <a href="{{ item.url }}" class="builder-listings-item-image-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;50vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ item.data.f_featured-image.url }}" alt="" class="builder-listings-item-image"></a>
+                  <a href="{{ item.url }}" class="builder-listings-item-image-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;50vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ item.data.f_featured-image.url }}" alt="{{ images.0.alt | escape }}" class="builder-listings-item-image"></a>
                   <div class="builder-listings-item-text-wrapper">
                     <h3 class="h5 builder-listings-item-title">{{ item.data.title }}</h3>
                     <div class="subtitle-2">{{ item.data.f_city }}</div>
@@ -98,7 +98,7 @@ img.developments-image {
                 {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
                   <div>{{ texts.3d503d2b }}</div>
                 </div>{%- endif -%}
-              <template><div class="builder-other-projects-container w-dyn-list">
+              <template><div class="builder-other-projects-container w-dyn-list" udesly-repeater="true">
                 <div role="list" class="builder-other-projects-list w-dyn-items">
                   <div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{# setItem.url #}" alt="{# setItem.alt #}"></div>
                 </div>
@@ -116,7 +116,7 @@ img.developments-image {
                 {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
                   <div>{{ texts.3d503d2b }}</div>
                 </div>{%- endif -%}
-              <template><div class="builder-other-projects-container w-dyn-list">
+              <template><div class="builder-other-projects-container w-dyn-list" udesly-repeater="true">
                 <div role="list" class="builder-other-projects-list w-dyn-items">
                   <div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{# setItem.url #}" alt="{# setItem.alt #}"></div>
                 </div>
@@ -134,7 +134,7 @@ img.developments-image {
                 {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
                   <div>{{ texts.3d503d2b }}</div>
                 </div>{%- endif -%}
-              <template><div class="builder-other-projects-container w-dyn-list">
+              <template><div class="builder-other-projects-container w-dyn-list" udesly-repeater="true">
                 <div role="list" class="builder-other-projects-list w-dyn-items">
                   <div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{# setItem.url #}" alt="{# setItem.alt #}"></div>
                 </div>
@@ -152,7 +152,7 @@ img.developments-image {
                 {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
                   <div>{{ texts.3d503d2b }}</div>
                 </div>{%- endif -%}
-              <template><div class="builder-other-projects-container w-dyn-list">
+              <template><div class="builder-other-projects-container w-dyn-list" udesly-repeater="true">
                 <div role="list" class="builder-other-projects-list w-dyn-items">
                   <div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{# setItem.url #}" alt="{# setItem.alt #}"></div>
                 </div>
@@ -170,7 +170,7 @@ img.developments-image {
                 {%- if setItems.length == 0 -%}<div class="empty-state-14 w-dyn-empty">
                   <div>{{ texts.3d503d2b }}</div>
                 </div>{%- endif -%}
-              <template><div class="builder-other-projects-container w-dyn-list">
+              <template><div class="builder-other-projects-container w-dyn-list" udesly-repeater="true">
                 <div role="list" class="builder-other-projects-list w-dyn-items">
                   <div role="listitem" class="builder-other-projects-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{# setItem.url #}" alt="{# setItem.alt #}"></div>
                 </div>
@@ -185,17 +185,17 @@ img.developments-image {
       <section class="section">
         {%- if f_associated-agent-team -%}<div class="builder-communities-agent-outer-container">
           <div class="builder-communities-agent-inner-container">
-            <div><img alt="" loading="lazy" src="{{ f_associated-agent-team.headshot.url }}" class=""></div>
+            <div>{%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<img alt="{{ images.0.alt | escape }}" loading="lazy" src="{{ agentsOfBuilders.data.f_headshot.url }}" class=""></div>
             <div class="builder-communities-agent-details-cell">
               <div class="overline">{{ texts.53710741 }}</div>
-              {%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<h2>{{ agentsOfBuilders.data.title }}</h2>
+              {%- assign ref = f_associated-agent-team | resolveReference -%}<h2 class="">{{ ref.data.title }}</h2>
               <div class="orange-divider"></div>
-              <p class="paragraph-1">{{ agentsOfBuilders.data.f_shortened-bio }}</p>
-              <a href="{{ "mailto:" | append: agentsOfBuilders.data.f_email }}" class="w-inline-block">
-                {%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<div>{{ agentsOfBuilders.data.f_cell-phone }}</div>
+              <p class="paragraph-1">{{ ref.data.f_shortened-bio }}</p>
+              {%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<a href="{{ "mailto:" | append: agentsOfBuilders.data.f_email }}" class="w-inline-block">
+                {%- assign ref = f_associated-agent-team | resolveReference -%}<div class="">{{ ref.data.f_cell-phone| markdown }}</div>
               </a>
               <a href="{{ "tel:" | append: agentsOfBuilders.data.f_cell-phone }}" class="link-block-2 w-inline-block">
-                {%- assign agentsOfBuilders = f_associated-agent-team | resolveReference -%}<div>{{ agentsOfBuilders.data.f_email }}</div>
+                {%- assign ref = f_associated-agent-team | resolveReference -%}<div class="">{{ ref.data.f_email| markdown }}</div>
               </a>
               <a href="{{ links.-56bd5b01 }}" class="primary-button w-button">{{ texts.-41ce341e }}</a>
             </div>
@@ -210,7 +210,7 @@ img.developments-image {
         {%- assign collection = collections.new-homes | filter: "f_builder,eq,DYN_CONTEXT", "ALL", page.inputPath | sort: "-created-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="grid builder-list-grid w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="builder-listings-item-wrapper w-dyn-item">
-              <a href="{{ item.url }}" class="builder-listings-item-image-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;50vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ item.data.f_featured-image.url }}" alt="" class="builder-listings-item-image"></a>
+              <a href="{{ item.url }}" class="builder-listings-item-image-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;50vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;23vw&quot;}]" src="{{ item.data.f_featured-image.url }}" alt="{{ images.0.alt | escape }}" class="builder-listings-item-image"></a>
               <div class="builder-listings-item-text-wrapper">
                 <h3 class="h5 builder-listings-item-title">{{ item.data.title }}</h3>
                 <div class="subtitle-2">{{ item.data.f_city }}</div>
