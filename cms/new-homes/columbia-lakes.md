@@ -56,10 +56,11 @@ f_image-gallery:
   - url: https://development.nanproperties.com/assets/external/64776174e50338da899d6184_edgewater20living201.jpeg
     alt: null
 f_builder: cms/builders/lion-homes-llc.md
-f_agent-2: cms/agents/lisa-peltier.md
-updated-on: '2023-05-31T15:07:25.714Z'
+f_agent-2: cms/agents/megan-garza.md
+updated-on: '2024-02-29T15:40:29.800Z'
 created-on: '2023-05-31T15:07:25.714Z'
-published-on: '2023-12-05T18:21:52.835Z'
+published-on: '2024-02-29T15:40:35.543Z'
+f_co-listing-agent: cms/agents/joe-garza.md
 layout: '[new-homes].html'
 tags: new-homes
 ---
