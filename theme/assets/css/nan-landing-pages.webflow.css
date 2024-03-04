@@ -930,6 +930,11 @@ a {
   margin-top: 20px;
 }
 
+.h6.orange-span._1107-grovewood-fixtures-item-title {
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
 .grid.builder-list-grid {
   grid-column-gap: 32px;
   grid-row-gap: 32px;
@@ -1357,6 +1362,23 @@ a {
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 4rem;
+}
+
+.section.section-whitehall-hero._1107-grovewood {
+  background-image: var(--image-447df28a);
+  background-position: 50%;
+  background-size: cover;
+}
+
+.section.section-1107-grovewood-features {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.section.section-1107-grovewood-finishes {
+  padding-top: 40px;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .builder-listings-item-wrapper {
@@ -5350,7 +5372,7 @@ a {
                  "Area-3 ."
                  ". ."
                  "Area Area-2"
-                 / 1fr 1fr;
+                 / 1fr 1fr 1fr 1fr;
   grid-auto-columns: 1fr;
   margin-bottom: 1rem;
   display: grid;
@@ -6031,6 +6053,10 @@ a {
   font-family: century-gothic, sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
+}
+
+.whitehall-property-feature-list._1107-grovewood-list {
+  text-align: left;
 }
 
 .whitehall-property-feature-list-item {
@@ -7470,6 +7496,22 @@ a {
   padding-bottom: 10px;
 }
 
+._1107-grovewood-appliance {
+  width: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+._1107-grovewood-fixtures-inner-wrapper {
+  grid-column-gap: 64px;
+  grid-row-gap: 64px;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  padding-bottom: 20px;
+  display: grid;
+}
+
 @media screen and (min-width: 1440px) {
   .h3.section-title.left {
     font-family: century-gothic, sans-serif;
@@ -7552,7 +7594,7 @@ a {
     max-width: 80vw;
   }
 
-  .section.section-whitehall-details {
+  .section.section-whitehall-details, .section.section-1107-grovewood-features {
     padding-left: 2rem;
     padding-right: 2rem;
   }
@@ -7987,6 +8029,10 @@ a {
   .team-member-image-4 {
     width: 190px;
     height: 190px;
+  }
+
+  ._1107-grovewood-fixtures-inner-wrapper {
+    grid-template-columns: 1fr 1fr 1fr;
   }
 }
 
@@ -8784,7 +8830,7 @@ a {
     padding: 60px 15px;
   }
 
-  .team-grid-3 {
+  .team-grid-3, ._1107-grovewood-fixtures-inner-wrapper {
     grid-template-columns: 1fr 1fr;
   }
 }
@@ -8796,6 +8842,10 @@ a {
 
   .h1.center {
     font-size: 48px;
+  }
+
+  .h1.whitehall-details-h1 {
+    font-size: 2em;
   }
 
   .h1.whitehall-gallery-title, .h2.builders-hero-title, .h2.affiliate-header-title {
@@ -8902,7 +8952,7 @@ a {
     padding-right: .5rem;
   }
 
-  .section.section-whitehall-details {
+  .section.section-whitehall-details, .section.section-1107-grovewood-features {
     padding-left: .5rem;
     padding-right: .5rem;
   }
@@ -9395,6 +9445,11 @@ a {
     padding-right: .5rem;
   }
 
+  .div-block-29 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .paragraph {
     clear: none;
     position: static;
@@ -9440,6 +9495,10 @@ a {
     justify-items: center;
     margin-bottom: 0;
     display: grid;
+  }
+
+  .whitehall-property-feature-title {
+    font-size: 1.2rem;
   }
 
   .container-7, .container-8 {
@@ -9595,7 +9654,7 @@ a {
     right: -20px;
   }
 
-  .team-grid-3 {
+  .team-grid-3, ._1107-grovewood-fixtures-inner-wrapper {
     grid-template-columns: 1fr;
   }
 }
@@ -10143,6 +10202,14 @@ a {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
+#w-node-b802416b-13e3-cd1c-ce7e-6f5620f9414b-157c008f {
+  align-self: center;
+}
+
+#w-node-fa23edf8-3eb7-7889-55e9-ed66c116c3a8-157c008f, #w-node-e9095f33-c54d-ff3d-1f6e-5e4e1eca0d45-157c008f, #w-node-_62d4fd3e-b26d-f7e1-ed84-c4d41dd32da8-157c008f, #w-node-b270c884-5797-db1d-1f28-e8553206d225-157c008f, #w-node-_1144dd5b-d6a7-5432-5b6a-a2facee10545-157c008f, #w-node-d0874552-b7de-a51d-8056-189e0a2d11a0-157c008f, #w-node-_9055ab6f-a0f5-d2c0-f7da-68350d3f2c9f-157c008f, #w-node-e91313b2-7b43-7b50-9036-feeb3facf455-157c008f, #w-node-ab32a41f-4a04-f5d0-77ff-25c2eb9d588a-157c008f, #w-node-ceab6716-21fe-fe39-5ea1-ab3feeb5506d-157c008f, #w-node-_0f3e7d29-4717-e733-af61-eae4b0ed8799-157c008f, #w-node-_0f3e7d29-4717-e733-af61-eae4b0ed879b-157c008f, #w-node-_0f3e7d29-4717-e733-af61-eae4b0ed879d-157c008f, #w-node-_0f3e7d29-4717-e733-af61-eae4b0ed879f-157c008f, #w-node-_65efc05c-6888-319b-b039-576bd85d5047-157c008f, #w-node-d2b286fb-6c8f-1f7a-0f3e-492319184ef6-157c008f, #w-node-_6b2c696e-2781-0ace-a55e-886ca192365a-157c008f, #w-node-_6b2c696e-2781-0ace-a55e-886ca192365c-157c008f, #w-node-_6b2c696e-2781-0ace-a55e-886ca1923658-157c008f, #w-node-_6685c9d4-e02c-cb9c-ce8c-811bb95116ee-157c008f, #w-node-_6685c9d4-e02c-cb9c-ce8c-811bb95116f0-157c008f, #w-node-_6685c9d4-e02c-cb9c-ce8c-811bb95116f2-157c008f, #w-node-_6685c9d4-e02c-cb9c-ce8c-811bb95116f4-157c008f, #w-node-f51c0b13-17f8-17c8-fd2f-f85db991873b-157c008f, #w-node-f51c0b13-17f8-17c8-fd2f-f85db991873f-157c008f, #w-node-_50a016b1-5714-0624-1807-498021433073-157c008f, #w-node-_50a016b1-5714-0624-1807-498021433077-157c008f, #w-node-b3e2b470-da2f-2456-338f-5c022dfedde0-157c008f, #w-node-b3e2b470-da2f-2456-338f-5c022dfedde2-157c008f, #w-node-b3e2b470-da2f-2456-338f-5c022dfedde4-157c008f, #w-node-b3e2b470-da2f-2456-338f-5c022dfedde6-157c008f, #w-node-f5f3458b-c48b-1aa8-6a8b-c6375478574c-157c008f, #w-node-f5f3458b-c48b-1aa8-6a8b-c6375478574e-157c008f, #w-node-f5f3458b-c48b-1aa8-6a8b-c63754785750-157c008f {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
 @media screen and (min-width: 1440px) {
   #w-node-_4f599403-52d7-c96a-e1c7-2cba46d152bd-87572604, #w-node-_4f599403-52d7-c96a-e1c7-2cba46d152c7-87572604, #w-node-e3e87bb9-39f6-ac59-4df1-967a7c796ff4-5625167a, #w-node-e3e87bb9-39f6-ac59-4df1-967a7c796ffe-5625167a, #w-node-_593a9889-8b8e-a1d5-337d-4631e5ef7e28-5625167a, #w-node-_593a9889-8b8e-a1d5-337d-4631e5ef7e32-5625167a {
     grid-area: span 1 / span 1 / span 1 / span 1;
@@ -10246,7 +10313,7 @@ a {
     grid-area: 2 / 1 / 3 / 2;
   }
 
-  #w-node-_1144dd5b-d6a7-5432-5b6a-a2facee10545-006e3927 {
+  #w-node-_1144dd5b-d6a7-5432-5b6a-a2facee10545-006e3927, #w-node-_1144dd5b-d6a7-5432-5b6a-a2facee10545-157c008f {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
 }
