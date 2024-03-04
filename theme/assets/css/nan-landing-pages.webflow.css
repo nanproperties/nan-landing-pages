@@ -1379,6 +1379,8 @@ a {
   padding-top: 40px;
   padding-left: 4rem;
   padding-right: 4rem;
+  max-width:1400px;
+  margin: auto;
 }
 
 .section.section-1107-grovewood-about {
