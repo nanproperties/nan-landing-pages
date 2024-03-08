@@ -7567,6 +7567,10 @@ a {
   display: grid;
 }
 
+.testimonial-wrapper:after {
+  background-color: transparent !important
+}
+
 .testimonial-quote {
   color: #666;
   padding-bottom: 1rem;
