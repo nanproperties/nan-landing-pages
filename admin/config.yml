@@ -7206,15 +7206,15 @@ collections:
             label: Text
             name: '35'
             widget: string
-          - hint: 'Original text: Bedroos, key: 556b6cc2'
+          - hint: 'Original text: Bedrooms, key: 556b6cc2'
             label: Text
             name: 556b6cc2
             widget: string
-          - hint: 'Original text: 5.5, key: ccbc'
+          - hint: 'Original text: 4.5, key: ccbc'
             label: Text
             name: ccbc
             widget: string
-          - hint: 'Original text: 7,200, key: 31bcebd'
+          - hint: 'Original text: 4,418, key: 31bcebd'
             label: Text
             name: 31bcebd
             widget: string
