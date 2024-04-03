@@ -1,15 +1,15 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 title: Gray Terrace
 slug: gray-terrace
 f_agent-2: cms/agents/nancy-ramos.md
 f_builder: cms/builders/sienna-custom-homes.md
-updated-on: '2023-12-12T21:58:23.892Z'
+updated-on: '2024-03-26T16:18:49.880Z'
 created-on: '2023-04-06T20:37:39.546Z'
-published-on: '2023-12-12T21:58:28.116Z'
+published-on: '2024-03-26T16:19:02.211Z'
 f_bathrooms: '3.5'
 f_bedrooms: '3'
 f_city: Houston
