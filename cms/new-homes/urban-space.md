@@ -36,17 +36,11 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/65788ca6e4192d9e514a6e49_dji_0084.jpg
     alt: null
-  - url: https://development.nanproperties.com/assets/external/65788c9f8d2607ba15c71072_3845.jpeg
-    alt: null
-  - url: https://development.nanproperties.com/assets/external/65788c9f242d2889d3840f4f_3857.jpeg
-    alt: null
-  - url: https://development.nanproperties.com/assets/external/65788c9f7997c58751b2edb8_3849.jpeg
-    alt: null
 f_agent-2: cms/agents/nancy-ramos.md
 f_builder: cms/builders/new-era-living.md
-updated-on: '2023-12-12T16:40:05.187Z'
+updated-on: '2024-04-17T19:22:02.766Z'
 created-on: '2022-02-22T16:08:50.874Z'
-published-on: '2023-12-12T16:40:15.338Z'
+published-on: '2024-04-24T19:07:04.402Z'
 f_description: >-
   Urban Space is a charming new gated community located at 1002 G Paul Quinn St.
   Situated in the highly coveted Tidwell area, Urban Space is comprised of seven

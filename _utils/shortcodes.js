@@ -160,11 +160,13 @@ module.exports = function (eleventyConfig) {
                     break;
                 case "twitter:image":
                         let content = htmlEntities(seo[key]);
+                        if (!content.startsWith("http")) {
                             if (content.startsWith("/")) {
                                 content = domain + content;
                             } else {
                                 content = domain + "/" + content;
                             }
+                        }
                             seoString += `<meta name="${escape(key)}" content="${content}">`;
                 break;
                 default: {
@@ -174,11 +176,14 @@ module.exports = function (eleventyConfig) {
                     
                         let content = htmlEntities(seo[key]);
                         if (key == "og:image") {
-                            if (content.startsWith("/")) {
-                                content = domain + content;
-                            } else {
-                                content = domain + "/" + content;
+                            if (!content.startsWith("http")) {
+                                if (content.startsWith("/")) {
+                                    content = domain + content;
+                                } else {
+                                    content = domain + "/" + content;
+                                }
                             }
+                          
                         }
                         seoString += `<meta property="${escape(key)}" content="${content}">`;
                     } else {

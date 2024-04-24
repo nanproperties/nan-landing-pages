@@ -1,5 +1,5 @@
 ---
-f_sold: false
+f_sold: true
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77091
 f_square-footage: 1,620-1,930
@@ -13,9 +13,9 @@ f_featured-image:
   alt: null
 slug: green-oaks-estates
 f_agent-2: cms/agents/jose-nieto-2.md
-updated-on: '2023-07-20T17:45:23.722Z'
+updated-on: '2024-04-22T21:52:23.377Z'
 created-on: '2021-07-20T13:55:04.436Z'
-published-on: '2023-12-05T18:21:52.835Z'
+published-on: '2024-04-24T19:07:04.402Z'
 f_builder: cms/builders/sbd-investment.md
 f_price-range: Starting in the 350's
 f_description: >
