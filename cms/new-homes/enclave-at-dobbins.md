@@ -1,6 +1,6 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_zip-code: 77354
@@ -42,9 +42,9 @@ f_image-gallery:
 slug: enclave-at-dobbins
 f_builder: cms/builders/saratoga-homes.md
 f_agent-2: cms/agents/ana-salazar.md
-updated-on: '2023-03-06T21:26:01.951Z'
+updated-on: '2024-04-29T17:03:39.789Z'
 created-on: '2023-03-06T21:26:01.951Z'
-published-on: '2023-12-05T18:21:52.835Z'
+published-on: '2024-04-29T17:04:35.493Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---

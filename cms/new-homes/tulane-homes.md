@@ -1,13 +1,13 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 title: Tulane Homes
 slug: tulane-homes
-updated-on: '2023-04-06T15:03:32.041Z'
+updated-on: '2024-04-29T17:04:06.124Z'
 created-on: '2023-04-04T17:32:52.980Z'
-published-on: '2023-12-05T18:21:52.835Z'
+published-on: '2024-04-29T17:04:35.493Z'
 f_agent-2: cms/agents/thalina-garcia.md
 f_bathrooms: '2.5'
 f_bedrooms: '3'
