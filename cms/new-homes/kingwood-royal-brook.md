@@ -1,5 +1,5 @@
 ---
-f_sold: false
+f_sold: true
 f_zip-code: 77365
 f_square-footage: 3,530-3,619
 f_bathrooms: 2-4
@@ -46,9 +46,9 @@ f_image-gallery:
     alt: null
   - url: https://development.nanproperties.com/assets/external/60e5f5aa5e043b41dc347150_dsc03195a201.jpg
     alt: null
-updated-on: '2021-07-07T19:46:27.905Z'
+updated-on: '2024-04-30T14:33:55.160Z'
 created-on: '2021-07-07T18:52:59.372Z'
-published-on: '2023-12-05T18:21:52.835Z'
+published-on: '2024-04-30T14:34:01.599Z'
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 f_coming-soon: false
 f_is-this-a-55-community: false
