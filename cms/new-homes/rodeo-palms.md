@@ -1,14 +1,14 @@
 ---
 f_coming-soon: false
-f_sold: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 title: Rodeo Palms
 slug: rodeo-palms
 f_agent-2: cms/agents/ana-salazar.md
-updated-on: '2023-03-07T15:59:36.393Z'
+updated-on: '2024-04-29T17:03:54.585Z'
 created-on: '2023-03-06T20:02:24.411Z'
-published-on: '2023-12-05T18:21:52.835Z'
+published-on: '2024-04-29T17:04:35.493Z'
 f_bathrooms: 3.5-4
 f_bedrooms: 4-5
 f_builder: cms/builders/saratoga-homes.md

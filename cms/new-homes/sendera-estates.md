@@ -1,6 +1,6 @@
 ---
-f_coming-soon: true
-f_sold: false
+f_coming-soon: false
+f_sold: true
 f_is-this-a-55-community: false
 f_are-we-offering-a-downloadable-lookbook-for-this-development-when-they-submit-their-contact-info: false
 title: Sendera Estates
@@ -16,9 +16,9 @@ f_image-gallery:
     alt: null
 slug: sendera-estates
 f_builder: cms/builders/sendera-estates.md
-updated-on: '2022-05-26T14:27:27.313Z'
+updated-on: '2024-04-30T14:27:31.237Z'
 created-on: '2022-05-26T14:27:27.313Z'
-published-on: '2023-12-05T18:21:52.835Z'
+published-on: '2024-04-30T14:29:11.487Z'
 layout: '[new-homes].html'
 tags: new-homes
 ---
