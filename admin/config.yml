@@ -4866,6 +4866,36 @@ collections:
             label: Text
             name: '-7731017f'
             widget: string
+          - hint: 'Original text: What Are You Looking For?, key: 2b30209c'
+            label: Text
+            name: 2b30209c
+            widget: string
+          - hint: >-
+              Original text: Whether you're looking for an apartment or home for
+              lease, there's something available to fit your unique needs., key:
+              -24640fa6
+            label: Text
+            name: '-24640fa6'
+            widget: text
+          - hint: 'Original text: Apartments, key: -646f945f'
+            label: Text
+            name: '-646f945f'
+            widget: string
+          - hint: "Original text: VIEW\_LISTINGS, key: -5e1021f6"
+            label: Text
+            name: '-5e1021f6'
+            widget: string
+          - hint: 'Original text: Homes, key: 42ab754'
+            label: Text
+            name: 42ab754
+            widget: string
+          - hint: >-
+              Original text: Our listings span a wide range of Houston-area
+              neighborhoods that cater to renters in every stage of life, from
+              single professionals and families to retirees., key: 29ef7e88
+            label: Text
+            name: 29ef7e88
+            widget: text
           - hint: >-
               Original text: Let Us Connect You With The Right Agent, key:
               530abccc
@@ -5067,6 +5097,66 @@ collections:
             label: Text
             name: '-6a8e6bb4'
             widget: string
+          - hint: "Original text: JUMP\_TO\_A\_YEAR:, key: -799c9af5"
+            label: Text
+            name: '-799c9af5'
+            widget: string
+          - hint: 'Original text: 2022, key: 1774fe'
+            label: Text
+            name: 1774fe
+            widget: string
+          - hint: 'Original text: The Power of Our Brand, key: -54bf020c'
+            label: Text
+            name: '-54bf020c'
+            widget: string
+          - hint: >-
+              Original text: Representing Houston’s Most Sought-After Listings,
+              key: -65809339
+            label: Text
+            name: '-65809339'
+            widget: string
+          - hint: >-
+              Original text: Through a range of premium services, market
+              experts, and marketing channels, Nan Signature homes gain
+              unrivaled exposure. Our, key: 16480e02
+            label: Text
+            name: '16480e02'
+            widget: text
+          - hint: >-
+              Original text: campaigns achieve results across diverse venues and
+              approaches, including digital and print strategies., key:
+              -499d2136
+            label: Text
+            name: '-499d2136'
+            widget: text
+          - hint: 'Original text: World’s Leading Luxury Experts, key: -5b8081dc'
+            label: Text
+            name: '-5b8081dc'
+            widget: string
+          - hint: >-
+              Original text: As the Houston affiliate of three of the world’s
+              top luxury real estate networks, Nan Signature provides direct
+              access to the world’s leading real estate experts in top global
+              markets, including Hong Kong, New York, London, Singapore, Paris,
+              Toronto, and Tokyo. Gain unrivaled international exposure for your
+              properties., key: -29299b6e
+            label: Text
+            name: '-29299b6e'
+            widget: text
+          - hint: 'Original text: Experienced Agents. Record Listings., key: 27d4c36'
+            label: Text
+            name: 27d4c36
+            widget: string
+          - hint: >-
+              Original text: A successful sale begins on day one. Our
+              experienced agents conduct thorough market research and leverage
+              our proven pricing framework to price your property at the most
+              optimal price point. We then continually track market data
+              performance to stay ahead of trends to make your home selling
+              experience discreet, fast, and smooth., key: 676f5477
+            label: Text
+            name: 676f5477
+            widget: text
           - hint: >-
               Original text: Nan Properties Developer Services provides
               developers a comprehensive and a strategic approach to program
@@ -5411,24 +5501,6 @@ collections:
             label: Text
             name: 6b5f6a5f
             widget: string
-          - hint: 'Original text: Sign In Below, key: 79084859'
-            label: Text
-            name: '79084859'
-            widget: string
-          - hint: 'Original text: We are giving away a , key: -3637a283'
-            label: Text
-            name: '-3637a283'
-            widget: string
-          - hint: 'Original text: $250 Target Gift Card, key: -3cbd8c18'
-            label: Text
-            name: '-3cbd8c18'
-            widget: string
-          - hint: >-
-              Original text: just in time for the holidays! Enter below for your
-              chance to win by filling out the form below., key: -43e943e2
-            label: Text
-            name: '-43e943e2'
-            widget: text
           - hint: >-
               Original text: Build Your Dream Beach House On Texas Gulf Coast's,
               key: 7294855d
@@ -5629,6 +5701,24 @@ collections:
             label: Text
             name: '-6e568d88'
             widget: string
+          - hint: 'Original text: Sign In Below, key: 79084859'
+            label: Text
+            name: '79084859'
+            widget: string
+          - hint: 'Original text: We are giving away a , key: -3637a283'
+            label: Text
+            name: '-3637a283'
+            widget: string
+          - hint: 'Original text: $250 Target Gift Card, key: -3cbd8c18'
+            label: Text
+            name: '-3cbd8c18'
+            widget: string
+          - hint: >-
+              Original text: just in time for the holidays! Enter below for your
+              chance to win by filling out the form below., key: -43e943e2
+            label: Text
+            name: '-43e943e2'
+            widget: text
           - hint: 'Original text: Thinking of Selling? , key: -1a0463c8'
             label: Text
             name: '-1a0463c8'
@@ -8130,6 +8220,19 @@ collections:
             label: Link
             name: '-2086f160'
             widget: string
+          - hint: >-
+              Original link:
+              https://www.nanproperties.com/featured-lease-buildings, key:
+              6c84e461
+            label: Link
+            name: 6c84e461
+            widget: string
+          - hint: >-
+              Original link: https://www.nanproperties.com/searches/22903643,
+              key: 61be1e9e
+            label: Link
+            name: 61be1e9e
+            widget: string
           - hint: 'Original link: #arabic, key: -188bc571'
             label: Link
             name: '-188bc571'
@@ -9901,6 +10004,32 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: '-108097cd'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-42d9b6a6'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: 4af527be
             widget: object
             fields:
@@ -10317,19 +10446,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 181a4b09
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: '-296fba9f'
             widget: object
             fields:
@@ -10435,6 +10551,19 @@ collections:
                 required: false
           - label: Image
             name: '-58c057c'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 181a4b09
             widget: object
             fields:
               - name: url
