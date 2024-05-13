@@ -8975,6 +8975,16 @@ a {
   .team-grid-3, ._1107-grovewood-fixtures-inner-wrapper {
     grid-template-columns: 1fr 1fr;
   }
+
+  .featured-ranch-listing-wrapper {
+    grid-column-gap: 24px;
+    grid-row-gap: 24px;
+    grid-template-columns: 1fr;
+  }
+
+  .ranch-listings-inner-wrapper {
+    grid-template-columns: 1fr;
+  }
 }
 
 @media screen and (max-width: 479px) {
